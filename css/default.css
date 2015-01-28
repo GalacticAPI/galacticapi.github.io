@@ -1,0 +1,32 @@
+body {
+	padding-top: 50px;
+	font-family: Verdana, Times New Roman, Times, sans-serif !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Alegreya Sans SC', Verdana, Times New Roman, Times, sans-serif !important;
+}
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.navbar {
+	background-color: black !important;
+}
+
+.alegreyaSansSC {
+	font-family: 'Alegreya Sans SC', Verdana, Times New Roman, Times, sans-serif;
+}
+
+#navLogo {
+	display: inline;
+	position: relative;
+	bottom: 2px;
+	margin-right: 5px;
+}
+
+#navLogoText {
+	color: white;
+}
