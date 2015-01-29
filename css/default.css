@@ -28,6 +28,10 @@ pre {
 	background: #FFFFFF !important;
 }
 
+.teamMember {
+	margin-left: auto;
+}
+
 #navLogo {
 	display: inline;
 	position: relative;
