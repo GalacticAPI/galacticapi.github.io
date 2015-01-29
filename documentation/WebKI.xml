@@ -1,0 +1,1561 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Accountdisable enumeration member" Url="html/4f6579cc-33f6-77c0-e201-fb610ccaa040.htm" />
+  <HelpKINode Title="AccountId property" Url="html/1d266492-6354-b68b-7900-38d335798537.htm" />
+  <HelpKINode Title="ActiveDirectory class">
+    <HelpKINode Title="ActiveDirectory Class" Url="html/015d80bd-04f8-7544-4fbb-23ecce472fc0.htm" />
+    <HelpKINode Title="about ActiveDirectory class" Url="html/015d80bd-04f8-7544-4fbb-23ecce472fc0.htm" />
+    <HelpKINode Title="constructor" Url="html/ce6dad2e-01a7-d38d-f6fc-04d6b58ce00d.htm" />
+    <HelpKINode Title="fields" Url="html/9d0ce5d9-8dde-e06c-9c48-9d49c63568b9.htm" />
+    <HelpKINode Title="methods" Url="html/7b0874bb-6530-b450-70eb-77f7ae3901ab.htm" />
+    <HelpKINode Title="properties" Url="html/aec77601-fae4-8cdc-290d-04527f457d7c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ActiveDirectory.ActiveDirectory constructor" Url="html/ce6dad2e-01a7-d38d-f6fc-04d6b58ce00d.htm" />
+  <HelpKINode Title="ActiveDirectory.Add method" Url="html/39cf790c-151d-7bd1-113a-9286cb961858.htm" />
+  <HelpKINode Title="ActiveDirectory.AddOrReplaceAttributeValue method" Url="html/4542a32d-f219-1945-d52d-36853f912141.htm" />
+  <HelpKINode Title="ActiveDirectory.AdministratorsGroupDN property" Url="html/217c82a9-da23-06b4-e634-de974ae69ec6.htm" />
+  <HelpKINode Title="ActiveDirectory.AppendDistinguishedName method" Url="html/0d7692ed-3173-907b-16a8-62bc1b6f6c85.htm" />
+  <HelpKINode Title="ActiveDirectory.Delete method" Url="html/8ce3dbd3-900b-7636-8f7d-b74648c308b6.htm" />
+  <HelpKINode Title="ActiveDirectory.DeleteAttribute method" Url="html/872ff07e-0b60-2d56-a445-91d88c197e83.htm" />
+  <HelpKINode Title="ActiveDirectory.Dispose method" Url="html/62e5d6aa-4f81-4b67-6180-f7d73ac32764.htm" />
+  <HelpKINode Title="ActiveDirectory.DistinguishedName property" Url="html/910fb4ed-af07-6ad9-5d35-4fbbaa315ae8.htm" />
+  <HelpKINode Title="ActiveDirectory.DomainAdminsGroupDN property" Url="html/ec797228-0762-822b-e38a-d7186eb001cf.htm" />
+  <HelpKINode Title="ActiveDirectory.DomainUsersGroupDN property" Url="html/ae1ae79b-9c14-e270-cbe5-a710622682b4.htm" />
+  <HelpKINode Title="ActiveDirectory.EnterpriseAdminsGroupDN property" Url="html/5cffc07a-b074-4af8-07b9-9da106eb5613.htm" />
+  <HelpKINode Title="ActiveDirectory.GetByteAttributeValue method" Url="html/431c2202-d5a1-e3fd-0d47-0deb0062b792.htm" />
+  <HelpKINode Title="ActiveDirectory.GetByteAttributeValues method" Url="html/d7896e39-d71c-0d22-0366-46fb2b05261b.htm" />
+  <HelpKINode Title="ActiveDirectory.GetDateTimeFromUTCCodedTime method" Url="html/4b753978-ab17-8af6-f53d-d5eb99b55660.htm" />
+  <HelpKINode Title="ActiveDirectory.GetEntries method" Url="html/a0ebb5c1-89af-42d1-17a4-0b6596be4aec.htm" />
+  <HelpKINode Title="ActiveDirectory.GetEntriesByAttribute method" Url="html/ec15edba-2c2f-3152-a412-ec59f8277aa3.htm" />
+  <HelpKINode Title="ActiveDirectory.GetEntriesBySAMAccountName method" Url="html/2fd56310-6b5c-4545-5b05-bdac641bb836.htm" />
+  <HelpKINode Title="ActiveDirectory.GetEntry method" Url="html/9d7ffe22-3386-eeea-3fa8-93e9a54690d7.htm" />
+  <HelpKINode Title="ActiveDirectory.GetEntryByAccountId method" Url="html/04e66916-defc-d1c9-9c86-bbf611c1adfa.htm" />
+  <HelpKINode Title="ActiveDirectory.GetEntryByAttribute method" Url="html/4d9efc25-d6a6-5153-f352-03a3de1ab8f8.htm" />
+  <HelpKINode Title="ActiveDirectory.GetEntryByCommonName method" Url="html/4bab8dd0-8f4a-b625-ddcc-fec07901baa2.htm" />
+  <HelpKINode Title="ActiveDirectory.GetEntryByDistinguishedName method" Url="html/dc288459-af5f-8a23-b684-b47f99073292.htm" />
+  <HelpKINode Title="ActiveDirectory.GetEntryByEmailAddress method" Url="html/6cb89d7e-6b3f-3b32-8464-649a9d6afe9d.htm" />
+  <HelpKINode Title="ActiveDirectory.GetEntryByGUID method" Url="html/6a9b5de9-9157-289c-2a37-a727a57f37e9.htm" />
+  <HelpKINode Title="ActiveDirectory.GetEntryBySAMAccountName method" Url="html/8845b1d9-9ace-9de9-dfa8-6788a84333e0.htm" />
+  <HelpKINode Title="ActiveDirectory.GetGUID method" Url="html/5e2f55c9-d447-edcb-1f7e-3941628237ab.htm" />
+  <HelpKINode Title="ActiveDirectory.GetGUIDByAccountId method" Url="html/26a79af0-9223-010c-41f8-02ab24200113.htm" />
+  <HelpKINode Title="ActiveDirectory.GetGUIDByAttribute method" Url="html/f6df7e30-cf03-cc4e-ce75-015e7ce576ed.htm" />
+  <HelpKINode Title="ActiveDirectory.GetGUIDByCommonName method" Url="html/94bf98dc-46c2-292e-321d-a50a5beee693.htm" />
+  <HelpKINode Title="ActiveDirectory.GetGUIDByDistinguishedName method" Url="html/37cf46c2-bdc1-a924-b7cc-5a3642a1dd15.htm" />
+  <HelpKINode Title="ActiveDirectory.GetGUIDBySAMAccountName method" Url="html/daf2a9ba-4002-e3bd-859a-4e648d7aa3f5.htm" />
+  <HelpKINode Title="ActiveDirectory.GetIntervalAttributeValue method" Url="html/8c1c3f8d-14ef-b912-4428-1bd39e8f4a65.htm" />
+  <HelpKINode Title="ActiveDirectory.GetSiteDomainControllers method" Url="html/c521022f-4494-28b9-e9c9-b8ce74fc469a.htm" />
+  <HelpKINode Title="ActiveDirectory.GetStringAttributeValue method" Url="html/5c3a3225-bf71-2322-7f5d-6ff8f33a7177.htm" />
+  <HelpKINode Title="ActiveDirectory.GetStringAttributeValues method" Url="html/9c2e4477-4668-1610-ba3d-8d44c302610d.htm" />
+  <HelpKINode Title="ActiveDirectory.GetUserAccountControlName method" Url="html/b22afd70-0b5b-7377-78a3-f2d1a37d3d05.htm" />
+  <HelpKINode Title="ActiveDirectory.GroupType enumeration" Url="html/da577c69-eb66-5290-b932-bf22468ceedb.htm" />
+  <HelpKINode Title="ActiveDirectory.GROUP_NAME_MAX_CHARS field" Url="html/a0c834fe-2f42-c855-2e44-075b12b87783.htm" />
+  <HelpKINode Title="ActiveDirectory.IsGroupNameValid method" Url="html/11c3e32e-69ab-bc4c-4438-0b7d803c6c2b.htm" />
+  <HelpKINode Title="ActiveDirectory.MAX_NUM_MULTIVALUE_ATTRIBUTES field" Url="html/7ae7b7cf-4a7d-5b4c-18bc-d49f124cedf7.htm" />
+  <HelpKINode Title="ActiveDirectory.MoveRenameObject method" Url="html/25785261-69a6-34fb-ae77-194553d1ff30.htm" />
+  <HelpKINode Title="ActiveDirectory.Name property" Url="html/4afe2ed7-39b0-2ca2-dd37-674f55407342.htm" />
+  <HelpKINode Title="ActiveDirectory.NTName property" Url="html/526f87ff-ff30-10bd-89f7-83005dd53031.htm" />
+  <HelpKINode Title="ActiveDirectory.PAGE_SIZE field" Url="html/65e07e35-4697-ff07-9033-8ec516a3a504.htm" />
+  <HelpKINode Title="ActiveDirectory.UserAccountControl enumeration" Url="html/4f6579cc-33f6-77c0-e201-fb610ccaa040.htm" />
+  <HelpKINode Title="ActiveDirectory.UserAccountControlContains method" Url="html/20ef8478-b483-4284-7aaa-8eedb68c0cdc.htm" />
+  <HelpKINode Title="ActiveDirectory.WellKnownSid_System property" Url="html/c4553674-a195-d0b2-7d29-4a2b81bb11b3.htm" />
+  <HelpKINode Title="ActiveDirectoryObject class">
+    <HelpKINode Title="ActiveDirectoryObject Class" Url="html/80b4fc40-9bbb-2b33-be46-884c396bf562.htm" />
+    <HelpKINode Title="about ActiveDirectoryObject class" Url="html/80b4fc40-9bbb-2b33-be46-884c396bf562.htm" />
+    <HelpKINode Title="constructor" Url="html/936e7514-daf5-8676-cfa1-fec0c24a3089.htm" />
+    <HelpKINode Title="fields" Url="html/1e4a4b0b-2956-f495-3881-b81ee98c2d9d.htm" />
+    <HelpKINode Title="methods" Url="html/7d9389fa-2399-9d53-5d31-3cd0451f0928.htm" />
+    <HelpKINode Title="properties" Url="html/dc481f1e-1f9e-573b-3ef2-c08f9946ace3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ActiveDirectoryObject.ActiveDirectoryObject constructor" Url="html/936e7514-daf5-8676-cfa1-fec0c24a3089.htm" />
+  <HelpKINode Title="ActiveDirectoryObject.AD field" Url="html/07afcd1f-bae3-2ad3-2d30-7f594ecf6ca7.htm" />
+  <HelpKINode Title="ActiveDirectoryObject.AdditionalAttributes field" Url="html/daad6dfa-66b4-4354-58b2-509155771556.htm" />
+  <HelpKINode Title="ActiveDirectoryObject.AttributeNames field" Url="html/5b640236-07e4-a7c7-1e91-3cacfaee1d7b.htm" />
+  <HelpKINode Title="ActiveDirectoryObject.Attributes field" Url="html/fc420218-9abf-610d-b757-8cd02388ab58.htm" />
+  <HelpKINode Title="ActiveDirectoryObject.CommonName property" Url="html/1c697af5-5d1d-b33e-b1ba-ff5beed107b5.htm" />
+  <HelpKINode Title="ActiveDirectoryObject.CompareTo method" Url="html/ad4fba6f-aedb-e648-17f8-787e11a28792.htm" />
+  <HelpKINode Title="ActiveDirectoryObject.CreateTimeStamp property" Url="html/32802db4-dbfe-04b4-6608-18958942113d.htm" />
+  <HelpKINode Title="ActiveDirectoryObject.DeleteAttribute method" Url="html/19214ca4-749b-36db-990f-62f6067ce39c.htm" />
+  <HelpKINode Title="ActiveDirectoryObject.DistinguishedName property" Url="html/89b3ae00-08eb-df06-47a9-5395abec07c0.htm" />
+  <HelpKINode Title="ActiveDirectoryObject.Entry field" Url="html/4ab3d884-3ba0-8605-3c36-1ace095844f9.htm" />
+  <HelpKINode Title="ActiveDirectoryObject.Equals method" Url="html/10116002-d966-faf4-5886-27ab9926f976.htm" />
+  <HelpKINode Title="ActiveDirectoryObject.GetByteAttributeValue method" Url="html/f9416caf-d6ed-358a-88f9-6acae3cadaca.htm" />
+  <HelpKINode Title="ActiveDirectoryObject.GetByteAttributeValues method" Url="html/b3818c5e-09ec-1b50-f533-190b5bebf62c.htm" />
+  <HelpKINode Title="ActiveDirectoryObject.GetEntryFromAD method" Url="html/4b0da32a-aecd-dcfb-15a9-8f158753b700.htm" />
+  <HelpKINode Title="ActiveDirectoryObject.GetHashCode method" Url="html/a7a8a0ce-1c90-ee8f-5c21-9e11f140b9d7.htm" />
+  <HelpKINode Title="ActiveDirectoryObject.GetIntervalAttributeValue method" Url="html/bd68ed3e-0a4d-6cb0-df03-b8a397b45422.htm" />
+  <HelpKINode Title="ActiveDirectoryObject.GetStringAttributeValue method" Url="html/5a48375d-c555-e87e-2f62-99a08086ffc9.htm" />
+  <HelpKINode Title="ActiveDirectoryObject.GetStringAttributeValues method" Url="html/409e5eaa-dbdd-0225-7b04-2840a50880cd.htm" />
+  <HelpKINode Title="ActiveDirectoryObject.GUID property" Url="html/5bef6e18-5a8c-0e64-893a-2dc10191184b.htm" />
+  <HelpKINode Title="ActiveDirectoryObject.JAN_01_1601 field" Url="html/543eabef-26b9-55e3-b9ac-ee895d2e66ca.htm" />
+  <HelpKINode Title="ActiveDirectoryObject.MoveRename method" Url="html/078426d4-c626-894b-654a-8c3b5595a43e.htm" />
+  <HelpKINode Title="ActiveDirectoryObject.OrganizationalUnit property" Url="html/a4d48f4f-58da-62b7-bc75-7d8241d4daa7.htm" />
+  <HelpKINode Title="ActiveDirectoryObject.Refresh method" Url="html/549f6dc7-8e32-12cc-83ec-f1bc21f48535.htm" />
+  <HelpKINode Title="ActiveDirectoryObject.SchemaClasses property" Url="html/c0d69c29-ab51-fd56-c09a-3fd7748d7600.htm" />
+  <HelpKINode Title="ActiveDirectoryObject.SetAttribute method" Url="html/a7d6e813-db01-c1b2-9407-be46b5b23fbc.htm" />
+  <HelpKINode Title="ActiveDirectoryObject.SetStringAttribute method" Url="html/95e99bbd-e019-6158-2ecf-4a01ad2c3218.htm" />
+  <HelpKINode Title="ActiveDirectoryRoleProvider class">
+    <HelpKINode Title="ActiveDirectoryRoleProvider Class" Url="html/2a368fae-c5bb-dc64-11c0-c8806eac584f.htm" />
+    <HelpKINode Title="about ActiveDirectoryRoleProvider class" Url="html/2a368fae-c5bb-dc64-11c0-c8806eac584f.htm" />
+    <HelpKINode Title="constructor" Url="html/df08fbf6-6d4a-e56b-9543-9276e05ae964.htm" />
+    <HelpKINode Title="methods" Url="html/3d83d16f-4a0d-f2ab-4b20-8264b8c78ebe.htm" />
+    <HelpKINode Title="properties" Url="html/02ecb968-d646-43fb-9527-6dadc6b0e8cf.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ActiveDirectoryRoleProvider.ActiveDirectoryRoleProvider constructor" Url="html/df08fbf6-6d4a-e56b-9543-9276e05ae964.htm" />
+  <HelpKINode Title="ActiveDirectoryRoleProvider.AddUsersToRoles method" Url="html/98000274-5285-a4aa-dc20-97ac91429c38.htm" />
+  <HelpKINode Title="ActiveDirectoryRoleProvider.ApplicationName property" Url="html/ee02edf9-d5e9-649c-abb2-9a5c102d6065.htm" />
+  <HelpKINode Title="ActiveDirectoryRoleProvider.CreateRole method" Url="html/8cc14594-6d21-6000-c610-642d90adcdc1.htm" />
+  <HelpKINode Title="ActiveDirectoryRoleProvider.DeleteRole method" Url="html/5cbcffb6-373f-9136-8d8b-23d210dd0741.htm" />
+  <HelpKINode Title="ActiveDirectoryRoleProvider.FindUsersInRole method" Url="html/7f571be7-4d11-7b12-ed6e-561fa92bc1fe.htm" />
+  <HelpKINode Title="ActiveDirectoryRoleProvider.GetAllRoles method" Url="html/16b4141f-de91-2744-7e2d-73cb94015df0.htm" />
+  <HelpKINode Title="ActiveDirectoryRoleProvider.GetMembers method" Url="html/417ae1d0-3ca2-a710-ea7f-d70590facbf9.htm" />
+  <HelpKINode Title="ActiveDirectoryRoleProvider.GetRolesForUser method" Url="html/ae9f6de6-6205-1823-8c9b-3a55b985ffd1.htm" />
+  <HelpKINode Title="ActiveDirectoryRoleProvider.GetUsersInRole method" Url="html/a70d02db-6fd3-3a26-40b5-5e0898008b8d.htm" />
+  <HelpKINode Title="ActiveDirectoryRoleProvider.Initialize method" Url="html/15401345-e99c-416d-5229-e6aa87811d52.htm" />
+  <HelpKINode Title="ActiveDirectoryRoleProvider.IsUserInRole method" Url="html/f88636d8-c050-6426-c61f-1319aa061577.htm" />
+  <HelpKINode Title="ActiveDirectoryRoleProvider.MaxRoleNameLength property" Url="html/3ae36e9e-fba1-a4d5-4c0d-b0c265a29188.htm" />
+  <HelpKINode Title="ActiveDirectoryRoleProvider.Name property" Url="html/c26efe47-70fd-bd12-5ef8-720380b3fcf7.htm" />
+  <HelpKINode Title="ActiveDirectoryRoleProvider.RemoveMember method" Url="html/bc79ceeb-18e0-3aab-f7e2-61be159d2bab.htm" />
+  <HelpKINode Title="ActiveDirectoryRoleProvider.RemoveUsersFromRoles method" Url="html/b44dad6e-5a66-b27e-1553-f25d2579461b.htm" />
+  <HelpKINode Title="ActiveDirectoryRoleProvider.RoleExists method" Url="html/a06cb0e8-b3d8-72f6-6deb-821fe0ea158d.htm" />
+  <HelpKINode Title="AD field" Url="html/07afcd1f-bae3-2ad3-2d30-7f594ecf6ca7.htm" />
+  <HelpKINode Title="Add method">
+    <HelpKINode Title="ActiveDirectory.Add Method " Url="html/39cf790c-151d-7bd1-113a-9286cb961858.htm" />
+    <HelpKINode Title="LDAP.Add Method " Url="html/2ab6e226-568a-4f0f-0455-0256dfd85b55.htm" />
+    <HelpKINode Title="SharePointDocumentLibrary.Add Method " Url="html/3c98dc52-7a7d-175c-0989-81a4f037d04c.htm" />
+    <HelpKINode Title="SharePointList.Add Method " Url="html/3cdfdd09-ff15-bba0-6eff-01a396e31b55.htm" />
+    <HelpKINode Title="SqlRow.Add Method " Url="html/538de5e5-0176-fa69-1391-d67c50907f74.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AddAccessRule method" Url="html/14cd07ab-a8e8-04b0-3f82-ebfbd44b3df2.htm" />
+  <HelpKINode Title="AddBooleanParameter method">
+    <HelpKINode Title="IStoredProcedure.AddBooleanParameter Method " Url="html/21b99452-cbb6-0d99-d529-ace87e156050.htm" />
+    <HelpKINode Title="MSStoredProcedure.AddBooleanParameter Method " Url="html/17a799a8-b160-0bee-b9f4-b91a26ff7339.htm" />
+    <HelpKINode Title="OracleStoredProcedure.AddBooleanParameter Method " Url="html/07ddd596-5ea3-e512-38f7-cc768f4f4f65.htm" />
+    <HelpKINode Title="StoredProcedure.AddBooleanParameter Method " Url="html/b17aa0c8-adc8-1fe5-2e88-8b7a4c7ac70b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AddCategory method" Url="html/ae774573-3e62-ca39-294f-a3da931f4ac2.htm" />
+  <HelpKINode Title="AddDateTimeParameter method">
+    <HelpKINode Title="IStoredProcedure.AddDateTimeParameter Method " Url="html/6bc16603-fb91-7ec6-85ce-14c2ab37225d.htm" />
+    <HelpKINode Title="MSStoredProcedure.AddDateTimeParameter Method " Url="html/0d29bd7e-9b95-b0c5-5bc9-f7c932220b15.htm" />
+    <HelpKINode Title="OracleStoredProcedure.AddDateTimeParameter Method " Url="html/d72c3149-48aa-aa70-96ca-5ef47c4e3c1b.htm" />
+    <HelpKINode Title="StoredProcedure.AddDateTimeParameter Method " Url="html/99dc89fa-a51a-59a6-1994-c24664025eb6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AddEvent method" Url="html/8fb9e648-7658-3565-4d05-0498538d9b8d.htm" />
+  <HelpKINode Title="AddInt32Parameter method">
+    <HelpKINode Title="IStoredProcedure.AddInt32Parameter Method " Url="html/5c166ad3-dae6-12ac-357d-e2d4afad2506.htm" />
+    <HelpKINode Title="MSStoredProcedure.AddInt32Parameter Method " Url="html/5f8a5786-b07d-11a8-d826-4372d43c6135.htm" />
+    <HelpKINode Title="OracleStoredProcedure.AddInt32Parameter Method " Url="html/31fa6bac-8816-95da-8657-9f86bbff1446.htm" />
+    <HelpKINode Title="StoredProcedure.AddInt32Parameter Method " Url="html/42b4ab6f-037f-5158-9502-f1de3efc5857.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AddInt64Parameter method">
+    <HelpKINode Title="IStoredProcedure.AddInt64Parameter Method " Url="html/ad51cbd2-2271-d3c5-8d2e-ed3554965b16.htm" />
+    <HelpKINode Title="MSStoredProcedure.AddInt64Parameter Method " Url="html/28e36ea7-0e4c-4948-ee0c-89e8ae15d2a6.htm" />
+    <HelpKINode Title="OracleStoredProcedure.AddInt64Parameter Method " Url="html/20cac00e-37dd-065e-0b99-fac21cf5cb18.htm" />
+    <HelpKINode Title="StoredProcedure.AddInt64Parameter Method " Url="html/2653117a-9e30-3fc7-9b79-1c7392253e0e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AdditionalAttributes field" Url="html/daad6dfa-66b4-4354-58b2-509155771556.htm" />
+  <HelpKINode Title="AddMembers method" Url="html/2628f480-60bf-bff8-7539-3b3d9487f2b2.htm" />
+  <HelpKINode Title="AddNCharParameter method">
+    <HelpKINode Title="IStoredProcedure.AddNCharParameter Method " Url="html/1a5d1835-d4eb-64d9-5ae5-c6bb2b3351c3.htm" />
+    <HelpKINode Title="MSStoredProcedure.AddNCharParameter Method " Url="html/d8bdf509-d2f3-3035-7089-0e86492ec1de.htm" />
+    <HelpKINode Title="OracleStoredProcedure.AddNCharParameter Method " Url="html/3766d4f8-ca79-7564-29ae-8d95e1a80c5f.htm" />
+    <HelpKINode Title="StoredProcedure.AddNCharParameter Method " Url="html/aa1acdf5-d6be-a96c-f3e2-aa101173bb6f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AddNVarCharParameter method">
+    <HelpKINode Title="IStoredProcedure.AddNVarCharParameter Method " Url="html/77fa76ea-dce6-eccb-ad28-ff11c65911fc.htm" />
+    <HelpKINode Title="MSStoredProcedure.AddNVarCharParameter Method " Url="html/ae3ac38b-088f-a5db-8dd9-ca1f74bd2b45.htm" />
+    <HelpKINode Title="OracleStoredProcedure.AddNVarCharParameter Method " Url="html/01134b8f-9ef6-8d4d-e1a1-f970887b6c99.htm" />
+    <HelpKINode Title="StoredProcedure.AddNVarCharParameter Method " Url="html/8ba3aa52-f215-ed82-4f61-53b198eec442.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AddOrReplace method">
+    <HelpKINode Title="CouchbaseUtility.AddOrReplace Method " Url="html/471d290b-f0d9-f48d-570c-513f4068c940.htm" />
+    <HelpKINode Title="NoSqlUtility.AddOrReplace Method " Url="html/2a1278db-6f1c-c7f3-aa8c-3e9c9aa69ee1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AddOrReplaceAttribute method" Url="html/31797066-58c9-7326-edf3-f1095e9f5b54.htm" />
+  <HelpKINode Title="AddOrReplaceAttributeValue method" Url="html/4542a32d-f219-1945-d52d-36853f912141.htm" />
+  <HelpKINode Title="AddParameter method">
+    <HelpKINode Title="IStoredProcedure.AddParameter Method " Url="html/6450d4f3-9a71-4bda-8bf4-a6b7f6fc9d11.htm" />
+    <HelpKINode Title="StoredProcedure.AddParameter Method " Url="html/4127092e-ada5-d760-4295-f7cd5ffefd46.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AddProxyAddress method" Url="html/4a4f3886-73e7-fc6c-f0ad-58d4a814435e.htm" />
+  <HelpKINode Title="AddSeverityLevel method" Url="html/46b2b1cb-3d67-abb0-24e4-c89f12c5a341.htm" />
+  <HelpKINode Title="AddSource method" Url="html/9248d175-6d97-1ffb-7bd0-59aa1ea54d30.htm" />
+  <HelpKINode Title="AddToGroup method" Url="html/3985b2d7-ca4a-27d3-7975-ac2351a49cf4.htm" />
+  <HelpKINode Title="AddUsersToRoles method" Url="html/98000274-5285-a4aa-dc20-97ac91429c38.htm" />
+  <HelpKINode Title="AddVarCharParameter method">
+    <HelpKINode Title="IStoredProcedure.AddVarCharParameter Method " Url="html/4cf47f09-2c29-30cb-cb1a-308ed6fc3826.htm" />
+    <HelpKINode Title="MSStoredProcedure.AddVarCharParameter Method " Url="html/5a9fbced-3410-acc4-42e7-5128e5b87f63.htm" />
+    <HelpKINode Title="OracleStoredProcedure.AddVarCharParameter Method " Url="html/6ed7bd0c-75d4-6a49-f5e3-9662573b273d.htm" />
+    <HelpKINode Title="StoredProcedure.AddVarCharParameter Method " Url="html/a8877739-c5fd-8021-530a-f369bdf752b5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AdministratorsGroupDN property" Url="html/217c82a9-da23-06b4-e634-de974ae69ec6.htm" />
+  <HelpKINode Title="AES256 class">
+    <HelpKINode Title="AES256 Class" Url="html/a9294e8e-3c42-803f-45e9-c1ecc211169b.htm" />
+    <HelpKINode Title="about AES256 class" Url="html/a9294e8e-3c42-803f-45e9-c1ecc211169b.htm" />
+    <HelpKINode Title="constructor" Url="html/fe686908-15a9-f4cc-e2de-1967406e35bd.htm" />
+    <HelpKINode Title="methods" Url="html/820a99ce-9f8f-a687-ca80-a85f3ac1c20a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AES256.AES256 constructor" Url="html/fe686908-15a9-f4cc-e2de-1967406e35bd.htm" />
+  <HelpKINode Title="AES256.BytesToString method" Url="html/f7892669-d501-13b6-5d89-7bff125d066d.htm" />
+  <HelpKINode Title="AES256.CreateConsolidatedString method" Url="html/1c6d6f8d-0e15-7c3c-bfd3-dcf46f677e9b.htm" />
+  <HelpKINode Title="AES256.DecryptConsolidatedString method" Url="html/235d81d6-95a0-f45c-5484-33d6a4f10433.htm" />
+  <HelpKINode Title="AES256.DecryptStringFromBytes method" Url="html/b0ff5148-bfa3-2691-ec6d-57cf68dfd2e6.htm" />
+  <HelpKINode Title="AES256.EncryptStringToBytes method" Url="html/40919f13-f181-0ee5-7eee-6b0693205408.htm" />
+  <HelpKINode Title="AES256.GenerateIV method" Url="html/5fdb6867-9793-e539-f1b8-1fa7fd3c7b07.htm" />
+  <HelpKINode Title="AES256.GenerateKey method" Url="html/9fa518b2-88b0-d1ac-16ae-e0e8589a9067.htm" />
+  <HelpKINode Title="AES256.StringToBytes method" Url="html/4066a220-9ece-fae4-eeda-b91dc4623857.htm" />
+  <HelpKINode Title="AllDayEvent property" Url="html/40936079-48c4-f4c7-e76d-52958cfb1b8f.htm" />
+  <HelpKINode Title="AllUserMembers property" Url="html/70aab209-d25a-de66-5578-817393630dea.htm" />
+  <HelpKINode Title="AlternateServers property" Url="html/bb66b9eb-23b7-f397-f3c8-7ae951cfdfcb.htm" />
+  <HelpKINode Title="AppendDistinguishedName method" Url="html/0d7692ed-3173-907b-16a8-62bc1b6f6c85.htm" />
+  <HelpKINode Title="ApplicationName property" Url="html/ee02edf9-d5e9-649c-abb2-9a5c102d6065.htm" />
+  <HelpKINode Title="AttributeNames field">
+    <HelpKINode Title="ActiveDirectoryObject.AttributeNames Field" Url="html/5b640236-07e4-a7c7-1e91-3cacfaee1d7b.htm" />
+    <HelpKINode Title="Group.AttributeNames Field" Url="html/ecd80c34-32fa-1923-3d35-30c5f3a18ca4.htm" />
+    <HelpKINode Title="SecurityPrincipal.AttributeNames Field" Url="html/4c287ccb-e0b8-f893-c4e4-bf10f3e4c9e5.htm" />
+    <HelpKINode Title="User.AttributeNames Field" Url="html/f40aaef0-45b5-0ab9-3799-c96970cc9cdf.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Attributes field" Url="html/fc420218-9abf-610d-b757-8cd02388ab58.htm" />
+  <HelpKINode Title="BadPasswordCount property" Url="html/d5ca3fd9-b2d3-d05d-e7dc-2cb0c0c866e8.htm" />
+  <HelpKINode Title="BadPasswordTime property" Url="html/6f0aacf6-f79f-83b4-5fbd-9ffe49f074f2.htm" />
+  <HelpKINode Title="BlockInheritance method" Url="html/aa9e7ee3-0d3a-69a2-1687-0e42562708db.htm" />
+  <HelpKINode Title="BuildConnectionString method">
+    <HelpKINode Title="MSSqlUtility.BuildConnectionString Method " Url="html/d7df5d3f-3807-6411-b060-012175483133.htm" />
+    <HelpKINode Title="OracleUtility.BuildConnectionString Method " Url="html/63537946-3728-e803-bc4a-6327516e50db.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BytesToString method" Url="html/f7892669-d501-13b6-5d89-7bff125d066d.htm" />
+  <HelpKINode Title="Calendar class">
+    <HelpKINode Title="Calendar Class" Url="html/87bac7f4-e255-6613-a4a6-e6ba34ca8347.htm" />
+    <HelpKINode Title="about Calendar class" Url="html/87bac7f4-e255-6613-a4a6-e6ba34ca8347.htm" />
+    <HelpKINode Title="constructor" Url="html/d45d3394-0ff8-db22-be77-5b4e54c162ad.htm" />
+    <HelpKINode Title="methods" Url="html/21308ccc-97e7-f60d-c21a-b0c2f000fd3a.htm" />
+    <HelpKINode Title="properties" Url="html/6b6a5d06-482b-460e-83c2-2be2fd8c5178.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Calendar.Calendar constructor" Url="html/d45d3394-0ff8-db22-be77-5b4e54c162ad.htm" />
+  <HelpKINode Title="Calendar.Description property" Url="html/a4c9eec5-1053-d4c8-ac5c-08d22971a7e5.htm" />
+  <HelpKINode Title="Calendar.Events property" Url="html/acf578a0-8f32-cef4-f594-9bd37a1e8c67.htm" />
+  <HelpKINode Title="Calendar.Name property" Url="html/6f7775db-9aef-f2e2-c252-83a2c3f6ccee.htm" />
+  <HelpKINode Title="CalendarNames property">
+    <HelpKINode Title="CalendarUtility.CalendarNames Property " Url="html/dcd3d846-3663-b413-93af-f67167b40c7a.htm" />
+    <HelpKINode Title="iCalendarUtility.CalendarNames Property " Url="html/98cb95f4-7c5c-d489-995d-c554f79de7fe.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CalendarUtility class">
+    <HelpKINode Title="CalendarUtility Class" Url="html/ce415031-697c-2065-77bb-99e895a9ce17.htm" />
+    <HelpKINode Title="about CalendarUtility class" Url="html/ce415031-697c-2065-77bb-99e895a9ce17.htm" />
+    <HelpKINode Title="constructor" Url="html/0d7118f5-9e69-2185-8540-a471aa95165f.htm" />
+    <HelpKINode Title="methods" Url="html/edcb561d-87ed-020f-3881-ba687ada91b4.htm" />
+    <HelpKINode Title="properties" Url="html/99b79b45-9803-0e30-2acf-3f6cade79e97.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CalendarUtility.CalendarNames property" Url="html/dcd3d846-3663-b413-93af-f67167b40c7a.htm" />
+  <HelpKINode Title="CalendarUtility.CalendarUtility constructor" Url="html/0d7118f5-9e69-2185-8540-a471aa95165f.htm" />
+  <HelpKINode Title="CalendarUtility.GetCalendar method" Url="html/1066984b-47cd-7375-e8fb-0253c2016ecc.htm" />
+  <HelpKINode Title="CalendarUtility.SaveCalendar method" Url="html/e250d991-9cce-81ef-e986-61e98b008de6.htm" />
+  <HelpKINode Title="Canceled property" Url="html/ee60b236-2a6d-c471-ad70-7c1c1e336547.htm" />
+  <HelpKINode Title="Category property">
+    <HelpKINode Title="Event.Category Property " Url="html/dc3942c7-14f3-1b40-0fc8-720ad3363388.htm" />
+    <HelpKINode Title="SqlEventLogEvent.Category Property " Url="html/9b7e481b-7300-1613-e391-0ea86853c06a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Clear method" Url="html/436e1331-6c36-4d04-548c-ed798a947953.htm" />
+  <HelpKINode Title="ClearMembership method" Url="html/0ca1948e-3640-cf27-6e1b-db1b69558c90.htm" />
+  <HelpKINode Title="Clone method" Url="html/f60888db-f23c-60aa-dc23-110afabf6266.htm" />
+  <HelpKINode Title="Close method" Url="html/4d7a70ef-4114-65be-7e65-ae7d29ad9edf.htm" />
+  <HelpKINode Title="Command property">
+    <HelpKINode Title="IStoredProcedure.Command Property " Url="html/20a646be-40a3-0132-b32a-abf74823aab4.htm" />
+    <HelpKINode Title="MSStoredProcedure.Command Property " Url="html/2b276054-f2a2-fca3-09c2-d477e076dcf2.htm" />
+    <HelpKINode Title="OracleStoredProcedure.Command Property " Url="html/600389fb-e7ff-8101-f6be-1d82db749fc7.htm" />
+    <HelpKINode Title="StoredProcedure.Command Property " Url="html/5f72d6ed-700c-ef60-dea4-947f857493e4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CommitChanges method" Url="html/51ab9dff-8107-a8ec-695e-0d7415725705.htm" />
+  <HelpKINode Title="CommonName property" Url="html/1c697af5-5d1d-b33e-b1ba-ff5beed107b5.htm" />
+  <HelpKINode Title="CompareTo method">
+    <HelpKINode Title="ActiveDirectoryObject.CompareTo Method " Url="html/ad4fba6f-aedb-e648-17f8-787e11a28792.htm" />
+    <HelpKINode Title="Event.CompareTo Method " Url="html/7d8a1ff7-f231-cbfb-ee18-c35631f4af31.htm" />
+    <HelpKINode Title="Group.CompareTo Method " Url="html/a14d3a12-4ac0-d5ca-3193-67ff9dc7ec31.htm" />
+    <HelpKINode Title="SecurityPrincipal.CompareTo Method " Url="html/7a461a41-d383-1790-4216-ab61e6ef0dc3.htm" />
+    <HelpKINode Title="User.CompareTo Method " Url="html/5f61e85e-2606-2c88-b94b-663626bb4916.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ConfigurationItem class">
+    <HelpKINode Title="ConfigurationItem Class" Url="html/3921449d-63e0-4aa7-f054-ad1bbf7a0939.htm" />
+    <HelpKINode Title="about ConfigurationItem class" Url="html/3921449d-63e0-4aa7-f054-ad1bbf7a0939.htm" />
+    <HelpKINode Title="constructor" Url="html/7c03a31b-0d7e-4890-bc24-66e612394f34.htm" />
+    <HelpKINode Title="methods" Url="html/08efff9c-e1fa-fd38-fb72-ff79969bf75f.htm" />
+    <HelpKINode Title="properties" Url="html/208ef46d-31fa-d977-2931-d2fedc2c64f6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ConfigurationItem.ConfigurationItem constructor" Url="html/7c03a31b-0d7e-4890-bc24-66e612394f34.htm" />
+  <HelpKINode Title="ConfigurationItem.Delete method" Url="html/a8b78343-92ce-806a-f51a-aa296ed9b1ed.htm" />
+  <HelpKINode Title="ConfigurationItem.Encrypted property" Url="html/3fa85a19-825c-3a9d-6928-62a7347e86b1.htm" />
+  <HelpKINode Title="ConfigurationItem.FilePath property" Url="html/21c3c9d1-5a1f-bd6b-7371-adb35341dc28.htm" />
+  <HelpKINode Title="ConfigurationItem.FolderPath property" Url="html/94f9dce3-9c66-718d-ff11-6234a63a77c1.htm" />
+  <HelpKINode Title="ConfigurationItem.Get method" Url="html/f677566a-44f1-e5ef-309e-4bdcdda414d2.htm" />
+  <HelpKINode Title="ConfigurationItem.Name property" Url="html/d8541394-28c6-d934-8de8-c3b905241861.htm" />
+  <HelpKINode Title="ConfigurationItem.SecureGet method" Url="html/b59b8774-4383-6bfe-5c17-a5029fc3b654.htm" />
+  <HelpKINode Title="ConfigurationItem.SecureWrite method" Url="html/706003cb-10e3-16e8-00f0-b23cee1e9584.htm" />
+  <HelpKINode Title="ConfigurationItem.Value property" Url="html/d8878995-924b-66e4-6a7c-e6fc0e463c69.htm" />
+  <HelpKINode Title="ConfigurationItem.Write method" Url="html/3c2abc9d-cb78-41d0-2eec-b33293df2722.htm" />
+  <HelpKINode Title="Connection property">
+    <HelpKINode Title="IStoredProcedure.Connection Property " Url="html/1b4a9e44-48c3-ad18-2c13-146be41cb34d.htm" />
+    <HelpKINode Title="MSStoredProcedure.Connection Property " Url="html/ffbfffb0-2805-213c-7fdd-a722e9bd2d92.htm" />
+    <HelpKINode Title="OracleStoredProcedure.Connection Property " Url="html/fff8e294-5922-36a4-8b6f-7eb6f01f3625.htm" />
+    <HelpKINode Title="StoredProcedure.Connection Property " Url="html/a454d920-b71d-d826-3fde-f3f7498f426f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ContactEmail property" Url="html/a5012ee7-ad7b-61b6-15b0-29d0d0e4f97e.htm" />
+  <HelpKINode Title="ContactName property" Url="html/da0495e1-f9ad-3ae1-848d-591fe4ffc390.htm" />
+  <HelpKINode Title="ContactPhone property" Url="html/e993d2f9-60dd-c15e-9a20-f00cc6881edd.htm" />
+  <HelpKINode Title="Contains method">
+    <HelpKINode Title="SharePointDocumentLibrary.Contains Method " Url="html/de696acc-58af-c6d3-feed-477f5a7004fd.htm" />
+    <HelpKINode Title="SharePointList.Contains Method " Url="html/9388ca2f-36f4-0bfb-06d8-0a7c608c44fe.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ContainsDocumentWithName method" Url="html/d4fc83d8-d0bd-5637-ecaa-fbf31f5e02fb.htm" />
+  <HelpKINode Title="CopyTo method">
+    <HelpKINode Title="SharePointDocumentLibrary.CopyTo Method " Url="html/7f1066db-6de2-bb3d-b3fa-0722dcbbf491.htm" />
+    <HelpKINode Title="SharePointList.CopyTo Method " Url="html/ce258fc8-44c8-2bf0-5f58-d19649268165.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CouchbaseUtility class">
+    <HelpKINode Title="CouchbaseUtility Class" Url="html/f1d9e30c-c8a6-422c-8dfb-c74012d32dee.htm" />
+    <HelpKINode Title="about CouchbaseUtility class" Url="html/f1d9e30c-c8a6-422c-8dfb-c74012d32dee.htm" />
+    <HelpKINode Title="constructor" Url="html/77350869-def7-0381-ad4e-68c8741234ce.htm" />
+    <HelpKINode Title="methods" Url="html/aa17ce86-f179-cacf-7df9-5522368ee687.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CouchbaseUtility.AddOrReplace method" Url="html/471d290b-f0d9-f48d-570c-513f4068c940.htm" />
+  <HelpKINode Title="CouchbaseUtility.CouchbaseUtility constructor" Url="html/77350869-def7-0381-ad4e-68c8741234ce.htm" />
+  <HelpKINode Title="CouchbaseUtility.Delete method" Url="html/4d7f5219-db7b-00d6-f577-150a67f8b906.htm" />
+  <HelpKINode Title="CouchbaseUtility.Dispose method" Url="html/f2949ff0-eb21-56d2-1bb9-b42b5d9e4d8d.htm" />
+  <HelpKINode Title="CouchbaseUtility.Get method" Url="html/539e3125-f12f-2662-c015-21c14e98c288.htm" />
+  <HelpKINode Title="CouchbaseUtility.LogException method" Url="html/abd43711-2dee-6da4-585d-393c5b460fd7.htm" />
+  <HelpKINode Title="Count property" Url="html/a5d56bfa-3f06-360b-9c44-b2fc93824d1e.htm" />
+  <HelpKINode Title="Create method">
+    <HelpKINode Title="Directory.Create Method " Url="html/95c18a1c-9496-97c7-6c9a-3c244fbc712f.htm" />
+    <HelpKINode Title="File.Create Method " Url="html/db389aad-4ae8-f6a2-a91e-5c7cc338a3c5.htm" />
+    <HelpKINode Title="Group.Create Method " Url="html/ca1a2723-dfd3-0f1e-ac9c-fe0d2e7239ef.htm" />
+    <HelpKINode Title="User.Create Method " Url="html/d5a3d2ce-0755-d3ce-d16b-43ee0eaa3688.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CreateConsolidatedString method" Url="html/1c6d6f8d-0e15-7c3c-bfd3-dcf46f677e9b.htm" />
+  <HelpKINode Title="CreateFilesWriteData enumeration member" Url="html/c7a50b7e-c9bd-6dd4-2c7c-d5fea1feaf81.htm" />
+  <HelpKINode Title="CreateRole method" Url="html/8cc14594-6d21-6000-c610-642d90adcdc1.htm" />
+  <HelpKINode Title="CreateRunspaceConnectionInfo method" Url="html/c113e62a-6f19-6ccc-43a4-e8ef02af78fc.htm" />
+  <HelpKINode Title="CreateTimeStamp property" Url="html/32802db4-dbfe-04b4-6608-18958942113d.htm" />
+  <HelpKINode Title="CreationTime property" Url="html/b4d04a49-a9c7-f0a2-f654-7be17dce92ec.htm" />
+  <HelpKINode Title="Date property">
+    <HelpKINode Title="Event.Date Property " Url="html/065f004e-3720-c78c-31fe-94f1a77b60dd.htm" />
+    <HelpKINode Title="SqlEventLogEvent.Date Property " Url="html/1e5ff449-fac7-2e00-f6df-d1e9d1ba7874.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DBAPrivilege structure">
+    <HelpKINode Title="fields" Url="html/b186ef1a-e825-106d-02e9-c69ffadb84a7.htm" />
+    <HelpKINode Title="methods" Url="html/b4df640c-a630-9de8-61ca-281d0bc69ff0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DecryptConsolidatedString method" Url="html/235d81d6-95a0-f45c-5484-33d6a4f10433.htm" />
+  <HelpKINode Title="DecryptStringFromBytes method" Url="html/b0ff5148-bfa3-2691-ec6d-57cf68dfd2e6.htm" />
+  <HelpKINode Title="DefaultPortNumber field" Url="html/8724eff7-7703-07ba-41fb-5dc70a2e7f68.htm" />
+  <HelpKINode Title="DEFAULT_APP_NAME field" Url="html/e6b3a2b0-2b3f-055a-21b7-b9f7384fcee6.htm" />
+  <HelpKINode Title="DEFAULT_MAX_RUNSPACES_IN_POOL field" Url="html/7ab0984a-3f7f-ae07-4e8b-2fc18938210c.htm" />
+  <HelpKINode Title="DEFAULT_MIN_RUNSPACES_IN_POOL field" Url="html/a00454df-448b-0c32-bbe8-76533ace0907.htm" />
+  <HelpKINode Title="DEFAULT_OPEN_TIMEOUT_IN_SEC field" Url="html/16d7b90b-0f29-174f-36fb-77519904922a.htm" />
+  <HelpKINode Title="DEFAULT_OPERATION_TIMEOUT_IN_SEC field" Url="html/179daa5a-e733-6ef6-5846-2857d6e470cb.htm" />
+  <HelpKINode Title="DEFAULT_PORT_NUMBER field" Url="html/f8fb36e5-5236-70fe-71e4-16a7403f41f2.htm" />
+  <HelpKINode Title="DEFAULT_PORT_NUMBER_SSL field" Url="html/e3f368f5-9313-3381-c98b-6109616c019e.htm" />
+  <HelpKINode Title="DEFAULT_QUERY_PAGE_SIZE field" Url="html/23f03567-7678-d5ff-a3f3-6025cf9c769a.htm" />
+  <HelpKINode Title="DEFAULT_SHELL_URI field" Url="html/a39d2b36-d9c3-5f51-0924-3ea96d6107b5.htm" />
+  <HelpKINode Title="Delete method">
+    <HelpKINode Title="ActiveDirectory.Delete Method " Url="html/8ce3dbd3-900b-7636-8f7d-b74648c308b6.htm" />
+    <HelpKINode Title="ConfigurationItem.Delete Method " Url="html/a8b78343-92ce-806a-f51a-aa296ed9b1ed.htm" />
+    <HelpKINode Title="CouchbaseUtility.Delete Method " Url="html/4d7f5219-db7b-00d6-f577-150a67f8b906.htm" />
+    <HelpKINode Title="Directory.Delete Method " Url="html/beae82d9-51b3-431e-eeed-7d8df2351f5b.htm" />
+    <HelpKINode Title="File.Delete Method " Url="html/11780aa8-9e2a-84c9-5779-9e81fda7e6c9.htm" />
+    <HelpKINode Title="Group.Delete Method " Url="html/0e99e2f3-e367-6d66-e244-4802475f4f4c.htm" />
+    <HelpKINode Title="LDAP.Delete Method " Url="html/cca9f324-94da-c6b0-92b7-8d9a0be5549f.htm" />
+    <HelpKINode Title="NoSqlUtility.Delete Method " Url="html/ae8f7a7b-aef8-875e-7f3c-b6321682b8dd.htm" />
+    <HelpKINode Title="SharePointListItem.Delete Method " Url="html/03ef5157-3e80-e64e-bb99-987bd98d2480.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DeleteAttribute method">
+    <HelpKINode Title="ActiveDirectory.DeleteAttribute Method " Url="html/872ff07e-0b60-2d56-a445-91d88c197e83.htm" />
+    <HelpKINode Title="ActiveDirectoryObject.DeleteAttribute Method " Url="html/19214ca4-749b-36db-990f-62f6067ce39c.htm" />
+    <HelpKINode Title="LDAP.DeleteAttribute Method " Url="html/cbb6469e-991c-8431-e1ee-99ecde6671ff.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DeleteCategory method" Url="html/9eed8a33-cd43-2124-09b6-ce25403b08bd.htm" />
+  <HelpKINode Title="DeleteEvent method" Url="html/302fe962-5032-92b7-19e4-4c254b8a1f95.htm" />
+  <HelpKINode Title="DeleteRole method" Url="html/5cbcffb6-373f-9136-8d8b-23d210dd0741.htm" />
+  <HelpKINode Title="DeleteSeverityLevel method" Url="html/ab2dd95c-d1f7-cd6b-8178-815c16628a39.htm" />
+  <HelpKINode Title="DeleteSource method" Url="html/36f0e39a-13eb-3dde-475f-63c79b11d49f.htm" />
+  <HelpKINode Title="Department property" Url="html/770e404d-bde8-7fd4-050f-bec7cb5843be.htm" />
+  <HelpKINode Title="Description property">
+    <HelpKINode Title="Calendar.Description Property " Url="html/a4c9eec5-1053-d4c8-ac5c-08d22971a7e5.htm" />
+    <HelpKINode Title="Event.Description Property " Url="html/5e77a9bf-6409-a667-2e6c-2c1c6cb85ba5.htm" />
+    <HelpKINode Title="SecurityPrincipal.Description Property " Url="html/3eed0c1a-24f6-bf9e-ba68-db05bcb34c96.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Details property">
+    <HelpKINode Title="Event.Details Property " Url="html/e6a10908-5462-9f2e-fb55-c7953e744d10.htm" />
+    <HelpKINode Title="SqlEventLogEvent.Details Property " Url="html/52401752-e2db-bc23-2888-cefc875ea27f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DetailsLastUpdated property" Url="html/33ff5457-cc20-ff2d-11e1-8243d959f733.htm" />
+  <HelpKINode Title="DetailsLastUpdatedBy property" Url="html/af583866-9e76-649e-f063-0e07422745fc.htm" />
+  <HelpKINode Title="Directory class">
+    <HelpKINode Title="Directory Class" Url="html/a384d5e5-bb55-d4fb-d430-1aa0c2506f08.htm" />
+    <HelpKINode Title="about Directory class" Url="html/a384d5e5-bb55-d4fb-d430-1aa0c2506f08.htm" />
+    <HelpKINode Title="methods" Url="html/31381ae1-e95c-b29b-c45e-c68c84a4d81d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Directory.AccessRights enumeration" Url="html/c7a50b7e-c9bd-6dd4-2c7c-d5fea1feaf81.htm" />
+  <HelpKINode Title="Directory.AddAccessRule method" Url="html/14cd07ab-a8e8-04b0-3f82-ebfbd44b3df2.htm" />
+  <HelpKINode Title="Directory.BlockInheritance method" Url="html/aa9e7ee3-0d3a-69a2-1687-0e42562708db.htm" />
+  <HelpKINode Title="Directory.Clone method" Url="html/f60888db-f23c-60aa-dc23-110afabf6266.htm" />
+  <HelpKINode Title="Directory.CommitChanges method" Url="html/51ab9dff-8107-a8ec-695e-0d7415725705.htm" />
+  <HelpKINode Title="Directory.Create method" Url="html/95c18a1c-9496-97c7-6c9a-3c244fbc712f.htm" />
+  <HelpKINode Title="Directory.Delete method" Url="html/beae82d9-51b3-431e-eeed-7d8df2351f5b.htm" />
+  <HelpKINode Title="Directory.Exists method" Url="html/97fb8222-d925-cb67-23e8-a518d44cae66.htm" />
+  <HelpKINode Title="Directory.GetListing method" Url="html/f104e173-7bb5-aa84-30e9-6eae9061fc74.htm" />
+  <HelpKINode Title="Directory.GetSecurityObject method" Url="html/abef3cdd-99e8-33c3-2754-1e26568c4614.htm" />
+  <HelpKINode Title="Directory.GiveAccess method" Url="html/bd12d7c3-3858-0520-a1ed-ec090990a9fd.htm" />
+  <HelpKINode Title="Directory.Move method" Url="html/bc1c9bcf-8b3e-f98e-56e4-adaa1619d0b2.htm" />
+  <HelpKINode Title="Directory.RemoveAllAccessRules method" Url="html/e4ee400b-13d1-d648-a896-f40068009130.htm" />
+  <HelpKINode Title="Directory.RemoveAllExplicitAccessRules method" Url="html/da0b8f21-6b3c-65b5-0603-726feea412e4.htm" />
+  <HelpKINode Title="Directory.SetOwner method" Url="html/e1b582c2-af41-5be6-8ff9-8a49e1c2bf49.htm" />
+  <HelpKINode Title="Disable method" Url="html/eb1c1051-69a6-930d-63c3-d76adfe60633.htm" />
+  <HelpKINode Title="DisplayName property">
+    <HelpKINode Title="SharePointListItem.DisplayName Property " Url="html/7a55c7e5-6765-ef90-7b84-fc4efba7528c.htm" />
+    <HelpKINode Title="User.DisplayName Property " Url="html/bfcac8a9-bf77-faf9-baf8-2414dd1cc91f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Dispose method">
+    <HelpKINode Title="ActiveDirectory.Dispose Method " Url="html/62e5d6aa-4f81-4b67-6180-f7d73ac32764.htm" />
+    <HelpKINode Title="CouchbaseUtility.Dispose Method " Url="html/f2949ff0-eb21-56d2-1bb9-b42b5d9e4d8d.htm" />
+    <HelpKINode Title="File.Dispose Method " Url="html/905e6f34-277b-21ad-260a-d10e7e0eff82.htm" />
+    <HelpKINode Title="LDAP.Dispose Method " Url="html/7f86c317-b397-bbc5-d835-06ce6c5f35b7.htm" />
+    <HelpKINode Title="PowerShellScript.Dispose Method " Url="html/eb324c7b-877d-0940-309f-a187c688cbbe.htm" />
+    <HelpKINode Title="SharePointClient.Dispose Method " Url="html/7e11937f-29cd-64fa-32b3-3438b98353dd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DistinguishedName property">
+    <HelpKINode Title="ActiveDirectory.DistinguishedName Property " Url="html/910fb4ed-af07-6ad9-5d35-4fbbaa315ae8.htm" />
+    <HelpKINode Title="ActiveDirectoryObject.DistinguishedName Property " Url="html/89b3ae00-08eb-df06-47a9-5395abec07c0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Division property" Url="html/fbb92850-38e2-1362-0293-1df1e4d1749f.htm" />
+  <HelpKINode Title="Documents property" Url="html/2194ace0-79ff-a3b9-a7bf-34c3a46dff3f.htm" />
+  <HelpKINode Title="DomainAdminsGroupDN property" Url="html/ec797228-0762-822b-e38a-d7186eb001cf.htm" />
+  <HelpKINode Title="DomainLocal enumeration member" Url="html/da577c69-eb66-5290-b932-bf22468ceedb.htm" />
+  <HelpKINode Title="DomainUsersGroupDN property" Url="html/ae1ae79b-9c14-e270-cbe5-a710622682b4.htm" />
+  <HelpKINode Title="DontExpirePassword enumeration member" Url="html/4f6579cc-33f6-77c0-e201-fb610ccaa040.htm" />
+  <HelpKINode Title="DontReqPreauth enumeration member" Url="html/4f6579cc-33f6-77c0-e201-fb610ccaa040.htm" />
+  <HelpKINode Title="EMailAddress property" Url="html/d852585e-127a-c161-7583-e1ad0a8223b5.htm" />
+  <HelpKINode Title="EmailAddresses property" Url="html/73ad6644-4a66-3a2b-9b4a-8a6af48dd66f.htm" />
+  <HelpKINode Title="EmployeeId property" Url="html/e351f443-aa31-19ef-89d5-1f8ae0e7058f.htm" />
+  <HelpKINode Title="Enable method" Url="html/284780fc-3709-0a3b-d926-82c6d24c9926.htm" />
+  <HelpKINode Title="Encrypted property" Url="html/3fa85a19-825c-3a9d-6928-62a7347e86b1.htm" />
+  <HelpKINode Title="EncryptedTextPwdAllowed enumeration member" Url="html/4f6579cc-33f6-77c0-e201-fb610ccaa040.htm" />
+  <HelpKINode Title="EncryptStringToBytes method" Url="html/40919f13-f181-0ee5-7eee-6b0693205408.htm" />
+  <HelpKINode Title="EndDate property" Url="html/5ec98845-45a1-3310-9222-0d36d8220b20.htm" />
+  <HelpKINode Title="EnterpriseAdminsGroupDN property" Url="html/5cffc07a-b074-4af8-07b9-9da106eb5613.htm" />
+  <HelpKINode Title="Entry field" Url="html/4ab3d884-3ba0-8605-3c36-1ace095844f9.htm" />
+  <HelpKINode Title="Equals method">
+    <HelpKINode Title="ActiveDirectoryObject.Equals Method " Url="html/10116002-d966-faf4-5886-27ab9926f976.htm" />
+    <HelpKINode Title="Group.Equals Method " Url="html/6724e964-aff1-cc78-bad2-933e3f6f9ec3.htm" />
+    <HelpKINode Title="SecurityPrincipal.Equals Method " Url="html/ea67e68b-8385-16e0-0b03-e28495186f5b.htm" />
+    <HelpKINode Title="User.Equals Method " Url="html/55dd3e81-968c-7200-c368-d7e4985bd5b3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Error enumeration member" Url="html/89ea8656-ed3b-e688-b58c-a5d8768d53aa.htm" />
+  <HelpKINode Title="Event class">
+    <HelpKINode Title="Event Class" Url="html/452d9023-9cf1-83ec-fba6-422ce3272b84.htm" />
+    <HelpKINode Title="Event Class" Url="html/77a6b53f-b71d-282e-6f14-019790dd55c1.htm" />
+    <HelpKINode Title="about Event class" Url="html/77a6b53f-b71d-282e-6f14-019790dd55c1.htm" />
+    <HelpKINode Title="about Event class" Url="html/452d9023-9cf1-83ec-fba6-422ce3272b84.htm" />
+    <HelpKINode Title="constructor" Url="html/75f83fea-61cf-5c30-ec3e-7d469da0b8ef.htm" />
+    <HelpKINode Title="constructor" Url="html/5dbc2ea8-fb43-5971-0189-ce91bd9a2ed6.htm" />
+    <HelpKINode Title="methods" Url="html/9e82f873-bbbb-6da5-f2b5-167f23642574.htm" />
+    <HelpKINode Title="methods" Url="html/86889e6a-70d2-36a9-ce8f-5ecdb46cc50e.htm" />
+    <HelpKINode Title="properties" Url="html/9fb47d81-1853-00e6-836d-dbe9e13c2725.htm" />
+    <HelpKINode Title="properties" Url="html/061b449a-463e-68c0-506a-870e65bd64c2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Event.AllDayEvent property" Url="html/40936079-48c4-f4c7-e76d-52958cfb1b8f.htm" />
+  <HelpKINode Title="Event.Canceled property" Url="html/ee60b236-2a6d-c471-ad70-7c1c1e336547.htm" />
+  <HelpKINode Title="Event.Category property" Url="html/dc3942c7-14f3-1b40-0fc8-720ad3363388.htm" />
+  <HelpKINode Title="Event.CompareTo method" Url="html/7d8a1ff7-f231-cbfb-ee18-c35631f4af31.htm" />
+  <HelpKINode Title="Event.ContactEmail property" Url="html/a5012ee7-ad7b-61b6-15b0-29d0d0e4f97e.htm" />
+  <HelpKINode Title="Event.ContactName property" Url="html/da0495e1-f9ad-3ae1-848d-591fe4ffc390.htm" />
+  <HelpKINode Title="Event.ContactPhone property" Url="html/e993d2f9-60dd-c15e-9a20-f00cc6881edd.htm" />
+  <HelpKINode Title="Event.Date property" Url="html/065f004e-3720-c78c-31fe-94f1a77b60dd.htm" />
+  <HelpKINode Title="Event.Description property" Url="html/5e77a9bf-6409-a667-2e6c-2c1c6cb85ba5.htm" />
+  <HelpKINode Title="Event.Details property" Url="html/e6a10908-5462-9f2e-fb55-c7953e744d10.htm" />
+  <HelpKINode Title="Event.DetailsLastUpdated property" Url="html/33ff5457-cc20-ff2d-11e1-8243d959f733.htm" />
+  <HelpKINode Title="Event.DetailsLastUpdatedBy property" Url="html/af583866-9e76-649e-f063-0e07422745fc.htm" />
+  <HelpKINode Title="Event.EndDate property" Url="html/5ec98845-45a1-3310-9222-0d36d8220b20.htm" />
+  <HelpKINode Title="Event.Event constructor">
+    <HelpKINode Title="Event Constructor " Url="html/75f83fea-61cf-5c30-ec3e-7d469da0b8ef.htm" />
+    <HelpKINode Title="Event Constructor " Url="html/5dbc2ea8-fb43-5971-0189-ce91bd9a2ed6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Event.GetSeverityLevel method" Url="html/752cda4d-1d1e-6cca-9f1f-300b0d839753.htm" />
+  <HelpKINode Title="Event.GetSeverityLevelString method" Url="html/839964a0-e994-0018-1cc3-43fab3414cdf.htm" />
+  <HelpKINode Title="Event.LastUpdated property" Url="html/44f828f4-3474-3be7-0652-8cf62393d78c.htm" />
+  <HelpKINode Title="Event.LastUpdatedBy property" Url="html/12dbde5e-0395-521c-0317-c24082d963be.htm" />
+  <HelpKINode Title="Event.Location property" Url="html/eeff44a2-4d1e-9ca5-7a50-d7aa40914e78.htm" />
+  <HelpKINode Title="Event.LocationUrl property" Url="html/b595a48c-fcef-72fa-6ffa-15654c862d35.htm" />
+  <HelpKINode Title="Event.NoEndTime property" Url="html/853e652a-f182-54c0-35fa-ec769826852e.htm" />
+  <HelpKINode Title="Event.OnMultipleCalendars property" Url="html/7ef3da47-785b-494f-e6fe-ab41ea2bfa01.htm" />
+  <HelpKINode Title="Event.Priority property" Url="html/5ec6dd6a-17b3-d545-b54e-450288c2db08.htm" />
+  <HelpKINode Title="Event.PriorityLevels enumeration" Url="html/ad3f0234-69f8-ca44-9b32-f487c3a26598.htm" />
+  <HelpKINode Title="Event.Reoccurring property" Url="html/83d03dbb-cb54-cd93-4b94-def6439d5951.htm" />
+  <HelpKINode Title="Event.Severity property" Url="html/dd91f520-1228-aa66-69d1-39f6431daa65.htm" />
+  <HelpKINode Title="Event.SeverityLevels enumeration" Url="html/89ea8656-ed3b-e688-b58c-a5d8768d53aa.htm" />
+  <HelpKINode Title="Event.Source property" Url="html/0fae941c-cbb7-9739-51b4-6902f46407cd.htm" />
+  <HelpKINode Title="Event.StartDate property" Url="html/d793371b-a953-d2ec-1708-c33618f2e868.htm" />
+  <HelpKINode Title="Event.Title property" Url="html/a9489c28-e8fe-a4aa-9dfa-61e375b9f4bd.htm" />
+  <HelpKINode Title="EventLog class">
+    <HelpKINode Title="EventLog Class" Url="html/560025d6-bebd-b62f-adb8-44890775dc4a.htm" />
+    <HelpKINode Title="about EventLog class" Url="html/560025d6-bebd-b62f-adb8-44890775dc4a.htm" />
+    <HelpKINode Title="constructor" Url="html/ee9777f6-c328-8583-85a4-9ab5e86577ef.htm" />
+    <HelpKINode Title="methods" Url="html/b029ccbd-713a-a651-4127-544c15677f42.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EventLog.EventLog constructor" Url="html/ee9777f6-c328-8583-85a4-9ab5e86577ef.htm" />
+  <HelpKINode Title="EventLog.Find method" Url="html/d41c90a2-683a-71b0-02e7-81d78b3992e8.htm" />
+  <HelpKINode Title="EventLog.Log method" Url="html/5348bf6d-02d5-21df-caa4-cde0a9ece92b.htm" />
+  <HelpKINode Title="Events property" Url="html/acf578a0-8f32-cef4-f594-9bd37a1e8c67.htm" />
+  <HelpKINode Title="ExchangeAlias property" Url="html/b49dfaea-1e2d-ed83-1c5f-dbd66320e68c.htm" />
+  <HelpKINode Title="Execute method">
+    <HelpKINode Title="IStoredProcedure.Execute Method " Url="html/b950162f-8ef1-4b00-3d0d-b616eb830f9c.htm" />
+    <HelpKINode Title="StoredProcedure.Execute Method " Url="html/a48bf505-56a5-5157-5a01-10d36edd55af.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ExecuteNonQuery method">
+    <HelpKINode Title="IStoredProcedure.ExecuteNonQuery Method " Url="html/211b4df8-7d9a-bad2-df41-cdfe717914bc.htm" />
+    <HelpKINode Title="MSSqlUtility.ExecuteNonQuery Method " Url="html/96b3303e-9365-e82e-a1e8-0197f90c3f48.htm" />
+    <HelpKINode Title="OracleUtility.ExecuteNonQuery Method " Url="html/c80620e1-2201-9f41-a125-14301c12b69a.htm" />
+    <HelpKINode Title="SqlUtility.ExecuteNonQuery Method " Url="html/b4656ac4-65c6-7545-e891-10852586ec2b.htm" />
+    <HelpKINode Title="StoredProcedure.ExecuteNonQuery Method " Url="html/acb7f444-257e-99f2-a0af-a6b7c068259f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ExecuteNonQuerySQLFile method" Url="html/a1191dd1-183c-6c8b-171f-6d610b5e25ce.htm" />
+  <HelpKINode Title="ExecuteQuery method">
+    <HelpKINode Title="MSSqlUtility.ExecuteQuery Method " Url="html/ee67de23-1888-2c31-9f36-250d694324c6.htm" />
+    <HelpKINode Title="OracleUtility.ExecuteQuery Method " Url="html/2e65afc5-8279-e4f5-dc1c-053421496f0f.htm" />
+    <HelpKINode Title="SqlUtility.ExecuteQuery Method " Url="html/54848c46-6d70-b914-5628-2ef7175923f2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ExecuteQuerySQLFile method" Url="html/2fca6fb5-13ae-b112-ce06-5feece2d46d8.htm" />
+  <HelpKINode Title="Exists method">
+    <HelpKINode Title="Directory.Exists Method " Url="html/97fb8222-d925-cb67-23e8-a518d44cae66.htm" />
+    <HelpKINode Title="File.Exists Method " Url="html/8c64866d-7504-18ff-b74d-7ddfa28ac1db.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ExtensionAttribute1 property" Url="html/a8b42578-d0bd-05b5-0a48-febaa713aaaa.htm" />
+  <HelpKINode Title="ExtensionAttribute7 property" Url="html/66c65079-c6ee-9798-edb5-0bb89e1146c2.htm" />
+  <HelpKINode Title="Fields property" Url="html/9144053b-ae1f-8aea-dada-4293ec27e66b.htm" />
+  <HelpKINode Title="File class">
+    <HelpKINode Title="File Class" Url="html/2b79bd28-e7ca-f5cf-3a78-ca6b008df09a.htm" />
+    <HelpKINode Title="about File class" Url="html/2b79bd28-e7ca-f5cf-3a78-ca6b008df09a.htm" />
+    <HelpKINode Title="constructor" Url="html/cd1e5d54-723d-6fe4-cb90-998bb87764aa.htm" />
+    <HelpKINode Title="methods" Url="html/251b15ac-7f60-369a-d06e-f7b525d0b46e.htm" />
+    <HelpKINode Title="properties" Url="html/4d01d864-056d-7865-b3c6-0dab2d909744.htm" />
+  </HelpKINode>
+  <HelpKINode Title="File.Close method" Url="html/4d7a70ef-4114-65be-7e65-ae7d29ad9edf.htm" />
+  <HelpKINode Title="File.Create method" Url="html/db389aad-4ae8-f6a2-a91e-5c7cc338a3c5.htm" />
+  <HelpKINode Title="File.Delete method" Url="html/11780aa8-9e2a-84c9-5779-9e81fda7e6c9.htm" />
+  <HelpKINode Title="File.Dispose method" Url="html/905e6f34-277b-21ad-260a-d10e7e0eff82.htm" />
+  <HelpKINode Title="File.Exists method" Url="html/8c64866d-7504-18ff-b74d-7ddfa28ac1db.htm" />
+  <HelpKINode Title="File.File constructor" Url="html/cd1e5d54-723d-6fe4-cb90-998bb87764aa.htm" />
+  <HelpKINode Title="File.GetReader method" Url="html/d4bcf2d5-5437-1a79-5e46-76eb5e201746.htm" />
+  <HelpKINode Title="File.GetSecurityObject method" Url="html/ac18cfe6-1a7e-9763-e688-b3e398f70b18.htm" />
+  <HelpKINode Title="File.Move method" Url="html/6c82034e-b511-a7fc-6704-abda5592a28d.htm" />
+  <HelpKINode Title="File.Open method" Url="html/0dac8c3a-e657-fbfa-e3ad-b5f41eb64634.htm" />
+  <HelpKINode Title="File.Path property" Url="html/709d5fd0-94af-3f68-eeb5-8bc2d8939ab6.htm" />
+  <HelpKINode Title="File.ReadAllAsText method" Url="html/70afc264-98e4-7b45-ddb5-88fe20f0cc98.htm" />
+  <HelpKINode Title="File.ReadLine method" Url="html/e8ed652c-e169-fab6-84b6-feb37c528591.htm" />
+  <HelpKINode Title="File.ReadOnly property" Url="html/c0c55972-b0b9-5f02-3cda-31eb111bc8d8.htm" />
+  <HelpKINode Title="File.RemoveAllExplicitAccessRules method" Url="html/90734d09-05cc-2666-456f-da2bc311a54b.htm" />
+  <HelpKINode Title="File.Security property" Url="html/9e814d2d-fc8e-c81e-15fd-1b2e91e1e0be.htm" />
+  <HelpKINode Title="File.WriteLine method" Url="html/1c328188-d44b-f50a-b938-d1c80a33f09e.htm" />
+  <HelpKINode Title="FileExtension property" Url="html/de35fb67-7e51-fcdd-f066-dff39c959ed3.htm" />
+  <HelpKINode Title="FilePath property" Url="html/21c3c9d1-5a1f-bd6b-7371-adb35341dc28.htm" />
+  <HelpKINode Title="FileSize property" Url="html/ae3ac078-e575-f9f6-3737-37b7f2f6138e.htm" />
+  <HelpKINode Title="Find method">
+    <HelpKINode Title="EventLog.Find Method " Url="html/d41c90a2-683a-71b0-02e7-81d78b3992e8.htm" />
+    <HelpKINode Title="IEventLog.Find Method " Url="html/ac65ca2e-177c-da7d-514d-f344815356ac.htm" />
+    <HelpKINode Title="SqlEventLog.Find Method " Url="html/9a98f23b-8ded-8f8c-72ec-a9d567580f50.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FindUsersInRole method" Url="html/7f571be7-4d11-7b12-ed6e-561fa92bc1fe.htm" />
+  <HelpKINode Title="FirstName property" Url="html/9d5961d7-4905-6d68-26a2-989299e972f6.htm" />
+  <HelpKINode Title="Folder property" Url="html/6df8e593-ea63-2f05-9dc8-55375bf72bcb.htm" />
+  <HelpKINode Title="FolderPath property" Url="html/94f9dce3-9c66-718d-ff11-6234a63a77c1.htm" />
+  <HelpKINode Title="FTPDirectory property" Url="html/dbd446ad-bef9-83ca-3428-106343fcf773.htm" />
+  <HelpKINode Title="FTPRoot property" Url="html/2a4c40f3-c3c7-9a5a-9dcd-ff50d082e808.htm" />
+  <HelpKINode Title="FullControl enumeration member" Url="html/c7a50b7e-c9bd-6dd4-2c7c-d5fea1feaf81.htm" />
+  <HelpKINode Title="Galactic API" Url="html/1f07f1ee-23f1-4552-8521-9b2b62f7f6f9.htm" />
+  <HelpKINode Title="Galactic.ActiveDirectory namespace" Url="html/89fbad3d-c788-4174-9ac8-2c43a092e5f1.htm" />
+  <HelpKINode Title="Galactic.ActiveDirectory.ActiveDirectory class" Url="html/015d80bd-04f8-7544-4fbb-23ecce472fc0.htm" />
+  <HelpKINode Title="Galactic.ActiveDirectory.ActiveDirectory.GroupType enumeration" Url="html/da577c69-eb66-5290-b932-bf22468ceedb.htm" />
+  <HelpKINode Title="Galactic.ActiveDirectory.ActiveDirectory.UserAccountControl enumeration" Url="html/4f6579cc-33f6-77c0-e201-fb610ccaa040.htm" />
+  <HelpKINode Title="Galactic.ActiveDirectory.ActiveDirectoryObject class" Url="html/80b4fc40-9bbb-2b33-be46-884c396bf562.htm" />
+  <HelpKINode Title="Galactic.ActiveDirectory.Group class" Url="html/c5c11dd9-577d-0a3c-347b-b8579f439d4b.htm" />
+  <HelpKINode Title="Galactic.ActiveDirectory.SecurityPrincipal class" Url="html/bc046e8a-79c7-da84-e513-3a4f9685ec5d.htm" />
+  <HelpKINode Title="Galactic.ActiveDirectory.User class" Url="html/c8ca0251-c267-e635-eb68-550ae2447b00.htm" />
+  <HelpKINode Title="Galactic.Calendar namespace" Url="html/bb14b2e3-00e2-3ccd-bf61-21889406a350.htm" />
+  <HelpKINode Title="Galactic.Calendar.Calendar class" Url="html/87bac7f4-e255-6613-a4a6-e6ba34ca8347.htm" />
+  <HelpKINode Title="Galactic.Calendar.CalendarUtility class" Url="html/ce415031-697c-2065-77bb-99e895a9ce17.htm" />
+  <HelpKINode Title="Galactic.Calendar.Event class" Url="html/452d9023-9cf1-83ec-fba6-422ce3272b84.htm" />
+  <HelpKINode Title="Galactic.Calendar.Event.PriorityLevels enumeration" Url="html/ad3f0234-69f8-ca44-9b32-f487c3a26598.htm" />
+  <HelpKINode Title="Galactic.Calendar.iCalendar namespace" Url="html/ce9c457f-7286-0909-eec3-6cc77c9c045b.htm" />
+  <HelpKINode Title="Galactic.Calendar.iCalendar.iCalendarUtility class" Url="html/3a06b652-ced3-2f34-b173-d3143d440297.htm" />
+  <HelpKINode Title="Galactic.Configuration namespace" Url="html/1ef22fe2-8fe9-6d8d-c6b2-66b2c9c0d9f8.htm" />
+  <HelpKINode Title="Galactic.Configuration.ConfigurationItem class" Url="html/3921449d-63e0-4aa7-f054-ad1bbf7a0939.htm" />
+  <HelpKINode Title="Galactic.Cryptography namespace" Url="html/035e00e5-aa5a-77e6-4dff-55a1cc71782a.htm" />
+  <HelpKINode Title="Galactic.Cryptography.AES256 class" Url="html/a9294e8e-3c42-803f-45e9-c1ecc211169b.htm" />
+  <HelpKINode Title="Galactic.Cryptography.SaltedHash class" Url="html/6818c0d2-a52d-c027-f7d7-618c09859f2c.htm" />
+  <HelpKINode Title="Galactic.Cryptography.SHA256 class" Url="html/735d5ff0-6344-eff7-46e3-5f80d2426b1e.htm" />
+  <HelpKINode Title="Galactic.EventLog namespace" Url="html/8d62e611-fb5b-2a92-13d3-7b0172765300.htm" />
+  <HelpKINode Title="Galactic.EventLog.Event class" Url="html/77a6b53f-b71d-282e-6f14-019790dd55c1.htm" />
+  <HelpKINode Title="Galactic.EventLog.Event.SeverityLevels enumeration" Url="html/89ea8656-ed3b-e688-b58c-a5d8768d53aa.htm" />
+  <HelpKINode Title="Galactic.EventLog.EventLog class" Url="html/560025d6-bebd-b62f-adb8-44890775dc4a.htm" />
+  <HelpKINode Title="Galactic.EventLog.IEventLog interface" Url="html/3e513bfa-39b1-84ea-ba79-31c0df56c823.htm" />
+  <HelpKINode Title="Galactic.EventLog.IExceptionLogger interface" Url="html/b56afb0b-6f7a-692f-748f-08c77092c5c1.htm" />
+  <HelpKINode Title="Galactic.EventLog.Sql namespace" Url="html/8e33591a-b904-1870-b4c9-0ef00b35be63.htm" />
+  <HelpKINode Title="Galactic.EventLog.Sql.SqlEventLog class" Url="html/d6f1c660-33d6-23f1-61bc-c1e273ec967d.htm" />
+  <HelpKINode Title="Galactic.EventLog.Sql.SqlEventLogEvent class" Url="html/c149a39b-244b-4892-41e7-6241878fde30.htm" />
+  <HelpKINode Title="Galactic.EventLog.Sql.SqlEventLogNamedItem class" Url="html/971725ec-6e79-45d4-3e15-b66e10b5550f.htm" />
+  <HelpKINode Title="Galactic.FileSystem namespace" Url="html/53e9c1b0-619f-031d-74f8-09399c299a75.htm" />
+  <HelpKINode Title="Galactic.FileSystem.Directory class" Url="html/a384d5e5-bb55-d4fb-d430-1aa0c2506f08.htm" />
+  <HelpKINode Title="Galactic.FileSystem.Directory.AccessRights enumeration" Url="html/c7a50b7e-c9bd-6dd4-2c7c-d5fea1feaf81.htm" />
+  <HelpKINode Title="Galactic.FileSystem.File class" Url="html/2b79bd28-e7ca-f5cf-3a78-ca6b008df09a.htm" />
+  <HelpKINode Title="Galactic.LDAP namespace" Url="html/7131f9e1-1b92-f3d5-a10b-bba4b802cb17.htm" />
+  <HelpKINode Title="Galactic.LDAP.LDAP class" Url="html/cc473970-85d7-921c-935a-cf0beb281348.htm" />
+  <HelpKINode Title="Galactic.NoSql namespace" Url="html/41fc5ea8-15e5-0aca-8695-224598ca668c.htm" />
+  <HelpKINode Title="Galactic.NoSql.Couchbase namespace" Url="html/7b1d6dc3-f145-aeab-9aae-66ae9a9c41b0.htm" />
+  <HelpKINode Title="Galactic.NoSql.Couchbase.CouchbaseUtility class" Url="html/f1d9e30c-c8a6-422c-8dfb-c74012d32dee.htm" />
+  <HelpKINode Title="Galactic.NoSql.NoSqlUtility class" Url="html/84e563ba-4da2-a9d2-daef-3483518a2d94.htm" />
+  <HelpKINode Title="Galactic.PowerShell namespace" Url="html/64eb844c-f285-e7a8-d71a-0572ffb12504.htm" />
+  <HelpKINode Title="Galactic.PowerShell.IPowerShellScript interface" Url="html/f0769e0d-eb3e-8a3f-f590-dcd58d9c0b9a.htm" />
+  <HelpKINode Title="Galactic.PowerShell.PowerShell class" Url="html/ccc3316c-d165-d516-d960-788807ee3af4.htm" />
+  <HelpKINode Title="Galactic.PowerShell.PowerShell.ProcessResults delegate" Url="html/9f09766f-51a1-fa88-88f5-c9c6807aa535.htm" />
+  <HelpKINode Title="Galactic.PowerShell.PowerShellScript class" Url="html/3e21e8bf-7894-5981-e2d2-1831150ce972.htm" />
+  <HelpKINode Title="Galactic.SharePoint namespace" Url="html/02d0ace0-6abf-27b4-a2f7-233f74206203.htm" />
+  <HelpKINode Title="Galactic.SharePoint.SharePointClient class" Url="html/be07b832-0dbd-fe71-551f-6a01555da939.htm" />
+  <HelpKINode Title="Galactic.SharePoint.SharePointDocument class" Url="html/a74d9330-0286-982d-eac4-726240f1afa4.htm" />
+  <HelpKINode Title="Galactic.SharePoint.SharePointDocumentLibrary class" Url="html/2c2a644d-54d7-0adc-6a4a-19bbc68b0ad8.htm" />
+  <HelpKINode Title="Galactic.SharePoint.SharePointFolder class" Url="html/db28cb5d-1929-8a01-0355-523982db1021.htm" />
+  <HelpKINode Title="Galactic.SharePoint.SharePointList class" Url="html/b8c8686c-797b-1608-ee4a-3eac02ca3257.htm" />
+  <HelpKINode Title="Galactic.SharePoint.SharePointListItem class" Url="html/6e1c64ac-3f50-3e0c-ada5-a65ce7b0ef57.htm" />
+  <HelpKINode Title="Galactic.SharePoint.SharePointUser class" Url="html/021abeb0-397a-d0da-bb05-35291ffb8ecd.htm" />
+  <HelpKINode Title="Galactic.Sql namespace" Url="html/450d4db6-f56b-1eaa-c3b8-a05a4440c230.htm" />
+  <HelpKINode Title="Galactic.Sql.IStoredProcedure interface" Url="html/b64be2a3-f19c-ea7d-4619-028ea1ffa133.htm" />
+  <HelpKINode Title="Galactic.Sql.MSSql namespace" Url="html/df528de8-12e8-21cd-2cc9-d31c025898cd.htm" />
+  <HelpKINode Title="Galactic.Sql.MSSql.MSSqlUtility class" Url="html/38c70700-5124-5c0c-de74-9af8843dec48.htm" />
+  <HelpKINode Title="Galactic.Sql.MSSql.MSStoredProcedure class" Url="html/be5311dd-7766-8fa7-c15c-78cd0801746f.htm" />
+  <HelpKINode Title="Galactic.Sql.Oracle namespace" Url="html/36d4891c-1882-d620-198b-43b49604522a.htm" />
+  <HelpKINode Title="Galactic.Sql.Oracle.OracleStoredProcedure class" Url="html/ed4c96a4-be9c-1942-3825-8340e264a0a4.htm" />
+  <HelpKINode Title="Galactic.Sql.Oracle.OracleUtility class" Url="html/e677368a-a7e1-4d70-b352-c99eef6e43bf.htm" />
+  <HelpKINode Title="Galactic.Sql.Oracle.OracleUtility.DBAPrivilege structure" Url="html/01effee2-db57-a9ed-abe8-1e3704614b54.htm" />
+  <HelpKINode Title="Galactic.Sql.SqlRow class" Url="html/b88825ae-1f06-648b-513b-cd3cf5cb6a15.htm" />
+  <HelpKINode Title="Galactic.Sql.SqlUtility class" Url="html/2e31d202-70f6-eef2-8d5c-32de048f2f1c.htm" />
+  <HelpKINode Title="Galactic.Sql.StoredProcedure class" Url="html/e65d6103-4c52-0000-8850-694a49c43768.htm" />
+  <HelpKINode Title="Galactic.Sql.StoredProcedure.ParameterType enumeration" Url="html/fa44d15a-b8fb-901e-a9ea-82ed311f9af9.htm" />
+  <HelpKINode Title="Galactic.Web.Security namespace" Url="html/1b8ea275-35d9-ac6b-77ce-d72b47db4725.htm" />
+  <HelpKINode Title="Galactic.Web.Security.ActiveDirectoryRoleProvider class" Url="html/2a368fae-c5bb-dc64-11c0-c8806eac584f.htm" />
+  <HelpKINode Title="GenerateHash method" Url="html/e98e0498-a592-6c2e-7041-b3598c1a4370.htm" />
+  <HelpKINode Title="GenerateIV method" Url="html/5fdb6867-9793-e539-f1b8-1fa7fd3c7b07.htm" />
+  <HelpKINode Title="GenerateKey method" Url="html/9fa518b2-88b0-d1ac-16ae-e0e8589a9067.htm" />
+  <HelpKINode Title="GenerateSalt method" Url="html/a2e50e62-69be-a5f5-e44e-2ea491128d5a.htm" />
+  <HelpKINode Title="Get method">
+    <HelpKINode Title="ConfigurationItem.Get Method " Url="html/f677566a-44f1-e5ef-309e-4bdcdda414d2.htm" />
+    <HelpKINode Title="CouchbaseUtility.Get Method " Url="html/539e3125-f12f-2662-c015-21c14e98c288.htm" />
+    <HelpKINode Title="NoSqlUtility.Get Method " Url="html/79d1b6ab-675a-16ba-1fda-ab82fa52178b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetAllRoles method" Url="html/16b4141f-de91-2744-7e2d-73cb94015df0.htm" />
+  <HelpKINode Title="GetAllUsers method" Url="html/aca886f6-b3f0-48e7-9b90-633158b9122b.htm" />
+  <HelpKINode Title="GetByteAttributeValue method">
+    <HelpKINode Title="ActiveDirectory.GetByteAttributeValue Method " Url="html/431c2202-d5a1-e3fd-0d47-0deb0062b792.htm" />
+    <HelpKINode Title="ActiveDirectoryObject.GetByteAttributeValue Method " Url="html/f9416caf-d6ed-358a-88f9-6acae3cadaca.htm" />
+    <HelpKINode Title="LDAP.GetByteAttributeValue Method " Url="html/9f02bb81-8390-ab92-1051-98b445972f9f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetByteAttributeValues method">
+    <HelpKINode Title="ActiveDirectory.GetByteAttributeValues Method " Url="html/d7896e39-d71c-0d22-0366-46fb2b05261b.htm" />
+    <HelpKINode Title="ActiveDirectoryObject.GetByteAttributeValues Method " Url="html/b3818c5e-09ec-1b50-f533-190b5bebf62c.htm" />
+    <HelpKINode Title="LDAP.GetByteAttributeValues Method " Url="html/5c255179-fea3-659b-6d59-ddde187b148a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetCalendar method">
+    <HelpKINode Title="CalendarUtility.GetCalendar Method " Url="html/1066984b-47cd-7375-e8fb-0253c2016ecc.htm" />
+    <HelpKINode Title="iCalendarUtility.GetCalendar Method " Url="html/e7fac52e-7fa1-08eb-42b8-5d6632cca6cf.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetCalendarText method" Url="html/5680488c-46e8-536e-de71-41a57d2ebd01.htm" />
+  <HelpKINode Title="GetCategories method" Url="html/0ba7affe-3bbb-1487-a8c4-b9f933b9fe85.htm" />
+  <HelpKINode Title="GetDateTimeFromUTCCodedTime method" Url="html/4b753978-ab17-8af6-f53d-d5eb99b55660.htm" />
+  <HelpKINode Title="GetDocumentLibraryByTitle method" Url="html/1f238d97-99cf-efcd-4637-d3fb990968bc.htm" />
+  <HelpKINode Title="GetEntries method" Url="html/a0ebb5c1-89af-42d1-17a4-0b6596be4aec.htm" />
+  <HelpKINode Title="GetEntriesByAttribute method" Url="html/ec15edba-2c2f-3152-a412-ec59f8277aa3.htm" />
+  <HelpKINode Title="GetEntriesBySAMAccountName method" Url="html/2fd56310-6b5c-4545-5b05-bdac641bb836.htm" />
+  <HelpKINode Title="GetEntry method" Url="html/9d7ffe22-3386-eeea-3fa8-93e9a54690d7.htm" />
+  <HelpKINode Title="GetEntryByAccountId method" Url="html/04e66916-defc-d1c9-9c86-bbf611c1adfa.htm" />
+  <HelpKINode Title="GetEntryByAttribute method" Url="html/4d9efc25-d6a6-5153-f352-03a3de1ab8f8.htm" />
+  <HelpKINode Title="GetEntryByCommonName method" Url="html/4bab8dd0-8f4a-b625-ddcc-fec07901baa2.htm" />
+  <HelpKINode Title="GetEntryByDistinguishedName method">
+    <HelpKINode Title="ActiveDirectory.GetEntryByDistinguishedName Method " Url="html/dc288459-af5f-8a23-b684-b47f99073292.htm" />
+    <HelpKINode Title="LDAP.GetEntryByDistinguishedName Method " Url="html/c9ea8158-1641-2180-7fb3-646a90583264.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetEntryByEmailAddress method" Url="html/6cb89d7e-6b3f-3b32-8464-649a9d6afe9d.htm" />
+  <HelpKINode Title="GetEntryByGUID method" Url="html/6a9b5de9-9157-289c-2a37-a727a57f37e9.htm" />
+  <HelpKINode Title="GetEntryBySAMAccountName method" Url="html/8845b1d9-9ace-9de9-dfa8-6788a84333e0.htm" />
+  <HelpKINode Title="GetEntryFromAD method" Url="html/4b0da32a-aecd-dcfb-15a9-8f158753b700.htm" />
+  <HelpKINode Title="GetEnumerator method">
+    <HelpKINode Title="Group.GetEnumerator Method " Url="html/bc384db1-3008-b0fc-65b0-1a1ccb92e0cb.htm" />
+    <HelpKINode Title="SharePointDocumentLibrary.GetEnumerator Method " Url="html/0ba42827-a3f9-db8c-34d3-943b48632b03.htm" />
+    <HelpKINode Title="SharePointList.GetEnumerator Method " Url="html/99efe6b6-121f-7f14-c3fa-0c13df38919b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetEvents method" Url="html/8c3b397a-21fe-2536-b716-f5871e8239d7.htm" />
+  <HelpKINode Title="GetFileByUrl method" Url="html/f1e34674-95d4-de11-659d-f93aeb6ae1b2.htm" />
+  <HelpKINode Title="GetFolderByUrl method" Url="html/667f52e7-105f-5885-eca1-c3827530214e.htm" />
+  <HelpKINode Title="GetGUID method" Url="html/5e2f55c9-d447-edcb-1f7e-3941628237ab.htm" />
+  <HelpKINode Title="GetGUIDByAccountId method" Url="html/26a79af0-9223-010c-41f8-02ab24200113.htm" />
+  <HelpKINode Title="GetGUIDByAttribute method" Url="html/f6df7e30-cf03-cc4e-ce75-015e7ce576ed.htm" />
+  <HelpKINode Title="GetGUIDByCommonName method" Url="html/94bf98dc-46c2-292e-321d-a50a5beee693.htm" />
+  <HelpKINode Title="GetGUIDByDistinguishedName method" Url="html/37cf46c2-bdc1-a924-b7cc-5a3642a1dd15.htm" />
+  <HelpKINode Title="GetGUIDBySAMAccountName method" Url="html/daf2a9ba-4002-e3bd-859a-4e648d7aa3f5.htm" />
+  <HelpKINode Title="GetHash method" Url="html/9dabea8f-0e51-0495-531c-5280fedd9111.htm" />
+  <HelpKINode Title="GetHashCode method">
+    <HelpKINode Title="ActiveDirectoryObject.GetHashCode Method " Url="html/a7a8a0ce-1c90-ee8f-5c21-9e11f140b9d7.htm" />
+    <HelpKINode Title="Group.GetHashCode Method " Url="html/66d1d14d-b655-fb97-f5e2-adaa56ac01f1.htm" />
+    <HelpKINode Title="SecurityPrincipal.GetHashCode Method " Url="html/afa80082-6c2d-46fc-79f0-e5cd637a97a3.htm" />
+    <HelpKINode Title="User.GetHashCode Method " Url="html/f7a33a10-9e72-acb2-9659-d6ebc26f5eb6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetIntervalAttributeValue method">
+    <HelpKINode Title="ActiveDirectory.GetIntervalAttributeValue Method " Url="html/8c1c3f8d-14ef-b912-4428-1bd39e8f4a65.htm" />
+    <HelpKINode Title="ActiveDirectoryObject.GetIntervalAttributeValue Method " Url="html/bd68ed3e-0a4d-6cb0-df03-b8a397b45422.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetListByTitle method" Url="html/18f29db5-3b11-6531-87d7-28297687b539.htm" />
+  <HelpKINode Title="GetListing method" Url="html/f104e173-7bb5-aa84-30e9-6eae9061fc74.htm" />
+  <HelpKINode Title="GetLookupFieldValue method" Url="html/d2c152d6-9304-5944-fa26-a3fc0a263835.htm" />
+  <HelpKINode Title="GetMembers method" Url="html/417ae1d0-3ca2-a710-ea7f-d70590facbf9.htm" />
+  <HelpKINode Title="GetParameter method">
+    <HelpKINode Title="IStoredProcedure.GetParameter Method " Url="html/21389cc8-86ca-036b-e70f-fd0b0c84b0a6.htm" />
+    <HelpKINode Title="MSStoredProcedure.GetParameter Method " Url="html/244ae29c-dd9c-e651-9b61-31ec0b01ccc1.htm" />
+    <HelpKINode Title="OracleStoredProcedure.GetParameter Method " Url="html/71b6cfe1-18ed-4bb8-e904-bfd84fcfebeb.htm" />
+    <HelpKINode Title="StoredProcedure.GetParameter Method " Url="html/35917cf6-2592-292b-466d-73e0872c9941.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetParamName method">
+    <HelpKINode Title="IStoredProcedure.GetParamName Method " Url="html/3b1d7056-3280-92b9-d437-8cc6a4d35546.htm" />
+    <HelpKINode Title="MSStoredProcedure.GetParamName Method " Url="html/666d9dcd-951e-ab08-ee6e-ec07ceb9f6a4.htm" />
+    <HelpKINode Title="OracleStoredProcedure.GetParamName Method " Url="html/886a0e75-1b86-61f3-845a-12441819f2e1.htm" />
+    <HelpKINode Title="StoredProcedure.GetParamName Method " Url="html/cba0cfff-8e65-6491-11ff-9efc9db94f95.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetReader method" Url="html/d4bcf2d5-5437-1a79-5e46-76eb5e201746.htm" />
+  <HelpKINode Title="GetRolesForUser method" Url="html/ae9f6de6-6205-1823-8c9b-3a55b985ffd1.htm" />
+  <HelpKINode Title="GetSecurityObject method">
+    <HelpKINode Title="Directory.GetSecurityObject Method " Url="html/abef3cdd-99e8-33c3-2754-1e26568c4614.htm" />
+    <HelpKINode Title="File.GetSecurityObject Method " Url="html/ac18cfe6-1a7e-9763-e688-b3e398f70b18.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetSeverityLevel method" Url="html/752cda4d-1d1e-6cca-9f1f-300b0d839753.htm" />
+  <HelpKINode Title="GetSeverityLevels method" Url="html/d2ac88c8-d9a6-e80e-d6ad-ae0dc06dca62.htm" />
+  <HelpKINode Title="GetSeverityLevelString method" Url="html/839964a0-e994-0018-1cc3-43fab3414cdf.htm" />
+  <HelpKINode Title="GetSiteDomainControllers method" Url="html/c521022f-4494-28b9-e9c9-b8ce74fc469a.htm" />
+  <HelpKINode Title="GetSources method" Url="html/73bf2682-15c1-ba6a-6050-88bc85ffaebb.htm" />
+  <HelpKINode Title="GetStringAttributeValue method">
+    <HelpKINode Title="ActiveDirectory.GetStringAttributeValue Method " Url="html/5c3a3225-bf71-2322-7f5d-6ff8f33a7177.htm" />
+    <HelpKINode Title="ActiveDirectoryObject.GetStringAttributeValue Method " Url="html/5a48375d-c555-e87e-2f62-99a08086ffc9.htm" />
+    <HelpKINode Title="LDAP.GetStringAttributeValue Method " Url="html/822eea5c-4549-58d1-5169-1bbbe39a25c4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetStringAttributeValues method">
+    <HelpKINode Title="ActiveDirectory.GetStringAttributeValues Method " Url="html/9c2e4477-4668-1610-ba3d-8d44c302610d.htm" />
+    <HelpKINode Title="ActiveDirectoryObject.GetStringAttributeValues Method " Url="html/409e5eaa-dbdd-0225-7b04-2840a50880cd.htm" />
+    <HelpKINode Title="LDAP.GetStringAttributeValues Method " Url="html/53c390fc-bb63-2243-7a62-e68b6ff18fa2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetUserAccountControlName method" Url="html/b22afd70-0b5b-7377-78a3-f2d1a37d3d05.htm" />
+  <HelpKINode Title="GetUsersInRole method" Url="html/a70d02db-6fd3-3a26-40b5-5e0898008b8d.htm" />
+  <HelpKINode Title="GetValue method" Url="html/4e0c20d1-1f1b-fc2c-a1a1-be99fc7dc1b8.htm" />
+  <HelpKINode Title="GiveAccess method" Url="html/bd12d7c3-3858-0520-a1ed-ec090990a9fd.htm" />
+  <HelpKINode Title="Global enumeration member" Url="html/da577c69-eb66-5290-b932-bf22468ceedb.htm" />
+  <HelpKINode Title="Group class">
+    <HelpKINode Title="Group Class" Url="html/c5c11dd9-577d-0a3c-347b-b8579f439d4b.htm" />
+    <HelpKINode Title="about Group class" Url="html/c5c11dd9-577d-0a3c-347b-b8579f439d4b.htm" />
+    <HelpKINode Title="constructor" Url="html/05309001-1a30-ca8a-c9db-56acac6134c7.htm" />
+    <HelpKINode Title="fields" Url="html/fdbf4046-0342-d62c-7149-23b35e643bf9.htm" />
+    <HelpKINode Title="methods" Url="html/0acc91e8-09d0-6a27-d1d2-22891225dc0b.htm" />
+    <HelpKINode Title="properties" Url="html/ca7b253f-a8e6-5851-54fa-5a84dc86310c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Group.AddMembers method" Url="html/2628f480-60bf-bff8-7539-3b3d9487f2b2.htm" />
+  <HelpKINode Title="Group.AllUserMembers property" Url="html/70aab209-d25a-de66-5578-817393630dea.htm" />
+  <HelpKINode Title="Group.AttributeNames field" Url="html/ecd80c34-32fa-1923-3d35-30c5f3a18ca4.htm" />
+  <HelpKINode Title="Group.ClearMembership method" Url="html/0ca1948e-3640-cf27-6e1b-db1b69558c90.htm" />
+  <HelpKINode Title="Group.CompareTo method" Url="html/a14d3a12-4ac0-d5ca-3193-67ff9dc7ec31.htm" />
+  <HelpKINode Title="Group.Create method" Url="html/ca1a2723-dfd3-0f1e-ac9c-fe0d2e7239ef.htm" />
+  <HelpKINode Title="Group.Delete method" Url="html/0e99e2f3-e367-6d66-e244-4802475f4f4c.htm" />
+  <HelpKINode Title="Group.Equals method" Url="html/6724e964-aff1-cc78-bad2-933e3f6f9ec3.htm" />
+  <HelpKINode Title="Group.GetEnumerator method" Url="html/bc384db1-3008-b0fc-65b0-1a1ccb92e0cb.htm" />
+  <HelpKINode Title="Group.GetHashCode method" Url="html/66d1d14d-b655-fb97-f5e2-adaa56ac01f1.htm" />
+  <HelpKINode Title="Group.Group constructor" Url="html/05309001-1a30-ca8a-c9db-56acac6134c7.htm" />
+  <HelpKINode Title="Group.GroupMembers property" Url="html/f5631cdd-5ccc-2b84-36eb-596b9a996a81.htm" />
+  <HelpKINode Title="Group.Members property" Url="html/e99633b7-5e11-1869-dc3d-5dafaca92e27.htm" />
+  <HelpKINode Title="Group.RemoveMember method" Url="html/a89d0fff-7280-e832-1cc5-25d40baf3fca.htm" />
+  <HelpKINode Title="Group.RemoveMembers method" Url="html/bb541cfc-c953-2aa6-fbd2-128db5545ddf.htm" />
+  <HelpKINode Title="Group.UserMembers property" Url="html/55935ea7-4f22-f303-e431-ef2fe892dbae.htm" />
+  <HelpKINode Title="GroupMembers property" Url="html/f5631cdd-5ccc-2b84-36eb-596b9a996a81.htm" />
+  <HelpKINode Title="Groups property" Url="html/3bc5d923-9aac-ac4e-7250-bcb378b4a14f.htm" />
+  <HelpKINode Title="GROUP_NAME_MAX_CHARS field" Url="html/a0c834fe-2f42-c855-2e44-075b12b87783.htm" />
+  <HelpKINode Title="GUID property" Url="html/5bef6e18-5a8c-0e64-893a-2dc10191184b.htm" />
+  <HelpKINode Title="High enumeration member" Url="html/ad3f0234-69f8-ca44-9b32-f487c3a26598.htm" />
+  <HelpKINode Title="HomeDirectory property" Url="html/d240ce66-7386-5ab2-e3aa-94525149e4b9.htm" />
+  <HelpKINode Title="HomedirRequired enumeration member" Url="html/4f6579cc-33f6-77c0-e201-fb610ccaa040.htm" />
+  <HelpKINode Title="HomeDrive property" Url="html/136ab11c-beda-beb0-ffd7-2f47c9b24d6f.htm" />
+  <HelpKINode Title="HomePage property" Url="html/1014ac09-a71f-044d-0879-f732ffaba47b.htm" />
+  <HelpKINode Title="iCalendarUtility class">
+    <HelpKINode Title="iCalendarUtility Class" Url="html/3a06b652-ced3-2f34-b173-d3143d440297.htm" />
+    <HelpKINode Title="about iCalendarUtility class" Url="html/3a06b652-ced3-2f34-b173-d3143d440297.htm" />
+    <HelpKINode Title="constructor" Url="html/6719ff91-9782-df60-d1f9-093910458b6f.htm" />
+    <HelpKINode Title="methods" Url="html/df2f4594-fcfc-8fc4-bcc9-30691c1d5317.htm" />
+    <HelpKINode Title="properties" Url="html/d54d0e73-dcc3-ddcd-af34-16c512c8f7d3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="iCalendarUtility.CalendarNames property" Url="html/98cb95f4-7c5c-d489-995d-c554f79de7fe.htm" />
+  <HelpKINode Title="iCalendarUtility.GetCalendar method" Url="html/e7fac52e-7fa1-08eb-42b8-5d6632cca6cf.htm" />
+  <HelpKINode Title="iCalendarUtility.GetCalendarText method" Url="html/5680488c-46e8-536e-de71-41a57d2ebd01.htm" />
+  <HelpKINode Title="iCalendarUtility.iCalendarUtility constructor" Url="html/6719ff91-9782-df60-d1f9-093910458b6f.htm" />
+  <HelpKINode Title="iCalendarUtility.SaveCalendar method" Url="html/ea703cec-e182-6e52-3e0c-a67bf33abc6d.htm" />
+  <HelpKINode Title="Id field" Url="html/7725938e-4885-d5b8-ebd9-db3721418684.htm" />
+  <HelpKINode Title="Id property" Url="html/14d05103-a654-7328-7d75-6691fbada232.htm" />
+  <HelpKINode Title="IEventLog interface">
+    <HelpKINode Title="IEventLog Interface" Url="html/3e513bfa-39b1-84ea-ba79-31c0df56c823.htm" />
+    <HelpKINode Title="about IEventLog interface" Url="html/3e513bfa-39b1-84ea-ba79-31c0df56c823.htm" />
+    <HelpKINode Title="methods" Url="html/7157ffbb-9c79-0de5-1b1f-0fae1391b00f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IEventLog.Find method" Url="html/ac65ca2e-177c-da7d-514d-f344815356ac.htm" />
+  <HelpKINode Title="IEventLog.Log method" Url="html/4b710753-f789-bc12-2d9d-d803c1947278.htm" />
+  <HelpKINode Title="IExceptionLogger interface">
+    <HelpKINode Title="IExceptionLogger Interface" Url="html/b56afb0b-6f7a-692f-748f-08c77092c5c1.htm" />
+    <HelpKINode Title="about IExceptionLogger interface" Url="html/b56afb0b-6f7a-692f-748f-08c77092c5c1.htm" />
+    <HelpKINode Title="methods" Url="html/abc9cf67-f01f-7454-257e-3647379269cc.htm" />
+    <HelpKINode Title="properties" Url="html/7e2138b8-03fb-2f9d-6012-1da071c59ec1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IExceptionLogger.Log property" Url="html/3e0bcda4-659e-6875-506a-66fb60d882d2.htm" />
+  <HelpKINode Title="IExceptionLogger.LogException method" Url="html/1b5f0fc7-46c6-e68d-cd09-aff456f5dd94.htm" />
+  <HelpKINode Title="In enumeration member" Url="html/fa44d15a-b8fb-901e-a9ea-82ed311f9af9.htm" />
+  <HelpKINode Title="Information enumeration member" Url="html/89ea8656-ed3b-e688-b58c-a5d8768d53aa.htm" />
+  <HelpKINode Title="Initialize method" Url="html/15401345-e99c-416d-5229-e6aa87811d52.htm" />
+  <HelpKINode Title="InitializeRunspacePool method" Url="html/dcfb1aaf-99f0-ea92-b1bb-92835c5465c0.htm" />
+  <HelpKINode Title="InOut enumeration member" Url="html/fa44d15a-b8fb-901e-a9ea-82ed311f9af9.htm" />
+  <HelpKINode Title="InterdomainTrustAccount enumeration member" Url="html/4f6579cc-33f6-77c0-e201-fb610ccaa040.htm" />
+  <HelpKINode Title="IPowerShellScript interface">
+    <HelpKINode Title="IPowerShellScript Interface" Url="html/f0769e0d-eb3e-8a3f-f590-dcd58d9c0b9a.htm" />
+    <HelpKINode Title="about IPowerShellScript interface" Url="html/f0769e0d-eb3e-8a3f-f590-dcd58d9c0b9a.htm" />
+    <HelpKINode Title="methods" Url="html/0c498bbd-bc33-fa3c-99df-e334e07d85b5.htm" />
+    <HelpKINode Title="properties" Url="html/6a2dbee4-32d0-7b5e-376e-8e5e89fbf4cf.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IPowerShellScript.Results property" Url="html/8da8554e-c570-ac41-a8f9-394003f4b6ca.htm" />
+  <HelpKINode Title="IPowerShellScript.RunAsynchronously method" Url="html/c0f3497f-b23b-b20a-9054-9fbf04228888.htm" />
+  <HelpKINode Title="IPowerShellScript.RunspacePool property" Url="html/358297a7-7a86-89a9-e185-84bee8d1441a.htm" />
+  <HelpKINode Title="IPowerShellScript.RunSynchronously method" Url="html/a392816e-9cb2-22fb-f16a-b06f5a3bf879.htm" />
+  <HelpKINode Title="IPowerShellScript.VerifyResultProperty method" Url="html/758c7f66-ba38-5cb9-87d6-e3ecad16fab3.htm" />
+  <HelpKINode Title="IsDisabled property" Url="html/5ca5da14-37e9-7f3f-a187-8e6e5ef0fd29.htm" />
+  <HelpKINode Title="IsGroup property" Url="html/5df03cf0-684a-d9d9-0ef1-f5f52abd0074.htm" />
+  <HelpKINode Title="IsGroupNameValid method" Url="html/11c3e32e-69ab-bc4c-4438-0b7d803c6c2b.htm" />
+  <HelpKINode Title="IsReadOnly property" Url="html/99e9a1a0-9dee-7734-f773-5327d4413688.htm" />
+  <HelpKINode Title="IStoredProcedure interface">
+    <HelpKINode Title="IStoredProcedure Interface" Url="html/b64be2a3-f19c-ea7d-4619-028ea1ffa133.htm" />
+    <HelpKINode Title="about IStoredProcedure interface" Url="html/b64be2a3-f19c-ea7d-4619-028ea1ffa133.htm" />
+    <HelpKINode Title="methods" Url="html/ce18e7d4-56a1-2bfc-88d5-02230b5823ef.htm" />
+    <HelpKINode Title="properties" Url="html/8a245e43-3eaa-cfa8-17b1-6600b1663b98.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IStoredProcedure.AddBooleanParameter method" Url="html/21b99452-cbb6-0d99-d529-ace87e156050.htm" />
+  <HelpKINode Title="IStoredProcedure.AddDateTimeParameter method" Url="html/6bc16603-fb91-7ec6-85ce-14c2ab37225d.htm" />
+  <HelpKINode Title="IStoredProcedure.AddInt32Parameter method" Url="html/5c166ad3-dae6-12ac-357d-e2d4afad2506.htm" />
+  <HelpKINode Title="IStoredProcedure.AddInt64Parameter method" Url="html/ad51cbd2-2271-d3c5-8d2e-ed3554965b16.htm" />
+  <HelpKINode Title="IStoredProcedure.AddNCharParameter method" Url="html/1a5d1835-d4eb-64d9-5ae5-c6bb2b3351c3.htm" />
+  <HelpKINode Title="IStoredProcedure.AddNVarCharParameter method" Url="html/77fa76ea-dce6-eccb-ad28-ff11c65911fc.htm" />
+  <HelpKINode Title="IStoredProcedure.AddParameter method" Url="html/6450d4f3-9a71-4bda-8bf4-a6b7f6fc9d11.htm" />
+  <HelpKINode Title="IStoredProcedure.AddVarCharParameter method" Url="html/4cf47f09-2c29-30cb-cb1a-308ed6fc3826.htm" />
+  <HelpKINode Title="IStoredProcedure.Command property" Url="html/20a646be-40a3-0132-b32a-abf74823aab4.htm" />
+  <HelpKINode Title="IStoredProcedure.Connection property" Url="html/1b4a9e44-48c3-ad18-2c13-146be41cb34d.htm" />
+  <HelpKINode Title="IStoredProcedure.Execute method" Url="html/b950162f-8ef1-4b00-3d0d-b616eb830f9c.htm" />
+  <HelpKINode Title="IStoredProcedure.ExecuteNonQuery method" Url="html/211b4df8-7d9a-bad2-df41-cdfe717914bc.htm" />
+  <HelpKINode Title="IStoredProcedure.GetParameter method" Url="html/21389cc8-86ca-036b-e70f-fd0b0c84b0a6.htm" />
+  <HelpKINode Title="IStoredProcedure.GetParamName method" Url="html/3b1d7056-3280-92b9-d437-8cc6a4d35546.htm" />
+  <HelpKINode Title="IStoredProcedure.Name property" Url="html/7e9b3e71-1378-5103-395f-eb77e720a180.htm" />
+  <HelpKINode Title="IsUser property" Url="html/a0a41777-48a5-a634-92b7-0385b13cd515.htm" />
+  <HelpKINode Title="IsUserInRole method" Url="html/f88636d8-c050-6426-c61f-1319aa061577.htm" />
+  <HelpKINode Title="Item property" Url="html/c7d0f126-fbc9-e00e-6081-ef211f7ae2f8.htm" />
+  <HelpKINode Title="Items property" Url="html/814fed7a-3d6a-8215-b435-2a89d06a283a.htm" />
+  <HelpKINode Title="JAN_01_1601 field" Url="html/543eabef-26b9-55e3-b9ac-ee895d2e66ca.htm" />
+  <HelpKINode Title="LastItemDeleted property" Url="html/71fb15d6-489e-7aa9-6e3b-718d9f8f33bf.htm" />
+  <HelpKINode Title="LastItemModified property" Url="html/5d4f387f-1259-27d2-0f5a-b42e56648285.htm" />
+  <HelpKINode Title="LastModifiedBy property" Url="html/763b9774-e18b-7320-1508-31fc3094a0b9.htm" />
+  <HelpKINode Title="LastModifiedTime property" Url="html/6a0e6472-fd55-33bb-eeb0-fc35d24da71f.htm" />
+  <HelpKINode Title="LastName property" Url="html/8ed560d5-7ad0-f402-42b4-b20b07e12ee2.htm" />
+  <HelpKINode Title="LastUpdated property" Url="html/44f828f4-3474-3be7-0652-8cf62393d78c.htm" />
+  <HelpKINode Title="LastUpdatedBy property" Url="html/12dbde5e-0395-521c-0317-c24082d963be.htm" />
+  <HelpKINode Title="LDAP class">
+    <HelpKINode Title="LDAP Class" Url="html/cc473970-85d7-921c-935a-cf0beb281348.htm" />
+    <HelpKINode Title="about LDAP class" Url="html/cc473970-85d7-921c-935a-cf0beb281348.htm" />
+    <HelpKINode Title="constructor" Url="html/73fc9e0c-5e0a-17dd-ca1e-25fd4a0e4e31.htm" />
+    <HelpKINode Title="fields" Url="html/b35320a8-5945-03a3-8d8c-d3fbde718599.htm" />
+    <HelpKINode Title="methods" Url="html/5de9d329-f8ef-113f-73c4-148bd6a325fc.htm" />
+    <HelpKINode Title="properties" Url="html/79dec51a-0ba5-35f5-3d85-956eee7bf1a1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LDAP.Add method" Url="html/2ab6e226-568a-4f0f-0455-0256dfd85b55.htm" />
+  <HelpKINode Title="LDAP.AddOrReplaceAttribute method" Url="html/31797066-58c9-7326-edf3-f1095e9f5b54.htm" />
+  <HelpKINode Title="LDAP.AlternateServers property" Url="html/bb66b9eb-23b7-f397-f3c8-7ae951cfdfcb.htm" />
+  <HelpKINode Title="LDAP.DEFAULT_QUERY_PAGE_SIZE field" Url="html/23f03567-7678-d5ff-a3f3-6025cf9c769a.htm" />
+  <HelpKINode Title="LDAP.Delete method" Url="html/cca9f324-94da-c6b0-92b7-8d9a0be5549f.htm" />
+  <HelpKINode Title="LDAP.DeleteAttribute method" Url="html/cbb6469e-991c-8431-e1ee-99ecde6671ff.htm" />
+  <HelpKINode Title="LDAP.Dispose method" Url="html/7f86c317-b397-bbc5-d835-06ce6c5f35b7.htm" />
+  <HelpKINode Title="LDAP.GetByteAttributeValue method" Url="html/9f02bb81-8390-ab92-1051-98b445972f9f.htm" />
+  <HelpKINode Title="LDAP.GetByteAttributeValues method" Url="html/5c255179-fea3-659b-6d59-ddde187b148a.htm" />
+  <HelpKINode Title="LDAP.GetEntryByDistinguishedName method" Url="html/c9ea8158-1641-2180-7fb3-646a90583264.htm" />
+  <HelpKINode Title="LDAP.GetStringAttributeValue method" Url="html/822eea5c-4549-58d1-5169-1bbbe39a25c4.htm" />
+  <HelpKINode Title="LDAP.GetStringAttributeValues method" Url="html/53c390fc-bb63-2243-7a62-e68b6ff18fa2.htm" />
+  <HelpKINode Title="LDAP.LDAP constructor" Url="html/73fc9e0c-5e0a-17dd-ca1e-25fd4a0e4e31.htm" />
+  <HelpKINode Title="LDAP.LDAP_PORT field" Url="html/dfa3a5ae-3e63-47ea-a313-2d01f985b134.htm" />
+  <HelpKINode Title="LDAP.LDAP_SSL_PORT field" Url="html/80597249-bb6b-9fba-375e-79fd0361f994.htm" />
+  <HelpKINode Title="LDAP.MoveRenameEntry method" Url="html/caff0189-dca3-ebc9-185a-406a22c7e152.htm" />
+  <HelpKINode Title="LDAP.NamingContexts property" Url="html/1eb97ebe-0254-f738-1be8-7d080e081f3e.htm" />
+  <HelpKINode Title="LDAP.RootDSE property" Url="html/a6a556d5-f549-b333-5b48-0e97c166af96.htm" />
+  <HelpKINode Title="LDAP.Search method" Url="html/7b1a3c9f-3658-f460-0dce-30c39597c9c9.htm" />
+  <HelpKINode Title="LDAP.SetSearchBaseAndScope method" Url="html/d0866af1-4194-7d36-dc42-4c1fccac1174.htm" />
+  <HelpKINode Title="LDAP_PORT field" Url="html/dfa3a5ae-3e63-47ea-a313-2d01f985b134.htm" />
+  <HelpKINode Title="LDAP_SSL_PORT field" Url="html/80597249-bb6b-9fba-375e-79fd0361f994.htm" />
+  <HelpKINode Title="List field" Url="html/55aac9eb-debb-5301-5124-94c3f8017e28.htm" />
+  <HelpKINode Title="ListFolderReadData enumeration member" Url="html/c7a50b7e-c9bd-6dd4-2c7c-d5fea1feaf81.htm" />
+  <HelpKINode Title="listItem field" Url="html/a7504a54-2c04-510a-5bc2-b75b92b9f80c.htm" />
+  <HelpKINode Title="ListItem property" Url="html/a794689d-b6f0-1901-16e5-d630cedb7f1f.htm" />
+  <HelpKINode Title="ListItemCollection field" Url="html/b9e89e56-b876-02f6-dcb5-2112dd76c6c8.htm" />
+  <HelpKINode Title="Load method" Url="html/b97a3315-5f9f-dc66-f9e6-648bf64677bd.htm" />
+  <HelpKINode Title="Location property" Url="html/eeff44a2-4d1e-9ca5-7a50-d7aa40914e78.htm" />
+  <HelpKINode Title="LocationUrl property" Url="html/b595a48c-fcef-72fa-6ffa-15654c862d35.htm" />
+  <HelpKINode Title="Lockout enumeration member" Url="html/4f6579cc-33f6-77c0-e201-fb610ccaa040.htm" />
+  <HelpKINode Title="log field" Url="html/8a8e7eee-59d5-76c7-10d3-0833359247f1.htm" />
+  <HelpKINode Title="Log method">
+    <HelpKINode Title="EventLog.Log Method " Url="html/5348bf6d-02d5-21df-caa4-cde0a9ece92b.htm" />
+    <HelpKINode Title="IEventLog.Log Method " Url="html/4b710753-f789-bc12-2d9d-d803c1947278.htm" />
+    <HelpKINode Title="SqlEventLog.Log Method " Url="html/5b7d0dd1-f5de-217f-1a67-f8a4d10500c9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Log property">
+    <HelpKINode Title="IExceptionLogger.Log Property " Url="html/3e0bcda4-659e-6875-506a-66fb60d882d2.htm" />
+    <HelpKINode Title="PowerShellScript.Log Property " Url="html/b8d858f1-a6d2-78be-ff9f-8d3f00c13244.htm" />
+    <HelpKINode Title="StoredProcedure.Log Property " Url="html/31ce2a99-8b9b-e365-fc13-396ada4cd93e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LogException method">
+    <HelpKINode Title="CouchbaseUtility.LogException Method " Url="html/abd43711-2dee-6da4-585d-393c5b460fd7.htm" />
+    <HelpKINode Title="IExceptionLogger.LogException Method " Url="html/1b5f0fc7-46c6-e68d-cd09-aff456f5dd94.htm" />
+    <HelpKINode Title="NoSqlUtility.LogException Method " Url="html/7a9572bd-8cb1-33a2-4e4a-74533423022d.htm" />
+    <HelpKINode Title="OracleUtility.LogException Method " Url="html/890fd795-2a4d-e815-fc4e-65d0cd4bf8ec.htm" />
+    <HelpKINode Title="PowerShellScript.LogException Method " Url="html/1481f483-400e-cfa2-9ea0-d81686c242b9.htm" />
+    <HelpKINode Title="SqlUtility.LogException Method " Url="html/04300e89-1b92-8b70-866b-2450db185759.htm" />
+    <HelpKINode Title="StoredProcedure.LogException Method " Url="html/2a9e6f97-5272-ea64-a1f4-541b56415e89.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LogonScript property" Url="html/9194343b-2494-9703-d169-ecdd8b5fc984.htm" />
+  <HelpKINode Title="Low enumeration member" Url="html/ad3f0234-69f8-ca44-9b32-f487c3a26598.htm" />
+  <HelpKINode Title="Manager property" Url="html/05486a0c-8d39-41eb-5eda-1c817292c1ac.htm" />
+  <HelpKINode Title="MaxRoleNameLength property" Url="html/3ae36e9e-fba1-a4d5-4c0d-b0c265a29188.htm" />
+  <HelpKINode Title="MAX_NCHAR_LENGTH property">
+    <HelpKINode Title="MSSqlUtility.MAX_NCHAR_LENGTH Property " Url="html/a6ebc340-45c1-ff73-ceeb-15c7b9489e71.htm" />
+    <HelpKINode Title="OracleUtility.MAX_NCHAR_LENGTH Property " Url="html/40bc9e19-de7a-0731-8bfb-968679f8a1de.htm" />
+    <HelpKINode Title="SqlUtility.MAX_NCHAR_LENGTH Property " Url="html/db9b11ce-f3c4-01f9-0a7e-18988203a52d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MAX_NUM_MULTIVALUE_ATTRIBUTES field" Url="html/7ae7b7cf-4a7d-5b4c-18bc-d49f124cedf7.htm" />
+  <HelpKINode Title="MAX_NVARCHAR_LENGTH property">
+    <HelpKINode Title="MSSqlUtility.MAX_NVARCHAR_LENGTH Property " Url="html/3efdb318-562c-662e-c484-340efb8dfb01.htm" />
+    <HelpKINode Title="OracleUtility.MAX_NVARCHAR_LENGTH Property " Url="html/24da9c5d-a241-ece5-df5d-33ad1302cbd2.htm" />
+    <HelpKINode Title="SqlUtility.MAX_NVARCHAR_LENGTH Property " Url="html/2d1353d2-9d7d-62a1-0d2b-1856eb16a6be.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MAX_NVARCHAR_SIZE field">
+    <HelpKINode Title="MSStoredProcedure.MAX_NVARCHAR_SIZE Field" Url="html/8e7c7356-67ef-ea72-5829-535bb2408515.htm" />
+    <HelpKINode Title="OracleStoredProcedure.MAX_NVARCHAR_SIZE Field" Url="html/a9c1a173-00d8-c430-7565-5c72e534011b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MAX_VARCHAR_LENGTH property">
+    <HelpKINode Title="MSSqlUtility.MAX_VARCHAR_LENGTH Property " Url="html/7ba24c30-70ca-15bf-7e4d-db5958d313af.htm" />
+    <HelpKINode Title="OracleUtility.MAX_VARCHAR_LENGTH Property " Url="html/115ae788-3b14-4322-fcea-09e296d0dff2.htm" />
+    <HelpKINode Title="SqlUtility.MAX_VARCHAR_LENGTH Property " Url="html/919ab4ff-b7d1-4b96-717e-0b1028e64d0c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MAX_VARCHAR_SIZE field">
+    <HelpKINode Title="MSStoredProcedure.MAX_VARCHAR_SIZE Field" Url="html/5c5ca0f0-ba30-36cd-93db-13ace8935565.htm" />
+    <HelpKINode Title="OracleStoredProcedure.MAX_VARCHAR_SIZE Field" Url="html/ef3c4ba9-69de-b574-e7ca-5b2dfce9c8c5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Medium enumeration member" Url="html/ad3f0234-69f8-ca44-9b32-f487c3a26598.htm" />
+  <HelpKINode Title="MemberOfGroup method" Url="html/45660959-261d-411e-e76c-8b7314de8603.htm" />
+  <HelpKINode Title="Members property" Url="html/e99633b7-5e11-1869-dc3d-5dafaca92e27.htm" />
+  <HelpKINode Title="MNSLogonAccount enumeration member" Url="html/4f6579cc-33f6-77c0-e201-fb610ccaa040.htm" />
+  <HelpKINode Title="Modify enumeration member" Url="html/c7a50b7e-c9bd-6dd4-2c7c-d5fea1feaf81.htm" />
+  <HelpKINode Title="Move method">
+    <HelpKINode Title="Directory.Move Method " Url="html/bc1c9bcf-8b3e-f98e-56e4-adaa1619d0b2.htm" />
+    <HelpKINode Title="File.Move Method " Url="html/6c82034e-b511-a7fc-6704-abda5592a28d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MoveRename method">
+    <HelpKINode Title="ActiveDirectoryObject.MoveRename Method " Url="html/078426d4-c626-894b-654a-8c3b5595a43e.htm" />
+    <HelpKINode Title="SecurityPrincipal.MoveRename Method " Url="html/32757f83-40ad-97d7-43f4-51d8c1cec3a1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MoveRenameEntry method" Url="html/caff0189-dca3-ebc9-185a-406a22c7e152.htm" />
+  <HelpKINode Title="MoveRenameObject method" Url="html/25785261-69a6-34fb-ae77-194553d1ff30.htm" />
+  <HelpKINode Title="MSSqlUtility class">
+    <HelpKINode Title="MSSqlUtility Class" Url="html/38c70700-5124-5c0c-de74-9af8843dec48.htm" />
+    <HelpKINode Title="about MSSqlUtility class" Url="html/38c70700-5124-5c0c-de74-9af8843dec48.htm" />
+    <HelpKINode Title="constructor" Url="html/cf21b5fe-fcbc-5863-641b-d3082dbbdd2b.htm" />
+    <HelpKINode Title="methods" Url="html/53a337cd-6280-bfdf-8131-2fb0cbbc8f67.htm" />
+    <HelpKINode Title="properties" Url="html/04c0d168-0ba7-7a3b-c7d0-5b5303121448.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MSSqlUtility.BuildConnectionString method" Url="html/d7df5d3f-3807-6411-b060-012175483133.htm" />
+  <HelpKINode Title="MSSqlUtility.ExecuteNonQuery method" Url="html/96b3303e-9365-e82e-a1e8-0197f90c3f48.htm" />
+  <HelpKINode Title="MSSqlUtility.ExecuteQuery method" Url="html/ee67de23-1888-2c31-9f36-250d694324c6.htm" />
+  <HelpKINode Title="MSSqlUtility.MAX_NCHAR_LENGTH property" Url="html/a6ebc340-45c1-ff73-ceeb-15c7b9489e71.htm" />
+  <HelpKINode Title="MSSqlUtility.MAX_NVARCHAR_LENGTH property" Url="html/3efdb318-562c-662e-c484-340efb8dfb01.htm" />
+  <HelpKINode Title="MSSqlUtility.MAX_VARCHAR_LENGTH property" Url="html/7ba24c30-70ca-15bf-7e4d-db5958d313af.htm" />
+  <HelpKINode Title="MSSqlUtility.MSSqlUtility constructor" Url="html/cf21b5fe-fcbc-5863-641b-d3082dbbdd2b.htm" />
+  <HelpKINode Title="MSStoredProcedure class">
+    <HelpKINode Title="MSStoredProcedure Class" Url="html/be5311dd-7766-8fa7-c15c-78cd0801746f.htm" />
+    <HelpKINode Title="about MSStoredProcedure class" Url="html/be5311dd-7766-8fa7-c15c-78cd0801746f.htm" />
+    <HelpKINode Title="constructor" Url="html/ea6156d0-0f47-8054-e0b9-01d0954431a2.htm" />
+    <HelpKINode Title="fields" Url="html/27f30b6b-7e3b-3120-b7d9-fce7b2aebfc8.htm" />
+    <HelpKINode Title="methods" Url="html/49170f3c-25ac-fe87-8ca3-31c8e83647ca.htm" />
+    <HelpKINode Title="properties" Url="html/b5d89674-cd8b-bfb0-ba48-66c694cd42be.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MSStoredProcedure.AddBooleanParameter method" Url="html/17a799a8-b160-0bee-b9f4-b91a26ff7339.htm" />
+  <HelpKINode Title="MSStoredProcedure.AddDateTimeParameter method" Url="html/0d29bd7e-9b95-b0c5-5bc9-f7c932220b15.htm" />
+  <HelpKINode Title="MSStoredProcedure.AddInt32Parameter method" Url="html/5f8a5786-b07d-11a8-d826-4372d43c6135.htm" />
+  <HelpKINode Title="MSStoredProcedure.AddInt64Parameter method" Url="html/28e36ea7-0e4c-4948-ee0c-89e8ae15d2a6.htm" />
+  <HelpKINode Title="MSStoredProcedure.AddNCharParameter method" Url="html/d8bdf509-d2f3-3035-7089-0e86492ec1de.htm" />
+  <HelpKINode Title="MSStoredProcedure.AddNVarCharParameter method" Url="html/ae3ac38b-088f-a5db-8dd9-ca1f74bd2b45.htm" />
+  <HelpKINode Title="MSStoredProcedure.AddVarCharParameter method" Url="html/5a9fbced-3410-acc4-42e7-5128e5b87f63.htm" />
+  <HelpKINode Title="MSStoredProcedure.Command property" Url="html/2b276054-f2a2-fca3-09c2-d477e076dcf2.htm" />
+  <HelpKINode Title="MSStoredProcedure.Connection property" Url="html/ffbfffb0-2805-213c-7fdd-a722e9bd2d92.htm" />
+  <HelpKINode Title="MSStoredProcedure.GetParameter method" Url="html/244ae29c-dd9c-e651-9b61-31ec0b01ccc1.htm" />
+  <HelpKINode Title="MSStoredProcedure.GetParamName method" Url="html/666d9dcd-951e-ab08-ee6e-ec07ceb9f6a4.htm" />
+  <HelpKINode Title="MSStoredProcedure.MAX_NVARCHAR_SIZE field" Url="html/8e7c7356-67ef-ea72-5829-535bb2408515.htm" />
+  <HelpKINode Title="MSStoredProcedure.MAX_VARCHAR_SIZE field" Url="html/5c5ca0f0-ba30-36cd-93db-13ace8935565.htm" />
+  <HelpKINode Title="MSStoredProcedure.MSStoredProcedure constructor" Url="html/ea6156d0-0f47-8054-e0b9-01d0954431a2.htm" />
+  <HelpKINode Title="MustChangePasswordAtNextLogon property" Url="html/0399fa98-e96a-0d5c-38b8-307b898077c3.htm" />
+  <HelpKINode Title="Name field" Url="html/c2ce1866-01a0-ae29-2be8-cb1b0a4bb161.htm" />
+  <HelpKINode Title="Name property">
+    <HelpKINode Title="ActiveDirectory.Name Property " Url="html/4afe2ed7-39b0-2ca2-dd37-674f55407342.htm" />
+    <HelpKINode Title="ActiveDirectoryRoleProvider.Name Property " Url="html/c26efe47-70fd-bd12-5ef8-720380b3fcf7.htm" />
+    <HelpKINode Title="Calendar.Name Property " Url="html/6f7775db-9aef-f2e2-c252-83a2c3f6ccee.htm" />
+    <HelpKINode Title="ConfigurationItem.Name Property " Url="html/d8541394-28c6-d934-8de8-c3b905241861.htm" />
+    <HelpKINode Title="IStoredProcedure.Name Property " Url="html/7e9b3e71-1378-5103-395f-eb77e720a180.htm" />
+    <HelpKINode Title="SharePointDocument.Name Property " Url="html/56cf4148-4571-f0cc-d1bb-207f5176cf63.htm" />
+    <HelpKINode Title="StoredProcedure.Name Property " Url="html/20fb0cff-88ac-47d8-3f4e-e374b9132226.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NamingContexts property" Url="html/1eb97ebe-0254-f738-1be8-7d080e081f3e.htm" />
+  <HelpKINode Title="NoEndTime property" Url="html/853e652a-f182-54c0-35fa-ec769826852e.htm" />
+  <HelpKINode Title="NONE field" Url="html/9ba90091-b061-1d8b-c27d-28be2c22cdd1.htm" />
+  <HelpKINode Title="NormalAccount enumeration member" Url="html/4f6579cc-33f6-77c0-e201-fb610ccaa040.htm" />
+  <HelpKINode Title="NoSqlUtility class">
+    <HelpKINode Title="NoSqlUtility Class" Url="html/84e563ba-4da2-a9d2-daef-3483518a2d94.htm" />
+    <HelpKINode Title="about NoSqlUtility class" Url="html/84e563ba-4da2-a9d2-daef-3483518a2d94.htm" />
+    <HelpKINode Title="constructor" Url="html/1f1e5c4d-3152-92c9-832f-d3dc209c1bd2.htm" />
+    <HelpKINode Title="methods" Url="html/aefaad34-f600-bdc9-3f9a-7eaf8faa6cd5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NoSqlUtility.AddOrReplace method" Url="html/2a1278db-6f1c-c7f3-aa8c-3e9c9aa69ee1.htm" />
+  <HelpKINode Title="NoSqlUtility.Delete method" Url="html/ae8f7a7b-aef8-875e-7f3c-b6321682b8dd.htm" />
+  <HelpKINode Title="NoSqlUtility.Get method" Url="html/79d1b6ab-675a-16ba-1fda-ab82fa52178b.htm" />
+  <HelpKINode Title="NoSqlUtility.LogException method" Url="html/7a9572bd-8cb1-33a2-4e4a-74533423022d.htm" />
+  <HelpKINode Title="NoSqlUtility.NoSqlUtility constructor" Url="html/1f1e5c4d-3152-92c9-832f-d3dc209c1bd2.htm" />
+  <HelpKINode Title="NotDelegated enumeration member" Url="html/4f6579cc-33f6-77c0-e201-fb610ccaa040.htm" />
+  <HelpKINode Title="NTName property" Url="html/526f87ff-ff30-10bd-89f7-83005dd53031.htm" />
+  <HelpKINode Title="OnMultipleCalendars property" Url="html/7ef3da47-785b-494f-e6fe-ab41ea2bfa01.htm" />
+  <HelpKINode Title="Open method" Url="html/0dac8c3a-e657-fbfa-e3ad-b5f41eb64634.htm" />
+  <HelpKINode Title="OracleStoredProcedure class">
+    <HelpKINode Title="OracleStoredProcedure Class" Url="html/ed4c96a4-be9c-1942-3825-8340e264a0a4.htm" />
+    <HelpKINode Title="about OracleStoredProcedure class" Url="html/ed4c96a4-be9c-1942-3825-8340e264a0a4.htm" />
+    <HelpKINode Title="constructor" Url="html/1aad8782-a8a7-a5d1-0629-59acccf6ede5.htm" />
+    <HelpKINode Title="fields" Url="html/8abda408-643d-6f25-a85d-9f8dc380e968.htm" />
+    <HelpKINode Title="methods" Url="html/b7a5f86b-3bd8-b84a-b2c2-63035ddfed5b.htm" />
+    <HelpKINode Title="properties" Url="html/92eae892-418a-392b-a22f-d4d9e6d67378.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OracleStoredProcedure.AddBooleanParameter method" Url="html/07ddd596-5ea3-e512-38f7-cc768f4f4f65.htm" />
+  <HelpKINode Title="OracleStoredProcedure.AddDateTimeParameter method" Url="html/d72c3149-48aa-aa70-96ca-5ef47c4e3c1b.htm" />
+  <HelpKINode Title="OracleStoredProcedure.AddInt32Parameter method" Url="html/31fa6bac-8816-95da-8657-9f86bbff1446.htm" />
+  <HelpKINode Title="OracleStoredProcedure.AddInt64Parameter method" Url="html/20cac00e-37dd-065e-0b99-fac21cf5cb18.htm" />
+  <HelpKINode Title="OracleStoredProcedure.AddNCharParameter method" Url="html/3766d4f8-ca79-7564-29ae-8d95e1a80c5f.htm" />
+  <HelpKINode Title="OracleStoredProcedure.AddNVarCharParameter method" Url="html/01134b8f-9ef6-8d4d-e1a1-f970887b6c99.htm" />
+  <HelpKINode Title="OracleStoredProcedure.AddVarCharParameter method" Url="html/6ed7bd0c-75d4-6a49-f5e3-9662573b273d.htm" />
+  <HelpKINode Title="OracleStoredProcedure.Command property" Url="html/600389fb-e7ff-8101-f6be-1d82db749fc7.htm" />
+  <HelpKINode Title="OracleStoredProcedure.Connection property" Url="html/fff8e294-5922-36a4-8b6f-7eb6f01f3625.htm" />
+  <HelpKINode Title="OracleStoredProcedure.GetParameter method" Url="html/71b6cfe1-18ed-4bb8-e904-bfd84fcfebeb.htm" />
+  <HelpKINode Title="OracleStoredProcedure.GetParamName method" Url="html/886a0e75-1b86-61f3-845a-12441819f2e1.htm" />
+  <HelpKINode Title="OracleStoredProcedure.MAX_NVARCHAR_SIZE field" Url="html/a9c1a173-00d8-c430-7565-5c72e534011b.htm" />
+  <HelpKINode Title="OracleStoredProcedure.MAX_VARCHAR_SIZE field" Url="html/ef3c4ba9-69de-b574-e7ca-5b2dfce9c8c5.htm" />
+  <HelpKINode Title="OracleStoredProcedure.OracleStoredProcedure constructor" Url="html/1aad8782-a8a7-a5d1-0629-59acccf6ede5.htm" />
+  <HelpKINode Title="OracleUtility class">
+    <HelpKINode Title="OracleUtility Class" Url="html/e677368a-a7e1-4d70-b352-c99eef6e43bf.htm" />
+    <HelpKINode Title="about OracleUtility class" Url="html/e677368a-a7e1-4d70-b352-c99eef6e43bf.htm" />
+    <HelpKINode Title="constructor" Url="html/dde58cc8-e54e-d37f-2494-e1e787523cbb.htm" />
+    <HelpKINode Title="fields" Url="html/e2437199-b12d-b32c-664c-b91d2cd30fdf.htm" />
+    <HelpKINode Title="methods" Url="html/374093c0-dd3a-2481-59f8-5433b9c38ead.htm" />
+    <HelpKINode Title="properties" Url="html/8227d96f-45f2-502c-83ad-d59b9551252b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OracleUtility.BuildConnectionString method" Url="html/63537946-3728-e803-bc4a-6327516e50db.htm" />
+  <HelpKINode Title="OracleUtility.DBAPrivilege structure">
+    <HelpKINode Title="OracleUtility.DBAPrivilege Structure" Url="html/01effee2-db57-a9ed-abe8-1e3704614b54.htm" />
+    <HelpKINode Title="about OracleUtility.DBAPrivilege structure" Url="html/01effee2-db57-a9ed-abe8-1e3704614b54.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OracleUtility.DBAPrivilege.NONE field" Url="html/9ba90091-b061-1d8b-c27d-28be2c22cdd1.htm" />
+  <HelpKINode Title="OracleUtility.DBAPrivilege.SYSDBA field" Url="html/af89b447-5d45-3921-c5ac-cc13d3b2118c.htm" />
+  <HelpKINode Title="OracleUtility.DBAPrivilege.SYSOPER field" Url="html/4eecd0ef-9680-041a-55c5-adc5f1099be8.htm" />
+  <HelpKINode Title="OracleUtility.DefaultPortNumber field" Url="html/8724eff7-7703-07ba-41fb-5dc70a2e7f68.htm" />
+  <HelpKINode Title="OracleUtility.ExecuteNonQuery method" Url="html/c80620e1-2201-9f41-a125-14301c12b69a.htm" />
+  <HelpKINode Title="OracleUtility.ExecuteQuery method" Url="html/2e65afc5-8279-e4f5-dc1c-053421496f0f.htm" />
+  <HelpKINode Title="OracleUtility.LogException method" Url="html/890fd795-2a4d-e815-fc4e-65d0cd4bf8ec.htm" />
+  <HelpKINode Title="OracleUtility.MAX_NCHAR_LENGTH property" Url="html/40bc9e19-de7a-0731-8bfb-968679f8a1de.htm" />
+  <HelpKINode Title="OracleUtility.MAX_NVARCHAR_LENGTH property" Url="html/24da9c5d-a241-ece5-df5d-33ad1302cbd2.htm" />
+  <HelpKINode Title="OracleUtility.MAX_VARCHAR_LENGTH property" Url="html/115ae788-3b14-4322-fcea-09e296d0dff2.htm" />
+  <HelpKINode Title="OracleUtility.OracleUtility constructor" Url="html/dde58cc8-e54e-d37f-2494-e1e787523cbb.htm" />
+  <HelpKINode Title="OrganizationalUnit property" Url="html/a4d48f4f-58da-62b7-bc75-7d8241d4daa7.htm" />
+  <HelpKINode Title="Out enumeration member" Url="html/fa44d15a-b8fb-901e-a9ea-82ed311f9af9.htm" />
+  <HelpKINode Title="PAGE_SIZE field" Url="html/65e07e35-4697-ff07-9033-8ec516a3a504.htm" />
+  <HelpKINode Title="PartialSecretsAccount enumeration member" Url="html/4f6579cc-33f6-77c0-e201-fb610ccaa040.htm" />
+  <HelpKINode Title="PasswdCantChange enumeration member" Url="html/4f6579cc-33f6-77c0-e201-fb610ccaa040.htm" />
+  <HelpKINode Title="PasswdNotreqd enumeration member" Url="html/4f6579cc-33f6-77c0-e201-fb610ccaa040.htm" />
+  <HelpKINode Title="PasswordExpired enumeration member" Url="html/4f6579cc-33f6-77c0-e201-fb610ccaa040.htm" />
+  <HelpKINode Title="PasswordExpired property" Url="html/0cae5f03-7688-9de5-cb8a-8d57ae2ef9c7.htm" />
+  <HelpKINode Title="PasswordLastSet property" Url="html/73bb4c33-cd6d-6240-b896-48322157e612.htm" />
+  <HelpKINode Title="Path property" Url="html/709d5fd0-94af-3f68-eeb5-8bc2d8939ab6.htm" />
+  <HelpKINode Title="PhoneNumber property" Url="html/30b4f4c1-7361-680d-85cb-fa4b269b5434.htm" />
+  <HelpKINode Title="PowerShell class">
+    <HelpKINode Title="PowerShell Class" Url="html/ccc3316c-d165-d516-d960-788807ee3af4.htm" />
+    <HelpKINode Title="about PowerShell class" Url="html/ccc3316c-d165-d516-d960-788807ee3af4.htm" />
+    <HelpKINode Title="fields" Url="html/fd5ba487-1dd9-9a79-80b3-0d88f09ffd25.htm" />
+    <HelpKINode Title="methods" Url="html/5fbcd0a2-9bbb-793d-6ee2-cf8b14b0ceba.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PowerShell.CreateRunspaceConnectionInfo method" Url="html/c113e62a-6f19-6ccc-43a4-e8ef02af78fc.htm" />
+  <HelpKINode Title="PowerShell.DEFAULT_APP_NAME field" Url="html/e6b3a2b0-2b3f-055a-21b7-b9f7384fcee6.htm" />
+  <HelpKINode Title="PowerShell.DEFAULT_MAX_RUNSPACES_IN_POOL field" Url="html/7ab0984a-3f7f-ae07-4e8b-2fc18938210c.htm" />
+  <HelpKINode Title="PowerShell.DEFAULT_MIN_RUNSPACES_IN_POOL field" Url="html/a00454df-448b-0c32-bbe8-76533ace0907.htm" />
+  <HelpKINode Title="PowerShell.DEFAULT_OPEN_TIMEOUT_IN_SEC field" Url="html/16d7b90b-0f29-174f-36fb-77519904922a.htm" />
+  <HelpKINode Title="PowerShell.DEFAULT_OPERATION_TIMEOUT_IN_SEC field" Url="html/179daa5a-e733-6ef6-5846-2857d6e470cb.htm" />
+  <HelpKINode Title="PowerShell.DEFAULT_PORT_NUMBER field" Url="html/f8fb36e5-5236-70fe-71e4-16a7403f41f2.htm" />
+  <HelpKINode Title="PowerShell.DEFAULT_PORT_NUMBER_SSL field" Url="html/e3f368f5-9313-3381-c98b-6109616c019e.htm" />
+  <HelpKINode Title="PowerShell.DEFAULT_SHELL_URI field" Url="html/a39d2b36-d9c3-5f51-0924-3ea96d6107b5.htm" />
+  <HelpKINode Title="PowerShell.ProcessResults delegate" Url="html/9f09766f-51a1-fa88-88f5-c9c6807aa535.htm" />
+  <HelpKINode Title="PowerShell.RunAsynchronously method" Url="html/08851af4-45cc-4318-526e-d3d3819de4f3.htm" />
+  <HelpKINode Title="PowerShell.RunSynchronously method" Url="html/86e06dc8-f640-c94a-39e9-5bd609fc8651.htm" />
+  <HelpKINode Title="PowerShellScript class">
+    <HelpKINode Title="PowerShellScript Class" Url="html/3e21e8bf-7894-5981-e2d2-1831150ce972.htm" />
+    <HelpKINode Title="about PowerShellScript class" Url="html/3e21e8bf-7894-5981-e2d2-1831150ce972.htm" />
+    <HelpKINode Title="constructor" Url="html/19316b79-baab-db84-e7b0-929988fa064b.htm" />
+    <HelpKINode Title="methods" Url="html/8d0cdeec-317b-b949-c70c-ccca039636d5.htm" />
+    <HelpKINode Title="properties" Url="html/55a3d9cc-b929-db69-2d56-2768db2384c6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PowerShellScript.Dispose method" Url="html/eb324c7b-877d-0940-309f-a187c688cbbe.htm" />
+  <HelpKINode Title="PowerShellScript.InitializeRunspacePool method" Url="html/dcfb1aaf-99f0-ea92-b1bb-92835c5465c0.htm" />
+  <HelpKINode Title="PowerShellScript.Log property" Url="html/b8d858f1-a6d2-78be-ff9f-8d3f00c13244.htm" />
+  <HelpKINode Title="PowerShellScript.LogException method" Url="html/1481f483-400e-cfa2-9ea0-d81686c242b9.htm" />
+  <HelpKINode Title="PowerShellScript.PowerShellScript constructor" Url="html/19316b79-baab-db84-e7b0-929988fa064b.htm" />
+  <HelpKINode Title="PowerShellScript.Results property" Url="html/d840b219-83e0-5689-4a8b-b0df7acbbf74.htm" />
+  <HelpKINode Title="PowerShellScript.RunAsynchronously method" Url="html/b36f308c-3458-ee50-0a46-bb9e74b02a02.htm" />
+  <HelpKINode Title="PowerShellScript.RunspacePool property" Url="html/0bd35ec5-151b-90eb-b0cc-a4d9cae0f9f0.htm" />
+  <HelpKINode Title="PowerShellScript.RunSynchronously method" Url="html/79ecf558-f6f6-efc7-4123-4d23669785db.htm" />
+  <HelpKINode Title="PowerShellScript.VerifyResultProperty method" Url="html/e5afc060-ec3c-622a-bf40-ead31b8365e8.htm" />
+  <HelpKINode Title="PrimaryEmailAddress property" Url="html/1449ee19-3e1a-f38b-e97c-ed8c1c8a957d.htm" />
+  <HelpKINode Title="Priority property" Url="html/5ec6dd6a-17b3-d545-b54e-450288c2db08.htm" />
+  <HelpKINode Title="Read enumeration member" Url="html/c7a50b7e-c9bd-6dd4-2c7c-d5fea1feaf81.htm" />
+  <HelpKINode Title="ReadAllAsText method" Url="html/70afc264-98e4-7b45-ddb5-88fe20f0cc98.htm" />
+  <HelpKINode Title="ReadAttributes enumeration member" Url="html/c7a50b7e-c9bd-6dd4-2c7c-d5fea1feaf81.htm" />
+  <HelpKINode Title="ReadExtendedAttributes enumeration member" Url="html/c7a50b7e-c9bd-6dd4-2c7c-d5fea1feaf81.htm" />
+  <HelpKINode Title="ReadLine method" Url="html/e8ed652c-e169-fab6-84b6-feb37c528591.htm" />
+  <HelpKINode Title="ReadOnly property" Url="html/c0c55972-b0b9-5f02-3cda-31eb111bc8d8.htm" />
+  <HelpKINode Title="ReadPermissions enumeration member" Url="html/c7a50b7e-c9bd-6dd4-2c7c-d5fea1feaf81.htm" />
+  <HelpKINode Title="Refresh method" Url="html/549f6dc7-8e32-12cc-83ec-f1bc21f48535.htm" />
+  <HelpKINode Title="Remove method">
+    <HelpKINode Title="SharePointDocumentLibrary.Remove Method " Url="html/18a1fc36-b82d-970f-828b-570cc744aebe.htm" />
+    <HelpKINode Title="SharePointList.Remove Method " Url="html/195898a9-628e-fd83-a449-a1e883728498.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RemoveAllAccessRules method" Url="html/e4ee400b-13d1-d648-a896-f40068009130.htm" />
+  <HelpKINode Title="RemoveAllExplicitAccessRules method">
+    <HelpKINode Title="Directory.RemoveAllExplicitAccessRules Method " Url="html/da0b8f21-6b3c-65b5-0603-726feea412e4.htm" />
+    <HelpKINode Title="File.RemoveAllExplicitAccessRules Method " Url="html/90734d09-05cc-2666-456f-da2bc311a54b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RemoveMember method">
+    <HelpKINode Title="ActiveDirectoryRoleProvider.RemoveMember Method " Url="html/bc79ceeb-18e0-3aab-f7e2-61be159d2bab.htm" />
+    <HelpKINode Title="Group.RemoveMember Method " Url="html/a89d0fff-7280-e832-1cc5-25d40baf3fca.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RemoveMembers method" Url="html/bb541cfc-c953-2aa6-fbd2-128db5545ddf.htm" />
+  <HelpKINode Title="RemoveProxyAddress method" Url="html/9436907a-3beb-f578-5d3a-0db76f7738a7.htm" />
+  <HelpKINode Title="RemoveUserAccountControlFlag method" Url="html/040e66a5-7687-3443-cc35-c26660138903.htm" />
+  <HelpKINode Title="RemoveUsersFromRoles method" Url="html/b44dad6e-5a66-b27e-1553-f25d2579461b.htm" />
+  <HelpKINode Title="Reoccurring property" Url="html/83d03dbb-cb54-cd93-4b94-def6439d5951.htm" />
+  <HelpKINode Title="Results property">
+    <HelpKINode Title="IPowerShellScript.Results Property " Url="html/8da8554e-c570-ac41-a8f9-394003f4b6ca.htm" />
+    <HelpKINode Title="PowerShellScript.Results Property " Url="html/d840b219-83e0-5689-4a8b-b0df7acbbf74.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Return enumeration member" Url="html/fa44d15a-b8fb-901e-a9ea-82ed311f9af9.htm" />
+  <HelpKINode Title="RoleExists method" Url="html/a06cb0e8-b3d8-72f6-6deb-821fe0ea158d.htm" />
+  <HelpKINode Title="RootDSE property" Url="html/a6a556d5-f549-b333-5b48-0e97c166af96.htm" />
+  <HelpKINode Title="RunAsynchronously method">
+    <HelpKINode Title="IPowerShellScript.RunAsynchronously Method " Url="html/c0f3497f-b23b-b20a-9054-9fbf04228888.htm" />
+    <HelpKINode Title="PowerShell.RunAsynchronously Method " Url="html/08851af4-45cc-4318-526e-d3d3819de4f3.htm" />
+    <HelpKINode Title="PowerShellScript.RunAsynchronously Method " Url="html/b36f308c-3458-ee50-0a46-bb9e74b02a02.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RunScript method" Url="html/13881a39-076e-8b37-2912-3eb138d518e1.htm" />
+  <HelpKINode Title="RunspacePool property">
+    <HelpKINode Title="IPowerShellScript.RunspacePool Property " Url="html/358297a7-7a86-89a9-e185-84bee8d1441a.htm" />
+    <HelpKINode Title="PowerShellScript.RunspacePool Property " Url="html/0bd35ec5-151b-90eb-b0cc-a4d9cae0f9f0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RunSynchronously method">
+    <HelpKINode Title="IPowerShellScript.RunSynchronously Method " Url="html/a392816e-9cb2-22fb-f16a-b06f5a3bf879.htm" />
+    <HelpKINode Title="PowerShell.RunSynchronously Method " Url="html/86e06dc8-f640-c94a-39e9-5bd609fc8651.htm" />
+    <HelpKINode Title="PowerShellScript.RunSynchronously Method " Url="html/79ecf558-f6f6-efc7-4123-4d23669785db.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SaltedHash class">
+    <HelpKINode Title="SaltedHash Class" Url="html/6818c0d2-a52d-c027-f7d7-618c09859f2c.htm" />
+    <HelpKINode Title="about SaltedHash class" Url="html/6818c0d2-a52d-c027-f7d7-618c09859f2c.htm" />
+    <HelpKINode Title="constructor" Url="html/5409748e-ac93-2400-1b0d-06ed5d08a871.htm" />
+    <HelpKINode Title="methods" Url="html/8fa7847b-e810-ceb2-8946-ac84c22877e8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SaltedHash.GenerateHash method" Url="html/e98e0498-a592-6c2e-7041-b3598c1a4370.htm" />
+  <HelpKINode Title="SaltedHash.GenerateSalt method" Url="html/a2e50e62-69be-a5f5-e44e-2ea491128d5a.htm" />
+  <HelpKINode Title="SaltedHash.SaltedHash constructor" Url="html/5409748e-ac93-2400-1b0d-06ed5d08a871.htm" />
+  <HelpKINode Title="SaltedHash.VerifyHash method" Url="html/d2eac650-3124-8dcf-9a99-cb11a85fee75.htm" />
+  <HelpKINode Title="SAMAccountName property" Url="html/e343c214-8f44-a047-4f15-0339f737911f.htm" />
+  <HelpKINode Title="SaveCalendar method">
+    <HelpKINode Title="CalendarUtility.SaveCalendar Method " Url="html/e250d991-9cce-81ef-e986-61e98b008de6.htm" />
+    <HelpKINode Title="iCalendarUtility.SaveCalendar Method " Url="html/ea703cec-e182-6e52-3e0c-a67bf33abc6d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SchemaClasses property" Url="html/c0d69c29-ab51-fd56-c09a-3fd7748d7600.htm" />
+  <HelpKINode Title="Script enumeration member" Url="html/4f6579cc-33f6-77c0-e201-fb610ccaa040.htm" />
+  <HelpKINode Title="Search method" Url="html/7b1a3c9f-3658-f460-0dce-30c39597c9c9.htm" />
+  <HelpKINode Title="SecureGet method" Url="html/b59b8774-4383-6bfe-5c17-a5029fc3b654.htm" />
+  <HelpKINode Title="SecureWrite method" Url="html/706003cb-10e3-16e8-00f0-b23cee1e9584.htm" />
+  <HelpKINode Title="Security enumeration member" Url="html/da577c69-eb66-5290-b932-bf22468ceedb.htm" />
+  <HelpKINode Title="Security property" Url="html/9e814d2d-fc8e-c81e-15fd-1b2e91e1e0be.htm" />
+  <HelpKINode Title="SecurityPrincipal class">
+    <HelpKINode Title="SecurityPrincipal Class" Url="html/bc046e8a-79c7-da84-e513-3a4f9685ec5d.htm" />
+    <HelpKINode Title="about SecurityPrincipal class" Url="html/bc046e8a-79c7-da84-e513-3a4f9685ec5d.htm" />
+    <HelpKINode Title="constructor" Url="html/a03e799e-6f89-9b0a-9bea-4586fef889c8.htm" />
+    <HelpKINode Title="fields" Url="html/1d541888-735e-52d4-512b-4a2ffa973c7e.htm" />
+    <HelpKINode Title="methods" Url="html/67d04ba2-d79d-47f0-4bd5-12fda75a7c60.htm" />
+    <HelpKINode Title="properties" Url="html/933f91fb-142d-4ba6-3a58-4150b4b61628.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SecurityPrincipal.AddProxyAddress method" Url="html/4a4f3886-73e7-fc6c-f0ad-58d4a814435e.htm" />
+  <HelpKINode Title="SecurityPrincipal.AddToGroup method" Url="html/3985b2d7-ca4a-27d3-7975-ac2351a49cf4.htm" />
+  <HelpKINode Title="SecurityPrincipal.AttributeNames field" Url="html/4c287ccb-e0b8-f893-c4e4-bf10f3e4c9e5.htm" />
+  <HelpKINode Title="SecurityPrincipal.CompareTo method" Url="html/7a461a41-d383-1790-4216-ab61e6ef0dc3.htm" />
+  <HelpKINode Title="SecurityPrincipal.Description property" Url="html/3eed0c1a-24f6-bf9e-ba68-db05bcb34c96.htm" />
+  <HelpKINode Title="SecurityPrincipal.EMailAddress property" Url="html/d852585e-127a-c161-7583-e1ad0a8223b5.htm" />
+  <HelpKINode Title="SecurityPrincipal.EmailAddresses property" Url="html/73ad6644-4a66-3a2b-9b4a-8a6af48dd66f.htm" />
+  <HelpKINode Title="SecurityPrincipal.Equals method" Url="html/ea67e68b-8385-16e0-0b03-e28495186f5b.htm" />
+  <HelpKINode Title="SecurityPrincipal.ExchangeAlias property" Url="html/b49dfaea-1e2d-ed83-1c5f-dbd66320e68c.htm" />
+  <HelpKINode Title="SecurityPrincipal.GetHashCode method" Url="html/afa80082-6c2d-46fc-79f0-e5cd637a97a3.htm" />
+  <HelpKINode Title="SecurityPrincipal.Groups property" Url="html/3bc5d923-9aac-ac4e-7250-bcb378b4a14f.htm" />
+  <HelpKINode Title="SecurityPrincipal.IsGroup property" Url="html/5df03cf0-684a-d9d9-0ef1-f5f52abd0074.htm" />
+  <HelpKINode Title="SecurityPrincipal.IsUser property" Url="html/a0a41777-48a5-a634-92b7-0385b13cd515.htm" />
+  <HelpKINode Title="SecurityPrincipal.MemberOfGroup method" Url="html/45660959-261d-411e-e76c-8b7314de8603.htm" />
+  <HelpKINode Title="SecurityPrincipal.MoveRename method" Url="html/32757f83-40ad-97d7-43f4-51d8c1cec3a1.htm" />
+  <HelpKINode Title="SecurityPrincipal.PrimaryEmailAddress property" Url="html/1449ee19-3e1a-f38b-e97c-ed8c1c8a957d.htm" />
+  <HelpKINode Title="SecurityPrincipal.RemoveProxyAddress method" Url="html/9436907a-3beb-f578-5d3a-0db76f7738a7.htm" />
+  <HelpKINode Title="SecurityPrincipal.SAMAccountName property" Url="html/e343c214-8f44-a047-4f15-0339f737911f.htm" />
+  <HelpKINode Title="SecurityPrincipal.SecurityPrincipal constructor" Url="html/a03e799e-6f89-9b0a-9bea-4586fef889c8.htm" />
+  <HelpKINode Title="SecurityPrincipal.SetPrimaryProxyAddress method" Url="html/935705f8-2aaf-d043-5bd0-dce0456ea01a.htm" />
+  <HelpKINode Title="SecurityPrincipal.TargetAddress property" Url="html/b2f67b60-e9fd-a372-f84f-d87c9afe385d.htm" />
+  <HelpKINode Title="SecurityPrincipal.UserPrincipalName property" Url="html/4200c862-d1ca-4474-0462-2a48db1ecdbd.htm" />
+  <HelpKINode Title="ServerTrustAccount enumeration member" Url="html/4f6579cc-33f6-77c0-e201-fb610ccaa040.htm" />
+  <HelpKINode Title="SetAttribute method" Url="html/a7d6e813-db01-c1b2-9407-be46b5b23fbc.htm" />
+  <HelpKINode Title="SetOwner method" Url="html/e1b582c2-af41-5be6-8ff9-8a49e1c2bf49.htm" />
+  <HelpKINode Title="SetPassword method" Url="html/c4d69ad6-0b57-d4ee-d7f7-9a3d60549ab2.htm" />
+  <HelpKINode Title="SetPrimaryProxyAddress method" Url="html/935705f8-2aaf-d043-5bd0-dce0456ea01a.htm" />
+  <HelpKINode Title="SetSearchBaseAndScope method" Url="html/d0866af1-4194-7d36-dc42-4c1fccac1174.htm" />
+  <HelpKINode Title="SetStringAttribute method" Url="html/95e99bbd-e019-6158-2ecf-4a01ad2c3218.htm" />
+  <HelpKINode Title="SetUserAccountControlFlag method" Url="html/411c3baa-41ab-8b0b-b4ce-9e0c33983abb.htm" />
+  <HelpKINode Title="SetValue method" Url="html/50ad11ae-d07e-35cc-46a6-91c78c9492c9.htm" />
+  <HelpKINode Title="Severity property" Url="html/dd91f520-1228-aa66-69d1-39f6431daa65.htm" />
+  <HelpKINode Title="SeverityLevel property" Url="html/e63657b9-b0b8-b417-ba8a-8c597a11b3d1.htm" />
+  <HelpKINode Title="SHA256 class">
+    <HelpKINode Title="SHA256 Class" Url="html/735d5ff0-6344-eff7-46e3-5f80d2426b1e.htm" />
+    <HelpKINode Title="about SHA256 class" Url="html/735d5ff0-6344-eff7-46e3-5f80d2426b1e.htm" />
+    <HelpKINode Title="constructor" Url="html/e370580a-631e-3dbc-52b1-06acd92c9baa.htm" />
+    <HelpKINode Title="methods" Url="html/153a3be1-4120-fe7f-7d15-6aab0b79b375.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SHA256.GetHash method" Url="html/9dabea8f-0e51-0495-531c-5280fedd9111.htm" />
+  <HelpKINode Title="SHA256.SHA256 constructor" Url="html/e370580a-631e-3dbc-52b1-06acd92c9baa.htm" />
+  <HelpKINode Title="SHA256.VerifyHash method" Url="html/784eb5af-00d0-aa47-905e-f9929cef1c99.htm" />
+  <HelpKINode Title="SharePointClient class">
+    <HelpKINode Title="SharePointClient Class" Url="html/be07b832-0dbd-fe71-551f-6a01555da939.htm" />
+    <HelpKINode Title="about SharePointClient class" Url="html/be07b832-0dbd-fe71-551f-6a01555da939.htm" />
+    <HelpKINode Title="constructor" Url="html/0a642fe6-7000-0a55-d7bb-80649f7507f4.htm" />
+    <HelpKINode Title="methods" Url="html/c56a9676-7b37-2fd4-af0c-2134f7b0beba.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SharePointClient.Dispose method" Url="html/7e11937f-29cd-64fa-32b3-3438b98353dd.htm" />
+  <HelpKINode Title="SharePointClient.GetDocumentLibraryByTitle method" Url="html/1f238d97-99cf-efcd-4637-d3fb990968bc.htm" />
+  <HelpKINode Title="SharePointClient.GetFileByUrl method" Url="html/f1e34674-95d4-de11-659d-f93aeb6ae1b2.htm" />
+  <HelpKINode Title="SharePointClient.GetFolderByUrl method" Url="html/667f52e7-105f-5885-eca1-c3827530214e.htm" />
+  <HelpKINode Title="SharePointClient.GetListByTitle method" Url="html/18f29db5-3b11-6531-87d7-28297687b539.htm" />
+  <HelpKINode Title="SharePointClient.Load method" Url="html/b97a3315-5f9f-dc66-f9e6-648bf64677bd.htm" />
+  <HelpKINode Title="SharePointClient.SharePointClient constructor" Url="html/0a642fe6-7000-0a55-d7bb-80649f7507f4.htm" />
+  <HelpKINode Title="SharePointDocument class">
+    <HelpKINode Title="SharePointDocument Class" Url="html/a74d9330-0286-982d-eac4-726240f1afa4.htm" />
+    <HelpKINode Title="about SharePointDocument class" Url="html/a74d9330-0286-982d-eac4-726240f1afa4.htm" />
+    <HelpKINode Title="constructor" Url="html/f830c4ce-c0f6-cc5b-af1c-43f8a5c9087d.htm" />
+    <HelpKINode Title="fields" Url="html/84f63176-1f04-bf01-55ee-e10d2881ec8f.htm" />
+    <HelpKINode Title="methods" Url="html/470a6237-ad3c-86c9-e716-11f4d8239dbe.htm" />
+    <HelpKINode Title="properties" Url="html/b6b48225-279b-0fc5-428a-368c58094f53.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SharePointDocument.CreationTime property" Url="html/b4d04a49-a9c7-f0a2-f654-7be17dce92ec.htm" />
+  <HelpKINode Title="SharePointDocument.FileExtension property" Url="html/de35fb67-7e51-fcdd-f066-dff39c959ed3.htm" />
+  <HelpKINode Title="SharePointDocument.FileSize property" Url="html/ae3ac078-e575-f9f6-3737-37b7f2f6138e.htm" />
+  <HelpKINode Title="SharePointDocument.LastModifiedBy property" Url="html/763b9774-e18b-7320-1508-31fc3094a0b9.htm" />
+  <HelpKINode Title="SharePointDocument.LastModifiedTime property" Url="html/6a0e6472-fd55-33bb-eeb0-fc35d24da71f.htm" />
+  <HelpKINode Title="SharePointDocument.Name property" Url="html/56cf4148-4571-f0cc-d1bb-207f5176cf63.htm" />
+  <HelpKINode Title="SharePointDocument.SharePointDocument constructor" Url="html/f830c4ce-c0f6-cc5b-af1c-43f8a5c9087d.htm" />
+  <HelpKINode Title="SharePointDocumentLibrary class">
+    <HelpKINode Title="SharePointDocumentLibrary Class" Url="html/2c2a644d-54d7-0adc-6a4a-19bbc68b0ad8.htm" />
+    <HelpKINode Title="about SharePointDocumentLibrary class" Url="html/2c2a644d-54d7-0adc-6a4a-19bbc68b0ad8.htm" />
+    <HelpKINode Title="constructor" Url="html/9ee85de1-8191-39ba-93fa-32d23217ed78.htm" />
+    <HelpKINode Title="fields" Url="html/2a196625-e423-1367-063b-18ba34813021.htm" />
+    <HelpKINode Title="methods" Url="html/4cd66191-8359-69a1-47a1-d2c6c3eb8dfa.htm" />
+    <HelpKINode Title="properties" Url="html/99a7e7c4-563a-fad4-7bc4-194ea58708cf.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SharePointDocumentLibrary.Add method" Url="html/3c98dc52-7a7d-175c-0989-81a4f037d04c.htm" />
+  <HelpKINode Title="SharePointDocumentLibrary.Contains method" Url="html/de696acc-58af-c6d3-feed-477f5a7004fd.htm" />
+  <HelpKINode Title="SharePointDocumentLibrary.ContainsDocumentWithName method" Url="html/d4fc83d8-d0bd-5637-ecaa-fbf31f5e02fb.htm" />
+  <HelpKINode Title="SharePointDocumentLibrary.CopyTo method" Url="html/7f1066db-6de2-bb3d-b3fa-0722dcbbf491.htm" />
+  <HelpKINode Title="SharePointDocumentLibrary.Documents property" Url="html/2194ace0-79ff-a3b9-a7bf-34c3a46dff3f.htm" />
+  <HelpKINode Title="SharePointDocumentLibrary.Folder property" Url="html/6df8e593-ea63-2f05-9dc8-55375bf72bcb.htm" />
+  <HelpKINode Title="SharePointDocumentLibrary.GetEnumerator method" Url="html/0ba42827-a3f9-db8c-34d3-943b48632b03.htm" />
+  <HelpKINode Title="SharePointDocumentLibrary.Remove method" Url="html/18a1fc36-b82d-970f-828b-570cc744aebe.htm" />
+  <HelpKINode Title="SharePointDocumentLibrary.SharePointDocumentLibrary constructor" Url="html/9ee85de1-8191-39ba-93fa-32d23217ed78.htm" />
+  <HelpKINode Title="SharePointFolder class">
+    <HelpKINode Title="SharePointFolder Class" Url="html/db28cb5d-1929-8a01-0355-523982db1021.htm" />
+    <HelpKINode Title="about SharePointFolder class" Url="html/db28cb5d-1929-8a01-0355-523982db1021.htm" />
+    <HelpKINode Title="constructor" Url="html/5762112c-0c2f-03c7-96f4-ce15fa8a7f73.htm" />
+    <HelpKINode Title="methods" Url="html/3c749a84-4393-9f84-9d49-8141655202b3.htm" />
+    <HelpKINode Title="properties" Url="html/aacb35b2-8fc6-6f36-51e7-601baae3e5a6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SharePointFolder.SharePointFolder constructor" Url="html/5762112c-0c2f-03c7-96f4-ce15fa8a7f73.htm" />
+  <HelpKINode Title="SharePointFolder.UploadFile method" Url="html/1a1ae358-a1ba-50f5-0eda-cbfa77344f5d.htm" />
+  <HelpKINode Title="SharePointFolder.Url property" Url="html/66e5e70a-109d-f8ab-cbf4-0a15de87043d.htm" />
+  <HelpKINode Title="SharePointList class">
+    <HelpKINode Title="SharePointList Class" Url="html/b8c8686c-797b-1608-ee4a-3eac02ca3257.htm" />
+    <HelpKINode Title="about SharePointList class" Url="html/b8c8686c-797b-1608-ee4a-3eac02ca3257.htm" />
+    <HelpKINode Title="constructor" Url="html/9a66cfe2-70a5-9ca5-9a03-db16cb401628.htm" />
+    <HelpKINode Title="fields" Url="html/e6c0032b-04a4-9604-24b1-50dfc9cdc4e1.htm" />
+    <HelpKINode Title="methods" Url="html/fd1efb27-83fb-78ea-8e92-76d586d6efe3.htm" />
+    <HelpKINode Title="properties" Url="html/b720758b-5007-047e-e995-63fb6b46373d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SharePointList.Add method" Url="html/3cdfdd09-ff15-bba0-6eff-01a396e31b55.htm" />
+  <HelpKINode Title="SharePointList.Clear method" Url="html/436e1331-6c36-4d04-548c-ed798a947953.htm" />
+  <HelpKINode Title="SharePointList.Contains method" Url="html/9388ca2f-36f4-0bfb-06d8-0a7c608c44fe.htm" />
+  <HelpKINode Title="SharePointList.CopyTo method" Url="html/ce258fc8-44c8-2bf0-5f58-d19649268165.htm" />
+  <HelpKINode Title="SharePointList.Count property" Url="html/a5d56bfa-3f06-360b-9c44-b2fc93824d1e.htm" />
+  <HelpKINode Title="SharePointList.GetEnumerator method" Url="html/99efe6b6-121f-7f14-c3fa-0c13df38919b.htm" />
+  <HelpKINode Title="SharePointList.IsReadOnly property" Url="html/99e9a1a0-9dee-7734-f773-5327d4413688.htm" />
+  <HelpKINode Title="SharePointList.Items property" Url="html/814fed7a-3d6a-8215-b435-2a89d06a283a.htm" />
+  <HelpKINode Title="SharePointList.LastItemDeleted property" Url="html/71fb15d6-489e-7aa9-6e3b-718d9f8f33bf.htm" />
+  <HelpKINode Title="SharePointList.LastItemModified property" Url="html/5d4f387f-1259-27d2-0f5a-b42e56648285.htm" />
+  <HelpKINode Title="SharePointList.List field" Url="html/55aac9eb-debb-5301-5124-94c3f8017e28.htm" />
+  <HelpKINode Title="SharePointList.ListItemCollection field" Url="html/b9e89e56-b876-02f6-dcb5-2112dd76c6c8.htm" />
+  <HelpKINode Title="SharePointList.Remove method" Url="html/195898a9-628e-fd83-a449-a1e883728498.htm" />
+  <HelpKINode Title="SharePointList.SharePointList constructor" Url="html/9a66cfe2-70a5-9ca5-9a03-db16cb401628.htm" />
+  <HelpKINode Title="SharePointListItem class">
+    <HelpKINode Title="SharePointListItem Class" Url="html/6e1c64ac-3f50-3e0c-ada5-a65ce7b0ef57.htm" />
+    <HelpKINode Title="about SharePointListItem class" Url="html/6e1c64ac-3f50-3e0c-ada5-a65ce7b0ef57.htm" />
+    <HelpKINode Title="constructor" Url="html/548d6873-9ee3-3333-3d2e-9cdb11f83243.htm" />
+    <HelpKINode Title="fields" Url="html/a5b26d80-dd32-fde3-5d33-0352e90054c2.htm" />
+    <HelpKINode Title="methods" Url="html/c56a41c7-4a02-f6b2-87b8-033ec5fa299d.htm" />
+    <HelpKINode Title="properties" Url="html/e3f7387b-9fcf-c1a0-dae1-18f06c3dfde9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SharePointListItem.Delete method" Url="html/03ef5157-3e80-e64e-bb99-987bd98d2480.htm" />
+  <HelpKINode Title="SharePointListItem.DisplayName property" Url="html/7a55c7e5-6765-ef90-7b84-fc4efba7528c.htm" />
+  <HelpKINode Title="SharePointListItem.Fields property" Url="html/9144053b-ae1f-8aea-dada-4293ec27e66b.htm" />
+  <HelpKINode Title="SharePointListItem.GetLookupFieldValue method" Url="html/d2c152d6-9304-5944-fa26-a3fc0a263835.htm" />
+  <HelpKINode Title="SharePointListItem.Id property" Url="html/14d05103-a654-7328-7d75-6691fbada232.htm" />
+  <HelpKINode Title="SharePointListItem.listItem field" Url="html/a7504a54-2c04-510a-5bc2-b75b92b9f80c.htm" />
+  <HelpKINode Title="SharePointListItem.ListItem property" Url="html/a794689d-b6f0-1901-16e5-d630cedb7f1f.htm" />
+  <HelpKINode Title="SharePointListItem.SharePointListItem constructor" Url="html/548d6873-9ee3-3333-3d2e-9cdb11f83243.htm" />
+  <HelpKINode Title="SharePointListItem.ToSharePointDocument method" Url="html/b7b01e8d-6321-4399-33de-25a1767f1d0c.htm" />
+  <HelpKINode Title="SharePointUser class">
+    <HelpKINode Title="SharePointUser Class" Url="html/021abeb0-397a-d0da-bb05-35291ffb8ecd.htm" />
+    <HelpKINode Title="about SharePointUser class" Url="html/021abeb0-397a-d0da-bb05-35291ffb8ecd.htm" />
+    <HelpKINode Title="constructor" Url="html/d1e91245-28ec-5785-0a56-7278f913e95b.htm" />
+    <HelpKINode Title="methods" Url="html/550d9ad6-f164-9864-e2f8-117fe13e9e0d.htm" />
+    <HelpKINode Title="properties" Url="html/9130a4a5-9c64-d72b-9da5-d8d49e09983e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SharePointUser.SharePointUser constructor" Url="html/d1e91245-28ec-5785-0a56-7278f913e95b.htm" />
+  <HelpKINode Title="SharePointUser.UserName property" Url="html/7ca03a05-90a3-4766-ccb2-7cca442e7b23.htm" />
+  <HelpKINode Title="SmartcardRequired enumeration member" Url="html/4f6579cc-33f6-77c0-e201-fb610ccaa040.htm" />
+  <HelpKINode Title="Source property">
+    <HelpKINode Title="Event.Source Property " Url="html/0fae941c-cbb7-9739-51b4-6902f46407cd.htm" />
+    <HelpKINode Title="SqlEventLogEvent.Source Property " Url="html/e5d43eee-7d94-7578-d22e-96f0123da940.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SqlEventLog class">
+    <HelpKINode Title="SqlEventLog Class" Url="html/d6f1c660-33d6-23f1-61bc-c1e273ec967d.htm" />
+    <HelpKINode Title="about SqlEventLog class" Url="html/d6f1c660-33d6-23f1-61bc-c1e273ec967d.htm" />
+    <HelpKINode Title="constructor" Url="html/c2bd4368-d78c-a130-6d05-7b22aa6573a1.htm" />
+    <HelpKINode Title="methods" Url="html/e0430e7d-5b45-5b89-c6b0-1fb23ac2fc46.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SqlEventLog.AddCategory method" Url="html/ae774573-3e62-ca39-294f-a3da931f4ac2.htm" />
+  <HelpKINode Title="SqlEventLog.AddEvent method" Url="html/8fb9e648-7658-3565-4d05-0498538d9b8d.htm" />
+  <HelpKINode Title="SqlEventLog.AddSeverityLevel method" Url="html/46b2b1cb-3d67-abb0-24e4-c89f12c5a341.htm" />
+  <HelpKINode Title="SqlEventLog.AddSource method" Url="html/9248d175-6d97-1ffb-7bd0-59aa1ea54d30.htm" />
+  <HelpKINode Title="SqlEventLog.DeleteCategory method" Url="html/9eed8a33-cd43-2124-09b6-ce25403b08bd.htm" />
+  <HelpKINode Title="SqlEventLog.DeleteEvent method" Url="html/302fe962-5032-92b7-19e4-4c254b8a1f95.htm" />
+  <HelpKINode Title="SqlEventLog.DeleteSeverityLevel method" Url="html/ab2dd95c-d1f7-cd6b-8178-815c16628a39.htm" />
+  <HelpKINode Title="SqlEventLog.DeleteSource method" Url="html/36f0e39a-13eb-3dde-475f-63c79b11d49f.htm" />
+  <HelpKINode Title="SqlEventLog.Find method" Url="html/9a98f23b-8ded-8f8c-72ec-a9d567580f50.htm" />
+  <HelpKINode Title="SqlEventLog.GetCategories method" Url="html/0ba7affe-3bbb-1487-a8c4-b9f933b9fe85.htm" />
+  <HelpKINode Title="SqlEventLog.GetEvents method" Url="html/8c3b397a-21fe-2536-b716-f5871e8239d7.htm" />
+  <HelpKINode Title="SqlEventLog.GetSeverityLevels method" Url="html/d2ac88c8-d9a6-e80e-d6ad-ae0dc06dca62.htm" />
+  <HelpKINode Title="SqlEventLog.GetSources method" Url="html/73bf2682-15c1-ba6a-6050-88bc85ffaebb.htm" />
+  <HelpKINode Title="SqlEventLog.Log method" Url="html/5b7d0dd1-f5de-217f-1a67-f8a4d10500c9.htm" />
+  <HelpKINode Title="SqlEventLog.SqlEventLog constructor" Url="html/c2bd4368-d78c-a130-6d05-7b22aa6573a1.htm" />
+  <HelpKINode Title="SqlEventLog.UpdateCategory method" Url="html/c927b9ff-b5c6-5885-7d27-9a131cf37398.htm" />
+  <HelpKINode Title="SqlEventLog.UpdateEvent method" Url="html/3f5abe0e-d311-15df-10ef-d6675ee12916.htm" />
+  <HelpKINode Title="SqlEventLog.UpdateSeverityLevel method" Url="html/935c63e7-5f06-5a13-0709-8d9eec2f0e77.htm" />
+  <HelpKINode Title="SqlEventLog.UpdateSource method" Url="html/62ba8d02-3877-9e59-2078-58747fc77147.htm" />
+  <HelpKINode Title="SqlEventLogEvent class">
+    <HelpKINode Title="SqlEventLogEvent Class" Url="html/c149a39b-244b-4892-41e7-6241878fde30.htm" />
+    <HelpKINode Title="about SqlEventLogEvent class" Url="html/c149a39b-244b-4892-41e7-6241878fde30.htm" />
+    <HelpKINode Title="constructor" Url="html/9d9fe21e-302f-bfe6-8a98-5118ae966521.htm" />
+    <HelpKINode Title="methods" Url="html/7d03d0dd-f911-b8bc-9b1a-1384d9807927.htm" />
+    <HelpKINode Title="properties" Url="html/a8de620d-d180-238b-e2e6-9fe070e399a6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SqlEventLogEvent.Category property" Url="html/9b7e481b-7300-1613-e391-0ea86853c06a.htm" />
+  <HelpKINode Title="SqlEventLogEvent.Date property" Url="html/1e5ff449-fac7-2e00-f6df-d1e9d1ba7874.htm" />
+  <HelpKINode Title="SqlEventLogEvent.Details property" Url="html/52401752-e2db-bc23-2888-cefc875ea27f.htm" />
+  <HelpKINode Title="SqlEventLogEvent.SeverityLevel property" Url="html/e63657b9-b0b8-b417-ba8a-8c597a11b3d1.htm" />
+  <HelpKINode Title="SqlEventLogEvent.Source property" Url="html/e5d43eee-7d94-7578-d22e-96f0123da940.htm" />
+  <HelpKINode Title="SqlEventLogEvent.SqlEventLogEvent constructor" Url="html/9d9fe21e-302f-bfe6-8a98-5118ae966521.htm" />
+  <HelpKINode Title="SqlEventLogNamedItem class">
+    <HelpKINode Title="SqlEventLogNamedItem Class" Url="html/971725ec-6e79-45d4-3e15-b66e10b5550f.htm" />
+    <HelpKINode Title="about SqlEventLogNamedItem class" Url="html/971725ec-6e79-45d4-3e15-b66e10b5550f.htm" />
+    <HelpKINode Title="constructor" Url="html/443b3b01-3341-b196-248a-6a3e4a906547.htm" />
+    <HelpKINode Title="fields" Url="html/b72f1b05-f8c3-2697-2739-0874773c77f9.htm" />
+    <HelpKINode Title="methods" Url="html/df7b8127-c880-136c-ffb9-ab6123bb4ff3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SqlEventLogNamedItem.Id field" Url="html/7725938e-4885-d5b8-ebd9-db3721418684.htm" />
+  <HelpKINode Title="SqlEventLogNamedItem.Name field" Url="html/c2ce1866-01a0-ae29-2be8-cb1b0a4bb161.htm" />
+  <HelpKINode Title="SqlEventLogNamedItem.SqlEventLogNamedItem constructor" Url="html/443b3b01-3341-b196-248a-6a3e4a906547.htm" />
+  <HelpKINode Title="SqlRow class">
+    <HelpKINode Title="SqlRow Class" Url="html/b88825ae-1f06-648b-513b-cd3cf5cb6a15.htm" />
+    <HelpKINode Title="about SqlRow class" Url="html/b88825ae-1f06-648b-513b-cd3cf5cb6a15.htm" />
+    <HelpKINode Title="constructor" Url="html/5a3dd8e1-da3e-e97d-ec2b-8e3678184b23.htm" />
+    <HelpKINode Title="methods" Url="html/d0de9dfb-c7e6-1c58-bd67-7103ad3adbfb.htm" />
+    <HelpKINode Title="properties" Url="html/dd563ffd-0734-9f10-bb0e-619de6c81143.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SqlRow.Add method" Url="html/538de5e5-0176-fa69-1391-d67c50907f74.htm" />
+  <HelpKINode Title="SqlRow.GetValue method" Url="html/4e0c20d1-1f1b-fc2c-a1a1-be99fc7dc1b8.htm" />
+  <HelpKINode Title="SqlRow.Item property" Url="html/c7d0f126-fbc9-e00e-6081-ef211f7ae2f8.htm" />
+  <HelpKINode Title="SqlRow.SetValue method" Url="html/50ad11ae-d07e-35cc-46a6-91c78c9492c9.htm" />
+  <HelpKINode Title="SqlRow.SqlRow constructor" Url="html/5a3dd8e1-da3e-e97d-ec2b-8e3678184b23.htm" />
+  <HelpKINode Title="SqlUtility class">
+    <HelpKINode Title="SqlUtility Class" Url="html/2e31d202-70f6-eef2-8d5c-32de048f2f1c.htm" />
+    <HelpKINode Title="about SqlUtility class" Url="html/2e31d202-70f6-eef2-8d5c-32de048f2f1c.htm" />
+    <HelpKINode Title="constructor" Url="html/1405885a-f5d1-537a-d3ea-961d2af7b9a9.htm" />
+    <HelpKINode Title="methods" Url="html/19c865d0-86b6-f9b1-aaff-6ef58fdb23be.htm" />
+    <HelpKINode Title="properties" Url="html/125ded44-77d4-715e-e8cb-efeb1719a3db.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SqlUtility.ExecuteNonQuery method" Url="html/b4656ac4-65c6-7545-e891-10852586ec2b.htm" />
+  <HelpKINode Title="SqlUtility.ExecuteNonQuerySQLFile method" Url="html/a1191dd1-183c-6c8b-171f-6d610b5e25ce.htm" />
+  <HelpKINode Title="SqlUtility.ExecuteQuery method" Url="html/54848c46-6d70-b914-5628-2ef7175923f2.htm" />
+  <HelpKINode Title="SqlUtility.ExecuteQuerySQLFile method" Url="html/2fca6fb5-13ae-b112-ce06-5feece2d46d8.htm" />
+  <HelpKINode Title="SqlUtility.LogException method" Url="html/04300e89-1b92-8b70-866b-2450db185759.htm" />
+  <HelpKINode Title="SqlUtility.MAX_NCHAR_LENGTH property" Url="html/db9b11ce-f3c4-01f9-0a7e-18988203a52d.htm" />
+  <HelpKINode Title="SqlUtility.MAX_NVARCHAR_LENGTH property" Url="html/2d1353d2-9d7d-62a1-0d2b-1856eb16a6be.htm" />
+  <HelpKINode Title="SqlUtility.MAX_VARCHAR_LENGTH property" Url="html/919ab4ff-b7d1-4b96-717e-0b1028e64d0c.htm" />
+  <HelpKINode Title="SqlUtility.RunScript method" Url="html/13881a39-076e-8b37-2912-3eb138d518e1.htm" />
+  <HelpKINode Title="SqlUtility.SqlUtility constructor" Url="html/1405885a-f5d1-537a-d3ea-961d2af7b9a9.htm" />
+  <HelpKINode Title="StartDate property" Url="html/d793371b-a953-d2ec-1708-c33618f2e868.htm" />
+  <HelpKINode Title="StoredProcedure class">
+    <HelpKINode Title="StoredProcedure Class" Url="html/e65d6103-4c52-0000-8850-694a49c43768.htm" />
+    <HelpKINode Title="about StoredProcedure class" Url="html/e65d6103-4c52-0000-8850-694a49c43768.htm" />
+    <HelpKINode Title="constructor" Url="html/8dab7b87-a520-4b3e-1db9-b2e4d465dfd0.htm" />
+    <HelpKINode Title="fields" Url="html/3ab14edc-58c7-b6a9-7b77-459b2e421333.htm" />
+    <HelpKINode Title="methods" Url="html/aae63880-8986-84f8-5868-3c362c9a8979.htm" />
+    <HelpKINode Title="properties" Url="html/f55d5744-8bc7-b160-c542-91f2f6d5d64b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StoredProcedure.AddBooleanParameter method" Url="html/b17aa0c8-adc8-1fe5-2e88-8b7a4c7ac70b.htm" />
+  <HelpKINode Title="StoredProcedure.AddDateTimeParameter method" Url="html/99dc89fa-a51a-59a6-1994-c24664025eb6.htm" />
+  <HelpKINode Title="StoredProcedure.AddInt32Parameter method" Url="html/42b4ab6f-037f-5158-9502-f1de3efc5857.htm" />
+  <HelpKINode Title="StoredProcedure.AddInt64Parameter method" Url="html/2653117a-9e30-3fc7-9b79-1c7392253e0e.htm" />
+  <HelpKINode Title="StoredProcedure.AddNCharParameter method" Url="html/aa1acdf5-d6be-a96c-f3e2-aa101173bb6f.htm" />
+  <HelpKINode Title="StoredProcedure.AddNVarCharParameter method" Url="html/8ba3aa52-f215-ed82-4f61-53b198eec442.htm" />
+  <HelpKINode Title="StoredProcedure.AddParameter method" Url="html/4127092e-ada5-d760-4295-f7cd5ffefd46.htm" />
+  <HelpKINode Title="StoredProcedure.AddVarCharParameter method" Url="html/a8877739-c5fd-8021-530a-f369bdf752b5.htm" />
+  <HelpKINode Title="StoredProcedure.Command property" Url="html/5f72d6ed-700c-ef60-dea4-947f857493e4.htm" />
+  <HelpKINode Title="StoredProcedure.Connection property" Url="html/a454d920-b71d-d826-3fde-f3f7498f426f.htm" />
+  <HelpKINode Title="StoredProcedure.Execute method" Url="html/a48bf505-56a5-5157-5a01-10d36edd55af.htm" />
+  <HelpKINode Title="StoredProcedure.ExecuteNonQuery method" Url="html/acb7f444-257e-99f2-a0af-a6b7c068259f.htm" />
+  <HelpKINode Title="StoredProcedure.GetParameter method" Url="html/35917cf6-2592-292b-466d-73e0872c9941.htm" />
+  <HelpKINode Title="StoredProcedure.GetParamName method" Url="html/cba0cfff-8e65-6491-11ff-9efc9db94f95.htm" />
+  <HelpKINode Title="StoredProcedure.log field" Url="html/8a8e7eee-59d5-76c7-10d3-0833359247f1.htm" />
+  <HelpKINode Title="StoredProcedure.Log property" Url="html/31ce2a99-8b9b-e365-fc13-396ada4cd93e.htm" />
+  <HelpKINode Title="StoredProcedure.LogException method" Url="html/2a9e6f97-5272-ea64-a1f4-541b56415e89.htm" />
+  <HelpKINode Title="StoredProcedure.Name property" Url="html/20fb0cff-88ac-47d8-3f4e-e374b9132226.htm" />
+  <HelpKINode Title="StoredProcedure.ParameterType enumeration" Url="html/fa44d15a-b8fb-901e-a9ea-82ed311f9af9.htm" />
+  <HelpKINode Title="StoredProcedure.StoredProcedure constructor" Url="html/8dab7b87-a520-4b3e-1db9-b2e4d465dfd0.htm" />
+  <HelpKINode Title="StreetAddress property" Url="html/6742d9d5-eaac-e993-4b9a-7dcf4f714ea3.htm" />
+  <HelpKINode Title="StringToBytes method" Url="html/4066a220-9ece-fae4-eeda-b91dc4623857.htm" />
+  <HelpKINode Title="SYSDBA field" Url="html/af89b447-5d45-3921-c5ac-cc13d3b2118c.htm" />
+  <HelpKINode Title="SYSOPER field" Url="html/4eecd0ef-9680-041a-55c5-adc5f1099be8.htm" />
+  <HelpKINode Title="TargetAddress property" Url="html/b2f67b60-e9fd-a372-f84f-d87c9afe385d.htm" />
+  <HelpKINode Title="TempDuplicateAccount enumeration member" Url="html/4f6579cc-33f6-77c0-e201-fb610ccaa040.htm" />
+  <HelpKINode Title="Title property">
+    <HelpKINode Title="Event.Title Property " Url="html/a9489c28-e8fe-a4aa-9dfa-61e375b9f4bd.htm" />
+    <HelpKINode Title="User.Title Property " Url="html/88807e16-ffe2-8ac2-ebb4-37acb9d4be92.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ToSharePointDocument method" Url="html/b7b01e8d-6321-4399-33de-25a1767f1d0c.htm" />
+  <HelpKINode Title="TraverseFolderExecuteFile enumeration member" Url="html/c7a50b7e-c9bd-6dd4-2c7c-d5fea1feaf81.htm" />
+  <HelpKINode Title="TrustedForDelgation enumeration member" Url="html/4f6579cc-33f6-77c0-e201-fb610ccaa040.htm" />
+  <HelpKINode Title="TrustedToAuthForDelegation enumeration member" Url="html/4f6579cc-33f6-77c0-e201-fb610ccaa040.htm" />
+  <HelpKINode Title="Universal enumeration member" Url="html/da577c69-eb66-5290-b932-bf22468ceedb.htm" />
+  <HelpKINode Title="Unknown enumeration member" Url="html/89ea8656-ed3b-e688-b58c-a5d8768d53aa.htm" />
+  <HelpKINode Title="Unlock method" Url="html/9123081d-3512-42f8-e947-b38ce692eaf5.htm" />
+  <HelpKINode Title="UpdateCategory method" Url="html/c927b9ff-b5c6-5885-7d27-9a131cf37398.htm" />
+  <HelpKINode Title="UpdateEvent method" Url="html/3f5abe0e-d311-15df-10ef-d6675ee12916.htm" />
+  <HelpKINode Title="UpdateSeverityLevel method" Url="html/935c63e7-5f06-5a13-0709-8d9eec2f0e77.htm" />
+  <HelpKINode Title="UpdateSource method" Url="html/62ba8d02-3877-9e59-2078-58747fc77147.htm" />
+  <HelpKINode Title="UploadFile method" Url="html/1a1ae358-a1ba-50f5-0eda-cbfa77344f5d.htm" />
+  <HelpKINode Title="Url property" Url="html/66e5e70a-109d-f8ab-cbf4-0a15de87043d.htm" />
+  <HelpKINode Title="UseAESKeys enumeration member" Url="html/4f6579cc-33f6-77c0-e201-fb610ccaa040.htm" />
+  <HelpKINode Title="UseDESKeyOnly enumeration member" Url="html/4f6579cc-33f6-77c0-e201-fb610ccaa040.htm" />
+  <HelpKINode Title="User class">
+    <HelpKINode Title="User Class" Url="html/c8ca0251-c267-e635-eb68-550ae2447b00.htm" />
+    <HelpKINode Title="about User class" Url="html/c8ca0251-c267-e635-eb68-550ae2447b00.htm" />
+    <HelpKINode Title="constructor" Url="html/f4ed1e1c-6094-bf40-d18e-8d921c7f30d2.htm" />
+    <HelpKINode Title="fields" Url="html/2170e78d-6b20-4201-7be5-445a02f91f50.htm" />
+    <HelpKINode Title="methods" Url="html/03807f3e-36e1-3b6e-ce58-0aa36124ce58.htm" />
+    <HelpKINode Title="properties" Url="html/adc36597-59cc-2480-19a7-02f5ad72bdb9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="User.AccountId property" Url="html/1d266492-6354-b68b-7900-38d335798537.htm" />
+  <HelpKINode Title="User.AttributeNames field" Url="html/f40aaef0-45b5-0ab9-3799-c96970cc9cdf.htm" />
+  <HelpKINode Title="User.BadPasswordCount property" Url="html/d5ca3fd9-b2d3-d05d-e7dc-2cb0c0c866e8.htm" />
+  <HelpKINode Title="User.BadPasswordTime property" Url="html/6f0aacf6-f79f-83b4-5fbd-9ffe49f074f2.htm" />
+  <HelpKINode Title="User.CompareTo method" Url="html/5f61e85e-2606-2c88-b94b-663626bb4916.htm" />
+  <HelpKINode Title="User.Create method" Url="html/d5a3d2ce-0755-d3ce-d16b-43ee0eaa3688.htm" />
+  <HelpKINode Title="User.Department property" Url="html/770e404d-bde8-7fd4-050f-bec7cb5843be.htm" />
+  <HelpKINode Title="User.Disable method" Url="html/eb1c1051-69a6-930d-63c3-d76adfe60633.htm" />
+  <HelpKINode Title="User.DisplayName property" Url="html/bfcac8a9-bf77-faf9-baf8-2414dd1cc91f.htm" />
+  <HelpKINode Title="User.Division property" Url="html/fbb92850-38e2-1362-0293-1df1e4d1749f.htm" />
+  <HelpKINode Title="User.EmployeeId property" Url="html/e351f443-aa31-19ef-89d5-1f8ae0e7058f.htm" />
+  <HelpKINode Title="User.Enable method" Url="html/284780fc-3709-0a3b-d926-82c6d24c9926.htm" />
+  <HelpKINode Title="User.Equals method" Url="html/55dd3e81-968c-7200-c368-d7e4985bd5b3.htm" />
+  <HelpKINode Title="User.ExtensionAttribute1 property" Url="html/a8b42578-d0bd-05b5-0a48-febaa713aaaa.htm" />
+  <HelpKINode Title="User.ExtensionAttribute7 property" Url="html/66c65079-c6ee-9798-edb5-0bb89e1146c2.htm" />
+  <HelpKINode Title="User.FirstName property" Url="html/9d5961d7-4905-6d68-26a2-989299e972f6.htm" />
+  <HelpKINode Title="User.FTPDirectory property" Url="html/dbd446ad-bef9-83ca-3428-106343fcf773.htm" />
+  <HelpKINode Title="User.FTPRoot property" Url="html/2a4c40f3-c3c7-9a5a-9dcd-ff50d082e808.htm" />
+  <HelpKINode Title="User.GetAllUsers method" Url="html/aca886f6-b3f0-48e7-9b90-633158b9122b.htm" />
+  <HelpKINode Title="User.GetHashCode method" Url="html/f7a33a10-9e72-acb2-9659-d6ebc26f5eb6.htm" />
+  <HelpKINode Title="User.HomeDirectory property" Url="html/d240ce66-7386-5ab2-e3aa-94525149e4b9.htm" />
+  <HelpKINode Title="User.HomeDrive property" Url="html/136ab11c-beda-beb0-ffd7-2f47c9b24d6f.htm" />
+  <HelpKINode Title="User.HomePage property" Url="html/1014ac09-a71f-044d-0879-f732ffaba47b.htm" />
+  <HelpKINode Title="User.IsDisabled property" Url="html/5ca5da14-37e9-7f3f-a187-8e6e5ef0fd29.htm" />
+  <HelpKINode Title="User.LastName property" Url="html/8ed560d5-7ad0-f402-42b4-b20b07e12ee2.htm" />
+  <HelpKINode Title="User.LogonScript property" Url="html/9194343b-2494-9703-d169-ecdd8b5fc984.htm" />
+  <HelpKINode Title="User.Manager property" Url="html/05486a0c-8d39-41eb-5eda-1c817292c1ac.htm" />
+  <HelpKINode Title="User.MustChangePasswordAtNextLogon property" Url="html/0399fa98-e96a-0d5c-38b8-307b898077c3.htm" />
+  <HelpKINode Title="User.PasswordExpired property" Url="html/0cae5f03-7688-9de5-cb8a-8d57ae2ef9c7.htm" />
+  <HelpKINode Title="User.PasswordLastSet property" Url="html/73bb4c33-cd6d-6240-b896-48322157e612.htm" />
+  <HelpKINode Title="User.PhoneNumber property" Url="html/30b4f4c1-7361-680d-85cb-fa4b269b5434.htm" />
+  <HelpKINode Title="User.RemoveUserAccountControlFlag method" Url="html/040e66a5-7687-3443-cc35-c26660138903.htm" />
+  <HelpKINode Title="User.SetPassword method" Url="html/c4d69ad6-0b57-d4ee-d7f7-9a3d60549ab2.htm" />
+  <HelpKINode Title="User.SetUserAccountControlFlag method" Url="html/411c3baa-41ab-8b0b-b4ce-9e0c33983abb.htm" />
+  <HelpKINode Title="User.StreetAddress property" Url="html/6742d9d5-eaac-e993-4b9a-7dcf4f714ea3.htm" />
+  <HelpKINode Title="User.Title property" Url="html/88807e16-ffe2-8ac2-ebb4-37acb9d4be92.htm" />
+  <HelpKINode Title="User.Unlock method" Url="html/9123081d-3512-42f8-e947-b38ce692eaf5.htm" />
+  <HelpKINode Title="User.User constructor" Url="html/f4ed1e1c-6094-bf40-d18e-8d921c7f30d2.htm" />
+  <HelpKINode Title="User.UserAccountControl property" Url="html/a5665e79-0b92-26bc-c65f-f650498a9518.htm" />
+  <HelpKINode Title="User.UserAccountControlComputed property" Url="html/3f7b5c40-3b4d-488d-940f-f1388948e1cf.htm" />
+  <HelpKINode Title="UserAccountControl property" Url="html/a5665e79-0b92-26bc-c65f-f650498a9518.htm" />
+  <HelpKINode Title="UserAccountControlComputed property" Url="html/3f7b5c40-3b4d-488d-940f-f1388948e1cf.htm" />
+  <HelpKINode Title="UserAccountControlContains method" Url="html/20ef8478-b483-4284-7aaa-8eedb68c0cdc.htm" />
+  <HelpKINode Title="UserMembers property" Url="html/55935ea7-4f22-f303-e431-ef2fe892dbae.htm" />
+  <HelpKINode Title="UserName property" Url="html/7ca03a05-90a3-4766-ccb2-7cca442e7b23.htm" />
+  <HelpKINode Title="UserPrincipalName property" Url="html/4200c862-d1ca-4474-0462-2a48db1ecdbd.htm" />
+  <HelpKINode Title="Value property" Url="html/d8878995-924b-66e4-6a7c-e6fc0e463c69.htm" />
+  <HelpKINode Title="VerifyHash method">
+    <HelpKINode Title="SaltedHash.VerifyHash Method " Url="html/d2eac650-3124-8dcf-9a99-cb11a85fee75.htm" />
+    <HelpKINode Title="SHA256.VerifyHash Method " Url="html/784eb5af-00d0-aa47-905e-f9929cef1c99.htm" />
+  </HelpKINode>
+  <HelpKINode Title="VerifyResultProperty method">
+    <HelpKINode Title="IPowerShellScript.VerifyResultProperty Method " Url="html/758c7f66-ba38-5cb9-87d6-e3ecad16fab3.htm" />
+    <HelpKINode Title="PowerShellScript.VerifyResultProperty Method " Url="html/e5afc060-ec3c-622a-bf40-ead31b8365e8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="version">
+    <HelpKINode Title="1.0.0.0" Url="html/53f3b2a2-589f-4baf-b44c-614ffd0a526d.htm" />
+    <HelpKINode Title="history" Url="html/b24be317-9616-44df-b3de-ff12bdd4d0f9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Warning enumeration member" Url="html/89ea8656-ed3b-e688-b58c-a5d8768d53aa.htm" />
+  <HelpKINode Title="WellKnownSid_System property" Url="html/c4553674-a195-d0b2-7d29-4a2b81bb11b3.htm" />
+  <HelpKINode Title="WorkstationTrustAccount enumeration member" Url="html/4f6579cc-33f6-77c0-e201-fb610ccaa040.htm" />
+  <HelpKINode Title="Write method" Url="html/3c2abc9d-cb78-41d0-2eec-b33293df2722.htm" />
+  <HelpKINode Title="WriteLine method" Url="html/1c328188-d44b-f50a-b938-d1c80a33f09e.htm" />
+</HelpKI>

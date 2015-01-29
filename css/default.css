@@ -7,6 +7,10 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: 'Alegreya Sans SC', Verdana, Times New Roman, Times, sans-serif !important;
 }
 
+pre {
+	background-color: #FFFFFF !important;
+}
+
 .starter-template {
   padding: 40px 15px;
   text-align: center;
@@ -20,6 +24,10 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: 'Alegreya Sans SC', Verdana, Times New Roman, Times, sans-serif;
 }
 
+.well {
+	background: #FFFFFF !important;
+}
+
 #navLogo {
 	display: inline;
 	position: relative;
@@ -29,4 +37,8 @@ h1, h2, h3, h4, h5, h6 {
 
 #navLogoText {
 	color: white;
+}
+
+#downloadButton {
+	margin-bottom: 10px;
 }
