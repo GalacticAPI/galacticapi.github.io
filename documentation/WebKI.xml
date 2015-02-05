@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpKI>
   <HelpKINode Title="Accountdisable enumeration member" Url="html/4f6579cc-33f6-77c0-e201-fb610ccaa040.htm" />
-  <HelpKINode Title="AccountId property" Url="html/1d266492-6354-b68b-7900-38d335798537.htm" />
   <HelpKINode Title="ActiveDirectory class">
     <HelpKINode Title="ActiveDirectory Class" Url="html/015d80bd-04f8-7544-4fbb-23ecce472fc0.htm" />
     <HelpKINode Title="about ActiveDirectory class" Url="html/015d80bd-04f8-7544-4fbb-23ecce472fc0.htm" />
@@ -37,10 +36,10 @@
   <HelpKINode Title="ActiveDirectory.GetEntryByGUID method" Url="html/6a9b5de9-9157-289c-2a37-a727a57f37e9.htm" />
   <HelpKINode Title="ActiveDirectory.GetEntryBySAMAccountName method" Url="html/8845b1d9-9ace-9de9-dfa8-6788a84333e0.htm" />
   <HelpKINode Title="ActiveDirectory.GetGUID method" Url="html/5e2f55c9-d447-edcb-1f7e-3941628237ab.htm" />
-  <HelpKINode Title="ActiveDirectory.GetGUIDByAccountId method" Url="html/26a79af0-9223-010c-41f8-02ab24200113.htm" />
   <HelpKINode Title="ActiveDirectory.GetGUIDByAttribute method" Url="html/f6df7e30-cf03-cc4e-ce75-015e7ce576ed.htm" />
   <HelpKINode Title="ActiveDirectory.GetGUIDByCommonName method" Url="html/94bf98dc-46c2-292e-321d-a50a5beee693.htm" />
   <HelpKINode Title="ActiveDirectory.GetGUIDByDistinguishedName method" Url="html/37cf46c2-bdc1-a924-b7cc-5a3642a1dd15.htm" />
+  <HelpKINode Title="ActiveDirectory.GetGUIDByEmployeeNumber method" Url="html/dd5e00c1-595f-2f9c-c72a-c91038319e45.htm" />
   <HelpKINode Title="ActiveDirectory.GetGUIDBySAMAccountName method" Url="html/daf2a9ba-4002-e3bd-859a-4e648d7aa3f5.htm" />
   <HelpKINode Title="ActiveDirectory.GetIntervalAttributeValue method" Url="html/8c1c3f8d-14ef-b912-4428-1bd39e8f4a65.htm" />
   <HelpKINode Title="ActiveDirectory.GetSiteDomainControllers method" Url="html/c521022f-4494-28b9-e9c9-b8ce74fc469a.htm" />
@@ -434,6 +433,7 @@
   <HelpKINode Title="EMailAddress property" Url="html/d852585e-127a-c161-7583-e1ad0a8223b5.htm" />
   <HelpKINode Title="EmailAddresses property" Url="html/73ad6644-4a66-3a2b-9b4a-8a6af48dd66f.htm" />
   <HelpKINode Title="EmployeeId property" Url="html/e351f443-aa31-19ef-89d5-1f8ae0e7058f.htm" />
+  <HelpKINode Title="EmployeeNumber property" Url="html/64143eca-b4ae-cc26-bd05-f44e022e285d.htm" />
   <HelpKINode Title="Enable method" Url="html/284780fc-3709-0a3b-d926-82c6d24c9926.htm" />
   <HelpKINode Title="Encrypted property" Url="html/3fa85a19-825c-3a9d-6928-62a7347e86b1.htm" />
   <HelpKINode Title="EncryptedTextPwdAllowed enumeration member" Url="html/4f6579cc-33f6-77c0-e201-fb610ccaa040.htm" />
@@ -453,12 +453,12 @@
     <HelpKINode Title="Event Class" Url="html/77a6b53f-b71d-282e-6f14-019790dd55c1.htm" />
     <HelpKINode Title="about Event class" Url="html/77a6b53f-b71d-282e-6f14-019790dd55c1.htm" />
     <HelpKINode Title="about Event class" Url="html/452d9023-9cf1-83ec-fba6-422ce3272b84.htm" />
-    <HelpKINode Title="constructor" Url="html/75f83fea-61cf-5c30-ec3e-7d469da0b8ef.htm" />
     <HelpKINode Title="constructor" Url="html/5dbc2ea8-fb43-5971-0189-ce91bd9a2ed6.htm" />
-    <HelpKINode Title="methods" Url="html/9e82f873-bbbb-6da5-f2b5-167f23642574.htm" />
+    <HelpKINode Title="constructor" Url="html/75f83fea-61cf-5c30-ec3e-7d469da0b8ef.htm" />
     <HelpKINode Title="methods" Url="html/86889e6a-70d2-36a9-ce8f-5ecdb46cc50e.htm" />
-    <HelpKINode Title="properties" Url="html/9fb47d81-1853-00e6-836d-dbe9e13c2725.htm" />
+    <HelpKINode Title="methods" Url="html/9e82f873-bbbb-6da5-f2b5-167f23642574.htm" />
     <HelpKINode Title="properties" Url="html/061b449a-463e-68c0-506a-870e65bd64c2.htm" />
+    <HelpKINode Title="properties" Url="html/9fb47d81-1853-00e6-836d-dbe9e13c2725.htm" />
   </HelpKINode>
   <HelpKINode Title="Event.AllDayEvent property" Url="html/40936079-48c4-f4c7-e76d-52958cfb1b8f.htm" />
   <HelpKINode Title="Event.Canceled property" Url="html/ee60b236-2a6d-c471-ad70-7c1c1e336547.htm" />
@@ -474,8 +474,8 @@
   <HelpKINode Title="Event.DetailsLastUpdatedBy property" Url="html/af583866-9e76-649e-f063-0e07422745fc.htm" />
   <HelpKINode Title="Event.EndDate property" Url="html/5ec98845-45a1-3310-9222-0d36d8220b20.htm" />
   <HelpKINode Title="Event.Event constructor">
-    <HelpKINode Title="Event Constructor " Url="html/75f83fea-61cf-5c30-ec3e-7d469da0b8ef.htm" />
     <HelpKINode Title="Event Constructor " Url="html/5dbc2ea8-fb43-5971-0189-ce91bd9a2ed6.htm" />
+    <HelpKINode Title="Event Constructor " Url="html/75f83fea-61cf-5c30-ec3e-7d469da0b8ef.htm" />
   </HelpKINode>
   <HelpKINode Title="Event.GetSeverityLevel method" Url="html/752cda4d-1d1e-6cca-9f1f-300b0d839753.htm" />
   <HelpKINode Title="Event.GetSeverityLevelString method" Url="html/839964a0-e994-0018-1cc3-43fab3414cdf.htm" />
@@ -526,8 +526,6 @@
     <HelpKINode Title="Directory.Exists Method " Url="html/97fb8222-d925-cb67-23e8-a518d44cae66.htm" />
     <HelpKINode Title="File.Exists Method " Url="html/8c64866d-7504-18ff-b74d-7ddfa28ac1db.htm" />
   </HelpKINode>
-  <HelpKINode Title="ExtensionAttribute1 property" Url="html/a8b42578-d0bd-05b5-0a48-febaa713aaaa.htm" />
-  <HelpKINode Title="ExtensionAttribute7 property" Url="html/66c65079-c6ee-9798-edb5-0bb89e1146c2.htm" />
   <HelpKINode Title="Fields property" Url="html/9144053b-ae1f-8aea-dada-4293ec27e66b.htm" />
   <HelpKINode Title="File class">
     <HelpKINode Title="File Class" Url="html/2b79bd28-e7ca-f5cf-3a78-ca6b008df09a.htm" />
@@ -691,10 +689,10 @@
   <HelpKINode Title="GetFileByUrl method" Url="html/f1e34674-95d4-de11-659d-f93aeb6ae1b2.htm" />
   <HelpKINode Title="GetFolderByUrl method" Url="html/667f52e7-105f-5885-eca1-c3827530214e.htm" />
   <HelpKINode Title="GetGUID method" Url="html/5e2f55c9-d447-edcb-1f7e-3941628237ab.htm" />
-  <HelpKINode Title="GetGUIDByAccountId method" Url="html/26a79af0-9223-010c-41f8-02ab24200113.htm" />
   <HelpKINode Title="GetGUIDByAttribute method" Url="html/f6df7e30-cf03-cc4e-ce75-015e7ce576ed.htm" />
   <HelpKINode Title="GetGUIDByCommonName method" Url="html/94bf98dc-46c2-292e-321d-a50a5beee693.htm" />
   <HelpKINode Title="GetGUIDByDistinguishedName method" Url="html/37cf46c2-bdc1-a924-b7cc-5a3642a1dd15.htm" />
+  <HelpKINode Title="GetGUIDByEmployeeNumber method" Url="html/dd5e00c1-595f-2f9c-c72a-c91038319e45.htm" />
   <HelpKINode Title="GetGUIDBySAMAccountName method" Url="html/daf2a9ba-4002-e3bd-859a-4e648d7aa3f5.htm" />
   <HelpKINode Title="GetHash method" Url="html/9dabea8f-0e51-0495-531c-5280fedd9111.htm" />
   <HelpKINode Title="GetHashCode method">
@@ -1494,7 +1492,6 @@
     <HelpKINode Title="methods" Url="html/03807f3e-36e1-3b6e-ce58-0aa36124ce58.htm" />
     <HelpKINode Title="properties" Url="html/adc36597-59cc-2480-19a7-02f5ad72bdb9.htm" />
   </HelpKINode>
-  <HelpKINode Title="User.AccountId property" Url="html/1d266492-6354-b68b-7900-38d335798537.htm" />
   <HelpKINode Title="User.AttributeNames field" Url="html/f40aaef0-45b5-0ab9-3799-c96970cc9cdf.htm" />
   <HelpKINode Title="User.BadPasswordCount property" Url="html/d5ca3fd9-b2d3-d05d-e7dc-2cb0c0c866e8.htm" />
   <HelpKINode Title="User.BadPasswordTime property" Url="html/6f0aacf6-f79f-83b4-5fbd-9ffe49f074f2.htm" />
@@ -1505,10 +1502,9 @@
   <HelpKINode Title="User.DisplayName property" Url="html/bfcac8a9-bf77-faf9-baf8-2414dd1cc91f.htm" />
   <HelpKINode Title="User.Division property" Url="html/fbb92850-38e2-1362-0293-1df1e4d1749f.htm" />
   <HelpKINode Title="User.EmployeeId property" Url="html/e351f443-aa31-19ef-89d5-1f8ae0e7058f.htm" />
+  <HelpKINode Title="User.EmployeeNumber property" Url="html/64143eca-b4ae-cc26-bd05-f44e022e285d.htm" />
   <HelpKINode Title="User.Enable method" Url="html/284780fc-3709-0a3b-d926-82c6d24c9926.htm" />
   <HelpKINode Title="User.Equals method" Url="html/55dd3e81-968c-7200-c368-d7e4985bd5b3.htm" />
-  <HelpKINode Title="User.ExtensionAttribute1 property" Url="html/a8b42578-d0bd-05b5-0a48-febaa713aaaa.htm" />
-  <HelpKINode Title="User.ExtensionAttribute7 property" Url="html/66c65079-c6ee-9798-edb5-0bb89e1146c2.htm" />
   <HelpKINode Title="User.FirstName property" Url="html/9d5961d7-4905-6d68-26a2-989299e972f6.htm" />
   <HelpKINode Title="User.FTPDirectory property" Url="html/dbd446ad-bef9-83ca-3428-106343fcf773.htm" />
   <HelpKINode Title="User.FTPRoot property" Url="html/2a4c40f3-c3c7-9a5a-9dcd-ff50d082e808.htm" />
@@ -1548,10 +1544,6 @@
   <HelpKINode Title="VerifyResultProperty method">
     <HelpKINode Title="IPowerShellScript.VerifyResultProperty Method " Url="html/758c7f66-ba38-5cb9-87d6-e3ecad16fab3.htm" />
     <HelpKINode Title="PowerShellScript.VerifyResultProperty Method " Url="html/e5afc060-ec3c-622a-bf40-ead31b8365e8.htm" />
-  </HelpKINode>
-  <HelpKINode Title="version">
-    <HelpKINode Title="1.0.0.0" Url="html/53f3b2a2-589f-4baf-b44c-614ffd0a526d.htm" />
-    <HelpKINode Title="history" Url="html/b24be317-9616-44df-b3de-ff12bdd4d0f9.htm" />
   </HelpKINode>
   <HelpKINode Title="Warning enumeration member" Url="html/89ea8656-ed3b-e688-b58c-a5d8768d53aa.htm" />
   <HelpKINode Title="WellKnownSid_System property" Url="html/c4553674-a195-d0b2-7d29-4a2b81bb11b3.htm" />
