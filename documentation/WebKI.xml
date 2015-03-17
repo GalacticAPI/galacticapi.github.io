@@ -166,8 +166,9 @@
     <HelpKINode Title="StoredProcedure.AddNVarCharParameter Method " Url="html/8ba3aa52-f215-ed82-4f61-53b198eec442.htm" />
   </HelpKINode>
   <HelpKINode Title="AddOrReplace method">
-    <HelpKINode Title="CouchbaseUtility.AddOrReplace Method " Url="html/471d290b-f0d9-f48d-570c-513f4068c940.htm" />
-    <HelpKINode Title="NoSqlUtility.AddOrReplace Method " Url="html/2a1278db-6f1c-c7f3-aa8c-3e9c9aa69ee1.htm" />
+    <HelpKINode Title="CouchbaseUtility.AddOrReplace Method " Url="html/7d39676a-fb95-5640-a1dc-72d266fca615.htm" />
+    <HelpKINode Title="MongoDBUtility.AddOrReplace Method " Url="html/b30b151e-1510-9049-4da4-29790d527afc.htm" />
+    <HelpKINode Title="NoSqlUtility.AddOrReplace Method " Url="html/1dd36633-6659-8326-e30d-3804c694b3f7.htm" />
   </HelpKINode>
   <HelpKINode Title="AddOrReplaceAttribute method" Url="html/31797066-58c9-7326-edf3-f1095e9f5b54.htm" />
   <HelpKINode Title="AddOrReplaceAttributeValue method" Url="html/4542a32d-f219-1945-d52d-36853f912141.htm" />
@@ -314,7 +315,7 @@
     <HelpKINode Title="constructor" Url="html/77350869-def7-0381-ad4e-68c8741234ce.htm" />
     <HelpKINode Title="methods" Url="html/aa17ce86-f179-cacf-7df9-5522368ee687.htm" />
   </HelpKINode>
-  <HelpKINode Title="CouchbaseUtility.AddOrReplace method" Url="html/471d290b-f0d9-f48d-570c-513f4068c940.htm" />
+  <HelpKINode Title="CouchbaseUtility.AddOrReplace method" Url="html/7d39676a-fb95-5640-a1dc-72d266fca615.htm" />
   <HelpKINode Title="CouchbaseUtility.CouchbaseUtility constructor" Url="html/77350869-def7-0381-ad4e-68c8741234ce.htm" />
   <HelpKINode Title="CouchbaseUtility.Delete method" Url="html/4d7f5219-db7b-00d6-f577-150a67f8b906.htm" />
   <HelpKINode Title="CouchbaseUtility.Dispose method" Url="html/f2949ff0-eb21-56d2-1bb9-b42b5d9e4d8d.htm" />
@@ -345,6 +346,7 @@
   <HelpKINode Title="DecryptStringFromBytes method" Url="html/b0ff5148-bfa3-2691-ec6d-57cf68dfd2e6.htm" />
   <HelpKINode Title="DefaultPortNumber field" Url="html/8724eff7-7703-07ba-41fb-5dc70a2e7f68.htm" />
   <HelpKINode Title="DEFAULT_APP_NAME field" Url="html/e6b3a2b0-2b3f-055a-21b7-b9f7384fcee6.htm" />
+  <HelpKINode Title="DEFAULT_COLLECTION field" Url="html/caeeb4ba-9514-9c2f-5487-cc47ae9eaf5d.htm" />
   <HelpKINode Title="DEFAULT_MAX_RUNSPACES_IN_POOL field" Url="html/7ab0984a-3f7f-ae07-4e8b-2fc18938210c.htm" />
   <HelpKINode Title="DEFAULT_MIN_RUNSPACES_IN_POOL field" Url="html/a00454df-448b-0c32-bbe8-76533ace0907.htm" />
   <HelpKINode Title="DEFAULT_OPEN_TIMEOUT_IN_SEC field" Url="html/16d7b90b-0f29-174f-36fb-77519904922a.htm" />
@@ -361,6 +363,7 @@
     <HelpKINode Title="File.Delete Method " Url="html/11780aa8-9e2a-84c9-5779-9e81fda7e6c9.htm" />
     <HelpKINode Title="Group.Delete Method " Url="html/0e99e2f3-e367-6d66-e244-4802475f4f4c.htm" />
     <HelpKINode Title="LDAP.Delete Method " Url="html/cca9f324-94da-c6b0-92b7-8d9a0be5549f.htm" />
+    <HelpKINode Title="MongoDBUtility.Delete Method " Url="html/c3e1f1f6-05b8-f84b-cf55-8c07b5a21c08.htm" />
     <HelpKINode Title="NoSqlUtility.Delete Method " Url="html/ae8f7a7b-aef8-875e-7f3c-b6321682b8dd.htm" />
     <HelpKINode Title="SharePointListItem.Delete Method " Url="html/03ef5157-3e80-e64e-bb99-987bd98d2480.htm" />
   </HelpKINode>
@@ -451,14 +454,14 @@
   <HelpKINode Title="Event class">
     <HelpKINode Title="Event Class" Url="html/452d9023-9cf1-83ec-fba6-422ce3272b84.htm" />
     <HelpKINode Title="Event Class" Url="html/77a6b53f-b71d-282e-6f14-019790dd55c1.htm" />
-    <HelpKINode Title="about Event class" Url="html/77a6b53f-b71d-282e-6f14-019790dd55c1.htm" />
     <HelpKINode Title="about Event class" Url="html/452d9023-9cf1-83ec-fba6-422ce3272b84.htm" />
+    <HelpKINode Title="about Event class" Url="html/77a6b53f-b71d-282e-6f14-019790dd55c1.htm" />
     <HelpKINode Title="constructor" Url="html/5dbc2ea8-fb43-5971-0189-ce91bd9a2ed6.htm" />
     <HelpKINode Title="constructor" Url="html/75f83fea-61cf-5c30-ec3e-7d469da0b8ef.htm" />
     <HelpKINode Title="methods" Url="html/9e82f873-bbbb-6da5-f2b5-167f23642574.htm" />
     <HelpKINode Title="methods" Url="html/86889e6a-70d2-36a9-ce8f-5ecdb46cc50e.htm" />
-    <HelpKINode Title="properties" Url="html/9fb47d81-1853-00e6-836d-dbe9e13c2725.htm" />
     <HelpKINode Title="properties" Url="html/061b449a-463e-68c0-506a-870e65bd64c2.htm" />
+    <HelpKINode Title="properties" Url="html/9fb47d81-1853-00e6-836d-dbe9e13c2725.htm" />
   </HelpKINode>
   <HelpKINode Title="Event.AllDayEvent property" Url="html/40936079-48c4-f4c7-e76d-52958cfb1b8f.htm" />
   <HelpKINode Title="Event.Canceled property" Url="html/ee60b236-2a6d-c471-ad70-7c1c1e336547.htm" />
@@ -474,8 +477,8 @@
   <HelpKINode Title="Event.DetailsLastUpdatedBy property" Url="html/af583866-9e76-649e-f063-0e07422745fc.htm" />
   <HelpKINode Title="Event.EndDate property" Url="html/5ec98845-45a1-3310-9222-0d36d8220b20.htm" />
   <HelpKINode Title="Event.Event constructor">
-    <HelpKINode Title="Event Constructor " Url="html/75f83fea-61cf-5c30-ec3e-7d469da0b8ef.htm" />
     <HelpKINode Title="Event Constructor " Url="html/5dbc2ea8-fb43-5971-0189-ce91bd9a2ed6.htm" />
+    <HelpKINode Title="Event Constructor " Url="html/75f83fea-61cf-5c30-ec3e-7d469da0b8ef.htm" />
   </HelpKINode>
   <HelpKINode Title="Event.GetSeverityLevel method" Url="html/752cda4d-1d1e-6cca-9f1f-300b0d839753.htm" />
   <HelpKINode Title="Event.GetSeverityLevelString method" Url="html/839964a0-e994-0018-1cc3-43fab3414cdf.htm" />
@@ -607,6 +610,8 @@
   <HelpKINode Title="Galactic.NoSql namespace" Url="html/41fc5ea8-15e5-0aca-8695-224598ca668c.htm" />
   <HelpKINode Title="Galactic.NoSql.Couchbase namespace" Url="html/7b1d6dc3-f145-aeab-9aae-66ae9a9c41b0.htm" />
   <HelpKINode Title="Galactic.NoSql.Couchbase.CouchbaseUtility class" Url="html/f1d9e30c-c8a6-422c-8dfb-c74012d32dee.htm" />
+  <HelpKINode Title="Galactic.NoSql.MongoDB namespace" Url="html/100fd955-4890-9d25-5357-d984b87bca45.htm" />
+  <HelpKINode Title="Galactic.NoSql.MongoDB.MongoDBUtility class" Url="html/4a4c7add-e305-5bc0-50a1-dab1b266f1c4.htm" />
   <HelpKINode Title="Galactic.NoSql.NoSqlUtility class" Url="html/84e563ba-4da2-a9d2-daef-3483518a2d94.htm" />
   <HelpKINode Title="Galactic.PowerShell namespace" Url="html/64eb844c-f285-e7a8-d71a-0572ffb12504.htm" />
   <HelpKINode Title="Galactic.PowerShell.IPowerShellScript interface" Url="html/f0769e0d-eb3e-8a3f-f590-dcd58d9c0b9a.htm" />
@@ -643,6 +648,7 @@
   <HelpKINode Title="Get method">
     <HelpKINode Title="ConfigurationItem.Get Method " Url="html/f677566a-44f1-e5ef-309e-4bdcdda414d2.htm" />
     <HelpKINode Title="CouchbaseUtility.Get Method " Url="html/539e3125-f12f-2662-c015-21c14e98c288.htm" />
+    <HelpKINode Title="MongoDBUtility.Get Method " Url="html/4546c302-20ef-a4b8-0995-d58c6e67f49a.htm" />
     <HelpKINode Title="NoSqlUtility.Get Method " Url="html/79d1b6ab-675a-16ba-1fda-ab82fa52178b.htm" />
   </HelpKINode>
   <HelpKINode Title="GetAllRoles method" Url="html/16b4141f-de91-2744-7e2d-73cb94015df0.htm" />
@@ -826,6 +832,7 @@
   <HelpKINode Title="IPowerShellScript.RunspacePool property" Url="html/358297a7-7a86-89a9-e185-84bee8d1441a.htm" />
   <HelpKINode Title="IPowerShellScript.RunSynchronously method" Url="html/a392816e-9cb2-22fb-f16a-b06f5a3bf879.htm" />
   <HelpKINode Title="IPowerShellScript.VerifyResultProperty method" Url="html/758c7f66-ba38-5cb9-87d6-e3ecad16fab3.htm" />
+  <HelpKINode Title="isCollectionNameValid method" Url="html/398926fc-d00c-2de8-deda-8ec8ca373c35.htm" />
   <HelpKINode Title="IsDisabled property" Url="html/5ca5da14-37e9-7f3f-a187-8e6e5ef0fd29.htm" />
   <HelpKINode Title="IsGroup property" Url="html/5df03cf0-684a-d9d9-0ef1-f5f52abd0074.htm" />
   <HelpKINode Title="IsGroupNameValid method" Url="html/11c3e32e-69ab-bc4c-4438-0b7d803c6c2b.htm" />
@@ -916,6 +923,7 @@
   <HelpKINode Title="LogException method">
     <HelpKINode Title="CouchbaseUtility.LogException Method " Url="html/abd43711-2dee-6da4-585d-393c5b460fd7.htm" />
     <HelpKINode Title="IExceptionLogger.LogException Method " Url="html/1b5f0fc7-46c6-e68d-cd09-aff456f5dd94.htm" />
+    <HelpKINode Title="MongoDBUtility.LogException Method " Url="html/8f2d807e-837c-fa9f-352d-04dedf8f8b5f.htm" />
     <HelpKINode Title="NoSqlUtility.LogException Method " Url="html/7a9572bd-8cb1-33a2-4e4a-74533423022d.htm" />
     <HelpKINode Title="OracleUtility.LogException Method " Url="html/890fd795-2a4d-e815-fc4e-65d0cd4bf8ec.htm" />
     <HelpKINode Title="PowerShellScript.LogException Method " Url="html/1481f483-400e-cfa2-9ea0-d81686c242b9.htm" />
@@ -955,6 +963,20 @@
   <HelpKINode Title="Members property" Url="html/e99633b7-5e11-1869-dc3d-5dafaca92e27.htm" />
   <HelpKINode Title="MNSLogonAccount enumeration member" Url="html/4f6579cc-33f6-77c0-e201-fb610ccaa040.htm" />
   <HelpKINode Title="Modify enumeration member" Url="html/c7a50b7e-c9bd-6dd4-2c7c-d5fea1feaf81.htm" />
+  <HelpKINode Title="MongoDBUtility class">
+    <HelpKINode Title="MongoDBUtility Class" Url="html/4a4c7add-e305-5bc0-50a1-dab1b266f1c4.htm" />
+    <HelpKINode Title="about MongoDBUtility class" Url="html/4a4c7add-e305-5bc0-50a1-dab1b266f1c4.htm" />
+    <HelpKINode Title="constructor" Url="html/a725caf3-5b19-1179-217c-af5e722cb3b1.htm" />
+    <HelpKINode Title="fields" Url="html/91abac04-f774-c111-e2f5-52906a98a3e2.htm" />
+    <HelpKINode Title="methods" Url="html/acf95863-543c-a7fa-8ebc-d53c526ffb15.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MongoDBUtility.AddOrReplace method" Url="html/b30b151e-1510-9049-4da4-29790d527afc.htm" />
+  <HelpKINode Title="MongoDBUtility.DEFAULT_COLLECTION field" Url="html/caeeb4ba-9514-9c2f-5487-cc47ae9eaf5d.htm" />
+  <HelpKINode Title="MongoDBUtility.Delete method" Url="html/c3e1f1f6-05b8-f84b-cf55-8c07b5a21c08.htm" />
+  <HelpKINode Title="MongoDBUtility.Get method" Url="html/4546c302-20ef-a4b8-0995-d58c6e67f49a.htm" />
+  <HelpKINode Title="MongoDBUtility.isCollectionNameValid method" Url="html/398926fc-d00c-2de8-deda-8ec8ca373c35.htm" />
+  <HelpKINode Title="MongoDBUtility.LogException method" Url="html/8f2d807e-837c-fa9f-352d-04dedf8f8b5f.htm" />
+  <HelpKINode Title="MongoDBUtility.MongoDBUtility constructor" Url="html/a725caf3-5b19-1179-217c-af5e722cb3b1.htm" />
   <HelpKINode Title="Move method">
     <HelpKINode Title="Directory.Move Method " Url="html/bc1c9bcf-8b3e-f98e-56e4-adaa1619d0b2.htm" />
     <HelpKINode Title="File.Move Method " Url="html/6c82034e-b511-a7fc-6704-abda5592a28d.htm" />
@@ -1022,7 +1044,7 @@
     <HelpKINode Title="constructor" Url="html/1f1e5c4d-3152-92c9-832f-d3dc209c1bd2.htm" />
     <HelpKINode Title="methods" Url="html/aefaad34-f600-bdc9-3f9a-7eaf8faa6cd5.htm" />
   </HelpKINode>
-  <HelpKINode Title="NoSqlUtility.AddOrReplace method" Url="html/2a1278db-6f1c-c7f3-aa8c-3e9c9aa69ee1.htm" />
+  <HelpKINode Title="NoSqlUtility.AddOrReplace method" Url="html/1dd36633-6659-8326-e30d-3804c694b3f7.htm" />
   <HelpKINode Title="NoSqlUtility.Delete method" Url="html/ae8f7a7b-aef8-875e-7f3c-b6321682b8dd.htm" />
   <HelpKINode Title="NoSqlUtility.Get method" Url="html/79d1b6ab-675a-16ba-1fda-ab82fa52178b.htm" />
   <HelpKINode Title="NoSqlUtility.LogException method" Url="html/7a9572bd-8cb1-33a2-4e4a-74533423022d.htm" />
