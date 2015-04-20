@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<shfbBuild product="Sandcastle Help File Builder" version="2015.1.12.0" projectFile="C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\GalacticDocumentation.shfbproj" started="3/16/2015 9:30:53 PM">
+<shfbBuild product="Sandcastle Help File Builder" version="2015.1.12.0" projectFile="C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\GalacticDocumentation.shfbproj" started="4/20/2015 4:22:58 PM">
 <buildStep step="Initializing">
 Finding tools...
 The Sandcastle tools are located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\&#39;
 Locating components in the following folder(s):
-   C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation
+   C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation
 Using presentation style &#39;VS2013&#39; located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013&#39;
 Loading and initializing plug-ins...
 Lightweight Website Style Version 2015.1.12.0
@@ -13,65 +13,65 @@ Portions Copyright &#169; 2014, Sam Harwell, All Rights Reserved
 </buildStep>
 <buildStep step="ValidatingDocumentationSources">
 Validating and copying documentation source information
-Source: C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\SharedLibraries\Release\Galactic\Galactic.ActiveDirectory.xml
-Source: C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\SharedLibraries\Release\Galactic\Galactic.Calendar.iCalendar.xml
-Source: C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\SharedLibraries\Release\Galactic\Galactic.Calendar.xml
-Source: C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\SharedLibraries\Release\Galactic\Galactic.Configuration.xml
-Source: C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\SharedLibraries\Release\Galactic\Galactic.Cryptography.xml
-Source: C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\SharedLibraries\Release\Galactic\Galactic.EventLog.Sql.xml
-Source: C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\SharedLibraries\Release\Galactic\Galactic.EventLog.xml
-Source: C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\SharedLibraries\Release\Galactic\Galactic.FileSystem.xml
-Source: C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\SharedLibraries\Release\Galactic\Galactic.LDAP.xml
-Source: C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\SharedLibraries\Release\Galactic\Galactic.NoSql.Couchbase.xml
-Source: C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\SharedLibraries\Release\Galactic\Galactic.NoSql.xml
-Source: C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\SharedLibraries\Release\Galactic\Galactic.PowerShell.xml
-Source: C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\SharedLibraries\Release\Galactic\Galactic.SharePoint.xml
-Source: C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\SharedLibraries\Release\Galactic\Galactic.Sql.MSSql.xml
-Source: C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\SharedLibraries\Release\Galactic\Galactic.Sql.Oracle.xml
-Source: C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\SharedLibraries\Release\Galactic\Galactic.Sql.xml
-Source: C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\SharedLibraries\Release\Galactic\Galactic.Web.Security.xml
-Source: C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\Galactic\Galactic.sln
-    Found project &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\Galactic\Galactic.ActiveDirectory\Galactic.ActiveDirectory.csproj&#39;
-    Found project &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\Galactic\Galactic.Calendar\Galactic.Calendar.csproj&#39;
-    Found project &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\Galactic\Galactic.Calendar.iCalendar\Galactic.Calendar.iCalendar.csproj&#39;
-    Found project &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\Galactic\Galactic.Configuration\Galactic.Configuration.csproj&#39;
-    Found project &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\Galactic\Galactic.Cryptography\Galactic.Cryptography.csproj&#39;
-    Found project &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\Galactic\Galactic.EventLog\Galactic.EventLog.csproj&#39;
-    Found project &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\Galactic\Galactic.EventLog.Sql\Galactic.EventLog.Sql.csproj&#39;
-    Found project &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\Galactic\Galactic.FileSystem\Galactic.FileSystem.csproj&#39;
-    Found project &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\Galactic\Galactic.LDAP\Galactic.LDAP.csproj&#39;
-    Found project &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\Galactic\Galactic.NoSql\Galactic.NoSql.csproj&#39;
-    Found project &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\Galactic\Galactic.NoSql.Couchbase\Galactic.NoSql.Couchbase.csproj&#39;
-    Found project &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\Galactic\Galactic.PowerShell\Galactic.PowerShell.csproj&#39;
-    Found project &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\Galactic\Galactic.SharePoint\Galactic.SharePoint.csproj&#39;
-    Found project &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\Galactic\Galactic.Sql\Galactic.Sql.csproj&#39;
-    Found project &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\Galactic\Galactic.Sql.MSSql\Galactic.Sql.MSSql.csproj&#39;
-    Found project &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\Galactic\Galactic.Sql.Oracle\Galactic.Sql.Oracle.csproj&#39;
-    Found project &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\Galactic\Galactic.Web.Security\Galactic.Web.Security.csproj&#39;
-    Found project &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\Galactic\Versioning\Versioning.csproj&#39;
-    Found project &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\Galactic\Galactic.NoSql.MongoDB\Galactic.NoSql.MongoDB.csproj&#39;
-Source: C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\SharedLibraries\Release\Galactic\Galactic.NoSql.MongoDB.xml
+Source: C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\SharedLibraries\Release\Galactic\Galactic.ActiveDirectory.xml
+Source: C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\SharedLibraries\Release\Galactic\Galactic.Calendar.iCalendar.xml
+Source: C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\SharedLibraries\Release\Galactic\Galactic.Calendar.xml
+Source: C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\SharedLibraries\Release\Galactic\Galactic.Configuration.xml
+Source: C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\SharedLibraries\Release\Galactic\Galactic.Cryptography.xml
+Source: C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\SharedLibraries\Release\Galactic\Galactic.EventLog.Sql.xml
+Source: C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\SharedLibraries\Release\Galactic\Galactic.EventLog.xml
+Source: C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\SharedLibraries\Release\Galactic\Galactic.FileSystem.xml
+Source: C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\SharedLibraries\Release\Galactic\Galactic.LDAP.xml
+Source: C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\SharedLibraries\Release\Galactic\Galactic.NoSql.Couchbase.xml
+Source: C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\SharedLibraries\Release\Galactic\Galactic.NoSql.xml
+Source: C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\SharedLibraries\Release\Galactic\Galactic.PowerShell.xml
+Source: C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\SharedLibraries\Release\Galactic\Galactic.SharePoint.xml
+Source: C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\SharedLibraries\Release\Galactic\Galactic.Sql.MSSql.xml
+Source: C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\SharedLibraries\Release\Galactic\Galactic.Sql.Oracle.xml
+Source: C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\SharedLibraries\Release\Galactic\Galactic.Sql.xml
+Source: C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\SharedLibraries\Release\Galactic\Galactic.Web.Security.xml
+Source: C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.sln
+    Found project &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.ActiveDirectory\Galactic.ActiveDirectory.csproj&#39;
+    Found project &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Calendar\Galactic.Calendar.csproj&#39;
+    Found project &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Calendar.iCalendar\Galactic.Calendar.iCalendar.csproj&#39;
+    Found project &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Configuration\Galactic.Configuration.csproj&#39;
+    Found project &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Cryptography\Galactic.Cryptography.csproj&#39;
+    Found project &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.EventLog\Galactic.EventLog.csproj&#39;
+    Found project &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.EventLog.Sql\Galactic.EventLog.Sql.csproj&#39;
+    Found project &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.FileSystem\Galactic.FileSystem.csproj&#39;
+    Found project &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.LDAP\Galactic.LDAP.csproj&#39;
+    Found project &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.NoSql\Galactic.NoSql.csproj&#39;
+    Found project &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.NoSql.Couchbase\Galactic.NoSql.Couchbase.csproj&#39;
+    Found project &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.PowerShell\Galactic.PowerShell.csproj&#39;
+    Found project &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.SharePoint\Galactic.SharePoint.csproj&#39;
+    Found project &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Sql\Galactic.Sql.csproj&#39;
+    Found project &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Sql.MSSql\Galactic.Sql.MSSql.csproj&#39;
+    Found project &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Sql.Oracle\Galactic.Sql.Oracle.csproj&#39;
+    Found project &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Web.Security\Galactic.Web.Security.csproj&#39;
+    Found project &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Versioning\Versioning.csproj&#39;
+    Found project &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.NoSql.MongoDB\Galactic.NoSql.MongoDB.csproj&#39;
+Source: C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\SharedLibraries\Release\Galactic\Galactic.NoSql.MongoDB.xml
 
 Parsing project files
-    Found assembly &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\Galactic\Galactic.ActiveDirectory\bin\Debug\Galactic.ActiveDirectory.dll&#39;
-    Found assembly &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\Galactic\Galactic.Calendar\bin\Debug\Galactic.Calendar.dll&#39;
-    Found assembly &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\Galactic\Galactic.Calendar.iCalendar\bin\Debug\Galactic.Calendar.iCalendar.dll&#39;
-    Found assembly &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\Galactic\Galactic.Configuration\bin\Debug\Galactic.Configuration.dll&#39;
-    Found assembly &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\Galactic\Galactic.Cryptography\bin\Debug\Galactic.Cryptography.dll&#39;
-    Found assembly &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\Galactic\Galactic.EventLog\bin\Debug\Galactic.EventLog.dll&#39;
-    Found assembly &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\Galactic\Galactic.EventLog.Sql\bin\Debug\Galactic.EventLog.Sql.dll&#39;
-    Found assembly &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\Galactic\Galactic.FileSystem\bin\Debug\Galactic.FileSystem.dll&#39;
-    Found assembly &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\Galactic\Galactic.LDAP\bin\Debug\Galactic.LDAP.dll&#39;
-    Found assembly &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\Galactic\Galactic.NoSql\bin\Debug\Galactic.NoSql.dll&#39;
-    Found assembly &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\Galactic\Galactic.NoSql.Couchbase\bin\Debug\Galactic.NoSql.Couchbase.dll&#39;
-    Found assembly &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\Galactic\Galactic.PowerShell\bin\Debug\Galactic.PowerShell.dll&#39;
-    Found assembly &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\Galactic\Galactic.SharePoint\bin\Debug\Galactic.SharePoint.dll&#39;
-    Found assembly &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\Galactic\Galactic.Sql\bin\Debug\Galactic.Sql.dll&#39;
-    Found assembly &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\Galactic\Galactic.Sql.MSSql\bin\Debug\Galactic.Sql.MSSql.dll&#39;
-    Found assembly &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\Galactic\Galactic.Sql.Oracle\bin\Debug\Galactic.Sql.Oracle.dll&#39;
-    Found assembly &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\Galactic\Galactic.Web.Security\bin\Debug\Galactic.Web.Security.dll&#39;
-    Found assembly &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\Galactic\Versioning\bin\Debug\Versioning.dll&#39;
-    Found assembly &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\Galactic\Galactic.NoSql.MongoDB\bin\Debug\Galactic.NoSql.MongoDB.dll&#39;
+    Found assembly &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.ActiveDirectory\bin\Release\Galactic.ActiveDirectory.dll&#39;
+    Found assembly &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Calendar\bin\Release\Galactic.Calendar.dll&#39;
+    Found assembly &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Calendar.iCalendar\bin\Release\Galactic.Calendar.iCalendar.dll&#39;
+    Found assembly &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Configuration\bin\Release\Galactic.Configuration.dll&#39;
+    Found assembly &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Cryptography\bin\Release\Galactic.Cryptography.dll&#39;
+    Found assembly &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.EventLog\bin\Release\Galactic.EventLog.dll&#39;
+    Found assembly &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.EventLog.Sql\bin\Release\Galactic.EventLog.Sql.dll&#39;
+    Found assembly &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.FileSystem\bin\Release\Galactic.FileSystem.dll&#39;
+    Found assembly &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.LDAP\bin\Release\Galactic.LDAP.dll&#39;
+    Found assembly &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.NoSql\bin\Release\Galactic.NoSql.dll&#39;
+    Found assembly &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.NoSql.Couchbase\bin\Release\Galactic.NoSql.Couchbase.dll&#39;
+    Found assembly &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.PowerShell\bin\Release\Galactic.PowerShell.dll&#39;
+    Found assembly &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.SharePoint\bin\Release\Galactic.SharePoint.dll&#39;
+    Found assembly &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Sql\bin\Release\Galactic.Sql.dll&#39;
+    Found assembly &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Sql.MSSql\bin\Release\Galactic.Sql.MSSql.dll&#39;
+    Found assembly &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Sql.Oracle\bin\Release\Galactic.Sql.Oracle.dll&#39;
+    Found assembly &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Web.Security\bin\Release\Galactic.Web.Security.dll&#39;
+    Found assembly &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Versioning\bin\Release\Versioning.dll&#39;
+    Found assembly &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.NoSql.MongoDB\bin\Release\Galactic.NoSql.MongoDB.dll&#39;
 
 References to include (excluding framework assemblies):
     Couchbase, Version=1.3.10.0, Culture=neutral, PublicKeyToken=05e9c6b5a9ec94c2, processorArchitecture=MSIL
@@ -92,39 +92,75 @@ References to include (excluding framework assemblies):
     System.Management.Automation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
 
 Copying XML comments files
-    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\SharedLibraries\Release\Galactic\Galactic.ActiveDirectory.xml -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Galactic.ActiveDirectory.xml
-    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\SharedLibraries\Release\Galactic\Galactic.Calendar.iCalendar.xml -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Galactic.Calendar.iCalendar.xml
-    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\SharedLibraries\Release\Galactic\Galactic.Calendar.xml -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Galactic.Calendar.xml
-    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\SharedLibraries\Release\Galactic\Galactic.Configuration.xml -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Galactic.Configuration.xml
-    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\SharedLibraries\Release\Galactic\Galactic.Cryptography.xml -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Galactic.Cryptography.xml
-    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\SharedLibraries\Release\Galactic\Galactic.EventLog.Sql.xml -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Galactic.EventLog.Sql.xml
-    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\SharedLibraries\Release\Galactic\Galactic.EventLog.xml -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Galactic.EventLog.xml
-    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\SharedLibraries\Release\Galactic\Galactic.FileSystem.xml -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Galactic.FileSystem.xml
-    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\SharedLibraries\Release\Galactic\Galactic.LDAP.xml -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Galactic.LDAP.xml
-    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\SharedLibraries\Release\Galactic\Galactic.NoSql.Couchbase.xml -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Galactic.NoSql.Couchbase.xml
-    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\SharedLibraries\Release\Galactic\Galactic.NoSql.xml -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Galactic.NoSql.xml
-    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\SharedLibraries\Release\Galactic\Galactic.PowerShell.xml -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Galactic.PowerShell.xml
-    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\SharedLibraries\Release\Galactic\Galactic.SharePoint.xml -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Galactic.SharePoint.xml
-    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\SharedLibraries\Release\Galactic\Galactic.Sql.MSSql.xml -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Galactic.Sql.MSSql.xml
-    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\SharedLibraries\Release\Galactic\Galactic.Sql.Oracle.xml -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Galactic.Sql.Oracle.xml
-    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\SharedLibraries\Release\Galactic\Galactic.Sql.xml -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Galactic.Sql.xml
-    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\SharedLibraries\Release\Galactic\Galactic.Web.Security.xml -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Galactic.Web.Security.xml
-    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\SharedLibraries\Release\Galactic\Galactic.NoSql.MongoDB.xml -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Galactic.NoSql.MongoDB.xml
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\SharedLibraries\Release\Galactic\Galactic.ActiveDirectory.xml -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Galactic.ActiveDirectory.xml
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\SharedLibraries\Release\Galactic\Galactic.Calendar.iCalendar.xml -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Galactic.Calendar.iCalendar.xml
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\SharedLibraries\Release\Galactic\Galactic.Calendar.xml -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Galactic.Calendar.xml
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\SharedLibraries\Release\Galactic\Galactic.Configuration.xml -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Galactic.Configuration.xml
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\SharedLibraries\Release\Galactic\Galactic.Cryptography.xml -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Galactic.Cryptography.xml
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\SharedLibraries\Release\Galactic\Galactic.EventLog.Sql.xml -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Galactic.EventLog.Sql.xml
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\SharedLibraries\Release\Galactic\Galactic.EventLog.xml -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Galactic.EventLog.xml
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\SharedLibraries\Release\Galactic\Galactic.FileSystem.xml -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Galactic.FileSystem.xml
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\SharedLibraries\Release\Galactic\Galactic.LDAP.xml -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Galactic.LDAP.xml
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\SharedLibraries\Release\Galactic\Galactic.NoSql.Couchbase.xml -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Galactic.NoSql.Couchbase.xml
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\SharedLibraries\Release\Galactic\Galactic.NoSql.xml -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Galactic.NoSql.xml
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\SharedLibraries\Release\Galactic\Galactic.PowerShell.xml -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Galactic.PowerShell.xml
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\SharedLibraries\Release\Galactic\Galactic.SharePoint.xml -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Galactic.SharePoint.xml
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\SharedLibraries\Release\Galactic\Galactic.Sql.MSSql.xml -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Galactic.Sql.MSSql.xml
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\SharedLibraries\Release\Galactic\Galactic.Sql.Oracle.xml -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Galactic.Sql.Oracle.xml
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\SharedLibraries\Release\Galactic\Galactic.Sql.xml -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Galactic.Sql.xml
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\SharedLibraries\Release\Galactic\Galactic.Web.Security.xml -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Galactic.Web.Security.xml
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\SharedLibraries\Release\Galactic\Galactic.NoSql.MongoDB.xml -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Galactic.NoSql.MongoDB.xml
+SHFB: Warning BE0063: &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.ActiveDirectory\bin\Release\Galactic.ActiveDirectory.XML&#39; matches a previously copied comments filename.  The duplicate will be copied to a unique name to preserve the comments it contains.
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.ActiveDirectory\bin\Release\Galactic.ActiveDirectory.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{a633d830-ef41-429e-9178-c56a5b3a2e74}
+SHFB: Warning BE0063: &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Calendar\bin\Release\Galactic.Calendar.XML&#39; matches a previously copied comments filename.  The duplicate will be copied to a unique name to preserve the comments it contains.
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Calendar\bin\Release\Galactic.Calendar.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{b74369b6-6b2e-4920-8331-01a185a4f20c}
+SHFB: Warning BE0063: &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Calendar.iCalendar\bin\Release\Galactic.Calendar.iCalendar.XML&#39; matches a previously copied comments filename.  The duplicate will be copied to a unique name to preserve the comments it contains.
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Calendar.iCalendar\bin\Release\Galactic.Calendar.iCalendar.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{fb073220-a2d3-4625-9563-8ceea4b06402}
+SHFB: Warning BE0063: &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Configuration\bin\Release\Galactic.Configuration.XML&#39; matches a previously copied comments filename.  The duplicate will be copied to a unique name to preserve the comments it contains.
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Configuration\bin\Release\Galactic.Configuration.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{49b92cef-63c0-435a-9a8b-3fc86d503ecd}
+SHFB: Warning BE0063: &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Cryptography\bin\Release\Galactic.Cryptography.XML&#39; matches a previously copied comments filename.  The duplicate will be copied to a unique name to preserve the comments it contains.
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Cryptography\bin\Release\Galactic.Cryptography.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{8b7117d3-6eaf-43a5-be71-74712fa859df}
+SHFB: Warning BE0063: &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.EventLog\bin\Release\Galactic.EventLog.XML&#39; matches a previously copied comments filename.  The duplicate will be copied to a unique name to preserve the comments it contains.
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.EventLog\bin\Release\Galactic.EventLog.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{066997a5-8127-428f-9ea2-daf3f88198c2}
+SHFB: Warning BE0063: &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.EventLog.Sql\bin\Release\Galactic.EventLog.Sql.XML&#39; matches a previously copied comments filename.  The duplicate will be copied to a unique name to preserve the comments it contains.
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.EventLog.Sql\bin\Release\Galactic.EventLog.Sql.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{dc195e2b-c5b0-45c7-8a93-b4146734df88}
+SHFB: Warning BE0063: &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.FileSystem\bin\Release\Galactic.FileSystem.XML&#39; matches a previously copied comments filename.  The duplicate will be copied to a unique name to preserve the comments it contains.
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.FileSystem\bin\Release\Galactic.FileSystem.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{c86fa289-f745-48f9-91f0-0f377ed16b66}
+SHFB: Warning BE0063: &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.LDAP\bin\Release\Galactic.LDAP.XML&#39; matches a previously copied comments filename.  The duplicate will be copied to a unique name to preserve the comments it contains.
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.LDAP\bin\Release\Galactic.LDAP.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{6601d81b-671f-425f-bff7-dc0eba817cc8}
+SHFB: Warning BE0063: &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.NoSql\bin\Release\Galactic.NoSql.XML&#39; matches a previously copied comments filename.  The duplicate will be copied to a unique name to preserve the comments it contains.
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.NoSql\bin\Release\Galactic.NoSql.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{e9dd30c2-91c3-4b0a-8f11-af7fa6171770}
+SHFB: Warning BE0063: &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.NoSql.Couchbase\bin\Release\Galactic.NoSql.Couchbase.XML&#39; matches a previously copied comments filename.  The duplicate will be copied to a unique name to preserve the comments it contains.
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.NoSql.Couchbase\bin\Release\Galactic.NoSql.Couchbase.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{ac79b4a7-f9ae-44ff-96a3-b4a83301ee1e}
+SHFB: Warning BE0063: &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.PowerShell\bin\Release\Galactic.PowerShell.XML&#39; matches a previously copied comments filename.  The duplicate will be copied to a unique name to preserve the comments it contains.
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.PowerShell\bin\Release\Galactic.PowerShell.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{ce42aea9-1484-47c7-a0e3-8c38047a915c}
+SHFB: Warning BE0063: &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.SharePoint\bin\Release\Galactic.SharePoint.XML&#39; matches a previously copied comments filename.  The duplicate will be copied to a unique name to preserve the comments it contains.
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.SharePoint\bin\Release\Galactic.SharePoint.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{d7d4635d-8633-482e-9b95-560b5ee53f57}
+SHFB: Warning BE0063: &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Sql\bin\Release\Galactic.Sql.XML&#39; matches a previously copied comments filename.  The duplicate will be copied to a unique name to preserve the comments it contains.
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Sql\bin\Release\Galactic.Sql.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{e1cfffec-eb43-474e-adbf-d13149b8e361}
+SHFB: Warning BE0063: &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Sql.MSSql\bin\Release\Galactic.Sql.MSSql.XML&#39; matches a previously copied comments filename.  The duplicate will be copied to a unique name to preserve the comments it contains.
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Sql.MSSql\bin\Release\Galactic.Sql.MSSql.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{294ea8e6-9c2e-4b32-89b7-ac79109bec0b}
+SHFB: Warning BE0063: &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Sql.Oracle\bin\Release\Galactic.Sql.Oracle.XML&#39; matches a previously copied comments filename.  The duplicate will be copied to a unique name to preserve the comments it contains.
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Sql.Oracle\bin\Release\Galactic.Sql.Oracle.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{4c10b0f1-503f-415e-aed1-f6e505adbaee}
+SHFB: Warning BE0063: &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Web.Security\bin\Release\Galactic.Web.Security.XML&#39; matches a previously copied comments filename.  The duplicate will be copied to a unique name to preserve the comments it contains.
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Web.Security\bin\Release\Galactic.Web.Security.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{4f401dd7-0cd5-4f8e-bdf5-c6a0b3d790e3}
+SHFB: Warning BE0063: &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.NoSql.MongoDB\bin\Release\Galactic.NoSql.MongoDB.XML&#39; matches a previously copied comments filename.  The duplicate will be copied to a unique name to preserve the comments it contains.
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.NoSql.MongoDB\bin\Release\Galactic.NoSql.MongoDB.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{199eefe1-20c4-4e85-9a3a-00707b6c8883}
 </buildStep>
 <buildStep step="GenerateSharedContent">
 Generating shared content files (en-US, English (United States))...
 <plugIn name="Lightweight Website Style" behavior="After" priority="1000">
-</plugIn>    Last step completed in 00:00:00.0190
+</plugIn>    Last step completed in 00:00:00.0781
 </buildStep>
 <buildStep step="GenerateApiFilter">
 Generating API filter for MRefBuilder...
-    Last step completed in 00:00:00.0460
+    Last step completed in 00:00:00.0938
 </buildStep>
 <buildStep step="GenerateReflectionInfo">
 Generating reflection information...
 [C:\Program Files (x86)\MSBuild\12.0\bin\MSBuild.exe]
-Build started 3/16/2015 9:30:55 PM.
-Project &quot;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\GenerateRefInfo.proj&quot; on node 1 (default targets).
+Build started 4/20/2015 4:23:01 PM.
+Project &quot;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\GenerateRefInfo.proj&quot; on node 1 (default targets).
 PrepareForBuild:
   Creating directory &quot;obj\Debug\&quot;.
 GenerateRefInfo:
@@ -132,24 +168,24 @@ GenerateRefInfo:
   Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
   Portions Copyright c 2006-2014, Eric Woodruff, All Rights Reserved.
   Loaded 19 assemblies for reflection and 17 dependency assemblies.
-  Wrote information on 18 namespaces, 53 types, and 589 members
+  Wrote information on 18 namespaces, 53 types, and 593 members
   Copying file from &quot;reflection.org&quot; to &quot;reflection.all&quot;.
   XslTransform (v2015.1.12.0)
   Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
   Portions Copyright c 2006-2014, Eric Woodruff, All Rights Reserved.
   Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\MergeDuplicates.xsl&#39;.
-Done Building Project &quot;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\GenerateRefInfo.proj&quot; (default targets).
+Done Building Project &quot;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\GenerateRefInfo.proj&quot; (default targets).
 
 Build succeeded.
 
-Time Elapsed 00:00:01.27
-    Last step completed in 00:00:01.3945
+Time Elapsed 00:00:01.65
+    Last step completed in 00:00:01.8246
 </buildStep>
 <buildStep step="TransformReflectionInfo">
 Transforming reflection output...
 [C:\Program Files (x86)\MSBuild\12.0\bin\MSBuild.exe]
-Build started 3/16/2015 9:30:57 PM.
-Project &quot;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\TransformManifest.proj&quot; on node 1 (default targets).
+Build started 4/20/2015 4:23:03 PM.
+Project &quot;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\TransformManifest.proj&quot; on node 1 (default targets).
 TransformManifest:
   XslTransform (v2015.1.12.0)
   Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
@@ -164,16 +200,16 @@ TransformManifest:
   Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
   Portions Copyright c 2006-2014, Eric Woodruff, All Rights Reserved.
   Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\ReflectionToManifest.xsl&#39;.
-Done Building Project &quot;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\TransformManifest.proj&quot; (default targets).
+Done Building Project &quot;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\TransformManifest.proj&quot; (default targets).
 
 Build succeeded.
 
-Time Elapsed 00:00:01.51
-    Last step completed in 00:00:01.7072
+Time Elapsed 00:00:01.06
+    Last step completed in 00:00:01.2188
 </buildStep>
 <buildStep step="GenerateNamespaceSummaries">
 Generating namespace summary information...
-    Last step completed in 00:00:00.3993
+    Last step completed in 00:00:00.4219
 </buildStep>
 <buildStep step="CopyConceptualContent">
 Copying conceptual content...
@@ -182,62 +218,62 @@ Checking for other token files...
 Checking for code snippets files...
 Copying images and creating the media map file...
 Generating conceptual topic files
-    Parsing topic file &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Content\Welcome.aml&#39;
-    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Content\Welcome.aml -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\ddueXml\1f07f1ee-23f1-4552-8521-9b2b62f7f6f9.xml
-    Last step completed in 00:00:00.0640
+    Parsing topic file &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Content\Welcome.aml&#39;
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Content\Welcome.aml -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\ddueXml\1f07f1ee-23f1-4552-8521-9b2b62f7f6f9.xml
+    Last step completed in 00:00:00.0938
 </buildStep>
 <buildStep step="CreateConceptualTopicConfigs">
 Creating conceptual topic configuration files...
     Companion files
     _ContentMetadata_.xml
     ConceptualManifest.xml
-    Last step completed in 00:00:00.0250
+    Last step completed in 00:00:00.0313
 </buildStep>
 <buildStep step="CopyAdditionalContent">
 Copying additional content files...
-C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\icons\GalacticAPIIcon.png -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\GalacticAPIIcon.png
-    Last step completed in 00:00:00.0225
+C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\icons\GalacticAPIIcon.png -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\GalacticAPIIcon.png
+    Last step completed in 00:00:00.0313
 </buildStep>
 <buildStep step="MergeTablesOfContents">
 Merging conceptual and additional tables of contents...
-    Last step completed in 00:00:00.0020
+    Last step completed in 00:00:00.0156
 </buildStep>
 <buildStep step="GenerateIntermediateTableOfContents">
 Generating intermediate table of contents file...
 [C:\Program Files (x86)\MSBuild\12.0\bin\MSBuild.exe]
-Build started 3/16/2015 9:30:59 PM.
-Project &quot;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\GenerateIntermediateTOC.proj&quot; on node 1 (default targets).
+Build started 4/20/2015 4:23:05 PM.
+Project &quot;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\GenerateIntermediateTOC.proj&quot; on node 1 (default targets).
 GenerateIntermediateTOC:
   XslTransform (v2015.1.12.0)
   Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
   Portions Copyright c 2006-2014, Eric Woodruff, All Rights Reserved.
   Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\ProductionTransforms\CreateVSToc.xsl&#39;.
-Done Building Project &quot;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\GenerateIntermediateTOC.proj&quot; (default targets).
+Done Building Project &quot;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\GenerateIntermediateTOC.proj&quot; (default targets).
 
 Build succeeded.
 
-Time Elapsed 00:00:00.23
+Time Elapsed 00:00:00.20
 Generating conceptual content intermediate TOC file...
-    Last step completed in 00:00:00.3703
+    Last step completed in 00:00:00.3125
 </buildStep>
 <buildStep step="CreateBuildAssemblerConfigs">
 Creating Sandcastle configuration files...
     sandcastle.config
     conceptual.config
-    Last step completed in 00:00:01.1238
+    Last step completed in 00:00:01.0626
 </buildStep>
 <buildStep step="MergeCustomConfigs">
 Merging custom build component configurations
-C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\sandcastle.config
-C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\conceptual.config
+C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\sandcastle.config
+C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\conceptual.config
     Removing unused ExampleComponent.
-    Last step completed in 00:00:00.3313
+    Last step completed in 00:00:00.5313
 </buildStep>
 <buildStep step="BuildConceptualTopics">
 Building conceptual help topics...
 [C:\Program Files (x86)\MSBuild\12.0\bin\MSBuild.exe]
-Build started 3/16/2015 9:31:01 PM.
-Project &quot;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\BuildConceptualTopics.proj&quot; on node 1 (default targets).
+Build started 4/20/2015 4:23:07 PM.
+Project &quot;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\BuildConceptualTopics.proj&quot; on node 1 (default targets).
 BuildConceptualTopics:
   BuildAssembler (v2015.1.12.0)
   Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
@@ -246,42 +282,42 @@ BuildConceptualTopics:
   Processing topics...
   Processed 1 topic(s)
   CopyFromIndexComponent: &quot;metadata&quot; in-memory cache entries used: 1 of 15.
-Done Building Project &quot;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\BuildConceptualTopics.proj&quot; (default targets).
+Done Building Project &quot;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\BuildConceptualTopics.proj&quot; (default targets).
 
 Build succeeded.
 
-Time Elapsed 00:00:08.53
-    Last step completed in 00:00:08.9721
+Time Elapsed 00:00:08.50
+    Last step completed in 00:00:08.8654
 </buildStep>
 <buildStep step="BuildReferenceTopics">
 Building reference help topics...
 [C:\Program Files (x86)\MSBuild\12.0\bin\MSBuild.exe]
-Build started 3/16/2015 9:31:10 PM.
-Project &quot;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\BuildReferenceTopics.proj&quot; on node 1 (default targets).
+Build started 4/20/2015 4:23:16 PM.
+Project &quot;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\BuildReferenceTopics.proj&quot; on node 1 (default targets).
 BuildReferenceTopics:
   BuildAssembler (v2015.1.12.0)
   Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
   Portions Copyright c 2006-2014, Eric Woodruff, All Rights Reserved.
   Loading configuration...
   Processing topics...
-BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Galactic.NoSql.Couchbase.CouchbaseUtility.#ctor(Couchbase.Configuration.CouchbaseClientConfiguration)] Unknown reference link target &#39;T:Couchbase.Configuration.CouchbaseClientConfiguration&#39;. [C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Galactic.Sql.Oracle.OracleUtility.LogException(Oracle.DataAccess.Client.OracleException,Galactic.EventLog.EventLog)] Unknown reference link target &#39;T:Oracle.DataAccess.Client.OracleException&#39;. [C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\BuildReferenceTopics.proj]
-  Processed 751 topic(s)
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Galactic.NoSql.Couchbase.CouchbaseUtility.#ctor(Couchbase.Configuration.CouchbaseClientConfiguration)] Unknown reference link target &#39;T:Couchbase.Configuration.CouchbaseClientConfiguration&#39;. [C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Galactic.Sql.Oracle.OracleUtility.LogException(Oracle.DataAccess.Client.OracleException,Galactic.EventLog.EventLog)] Unknown reference link target &#39;T:Oracle.DataAccess.Client.OracleException&#39;. [C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\BuildReferenceTopics.proj]
+  Processed 756 topic(s)
   2 warning(s)
   CopyFromIndexComponent: &quot;reflection&quot; in-memory cache entries used: 15 of 15.
-  CopyFromIndexComponent: &quot;comments&quot; in-memory cache entries used: 21 of 30.
-Done Building Project &quot;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\BuildReferenceTopics.proj&quot; (default targets).
+  CopyFromIndexComponent: &quot;comments&quot; in-memory cache entries used: 22 of 30.
+Done Building Project &quot;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\BuildReferenceTopics.proj&quot; (default targets).
 
 Build succeeded.
 
-Time Elapsed 00:00:37.97
-    Last step completed in 00:00:38.0993
+Time Elapsed 00:00:37.52
+    Last step completed in 00:00:37.6511
 </buildStep>
 <buildStep step="CombiningIntermediateTocFiles">
 Combining conceptual and API intermediate TOC files...
 
 Clearing any prior web output
-    Last step completed in 00:00:01.0758
+    Last step completed in 00:00:01.2969
 </buildStep>
 <buildStep step="ExtractingHtmlInfo">
 Extracting HTML info for HTML Help 1 and/or website...
@@ -292,92 +328,92 @@ E-Mail: Eric@EWoodruff.us
 
 Using LCID &#39;1033&#39;, code page &#39;65001&#39;, encoding charset &#39;UTF-8&#39;.
 
-Processing website files in C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website
-Processed 752 HTML files
+Processing website files in C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website
+Processed 757 HTML files
 Sorting keywords and generating See Also indices
-Saving website keyword index to C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\WebKI.xml
-Saving website table of contents to C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\WebTOC.xml
-    Last step completed in 00:00:05.1778
+Saving website keyword index to C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\WebKI.xml
+Saving website table of contents to C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\WebTOC.xml
+    Last step completed in 00:00:05.2809
 </buildStep>
 <buildStep step="CopyStandardHelpContent">
 Copying standard help content...
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\AlertCaution.png -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\AlertCaution.png
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\AlertNote.png -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\AlertNote.png
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\AlertSecurity.png -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\AlertSecurity.png
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\CFW.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\CFW.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\CodeExample.png -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\CodeExample.png
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\favicon.ico -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\favicon.ico
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privclass.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\privclass.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privdelegate.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\privdelegate.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privenumeration.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\privenumeration.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privevent.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\privevent.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privextension.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\privextension.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privfield.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\privfield.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privinterface.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\privinterface.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privmethod.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\privmethod.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privproperty.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\privproperty.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privstructure.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\privstructure.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protclass.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\protclass.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protdelegate.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\protdelegate.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protenumeration.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\protenumeration.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protevent.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\protevent.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protextension.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\protextension.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protfield.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\protfield.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protinterface.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\protinterface.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protmethod.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\protmethod.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protoperator.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\protoperator.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protproperty.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\protproperty.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protstructure.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\protstructure.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubclass.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\pubclass.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubdelegate.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\pubdelegate.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubenumeration.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\pubenumeration.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubevent.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\pubevent.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubextension.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\pubextension.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubfield.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\pubfield.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubinterface.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\pubinterface.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubmethod.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\pubmethod.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\puboperator.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\puboperator.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubproperty.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\pubproperty.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubstructure.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\pubstructure.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\SectionCollapsed.png -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\SectionCollapsed.png
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\SectionExpanded.png -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\SectionExpanded.png
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\slMobile.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\slMobile.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\static.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\static.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\xna.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\xna.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\scripts\branding.js -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\scripts\branding.js
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-cs-CZ.css -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\styles\branding-cs-CZ.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-de-DE.css -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\styles\branding-de-DE.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-en-US.css -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\styles\branding-en-US.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-es-ES.css -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\styles\branding-es-ES.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-fr-FR.css -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\styles\branding-fr-FR.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-Help1.css -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\styles\branding-Help1.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-Help2.css -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\styles\branding-Help2.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-HelpViewer.css -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\styles\branding-HelpViewer.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-it-IT.css -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\styles\branding-it-IT.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-ja-JP.css -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\styles\branding-ja-JP.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-ko-KR.css -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\styles\branding-ko-KR.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-pl-PL.css -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\styles\branding-pl-PL.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-pt-BR.css -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\styles\branding-pt-BR.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-ru-RU.css -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\styles\branding-ru-RU.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-tr-TR.css -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\styles\branding-tr-TR.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-Website.css -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\styles\branding-Website.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-zh-CN.css -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\styles\branding-zh-CN.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-zh-TW.css -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\styles\branding-zh-TW.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding.css -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\styles\branding.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\index.html -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\index.html
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\search.html -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\search.html
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\SearchHelp.aspx -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\SearchHelp.aspx
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\SearchHelp.inc.php -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\SearchHelp.inc.php
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\SearchHelp.php -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\SearchHelp.php
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\Web.Config -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\Web.Config
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\Search.png -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\Search.png
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\TocClose.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\TocClose.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\TocCollapsed.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\TocCollapsed.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\TocExpanded.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\TocExpanded.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\TocOpen.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\TocOpen.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\branding-Website.js -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\scripts\branding-Website.js
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\jquery-1.11.0.min.js -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\scripts\jquery-1.11.0.min.js
-    Last step completed in 00:00:01.0127
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\AlertCaution.png -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\AlertCaution.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\AlertNote.png -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\AlertNote.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\AlertSecurity.png -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\AlertSecurity.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\CFW.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\CFW.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\CodeExample.png -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\CodeExample.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\favicon.ico -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\favicon.ico
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privclass.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\privclass.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privdelegate.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\privdelegate.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privenumeration.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\privenumeration.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privevent.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\privevent.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privextension.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\privextension.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privfield.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\privfield.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privinterface.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\privinterface.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privmethod.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\privmethod.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privproperty.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\privproperty.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privstructure.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\privstructure.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protclass.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\protclass.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protdelegate.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\protdelegate.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protenumeration.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\protenumeration.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protevent.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\protevent.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protextension.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\protextension.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protfield.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\protfield.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protinterface.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\protinterface.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protmethod.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\protmethod.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protoperator.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\protoperator.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protproperty.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\protproperty.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protstructure.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\protstructure.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubclass.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\pubclass.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubdelegate.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\pubdelegate.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubenumeration.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\pubenumeration.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubevent.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\pubevent.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubextension.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\pubextension.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubfield.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\pubfield.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubinterface.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\pubinterface.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubmethod.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\pubmethod.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\puboperator.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\puboperator.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubproperty.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\pubproperty.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubstructure.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\pubstructure.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\SectionCollapsed.png -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\SectionCollapsed.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\SectionExpanded.png -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\SectionExpanded.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\slMobile.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\slMobile.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\static.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\static.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\xna.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\xna.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\scripts\branding.js -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\scripts\branding.js
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-cs-CZ.css -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\styles\branding-cs-CZ.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-de-DE.css -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\styles\branding-de-DE.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-en-US.css -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\styles\branding-en-US.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-es-ES.css -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\styles\branding-es-ES.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-fr-FR.css -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\styles\branding-fr-FR.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-Help1.css -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\styles\branding-Help1.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-Help2.css -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\styles\branding-Help2.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-HelpViewer.css -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\styles\branding-HelpViewer.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-it-IT.css -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\styles\branding-it-IT.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-ja-JP.css -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\styles\branding-ja-JP.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-ko-KR.css -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\styles\branding-ko-KR.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-pl-PL.css -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\styles\branding-pl-PL.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-pt-BR.css -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\styles\branding-pt-BR.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-ru-RU.css -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\styles\branding-ru-RU.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-tr-TR.css -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\styles\branding-tr-TR.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-Website.css -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\styles\branding-Website.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-zh-CN.css -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\styles\branding-zh-CN.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-zh-TW.css -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\styles\branding-zh-TW.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding.css -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\styles\branding.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\index.html -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\index.html
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\search.html -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\search.html
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\SearchHelp.aspx -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\SearchHelp.aspx
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\SearchHelp.inc.php -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\SearchHelp.inc.php
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\SearchHelp.php -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\SearchHelp.php
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\Web.Config -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\Web.Config
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\Search.png -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\Search.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\TocClose.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\TocClose.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\TocCollapsed.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\TocCollapsed.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\TocExpanded.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\TocExpanded.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\TocOpen.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\TocOpen.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\branding-Website.js -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\scripts\branding-Website.js
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\jquery-1.11.0.min.js -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\scripts\jquery-1.11.0.min.js
+    Last step completed in 00:00:01.6876
 </buildStep>
 <buildStep step="GenerateHelpFormatTableOfContents">
 Generating website table of contents file...
@@ -388,7 +424,7 @@ Generating full-text index for the website...
 
 <plugIn name="Lightweight Website Style" behavior="After" priority="1000">
 Adding lightweight search and TOC elements to each topic...
-</plugIn>    Last step completed in 00:00:16.5346
+</plugIn>    Last step completed in 00:00:17.0763
 </buildStep>
 <buildStep step="CopyingWebsiteFiles">
 Copying website files to output folder...
@@ -403,16 +439,16 @@ Copied 700 files
 Copied 800 files
 Copied 900 files
 Copied 1000 files
-Copied 1049 files for the website content
-    Last step completed in 00:00:03.0252
+Copied 1055 files for the website content
+    Last step completed in 00:00:03.2362
 </buildStep>
 <buildStep step="CleanIntermediates">
 Removing intermediate files...
-    Last step completed in 00:00:00.8514
+    Last step completed in 00:00:00.9532
 </buildStep>
 <buildStep step="Completed">
 
-Build completed successfully at 3/16/2015 9:32:15 PM.  Total time: 00:01:22.8283
+Build completed successfully at 4/20/2015 4:24:23 PM.  Total time: 00:01:25.1850
 
 </buildStep>
 </shfbBuild>
