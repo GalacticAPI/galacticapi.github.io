@@ -14,6 +14,7 @@
   <HelpKINode Title="ActiveDirectory.AddOrReplaceAttributeValue method" Url="html/4542a32d-f219-1945-d52d-36853f912141.htm" />
   <HelpKINode Title="ActiveDirectory.AdministratorsGroupDN property" Url="html/217c82a9-da23-06b4-e634-de974ae69ec6.htm" />
   <HelpKINode Title="ActiveDirectory.AppendDistinguishedName method" Url="html/0d7692ed-3173-907b-16a8-62bc1b6f6c85.htm" />
+  <HelpKINode Title="ActiveDirectory.DEFAULT_FIRST_SITE_NAME field" Url="html/2e619bc0-0eba-c79f-2af5-3676ceb9d1c2.htm" />
   <HelpKINode Title="ActiveDirectory.Delete method" Url="html/8ce3dbd3-900b-7636-8f7d-b74648c308b6.htm" />
   <HelpKINode Title="ActiveDirectory.DeleteAttribute method" Url="html/872ff07e-0b60-2d56-a445-91d88c197e83.htm" />
   <HelpKINode Title="ActiveDirectory.Dispose method" Url="html/62e5d6aa-4f81-4b67-6180-f7d73ac32764.htm" />
@@ -348,6 +349,7 @@
   <HelpKINode Title="DefaultPortNumber field" Url="html/8724eff7-7703-07ba-41fb-5dc70a2e7f68.htm" />
   <HelpKINode Title="DEFAULT_APP_NAME field" Url="html/e6b3a2b0-2b3f-055a-21b7-b9f7384fcee6.htm" />
   <HelpKINode Title="DEFAULT_COLLECTION field" Url="html/caeeb4ba-9514-9c2f-5487-cc47ae9eaf5d.htm" />
+  <HelpKINode Title="DEFAULT_FIRST_SITE_NAME field" Url="html/2e619bc0-0eba-c79f-2af5-3676ceb9d1c2.htm" />
   <HelpKINode Title="DEFAULT_MAX_RUNSPACES_IN_POOL field" Url="html/7ab0984a-3f7f-ae07-4e8b-2fc18938210c.htm" />
   <HelpKINode Title="DEFAULT_MIN_RUNSPACES_IN_POOL field" Url="html/a00454df-448b-0c32-bbe8-76533ace0907.htm" />
   <HelpKINode Title="DEFAULT_OPEN_TIMEOUT_IN_SEC field" Url="html/16d7b90b-0f29-174f-36fb-77519904922a.htm" />
@@ -457,10 +459,10 @@
     <HelpKINode Title="Event Class" Url="html/452d9023-9cf1-83ec-fba6-422ce3272b84.htm" />
     <HelpKINode Title="about Event class" Url="html/77a6b53f-b71d-282e-6f14-019790dd55c1.htm" />
     <HelpKINode Title="about Event class" Url="html/452d9023-9cf1-83ec-fba6-422ce3272b84.htm" />
-    <HelpKINode Title="constructor" Url="html/5dbc2ea8-fb43-5971-0189-ce91bd9a2ed6.htm" />
     <HelpKINode Title="constructor" Url="html/75f83fea-61cf-5c30-ec3e-7d469da0b8ef.htm" />
-    <HelpKINode Title="methods" Url="html/9e82f873-bbbb-6da5-f2b5-167f23642574.htm" />
+    <HelpKINode Title="constructor" Url="html/5dbc2ea8-fb43-5971-0189-ce91bd9a2ed6.htm" />
     <HelpKINode Title="methods" Url="html/86889e6a-70d2-36a9-ce8f-5ecdb46cc50e.htm" />
+    <HelpKINode Title="methods" Url="html/9e82f873-bbbb-6da5-f2b5-167f23642574.htm" />
     <HelpKINode Title="properties" Url="html/061b449a-463e-68c0-506a-870e65bd64c2.htm" />
     <HelpKINode Title="properties" Url="html/9fb47d81-1853-00e6-836d-dbe9e13c2725.htm" />
   </HelpKINode>

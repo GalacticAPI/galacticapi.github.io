@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<shfbBuild product="Sandcastle Help File Builder" version="2015.1.12.0" projectFile="C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\GalacticDocumentation.shfbproj" started="4/20/2015 4:22:58 PM">
+<shfbBuild product="Sandcastle Help File Builder" version="2015.1.12.0" projectFile="C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\GalacticDocumentation.shfbproj" started="5/20/2015 8:33:50 AM">
 <buildStep step="Initializing">
 Finding tools...
 The Sandcastle tools are located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\&#39;
@@ -111,41 +111,41 @@ Copying XML comments files
     C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\SharedLibraries\Release\Galactic\Galactic.Web.Security.xml -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Galactic.Web.Security.xml
     C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\SharedLibraries\Release\Galactic\Galactic.NoSql.MongoDB.xml -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Galactic.NoSql.MongoDB.xml
 SHFB: Warning BE0063: &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.ActiveDirectory\bin\Release\Galactic.ActiveDirectory.XML&#39; matches a previously copied comments filename.  The duplicate will be copied to a unique name to preserve the comments it contains.
-    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.ActiveDirectory\bin\Release\Galactic.ActiveDirectory.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{a633d830-ef41-429e-9178-c56a5b3a2e74}
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.ActiveDirectory\bin\Release\Galactic.ActiveDirectory.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{2690e3aa-7152-459b-8bfa-154e863030fe}
 SHFB: Warning BE0063: &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Calendar\bin\Release\Galactic.Calendar.XML&#39; matches a previously copied comments filename.  The duplicate will be copied to a unique name to preserve the comments it contains.
-    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Calendar\bin\Release\Galactic.Calendar.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{b74369b6-6b2e-4920-8331-01a185a4f20c}
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Calendar\bin\Release\Galactic.Calendar.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{d0b192b2-736a-47c6-ad52-8bdccb8cd83e}
 SHFB: Warning BE0063: &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Calendar.iCalendar\bin\Release\Galactic.Calendar.iCalendar.XML&#39; matches a previously copied comments filename.  The duplicate will be copied to a unique name to preserve the comments it contains.
-    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Calendar.iCalendar\bin\Release\Galactic.Calendar.iCalendar.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{fb073220-a2d3-4625-9563-8ceea4b06402}
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Calendar.iCalendar\bin\Release\Galactic.Calendar.iCalendar.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{fc4dfa39-2b0e-4187-a104-4ba581c39039}
 SHFB: Warning BE0063: &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Configuration\bin\Release\Galactic.Configuration.XML&#39; matches a previously copied comments filename.  The duplicate will be copied to a unique name to preserve the comments it contains.
-    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Configuration\bin\Release\Galactic.Configuration.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{49b92cef-63c0-435a-9a8b-3fc86d503ecd}
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Configuration\bin\Release\Galactic.Configuration.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{6258dbf2-9f42-4aea-b847-5eb83732a52e}
 SHFB: Warning BE0063: &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Cryptography\bin\Release\Galactic.Cryptography.XML&#39; matches a previously copied comments filename.  The duplicate will be copied to a unique name to preserve the comments it contains.
-    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Cryptography\bin\Release\Galactic.Cryptography.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{8b7117d3-6eaf-43a5-be71-74712fa859df}
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Cryptography\bin\Release\Galactic.Cryptography.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{26025fc1-bbb1-45fd-a670-4454c8b67357}
 SHFB: Warning BE0063: &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.EventLog\bin\Release\Galactic.EventLog.XML&#39; matches a previously copied comments filename.  The duplicate will be copied to a unique name to preserve the comments it contains.
-    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.EventLog\bin\Release\Galactic.EventLog.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{066997a5-8127-428f-9ea2-daf3f88198c2}
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.EventLog\bin\Release\Galactic.EventLog.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{59bd5017-af10-4ec5-a107-163a1cb3dcf9}
 SHFB: Warning BE0063: &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.EventLog.Sql\bin\Release\Galactic.EventLog.Sql.XML&#39; matches a previously copied comments filename.  The duplicate will be copied to a unique name to preserve the comments it contains.
-    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.EventLog.Sql\bin\Release\Galactic.EventLog.Sql.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{dc195e2b-c5b0-45c7-8a93-b4146734df88}
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.EventLog.Sql\bin\Release\Galactic.EventLog.Sql.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{3a3990e8-d9e1-4f0e-9a5c-d83b8496386e}
 SHFB: Warning BE0063: &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.FileSystem\bin\Release\Galactic.FileSystem.XML&#39; matches a previously copied comments filename.  The duplicate will be copied to a unique name to preserve the comments it contains.
-    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.FileSystem\bin\Release\Galactic.FileSystem.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{c86fa289-f745-48f9-91f0-0f377ed16b66}
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.FileSystem\bin\Release\Galactic.FileSystem.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{2b645526-e109-45c9-8e3b-6d461ac95158}
 SHFB: Warning BE0063: &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.LDAP\bin\Release\Galactic.LDAP.XML&#39; matches a previously copied comments filename.  The duplicate will be copied to a unique name to preserve the comments it contains.
-    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.LDAP\bin\Release\Galactic.LDAP.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{6601d81b-671f-425f-bff7-dc0eba817cc8}
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.LDAP\bin\Release\Galactic.LDAP.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{92186df8-48a5-49bb-b3a4-c2b2a2b39702}
 SHFB: Warning BE0063: &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.NoSql\bin\Release\Galactic.NoSql.XML&#39; matches a previously copied comments filename.  The duplicate will be copied to a unique name to preserve the comments it contains.
-    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.NoSql\bin\Release\Galactic.NoSql.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{e9dd30c2-91c3-4b0a-8f11-af7fa6171770}
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.NoSql\bin\Release\Galactic.NoSql.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{68a7c45f-ec8f-4482-b738-9a12ea77214f}
 SHFB: Warning BE0063: &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.NoSql.Couchbase\bin\Release\Galactic.NoSql.Couchbase.XML&#39; matches a previously copied comments filename.  The duplicate will be copied to a unique name to preserve the comments it contains.
-    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.NoSql.Couchbase\bin\Release\Galactic.NoSql.Couchbase.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{ac79b4a7-f9ae-44ff-96a3-b4a83301ee1e}
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.NoSql.Couchbase\bin\Release\Galactic.NoSql.Couchbase.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{2f6a3240-bb0e-43a1-a8db-1f9b1e73db75}
 SHFB: Warning BE0063: &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.PowerShell\bin\Release\Galactic.PowerShell.XML&#39; matches a previously copied comments filename.  The duplicate will be copied to a unique name to preserve the comments it contains.
-    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.PowerShell\bin\Release\Galactic.PowerShell.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{ce42aea9-1484-47c7-a0e3-8c38047a915c}
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.PowerShell\bin\Release\Galactic.PowerShell.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{b1d53807-1675-4c57-bbcd-fc460b5a7746}
 SHFB: Warning BE0063: &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.SharePoint\bin\Release\Galactic.SharePoint.XML&#39; matches a previously copied comments filename.  The duplicate will be copied to a unique name to preserve the comments it contains.
-    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.SharePoint\bin\Release\Galactic.SharePoint.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{d7d4635d-8633-482e-9b95-560b5ee53f57}
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.SharePoint\bin\Release\Galactic.SharePoint.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{0541dbc2-7993-4204-a18b-6487afd87538}
 SHFB: Warning BE0063: &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Sql\bin\Release\Galactic.Sql.XML&#39; matches a previously copied comments filename.  The duplicate will be copied to a unique name to preserve the comments it contains.
-    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Sql\bin\Release\Galactic.Sql.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{e1cfffec-eb43-474e-adbf-d13149b8e361}
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Sql\bin\Release\Galactic.Sql.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{9eb2be76-a767-495f-93e7-68fb512f2b6f}
 SHFB: Warning BE0063: &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Sql.MSSql\bin\Release\Galactic.Sql.MSSql.XML&#39; matches a previously copied comments filename.  The duplicate will be copied to a unique name to preserve the comments it contains.
-    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Sql.MSSql\bin\Release\Galactic.Sql.MSSql.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{294ea8e6-9c2e-4b32-89b7-ac79109bec0b}
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Sql.MSSql\bin\Release\Galactic.Sql.MSSql.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{bf2700db-dfd9-496b-800e-4aab4a980d8e}
 SHFB: Warning BE0063: &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Sql.Oracle\bin\Release\Galactic.Sql.Oracle.XML&#39; matches a previously copied comments filename.  The duplicate will be copied to a unique name to preserve the comments it contains.
-    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Sql.Oracle\bin\Release\Galactic.Sql.Oracle.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{4c10b0f1-503f-415e-aed1-f6e505adbaee}
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Sql.Oracle\bin\Release\Galactic.Sql.Oracle.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{efe5bcaf-c2a3-4c27-ba0b-7f56feb29e1a}
 SHFB: Warning BE0063: &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Web.Security\bin\Release\Galactic.Web.Security.XML&#39; matches a previously copied comments filename.  The duplicate will be copied to a unique name to preserve the comments it contains.
-    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Web.Security\bin\Release\Galactic.Web.Security.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{4f401dd7-0cd5-4f8e-bdf5-c6a0b3d790e3}
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.Web.Security\bin\Release\Galactic.Web.Security.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{c8b245fb-0b01-4520-ac80-d228a25f29a1}
 SHFB: Warning BE0063: &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.NoSql.MongoDB\bin\Release\Galactic.NoSql.MongoDB.XML&#39; matches a previously copied comments filename.  The duplicate will be copied to a unique name to preserve the comments it contains.
-    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.NoSql.MongoDB\bin\Release\Galactic.NoSql.MongoDB.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{199eefe1-20c4-4e85-9a3a-00707b6c8883}
+    C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galactic\Galactic.NoSql.MongoDB\bin\Release\Galactic.NoSql.MongoDB.XML -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\{9c720088-cb9b-46cc-86ea-de93e4c4ce69}
 </buildStep>
 <buildStep step="GenerateSharedContent">
 Generating shared content files (en-US, English (United States))...
@@ -154,12 +154,12 @@ Generating shared content files (en-US, English (United States))...
 </buildStep>
 <buildStep step="GenerateApiFilter">
 Generating API filter for MRefBuilder...
-    Last step completed in 00:00:00.0938
+    Last step completed in 00:00:00.1406
 </buildStep>
 <buildStep step="GenerateReflectionInfo">
 Generating reflection information...
 [C:\Program Files (x86)\MSBuild\12.0\bin\MSBuild.exe]
-Build started 4/20/2015 4:23:01 PM.
+Build started 5/20/2015 8:33:54 AM.
 Project &quot;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\GenerateRefInfo.proj&quot; on node 1 (default targets).
 PrepareForBuild:
   Creating directory &quot;obj\Debug\&quot;.
@@ -168,7 +168,7 @@ GenerateRefInfo:
   Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
   Portions Copyright c 2006-2014, Eric Woodruff, All Rights Reserved.
   Loaded 19 assemblies for reflection and 17 dependency assemblies.
-  Wrote information on 18 namespaces, 53 types, and 593 members
+  Wrote information on 18 namespaces, 53 types, and 594 members
   Copying file from &quot;reflection.org&quot; to &quot;reflection.all&quot;.
   XslTransform (v2015.1.12.0)
   Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
@@ -178,13 +178,13 @@ Done Building Project &quot;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 201
 
 Build succeeded.
 
-Time Elapsed 00:00:01.65
-    Last step completed in 00:00:01.8246
+Time Elapsed 00:00:01.12
+    Last step completed in 00:00:01.2657
 </buildStep>
 <buildStep step="TransformReflectionInfo">
 Transforming reflection output...
 [C:\Program Files (x86)\MSBuild\12.0\bin\MSBuild.exe]
-Build started 4/20/2015 4:23:03 PM.
+Build started 5/20/2015 8:33:55 AM.
 Project &quot;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\TransformManifest.proj&quot; on node 1 (default targets).
 TransformManifest:
   XslTransform (v2015.1.12.0)
@@ -204,12 +204,12 @@ Done Building Project &quot;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 201
 
 Build succeeded.
 
-Time Elapsed 00:00:01.06
-    Last step completed in 00:00:01.2188
+Time Elapsed 00:00:01.04
+    Last step completed in 00:00:01.2011
 </buildStep>
 <buildStep step="GenerateNamespaceSummaries">
 Generating namespace summary information...
-    Last step completed in 00:00:00.4219
+    Last step completed in 00:00:00.3750
 </buildStep>
 <buildStep step="CopyConceptualContent">
 Copying conceptual content...
@@ -220,14 +220,14 @@ Copying images and creating the media map file...
 Generating conceptual topic files
     Parsing topic file &#39;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Content\Welcome.aml&#39;
     C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Content\Welcome.aml -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\ddueXml\1f07f1ee-23f1-4552-8521-9b2b62f7f6f9.xml
-    Last step completed in 00:00:00.0938
+    Last step completed in 00:00:00.0781
 </buildStep>
 <buildStep step="CreateConceptualTopicConfigs">
 Creating conceptual topic configuration files...
     Companion files
     _ContentMetadata_.xml
     ConceptualManifest.xml
-    Last step completed in 00:00:00.0313
+    Last step completed in 00:00:00.0469
 </buildStep>
 <buildStep step="CopyAdditionalContent">
 Copying additional content files...
@@ -236,12 +236,12 @@ C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\Galac
 </buildStep>
 <buildStep step="MergeTablesOfContents">
 Merging conceptual and additional tables of contents...
-    Last step completed in 00:00:00.0156
+    Last step completed in 00:00:00.0000
 </buildStep>
 <buildStep step="GenerateIntermediateTableOfContents">
 Generating intermediate table of contents file...
 [C:\Program Files (x86)\MSBuild\12.0\bin\MSBuild.exe]
-Build started 4/20/2015 4:23:05 PM.
+Build started 5/20/2015 8:33:57 AM.
 Project &quot;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\GenerateIntermediateTOC.proj&quot; on node 1 (default targets).
 GenerateIntermediateTOC:
   XslTransform (v2015.1.12.0)
@@ -252,9 +252,9 @@ Done Building Project &quot;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 201
 
 Build succeeded.
 
-Time Elapsed 00:00:00.20
+Time Elapsed 00:00:00.18
 Generating conceptual content intermediate TOC file...
-    Last step completed in 00:00:00.3125
+    Last step completed in 00:00:00.3281
 </buildStep>
 <buildStep step="CreateBuildAssemblerConfigs">
 Creating Sandcastle configuration files...
@@ -267,12 +267,12 @@ Merging custom build component configurations
 C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\sandcastle.config
 C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\conceptual.config
     Removing unused ExampleComponent.
-    Last step completed in 00:00:00.5313
+    Last step completed in 00:00:00.5000
 </buildStep>
 <buildStep step="BuildConceptualTopics">
 Building conceptual help topics...
 [C:\Program Files (x86)\MSBuild\12.0\bin\MSBuild.exe]
-Build started 4/20/2015 4:23:07 PM.
+Build started 5/20/2015 8:33:59 AM.
 Project &quot;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\BuildConceptualTopics.proj&quot; on node 1 (default targets).
 BuildConceptualTopics:
   BuildAssembler (v2015.1.12.0)
@@ -286,13 +286,13 @@ Done Building Project &quot;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 201
 
 Build succeeded.
 
-Time Elapsed 00:00:08.50
-    Last step completed in 00:00:08.8654
+Time Elapsed 00:00:09.11
+    Last step completed in 00:00:09.5387
 </buildStep>
 <buildStep step="BuildReferenceTopics">
 Building reference help topics...
 [C:\Program Files (x86)\MSBuild\12.0\bin\MSBuild.exe]
-Build started 4/20/2015 4:23:16 PM.
+Build started 5/20/2015 8:34:08 AM.
 Project &quot;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\BuildReferenceTopics.proj&quot; on node 1 (default targets).
 BuildReferenceTopics:
   BuildAssembler (v2015.1.12.0)
@@ -302,7 +302,7 @@ BuildReferenceTopics:
   Processing topics...
 BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Galactic.NoSql.Couchbase.CouchbaseUtility.#ctor(Couchbase.Configuration.CouchbaseClientConfiguration)] Unknown reference link target &#39;T:Couchbase.Configuration.CouchbaseClientConfiguration&#39;. [C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\BuildReferenceTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [M:Galactic.Sql.Oracle.OracleUtility.LogException(Oracle.DataAccess.Client.OracleException,Galactic.EventLog.EventLog)] Unknown reference link target &#39;T:Oracle.DataAccess.Client.OracleException&#39;. [C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\BuildReferenceTopics.proj]
-  Processed 756 topic(s)
+  Processed 757 topic(s)
   2 warning(s)
   CopyFromIndexComponent: &quot;reflection&quot; in-memory cache entries used: 15 of 15.
   CopyFromIndexComponent: &quot;comments&quot; in-memory cache entries used: 22 of 30.
@@ -310,14 +310,14 @@ Done Building Project &quot;C:\Users\Trevor\SkyDrive\Documents\Visual Studio 201
 
 Build succeeded.
 
-Time Elapsed 00:00:37.52
-    Last step completed in 00:00:37.6511
+Time Elapsed 00:00:36.97
+    Last step completed in 00:00:37.1203
 </buildStep>
 <buildStep step="CombiningIntermediateTocFiles">
 Combining conceptual and API intermediate TOC files...
 
 Clearing any prior web output
-    Last step completed in 00:00:01.2969
+    Last step completed in 00:00:00.7813
 </buildStep>
 <buildStep step="ExtractingHtmlInfo">
 Extracting HTML info for HTML Help 1 and/or website...
@@ -329,11 +329,11 @@ E-Mail: Eric@EWoodruff.us
 Using LCID &#39;1033&#39;, code page &#39;65001&#39;, encoding charset &#39;UTF-8&#39;.
 
 Processing website files in C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website
-Processed 757 HTML files
+Processed 758 HTML files
 Sorting keywords and generating See Also indices
 Saving website keyword index to C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\WebKI.xml
 Saving website table of contents to C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\WebTOC.xml
-    Last step completed in 00:00:05.2809
+    Last step completed in 00:00:05.3460
 </buildStep>
 <buildStep step="CopyStandardHelpContent">
 Copying standard help content...
@@ -413,7 +413,7 @@ C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyle
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\TocOpen.gif -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\icons\TocOpen.gif
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\branding-Website.js -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\scripts\branding-Website.js
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\jquery-1.11.0.min.js -&gt; C:\Users\Trevor\SkyDrive\Documents\Visual Studio 2013\Projects\GalacticAPI\GalacticDocumentation\GalacticDocumentation\Help\Working\Output\Website\scripts\jquery-1.11.0.min.js
-    Last step completed in 00:00:01.6876
+    Last step completed in 00:00:01.2813
 </buildStep>
 <buildStep step="GenerateHelpFormatTableOfContents">
 Generating website table of contents file...
@@ -424,7 +424,7 @@ Generating full-text index for the website...
 
 <plugIn name="Lightweight Website Style" behavior="After" priority="1000">
 Adding lightweight search and TOC elements to each topic...
-</plugIn>    Last step completed in 00:00:17.0763
+</plugIn>    Last step completed in 00:00:17.0679
 </buildStep>
 <buildStep step="CopyingWebsiteFiles">
 Copying website files to output folder...
@@ -439,16 +439,16 @@ Copied 700 files
 Copied 800 files
 Copied 900 files
 Copied 1000 files
-Copied 1055 files for the website content
-    Last step completed in 00:00:03.2362
+Copied 1056 files for the website content
+    Last step completed in 00:00:02.4845
 </buildStep>
 <buildStep step="CleanIntermediates">
 Removing intermediate files...
-    Last step completed in 00:00:00.9532
+    Last step completed in 00:00:00.7198
 </buildStep>
 <buildStep step="Completed">
 
-Build completed successfully at 4/20/2015 4:24:23 PM.  Total time: 00:01:25.1850
+Build completed successfully at 5/20/2015 8:35:13 AM.  Total time: 00:01:23.2757
 
 </buildStep>
 </shfbBuild>
