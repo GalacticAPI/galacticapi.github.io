@@ -155,7 +155,7 @@
 				</div>
 			</div>
 			<div id="ADRoleProvider">
-				<h2>Galactic.Web.Security.ActiveDirectoryRoleProvider</h2>
+				<h2>Galactic.Web.Security.ActiveDirectory.ActiveDirectoryRoleProvider</h2>
 				<div class="well">
 					<h4>Additional Configuration required:</h4>
 					<small>
@@ -170,7 +170,7 @@
 	&lt;roleManager defaultProvider="ActiveDirectoryRoleProvider" enabled="true" cookieRequireSSL="true"&gt;
 	  &lt;providers&gt;
 		&lt;clear /&gt;
-		&lt;add name="ActiveDirectoryRoleProvider" type="Galactic.Web.Security.ActiveDirectoryRoleProvider" applicationConfigurationItemDirectory="~/ConfigurationItems/" description="Galactic Active Directory Role Provider" /&gt;
+		&lt;add name="ActiveDirectoryRoleProvider" type="Galactic.Web.Security.ActiveDirectory.ActiveDirectoryRoleProvider" applicationConfigurationItemDirectory="~/ConfigurationItems/" description="Galactic Active Directory Role Provider" /&gt;
 	  &lt;/providers&gt;
 	&lt;/roleManager&gt;
 &lt;/system.web&gt;
@@ -200,7 +200,7 @@
 				</div>
 			</div>
 			<div id="SimpleMappingRoleProvider">
-				<h2>Galactic.Web.Security.SimpleMappingRoleProvider</h2>
+				<h2>Galactic.Web.Security.SimpleMapping.SimpleMappingRoleProvider</h2>
 				<div class="well">
 					<h4>Additional Configuration required:</h4>
 					<small>
@@ -215,7 +215,7 @@
 	&lt;roleManager defaultProvider="SimpleMappingRoleProvider" enabled="true" cookieRequireSSL="true"&gt;
 	  &lt;providers&gt;
 		&lt;clear /&gt;
-		&lt;add name="SimpleMappingRoleProvider" type="Galactic.Web.Security.SimpleMappingRoleProvider" applicationConfigurationItemDirectory="~/ConfigurationItems/" description="Galactic Simple Mapping Role Provider" /&gt;
+		&lt;add name="SimpleMappingRoleProvider" type="Galactic.Web.Security.SimpleMapping.SimpleMappingRoleProvider" applicationConfigurationItemDirectory="~/ConfigurationItems/" description="Galactic Simple Mapping Role Provider" /&gt;
 	  &lt;/providers&gt;
 	&lt;/roleManager&gt;
 &lt;/system.web&gt;
