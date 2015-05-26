@@ -94,29 +94,29 @@
   <HelpKINode Title="ActiveDirectoryObject.SetAttribute method" Url="html/a7d6e813-db01-c1b2-9407-be46b5b23fbc.htm" />
   <HelpKINode Title="ActiveDirectoryObject.SetStringAttribute method" Url="html/95e99bbd-e019-6158-2ecf-4a01ad2c3218.htm" />
   <HelpKINode Title="ActiveDirectoryRoleProvider class">
-    <HelpKINode Title="ActiveDirectoryRoleProvider Class" Url="html/2a368fae-c5bb-dc64-11c0-c8806eac584f.htm" />
-    <HelpKINode Title="about ActiveDirectoryRoleProvider class" Url="html/2a368fae-c5bb-dc64-11c0-c8806eac584f.htm" />
-    <HelpKINode Title="constructor" Url="html/df08fbf6-6d4a-e56b-9543-9276e05ae964.htm" />
-    <HelpKINode Title="methods" Url="html/3d83d16f-4a0d-f2ab-4b20-8264b8c78ebe.htm" />
-    <HelpKINode Title="properties" Url="html/02ecb968-d646-43fb-9527-6dadc6b0e8cf.htm" />
+    <HelpKINode Title="ActiveDirectoryRoleProvider Class" Url="html/e9c84e0e-6645-1f4d-f95e-732ea112724c.htm" />
+    <HelpKINode Title="about ActiveDirectoryRoleProvider class" Url="html/e9c84e0e-6645-1f4d-f95e-732ea112724c.htm" />
+    <HelpKINode Title="constructor" Url="html/4162be74-d9ec-0f6a-6cea-6339b09c2fcb.htm" />
+    <HelpKINode Title="methods" Url="html/9b3e9861-931e-f3c1-b13e-52785bd1fc5a.htm" />
+    <HelpKINode Title="properties" Url="html/2faf1233-d2ff-8451-9dbf-a06468fac05a.htm" />
   </HelpKINode>
-  <HelpKINode Title="ActiveDirectoryRoleProvider.ActiveDirectoryRoleProvider constructor" Url="html/df08fbf6-6d4a-e56b-9543-9276e05ae964.htm" />
-  <HelpKINode Title="ActiveDirectoryRoleProvider.AddUsersToRoles method" Url="html/98000274-5285-a4aa-dc20-97ac91429c38.htm" />
-  <HelpKINode Title="ActiveDirectoryRoleProvider.ApplicationName property" Url="html/ee02edf9-d5e9-649c-abb2-9a5c102d6065.htm" />
-  <HelpKINode Title="ActiveDirectoryRoleProvider.CreateRole method" Url="html/8cc14594-6d21-6000-c610-642d90adcdc1.htm" />
-  <HelpKINode Title="ActiveDirectoryRoleProvider.DeleteRole method" Url="html/5cbcffb6-373f-9136-8d8b-23d210dd0741.htm" />
-  <HelpKINode Title="ActiveDirectoryRoleProvider.FindUsersInRole method" Url="html/7f571be7-4d11-7b12-ed6e-561fa92bc1fe.htm" />
-  <HelpKINode Title="ActiveDirectoryRoleProvider.GetAllRoles method" Url="html/16b4141f-de91-2744-7e2d-73cb94015df0.htm" />
-  <HelpKINode Title="ActiveDirectoryRoleProvider.GetMembers method" Url="html/417ae1d0-3ca2-a710-ea7f-d70590facbf9.htm" />
-  <HelpKINode Title="ActiveDirectoryRoleProvider.GetRolesForUser method" Url="html/ae9f6de6-6205-1823-8c9b-3a55b985ffd1.htm" />
-  <HelpKINode Title="ActiveDirectoryRoleProvider.GetUsersInRole method" Url="html/a70d02db-6fd3-3a26-40b5-5e0898008b8d.htm" />
-  <HelpKINode Title="ActiveDirectoryRoleProvider.Initialize method" Url="html/15401345-e99c-416d-5229-e6aa87811d52.htm" />
-  <HelpKINode Title="ActiveDirectoryRoleProvider.IsUserInRole method" Url="html/f88636d8-c050-6426-c61f-1319aa061577.htm" />
-  <HelpKINode Title="ActiveDirectoryRoleProvider.MaxRoleNameLength property" Url="html/3ae36e9e-fba1-a4d5-4c0d-b0c265a29188.htm" />
-  <HelpKINode Title="ActiveDirectoryRoleProvider.Name property" Url="html/c26efe47-70fd-bd12-5ef8-720380b3fcf7.htm" />
-  <HelpKINode Title="ActiveDirectoryRoleProvider.RemoveMember method" Url="html/bc79ceeb-18e0-3aab-f7e2-61be159d2bab.htm" />
-  <HelpKINode Title="ActiveDirectoryRoleProvider.RemoveUsersFromRoles method" Url="html/b44dad6e-5a66-b27e-1553-f25d2579461b.htm" />
-  <HelpKINode Title="ActiveDirectoryRoleProvider.RoleExists method" Url="html/a06cb0e8-b3d8-72f6-6deb-821fe0ea158d.htm" />
+  <HelpKINode Title="ActiveDirectoryRoleProvider.ActiveDirectoryRoleProvider constructor" Url="html/4162be74-d9ec-0f6a-6cea-6339b09c2fcb.htm" />
+  <HelpKINode Title="ActiveDirectoryRoleProvider.AddUsersToRoles method" Url="html/a0a4cc3c-2102-2ee2-512d-fe118bd5b682.htm" />
+  <HelpKINode Title="ActiveDirectoryRoleProvider.ApplicationName property" Url="html/788aa9b7-0241-5ef5-389d-10f5360b5f7b.htm" />
+  <HelpKINode Title="ActiveDirectoryRoleProvider.CreateRole method" Url="html/e8790d8e-cf90-b355-d32e-42897b120c96.htm" />
+  <HelpKINode Title="ActiveDirectoryRoleProvider.DeleteRole method" Url="html/1297590c-5647-3c15-ddb6-21550aead629.htm" />
+  <HelpKINode Title="ActiveDirectoryRoleProvider.FindUsersInRole method" Url="html/e75e921a-0aae-d986-3312-ef7457b80947.htm" />
+  <HelpKINode Title="ActiveDirectoryRoleProvider.GetAllRoles method" Url="html/407ced56-fcb5-0459-8057-79309514feee.htm" />
+  <HelpKINode Title="ActiveDirectoryRoleProvider.GetMembers method" Url="html/d2f645d1-e19b-edf1-e98e-1819bf2bf761.htm" />
+  <HelpKINode Title="ActiveDirectoryRoleProvider.GetRolesForUser method" Url="html/1371dc9b-b7cd-e00d-1fc3-cb1e6570b19b.htm" />
+  <HelpKINode Title="ActiveDirectoryRoleProvider.GetUsersInRole method" Url="html/0bced207-42fb-1d97-8215-902493249ed9.htm" />
+  <HelpKINode Title="ActiveDirectoryRoleProvider.Initialize method" Url="html/26b32b86-9454-0bb1-4fed-a892562d3a60.htm" />
+  <HelpKINode Title="ActiveDirectoryRoleProvider.IsUserInRole method" Url="html/090a48f3-fa0e-8df1-cb6a-6cc69fba983d.htm" />
+  <HelpKINode Title="ActiveDirectoryRoleProvider.MaxRoleNameLength property" Url="html/631a4291-73d4-56f5-f982-5e9ff63fee92.htm" />
+  <HelpKINode Title="ActiveDirectoryRoleProvider.Name property" Url="html/2d36864f-df11-a797-3fd2-e0b502a60567.htm" />
+  <HelpKINode Title="ActiveDirectoryRoleProvider.RemoveMember method" Url="html/0a4f9616-4b12-2ab4-11f8-b169cd3032b5.htm" />
+  <HelpKINode Title="ActiveDirectoryRoleProvider.RemoveUsersFromRoles method" Url="html/644451b4-14fb-da50-7feb-e3a5d4562770.htm" />
+  <HelpKINode Title="ActiveDirectoryRoleProvider.RoleExists method" Url="html/3d6591de-7193-da3e-1c49-3e61336df723.htm" />
   <HelpKINode Title="AD field" Url="html/07afcd1f-bae3-2ad3-2d30-7f594ecf6ca7.htm" />
   <HelpKINode Title="Add method">
     <HelpKINode Title="ActiveDirectory.Add Method " Url="html/39cf790c-151d-7bd1-113a-9286cb961858.htm" />
@@ -182,8 +182,8 @@
   <HelpKINode Title="AddSource method" Url="html/9248d175-6d97-1ffb-7bd0-59aa1ea54d30.htm" />
   <HelpKINode Title="AddToGroup method" Url="html/3985b2d7-ca4a-27d3-7975-ac2351a49cf4.htm" />
   <HelpKINode Title="AddUsersToRoles method">
-    <HelpKINode Title="ActiveDirectoryRoleProvider.AddUsersToRoles Method " Url="html/98000274-5285-a4aa-dc20-97ac91429c38.htm" />
-    <HelpKINode Title="SimpleMappingRoleProvider.AddUsersToRoles Method " Url="html/13ef1405-74df-49a1-0d13-16a6ccde5f01.htm" />
+    <HelpKINode Title="ActiveDirectoryRoleProvider.AddUsersToRoles Method " Url="html/a0a4cc3c-2102-2ee2-512d-fe118bd5b682.htm" />
+    <HelpKINode Title="SimpleMappingRoleProvider.AddUsersToRoles Method " Url="html/260d8a80-1f8a-b6d3-9b0b-aa4f82cb3706.htm" />
   </HelpKINode>
   <HelpKINode Title="AddVarCharParameter method">
     <HelpKINode Title="IStoredProcedure.AddVarCharParameter Method " Url="html/4cf47f09-2c29-30cb-cb1a-308ed6fc3826.htm" />
@@ -212,8 +212,8 @@
   <HelpKINode Title="AlternateServers property" Url="html/bb66b9eb-23b7-f397-f3c8-7ae951cfdfcb.htm" />
   <HelpKINode Title="AppendDistinguishedName method" Url="html/0d7692ed-3173-907b-16a8-62bc1b6f6c85.htm" />
   <HelpKINode Title="ApplicationName property">
-    <HelpKINode Title="ActiveDirectoryRoleProvider.ApplicationName Property " Url="html/ee02edf9-d5e9-649c-abb2-9a5c102d6065.htm" />
-    <HelpKINode Title="SimpleMappingRoleProvider.ApplicationName Property " Url="html/e11a8c23-77a6-ffb7-adaf-9b408e705d95.htm" />
+    <HelpKINode Title="ActiveDirectoryRoleProvider.ApplicationName Property " Url="html/788aa9b7-0241-5ef5-389d-10f5360b5f7b.htm" />
+    <HelpKINode Title="SimpleMappingRoleProvider.ApplicationName Property " Url="html/c793fe87-5048-15e0-3e2d-9bb4202b7e76.htm" />
   </HelpKINode>
   <HelpKINode Title="AttributeNames field">
     <HelpKINode Title="ActiveDirectoryObject.AttributeNames Field" Url="html/5b640236-07e4-a7c7-1e91-3cacfaee1d7b.htm" />
@@ -339,8 +339,8 @@
   <HelpKINode Title="CreateConsolidatedString method" Url="html/1c6d6f8d-0e15-7c3c-bfd3-dcf46f677e9b.htm" />
   <HelpKINode Title="CreateFilesWriteData enumeration member" Url="html/c7a50b7e-c9bd-6dd4-2c7c-d5fea1feaf81.htm" />
   <HelpKINode Title="CreateRole method">
-    <HelpKINode Title="ActiveDirectoryRoleProvider.CreateRole Method " Url="html/8cc14594-6d21-6000-c610-642d90adcdc1.htm" />
-    <HelpKINode Title="SimpleMappingRoleProvider.CreateRole Method " Url="html/cad53d5f-aa62-34db-2d0f-4492179c3495.htm" />
+    <HelpKINode Title="ActiveDirectoryRoleProvider.CreateRole Method " Url="html/e8790d8e-cf90-b355-d32e-42897b120c96.htm" />
+    <HelpKINode Title="SimpleMappingRoleProvider.CreateRole Method " Url="html/b8a70e02-7f49-093d-28f0-9b4ac2f7fa7b.htm" />
   </HelpKINode>
   <HelpKINode Title="CreateRunspaceConnectionInfo method" Url="html/c113e62a-6f19-6ccc-43a4-e8ef02af78fc.htm" />
   <HelpKINode Title="CreateTimeStamp property" Url="html/32802db4-dbfe-04b4-6608-18958942113d.htm" />
@@ -387,8 +387,8 @@
   <HelpKINode Title="DeleteCategory method" Url="html/9eed8a33-cd43-2124-09b6-ce25403b08bd.htm" />
   <HelpKINode Title="DeleteEvent method" Url="html/302fe962-5032-92b7-19e4-4c254b8a1f95.htm" />
   <HelpKINode Title="DeleteRole method">
-    <HelpKINode Title="ActiveDirectoryRoleProvider.DeleteRole Method " Url="html/5cbcffb6-373f-9136-8d8b-23d210dd0741.htm" />
-    <HelpKINode Title="SimpleMappingRoleProvider.DeleteRole Method " Url="html/ca6912cc-1fd4-1a9f-9954-8320395832c4.htm" />
+    <HelpKINode Title="ActiveDirectoryRoleProvider.DeleteRole Method " Url="html/1297590c-5647-3c15-ddb6-21550aead629.htm" />
+    <HelpKINode Title="SimpleMappingRoleProvider.DeleteRole Method " Url="html/b69f9200-8b42-07c3-ec87-7487a7cc8c2b.htm" />
   </HelpKINode>
   <HelpKINode Title="DeleteSeverityLevel method" Url="html/ab2dd95c-d1f7-cd6b-8178-815c16628a39.htm" />
   <HelpKINode Title="DeleteSource method" Url="html/36f0e39a-13eb-3dde-475f-63c79b11d49f.htm" />
@@ -578,8 +578,8 @@
     <HelpKINode Title="SqlEventLog.Find Method " Url="html/9a98f23b-8ded-8f8c-72ec-a9d567580f50.htm" />
   </HelpKINode>
   <HelpKINode Title="FindUsersInRole method">
-    <HelpKINode Title="ActiveDirectoryRoleProvider.FindUsersInRole Method " Url="html/7f571be7-4d11-7b12-ed6e-561fa92bc1fe.htm" />
-    <HelpKINode Title="SimpleMappingRoleProvider.FindUsersInRole Method " Url="html/ce483d27-9eec-3272-c958-702c4eb30af0.htm" />
+    <HelpKINode Title="ActiveDirectoryRoleProvider.FindUsersInRole Method " Url="html/e75e921a-0aae-d986-3312-ef7457b80947.htm" />
+    <HelpKINode Title="SimpleMappingRoleProvider.FindUsersInRole Method " Url="html/2fccc1e5-4076-4875-ea7d-8a62531b315f.htm" />
   </HelpKINode>
   <HelpKINode Title="FirstName property" Url="html/9d5961d7-4905-6d68-26a2-989299e972f6.htm" />
   <HelpKINode Title="Folder property" Url="html/6df8e593-ea63-2f05-9dc8-55375bf72bcb.htm" />
@@ -657,9 +657,10 @@
   <HelpKINode Title="Galactic.Sql.SqlUtility class" Url="html/2e31d202-70f6-eef2-8d5c-32de048f2f1c.htm" />
   <HelpKINode Title="Galactic.Sql.StoredProcedure class" Url="html/e65d6103-4c52-0000-8850-694a49c43768.htm" />
   <HelpKINode Title="Galactic.Sql.StoredProcedure.ParameterType enumeration" Url="html/fa44d15a-b8fb-901e-a9ea-82ed311f9af9.htm" />
-  <HelpKINode Title="Galactic.Web.Security namespace" Url="html/1b8ea275-35d9-ac6b-77ce-d72b47db4725.htm" />
-  <HelpKINode Title="Galactic.Web.Security.ActiveDirectoryRoleProvider class" Url="html/2a368fae-c5bb-dc64-11c0-c8806eac584f.htm" />
-  <HelpKINode Title="Galactic.Web.Security.SimpleMappingRoleProvider class" Url="html/41371534-e77d-8937-1e1a-7878b9ad4445.htm" />
+  <HelpKINode Title="Galactic.Web.Security.ActiveDirectory namespace" Url="html/7e4e07b7-625b-eea3-490e-83f7e8fb44f2.htm" />
+  <HelpKINode Title="Galactic.Web.Security.ActiveDirectory.ActiveDirectoryRoleProvider class" Url="html/e9c84e0e-6645-1f4d-f95e-732ea112724c.htm" />
+  <HelpKINode Title="Galactic.Web.Security.SimpleMapping namespace" Url="html/344fc405-b01f-d02b-177e-2361ced8985d.htm" />
+  <HelpKINode Title="Galactic.Web.Security.SimpleMapping.SimpleMappingRoleProvider class" Url="html/a7f5a1d2-98a4-3ce2-0bc2-8815081e2dd7.htm" />
   <HelpKINode Title="GenerateHash method" Url="html/e98e0498-a592-6c2e-7041-b3598c1a4370.htm" />
   <HelpKINode Title="GenerateIV method" Url="html/5fdb6867-9793-e539-f1b8-1fa7fd3c7b07.htm" />
   <HelpKINode Title="GenerateKey method" Url="html/9fa518b2-88b0-d1ac-16ae-e0e8589a9067.htm" />
@@ -671,8 +672,8 @@
     <HelpKINode Title="NoSqlUtility.Get Method " Url="html/79d1b6ab-675a-16ba-1fda-ab82fa52178b.htm" />
   </HelpKINode>
   <HelpKINode Title="GetAllRoles method">
-    <HelpKINode Title="ActiveDirectoryRoleProvider.GetAllRoles Method " Url="html/16b4141f-de91-2744-7e2d-73cb94015df0.htm" />
-    <HelpKINode Title="SimpleMappingRoleProvider.GetAllRoles Method " Url="html/c01c0df5-2f57-ed82-9cab-60ec88952288.htm" />
+    <HelpKINode Title="ActiveDirectoryRoleProvider.GetAllRoles Method " Url="html/407ced56-fcb5-0459-8057-79309514feee.htm" />
+    <HelpKINode Title="SimpleMappingRoleProvider.GetAllRoles Method " Url="html/e013bc30-1a1f-a21a-92c1-15cbe5c743e4.htm" />
   </HelpKINode>
   <HelpKINode Title="GetAllUsers method" Url="html/aca886f6-b3f0-48e7-9b90-633158b9122b.htm" />
   <HelpKINode Title="GetByQuery method">
@@ -741,7 +742,7 @@
   <HelpKINode Title="GetListByTitle method" Url="html/18f29db5-3b11-6531-87d7-28297687b539.htm" />
   <HelpKINode Title="GetListing method" Url="html/f104e173-7bb5-aa84-30e9-6eae9061fc74.htm" />
   <HelpKINode Title="GetLookupFieldValue method" Url="html/d2c152d6-9304-5944-fa26-a3fc0a263835.htm" />
-  <HelpKINode Title="GetMembers method" Url="html/417ae1d0-3ca2-a710-ea7f-d70590facbf9.htm" />
+  <HelpKINode Title="GetMembers method" Url="html/d2f645d1-e19b-edf1-e98e-1819bf2bf761.htm" />
   <HelpKINode Title="GetParameter method">
     <HelpKINode Title="IStoredProcedure.GetParameter Method " Url="html/21389cc8-86ca-036b-e70f-fd0b0c84b0a6.htm" />
     <HelpKINode Title="MSStoredProcedure.GetParameter Method " Url="html/244ae29c-dd9c-e651-9b61-31ec0b01ccc1.htm" />
@@ -756,8 +757,8 @@
   </HelpKINode>
   <HelpKINode Title="GetReader method" Url="html/d4bcf2d5-5437-1a79-5e46-76eb5e201746.htm" />
   <HelpKINode Title="GetRolesForUser method">
-    <HelpKINode Title="ActiveDirectoryRoleProvider.GetRolesForUser Method " Url="html/ae9f6de6-6205-1823-8c9b-3a55b985ffd1.htm" />
-    <HelpKINode Title="SimpleMappingRoleProvider.GetRolesForUser Method " Url="html/8152e189-3d8c-f9e4-dff4-564cd872bc53.htm" />
+    <HelpKINode Title="ActiveDirectoryRoleProvider.GetRolesForUser Method " Url="html/1371dc9b-b7cd-e00d-1fc3-cb1e6570b19b.htm" />
+    <HelpKINode Title="SimpleMappingRoleProvider.GetRolesForUser Method " Url="html/c50bd1e0-609c-2098-7440-314fcd6b6862.htm" />
   </HelpKINode>
   <HelpKINode Title="GetSecurityObject method">
     <HelpKINode Title="Directory.GetSecurityObject Method " Url="html/abef3cdd-99e8-33c3-2754-1e26568c4614.htm" />
@@ -780,8 +781,8 @@
   </HelpKINode>
   <HelpKINode Title="GetUserAccountControlName method" Url="html/b22afd70-0b5b-7377-78a3-f2d1a37d3d05.htm" />
   <HelpKINode Title="GetUsersInRole method">
-    <HelpKINode Title="ActiveDirectoryRoleProvider.GetUsersInRole Method " Url="html/a70d02db-6fd3-3a26-40b5-5e0898008b8d.htm" />
-    <HelpKINode Title="SimpleMappingRoleProvider.GetUsersInRole Method " Url="html/307d9434-b206-aa11-9c92-2061ec58bb5d.htm" />
+    <HelpKINode Title="ActiveDirectoryRoleProvider.GetUsersInRole Method " Url="html/0bced207-42fb-1d97-8215-902493249ed9.htm" />
+    <HelpKINode Title="SimpleMappingRoleProvider.GetUsersInRole Method " Url="html/9557deac-e3ab-def3-aef5-12d6c9979395.htm" />
   </HelpKINode>
   <HelpKINode Title="GetValue method" Url="html/4e0c20d1-1f1b-fc2c-a1a1-be99fc7dc1b8.htm" />
   <HelpKINode Title="GiveAccess method" Url="html/bd12d7c3-3858-0520-a1ed-ec090990a9fd.htm" />
@@ -851,8 +852,8 @@
   <HelpKINode Title="In enumeration member" Url="html/fa44d15a-b8fb-901e-a9ea-82ed311f9af9.htm" />
   <HelpKINode Title="Information enumeration member" Url="html/89ea8656-ed3b-e688-b58c-a5d8768d53aa.htm" />
   <HelpKINode Title="Initialize method">
-    <HelpKINode Title="ActiveDirectoryRoleProvider.Initialize Method " Url="html/15401345-e99c-416d-5229-e6aa87811d52.htm" />
-    <HelpKINode Title="SimpleMappingRoleProvider.Initialize Method " Url="html/f8275f66-2654-7938-090c-653231ec37fe.htm" />
+    <HelpKINode Title="ActiveDirectoryRoleProvider.Initialize Method " Url="html/26b32b86-9454-0bb1-4fed-a892562d3a60.htm" />
+    <HelpKINode Title="SimpleMappingRoleProvider.Initialize Method " Url="html/ef9e8905-4f5a-0c13-d70e-0a9e9f7554b8.htm" />
   </HelpKINode>
   <HelpKINode Title="InitializeRunspacePool method" Url="html/dcfb1aaf-99f0-ea92-b1bb-92835c5465c0.htm" />
   <HelpKINode Title="InOut enumeration member" Url="html/fa44d15a-b8fb-901e-a9ea-82ed311f9af9.htm" />
@@ -896,8 +897,8 @@
   <HelpKINode Title="IStoredProcedure.Name property" Url="html/7e9b3e71-1378-5103-395f-eb77e720a180.htm" />
   <HelpKINode Title="IsUser property" Url="html/a0a41777-48a5-a634-92b7-0385b13cd515.htm" />
   <HelpKINode Title="IsUserInRole method">
-    <HelpKINode Title="ActiveDirectoryRoleProvider.IsUserInRole Method " Url="html/f88636d8-c050-6426-c61f-1319aa061577.htm" />
-    <HelpKINode Title="SimpleMappingRoleProvider.IsUserInRole Method " Url="html/f1224cf0-3549-af69-fcce-e917b2d3f097.htm" />
+    <HelpKINode Title="ActiveDirectoryRoleProvider.IsUserInRole Method " Url="html/090a48f3-fa0e-8df1-cb6a-6cc69fba983d.htm" />
+    <HelpKINode Title="SimpleMappingRoleProvider.IsUserInRole Method " Url="html/e051383e-8c39-e815-4dcc-6c1c0b09f115.htm" />
   </HelpKINode>
   <HelpKINode Title="Item property" Url="html/c7d0f126-fbc9-e00e-6081-ef211f7ae2f8.htm" />
   <HelpKINode Title="Items property" Url="html/814fed7a-3d6a-8215-b435-2a89d06a283a.htm" />
@@ -973,8 +974,8 @@
   <HelpKINode Title="Low enumeration member" Url="html/ad3f0234-69f8-ca44-9b32-f487c3a26598.htm" />
   <HelpKINode Title="Manager property" Url="html/05486a0c-8d39-41eb-5eda-1c817292c1ac.htm" />
   <HelpKINode Title="MaxRoleNameLength property">
-    <HelpKINode Title="ActiveDirectoryRoleProvider.MaxRoleNameLength Property " Url="html/3ae36e9e-fba1-a4d5-4c0d-b0c265a29188.htm" />
-    <HelpKINode Title="SimpleMappingRoleProvider.MaxRoleNameLength Property " Url="html/b81c1e76-5110-b145-aa01-96b5c07f0fb4.htm" />
+    <HelpKINode Title="ActiveDirectoryRoleProvider.MaxRoleNameLength Property " Url="html/631a4291-73d4-56f5-f982-5e9ff63fee92.htm" />
+    <HelpKINode Title="SimpleMappingRoleProvider.MaxRoleNameLength Property " Url="html/3c87738f-1f2c-d395-b08f-052a11790dca.htm" />
   </HelpKINode>
   <HelpKINode Title="MAX_NCHAR_LENGTH property">
     <HelpKINode Title="MSSqlUtility.MAX_NCHAR_LENGTH Property " Url="html/a6ebc340-45c1-ff73-ceeb-15c7b9489e71.htm" />
@@ -1070,12 +1071,12 @@
   <HelpKINode Title="Name field" Url="html/c2ce1866-01a0-ae29-2be8-cb1b0a4bb161.htm" />
   <HelpKINode Title="Name property">
     <HelpKINode Title="ActiveDirectory.Name Property " Url="html/4afe2ed7-39b0-2ca2-dd37-674f55407342.htm" />
-    <HelpKINode Title="ActiveDirectoryRoleProvider.Name Property " Url="html/c26efe47-70fd-bd12-5ef8-720380b3fcf7.htm" />
+    <HelpKINode Title="ActiveDirectoryRoleProvider.Name Property " Url="html/2d36864f-df11-a797-3fd2-e0b502a60567.htm" />
     <HelpKINode Title="Calendar.Name Property " Url="html/6f7775db-9aef-f2e2-c252-83a2c3f6ccee.htm" />
     <HelpKINode Title="ConfigurationItem.Name Property " Url="html/d8541394-28c6-d934-8de8-c3b905241861.htm" />
     <HelpKINode Title="IStoredProcedure.Name Property " Url="html/7e9b3e71-1378-5103-395f-eb77e720a180.htm" />
     <HelpKINode Title="SharePointDocument.Name Property " Url="html/56cf4148-4571-f0cc-d1bb-207f5176cf63.htm" />
-    <HelpKINode Title="SimpleMappingRoleProvider.Name Property " Url="html/db08ee04-240f-92b2-b05f-f9e320c01e37.htm" />
+    <HelpKINode Title="SimpleMappingRoleProvider.Name Property " Url="html/fe8888b1-9704-b088-227f-2182633b1030.htm" />
     <HelpKINode Title="StoredProcedure.Name Property " Url="html/20fb0cff-88ac-47d8-3f4e-e374b9132226.htm" />
   </HelpKINode>
   <HelpKINode Title="NamingContexts property" Url="html/1eb97ebe-0254-f738-1be8-7d080e081f3e.htm" />
@@ -1210,16 +1211,16 @@
     <HelpKINode Title="File.RemoveAllExplicitAccessRules Method " Url="html/90734d09-05cc-2666-456f-da2bc311a54b.htm" />
   </HelpKINode>
   <HelpKINode Title="RemoveMember method">
-    <HelpKINode Title="ActiveDirectoryRoleProvider.RemoveMember Method " Url="html/bc79ceeb-18e0-3aab-f7e2-61be159d2bab.htm" />
+    <HelpKINode Title="ActiveDirectoryRoleProvider.RemoveMember Method " Url="html/0a4f9616-4b12-2ab4-11f8-b169cd3032b5.htm" />
     <HelpKINode Title="Group.RemoveMember Method " Url="html/a89d0fff-7280-e832-1cc5-25d40baf3fca.htm" />
   </HelpKINode>
   <HelpKINode Title="RemoveMembers method" Url="html/bb541cfc-c953-2aa6-fbd2-128db5545ddf.htm" />
   <HelpKINode Title="RemoveProxyAddress method" Url="html/9436907a-3beb-f578-5d3a-0db76f7738a7.htm" />
-  <HelpKINode Title="RemoveUser method" Url="html/18b26051-2fa5-756c-7176-cb617fa28ee4.htm" />
+  <HelpKINode Title="RemoveUser method" Url="html/31fce38a-2035-d5d9-f2ad-7ed40760f0f6.htm" />
   <HelpKINode Title="RemoveUserAccountControlFlag method" Url="html/040e66a5-7687-3443-cc35-c26660138903.htm" />
   <HelpKINode Title="RemoveUsersFromRoles method">
-    <HelpKINode Title="ActiveDirectoryRoleProvider.RemoveUsersFromRoles Method " Url="html/b44dad6e-5a66-b27e-1553-f25d2579461b.htm" />
-    <HelpKINode Title="SimpleMappingRoleProvider.RemoveUsersFromRoles Method " Url="html/d94880a7-8307-0806-d9b4-3151b3d16ba7.htm" />
+    <HelpKINode Title="ActiveDirectoryRoleProvider.RemoveUsersFromRoles Method " Url="html/644451b4-14fb-da50-7feb-e3a5d4562770.htm" />
+    <HelpKINode Title="SimpleMappingRoleProvider.RemoveUsersFromRoles Method " Url="html/533b0acf-abb3-c7a1-9b35-0c478f3fe82d.htm" />
   </HelpKINode>
   <HelpKINode Title="Reoccurring property" Url="html/83d03dbb-cb54-cd93-4b94-def6439d5951.htm" />
   <HelpKINode Title="Results property">
@@ -1228,8 +1229,8 @@
   </HelpKINode>
   <HelpKINode Title="Return enumeration member" Url="html/fa44d15a-b8fb-901e-a9ea-82ed311f9af9.htm" />
   <HelpKINode Title="RoleExists method">
-    <HelpKINode Title="ActiveDirectoryRoleProvider.RoleExists Method " Url="html/a06cb0e8-b3d8-72f6-6deb-821fe0ea158d.htm" />
-    <HelpKINode Title="SimpleMappingRoleProvider.RoleExists Method " Url="html/7ef61e28-eabd-ba4b-8ee6-7839e6e9db00.htm" />
+    <HelpKINode Title="ActiveDirectoryRoleProvider.RoleExists Method " Url="html/3d6591de-7193-da3e-1c49-3e61336df723.htm" />
+    <HelpKINode Title="SimpleMappingRoleProvider.RoleExists Method " Url="html/b9c9271e-dccd-f3da-c67b-1b7a4fcc6be9.htm" />
   </HelpKINode>
   <HelpKINode Title="RootDSE property" Url="html/a6a556d5-f549-b333-5b48-0e97c166af96.htm" />
   <HelpKINode Title="RunAsynchronously method">
@@ -1423,28 +1424,28 @@
   <HelpKINode Title="SharePointUser.SharePointUser constructor" Url="html/d1e91245-28ec-5785-0a56-7278f913e95b.htm" />
   <HelpKINode Title="SharePointUser.UserName property" Url="html/7ca03a05-90a3-4766-ccb2-7cca442e7b23.htm" />
   <HelpKINode Title="SimpleMappingRoleProvider class">
-    <HelpKINode Title="SimpleMappingRoleProvider Class" Url="html/41371534-e77d-8937-1e1a-7878b9ad4445.htm" />
-    <HelpKINode Title="about SimpleMappingRoleProvider class" Url="html/41371534-e77d-8937-1e1a-7878b9ad4445.htm" />
-    <HelpKINode Title="constructor" Url="html/8f372b0e-158f-8218-ab62-21db7807ebc1.htm" />
-    <HelpKINode Title="methods" Url="html/b249ab40-1d87-c400-1c40-80326c79a850.htm" />
-    <HelpKINode Title="properties" Url="html/f3ba33f9-1763-aa0d-0e1a-bf86a2d00778.htm" />
+    <HelpKINode Title="SimpleMappingRoleProvider Class" Url="html/a7f5a1d2-98a4-3ce2-0bc2-8815081e2dd7.htm" />
+    <HelpKINode Title="about SimpleMappingRoleProvider class" Url="html/a7f5a1d2-98a4-3ce2-0bc2-8815081e2dd7.htm" />
+    <HelpKINode Title="constructor" Url="html/3d6a37c2-1f8b-a429-3f9b-fbe6ee346092.htm" />
+    <HelpKINode Title="methods" Url="html/1683a477-9ae9-42ec-5803-95243aadcda6.htm" />
+    <HelpKINode Title="properties" Url="html/81dfd6f9-b19f-92f8-08e9-f8a1dcc0e8ba.htm" />
   </HelpKINode>
-  <HelpKINode Title="SimpleMappingRoleProvider.AddUsersToRoles method" Url="html/13ef1405-74df-49a1-0d13-16a6ccde5f01.htm" />
-  <HelpKINode Title="SimpleMappingRoleProvider.ApplicationName property" Url="html/e11a8c23-77a6-ffb7-adaf-9b408e705d95.htm" />
-  <HelpKINode Title="SimpleMappingRoleProvider.CreateRole method" Url="html/cad53d5f-aa62-34db-2d0f-4492179c3495.htm" />
-  <HelpKINode Title="SimpleMappingRoleProvider.DeleteRole method" Url="html/ca6912cc-1fd4-1a9f-9954-8320395832c4.htm" />
-  <HelpKINode Title="SimpleMappingRoleProvider.FindUsersInRole method" Url="html/ce483d27-9eec-3272-c958-702c4eb30af0.htm" />
-  <HelpKINode Title="SimpleMappingRoleProvider.GetAllRoles method" Url="html/c01c0df5-2f57-ed82-9cab-60ec88952288.htm" />
-  <HelpKINode Title="SimpleMappingRoleProvider.GetRolesForUser method" Url="html/8152e189-3d8c-f9e4-dff4-564cd872bc53.htm" />
-  <HelpKINode Title="SimpleMappingRoleProvider.GetUsersInRole method" Url="html/307d9434-b206-aa11-9c92-2061ec58bb5d.htm" />
-  <HelpKINode Title="SimpleMappingRoleProvider.Initialize method" Url="html/f8275f66-2654-7938-090c-653231ec37fe.htm" />
-  <HelpKINode Title="SimpleMappingRoleProvider.IsUserInRole method" Url="html/f1224cf0-3549-af69-fcce-e917b2d3f097.htm" />
-  <HelpKINode Title="SimpleMappingRoleProvider.MaxRoleNameLength property" Url="html/b81c1e76-5110-b145-aa01-96b5c07f0fb4.htm" />
-  <HelpKINode Title="SimpleMappingRoleProvider.Name property" Url="html/db08ee04-240f-92b2-b05f-f9e320c01e37.htm" />
-  <HelpKINode Title="SimpleMappingRoleProvider.RemoveUser method" Url="html/18b26051-2fa5-756c-7176-cb617fa28ee4.htm" />
-  <HelpKINode Title="SimpleMappingRoleProvider.RemoveUsersFromRoles method" Url="html/d94880a7-8307-0806-d9b4-3151b3d16ba7.htm" />
-  <HelpKINode Title="SimpleMappingRoleProvider.RoleExists method" Url="html/7ef61e28-eabd-ba4b-8ee6-7839e6e9db00.htm" />
-  <HelpKINode Title="SimpleMappingRoleProvider.SimpleMappingRoleProvider constructor" Url="html/8f372b0e-158f-8218-ab62-21db7807ebc1.htm" />
+  <HelpKINode Title="SimpleMappingRoleProvider.AddUsersToRoles method" Url="html/260d8a80-1f8a-b6d3-9b0b-aa4f82cb3706.htm" />
+  <HelpKINode Title="SimpleMappingRoleProvider.ApplicationName property" Url="html/c793fe87-5048-15e0-3e2d-9bb4202b7e76.htm" />
+  <HelpKINode Title="SimpleMappingRoleProvider.CreateRole method" Url="html/b8a70e02-7f49-093d-28f0-9b4ac2f7fa7b.htm" />
+  <HelpKINode Title="SimpleMappingRoleProvider.DeleteRole method" Url="html/b69f9200-8b42-07c3-ec87-7487a7cc8c2b.htm" />
+  <HelpKINode Title="SimpleMappingRoleProvider.FindUsersInRole method" Url="html/2fccc1e5-4076-4875-ea7d-8a62531b315f.htm" />
+  <HelpKINode Title="SimpleMappingRoleProvider.GetAllRoles method" Url="html/e013bc30-1a1f-a21a-92c1-15cbe5c743e4.htm" />
+  <HelpKINode Title="SimpleMappingRoleProvider.GetRolesForUser method" Url="html/c50bd1e0-609c-2098-7440-314fcd6b6862.htm" />
+  <HelpKINode Title="SimpleMappingRoleProvider.GetUsersInRole method" Url="html/9557deac-e3ab-def3-aef5-12d6c9979395.htm" />
+  <HelpKINode Title="SimpleMappingRoleProvider.Initialize method" Url="html/ef9e8905-4f5a-0c13-d70e-0a9e9f7554b8.htm" />
+  <HelpKINode Title="SimpleMappingRoleProvider.IsUserInRole method" Url="html/e051383e-8c39-e815-4dcc-6c1c0b09f115.htm" />
+  <HelpKINode Title="SimpleMappingRoleProvider.MaxRoleNameLength property" Url="html/3c87738f-1f2c-d395-b08f-052a11790dca.htm" />
+  <HelpKINode Title="SimpleMappingRoleProvider.Name property" Url="html/fe8888b1-9704-b088-227f-2182633b1030.htm" />
+  <HelpKINode Title="SimpleMappingRoleProvider.RemoveUser method" Url="html/31fce38a-2035-d5d9-f2ad-7ed40760f0f6.htm" />
+  <HelpKINode Title="SimpleMappingRoleProvider.RemoveUsersFromRoles method" Url="html/533b0acf-abb3-c7a1-9b35-0c478f3fe82d.htm" />
+  <HelpKINode Title="SimpleMappingRoleProvider.RoleExists method" Url="html/b9c9271e-dccd-f3da-c67b-1b7a4fcc6be9.htm" />
+  <HelpKINode Title="SimpleMappingRoleProvider.SimpleMappingRoleProvider constructor" Url="html/3d6a37c2-1f8b-a429-3f9b-fbe6ee346092.htm" />
   <HelpKINode Title="SmartcardRequired enumeration member" Url="html/4f6579cc-33f6-77c0-e201-fb610ccaa040.htm" />
   <HelpKINode Title="Source property">
     <HelpKINode Title="Event.Source Property " Url="html/0fae941c-cbb7-9739-51b4-6902f46407cd.htm" />
