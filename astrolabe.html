@@ -73,7 +73,8 @@
 			</p>
 			<div class="text-center">
 				<a href="#AD">Active Directory</a> | <a href="#iCalendar">iCalendar</a> | <a href="#Couchbase">CouchbaseUtility</a> | <a href="#MongoDB">MongoDBUtility</a> | <a href="#SharePoint">SharePointClient</a>
-				| <a href="#ADRoleProvider">Active Directory Role Provider</a>
+				| <a href="#ADRoleProvider">Active Directory Role Provider</a> |
+				<a href="#SimpleMappingRoleProvider">Simple Mapping Role Provider</a>
 			</div>
 			
 			<div id="AD">
@@ -196,6 +197,57 @@
 					sn<br>
 					role<br>
 					ActiveDirectory
+				</div>
+			</div>
+			<div id="SimpleMappingRoleProvider">
+				<h2>Galactic.Web.Security.SimpleMappingRoleProvider</h2>
+				<div class="well">
+					<h4>Additional Configuration required:</h4>
+					<small>
+						<em>
+							Within the web.config the following entries must be setup for the application to utilize the role provider:<br>
+							The applicationConfigurationItemDirectory attribute should point to the folder containing the configuration items
+							used by the application.<br>
+							<br>
+						</em>
+						<pre>
+&lt;system.web&gt;
+	&lt;roleManager defaultProvider="SimpleMappingRoleProvider" enabled="true" cookieRequireSSL="true"&gt;
+	  &lt;providers&gt;
+		&lt;clear /&gt;
+		&lt;add name="SimpleMappingRoleProvider" type="Galactic.Web.Security.SimpleMappingRoleProvider" applicationConfigurationItemDirectory="~/ConfigurationItems/" description="Galactic Simple Mapping Role Provider" /&gt;
+	  &lt;/providers&gt;
+	&lt;/roleManager&gt;
+&lt;/system.web&gt;
+						</pre>
+					</small>
+					<h4>Syntax:</h4>
+					<small>
+						<strong>Syntax Note:</strong><br>
+						<em>
+							One or more roles can be defined within the configuration item. User names should match those
+							for the authentication provider your application is configured to use.
+						</em>
+					</small><br><br>
+					role_name1=[<br>
+					username<br>
+					...<br>
+					]<br>
+					role_name2=[<br>
+					username<br>
+					...<br>
+					]<br>
+					<h4>Example:</h4>
+					Astronaut=[<br>
+					buzz<br>
+					lance.armstrong<br>
+					smusgrave<br>
+					]<br>
+					Scientist=[<br>
+					einstein<br>
+					shawking<br>
+					neil.degrasse.tyson<br>
+					]<br>
 				</div>
 			</div>
 
