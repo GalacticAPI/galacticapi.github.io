@@ -55,6 +55,7 @@
   <HelpKINode Title="ActiveDirectory.Name property" Url="html/4afe2ed7-39b0-2ca2-dd37-674f55407342.htm" />
   <HelpKINode Title="ActiveDirectory.NTName property" Url="html/526f87ff-ff30-10bd-89f7-83005dd53031.htm" />
   <HelpKINode Title="ActiveDirectory.PAGE_SIZE field" Url="html/65e07e35-4697-ff07-9033-8ec516a3a504.htm" />
+  <HelpKINode Title="ActiveDirectory.SetSearchBase method" Url="html/24c7d5c4-7631-7f92-26d2-b6ab97896193.htm" />
   <HelpKINode Title="ActiveDirectory.UserAccountControl enumeration" Url="html/4f6579cc-33f6-77c0-e201-fb610ccaa040.htm" />
   <HelpKINode Title="ActiveDirectory.UserAccountControlContains method" Url="html/20ef8478-b483-4284-7aaa-8eedb68c0cdc.htm" />
   <HelpKINode Title="ActiveDirectory.WellKnownSid_System property" Url="html/c4553674-a195-d0b2-7d29-4a2b81bb11b3.htm" />
@@ -469,14 +470,14 @@
   <HelpKINode Title="Event class">
     <HelpKINode Title="Event Class" Url="html/452d9023-9cf1-83ec-fba6-422ce3272b84.htm" />
     <HelpKINode Title="Event Class" Url="html/77a6b53f-b71d-282e-6f14-019790dd55c1.htm" />
-    <HelpKINode Title="about Event class" Url="html/77a6b53f-b71d-282e-6f14-019790dd55c1.htm" />
     <HelpKINode Title="about Event class" Url="html/452d9023-9cf1-83ec-fba6-422ce3272b84.htm" />
+    <HelpKINode Title="about Event class" Url="html/77a6b53f-b71d-282e-6f14-019790dd55c1.htm" />
     <HelpKINode Title="constructor" Url="html/75f83fea-61cf-5c30-ec3e-7d469da0b8ef.htm" />
     <HelpKINode Title="constructor" Url="html/5dbc2ea8-fb43-5971-0189-ce91bd9a2ed6.htm" />
-    <HelpKINode Title="methods" Url="html/86889e6a-70d2-36a9-ce8f-5ecdb46cc50e.htm" />
     <HelpKINode Title="methods" Url="html/9e82f873-bbbb-6da5-f2b5-167f23642574.htm" />
-    <HelpKINode Title="properties" Url="html/061b449a-463e-68c0-506a-870e65bd64c2.htm" />
+    <HelpKINode Title="methods" Url="html/86889e6a-70d2-36a9-ce8f-5ecdb46cc50e.htm" />
     <HelpKINode Title="properties" Url="html/9fb47d81-1853-00e6-836d-dbe9e13c2725.htm" />
+    <HelpKINode Title="properties" Url="html/061b449a-463e-68c0-506a-870e65bd64c2.htm" />
   </HelpKINode>
   <HelpKINode Title="Event.AllDayEvent property" Url="html/40936079-48c4-f4c7-e76d-52958cfb1b8f.htm" />
   <HelpKINode Title="Event.Canceled property" Url="html/ee60b236-2a6d-c471-ad70-7c1c1e336547.htm" />
@@ -492,8 +493,8 @@
   <HelpKINode Title="Event.DetailsLastUpdatedBy property" Url="html/af583866-9e76-649e-f063-0e07422745fc.htm" />
   <HelpKINode Title="Event.EndDate property" Url="html/5ec98845-45a1-3310-9222-0d36d8220b20.htm" />
   <HelpKINode Title="Event.Event constructor">
-    <HelpKINode Title="Event Constructor " Url="html/75f83fea-61cf-5c30-ec3e-7d469da0b8ef.htm" />
     <HelpKINode Title="Event Constructor " Url="html/5dbc2ea8-fb43-5971-0189-ce91bd9a2ed6.htm" />
+    <HelpKINode Title="Event Constructor " Url="html/75f83fea-61cf-5c30-ec3e-7d469da0b8ef.htm" />
   </HelpKINode>
   <HelpKINode Title="Event.GetSeverityLevel method" Url="html/752cda4d-1d1e-6cca-9f1f-300b0d839753.htm" />
   <HelpKINode Title="Event.GetSeverityLevelString method" Url="html/839964a0-e994-0018-1cc3-43fab3414cdf.htm" />
@@ -1305,6 +1306,7 @@
   <HelpKINode Title="SetOwner method" Url="html/e1b582c2-af41-5be6-8ff9-8a49e1c2bf49.htm" />
   <HelpKINode Title="SetPassword method" Url="html/c4d69ad6-0b57-d4ee-d7f7-9a3d60549ab2.htm" />
   <HelpKINode Title="SetPrimaryProxyAddress method" Url="html/935705f8-2aaf-d043-5bd0-dce0456ea01a.htm" />
+  <HelpKINode Title="SetSearchBase method" Url="html/24c7d5c4-7631-7f92-26d2-b6ab97896193.htm" />
   <HelpKINode Title="SetSearchBaseAndScope method" Url="html/d0866af1-4194-7d36-dc42-4c1fccac1174.htm" />
   <HelpKINode Title="SetStringAttribute method" Url="html/95e99bbd-e019-6158-2ecf-4a01ad2c3218.htm" />
   <HelpKINode Title="SetUserAccountControlFlag method" Url="html/411c3baa-41ab-8b0b-b4ce-9e0c33983abb.htm" />
