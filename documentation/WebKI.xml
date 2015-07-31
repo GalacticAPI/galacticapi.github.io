@@ -474,8 +474,8 @@
   </HelpKINode>
   <HelpKINode Title="Error enumeration member" Url="html/89ea8656-ed3b-e688-b58c-a5d8768d53aa.htm" />
   <HelpKINode Title="Event class">
-    <HelpKINode Title="Event Class" Url="html/77a6b53f-b71d-282e-6f14-019790dd55c1.htm" />
     <HelpKINode Title="Event Class" Url="html/452d9023-9cf1-83ec-fba6-422ce3272b84.htm" />
+    <HelpKINode Title="Event Class" Url="html/77a6b53f-b71d-282e-6f14-019790dd55c1.htm" />
     <HelpKINode Title="about Event class" Url="html/452d9023-9cf1-83ec-fba6-422ce3272b84.htm" />
     <HelpKINode Title="about Event class" Url="html/77a6b53f-b71d-282e-6f14-019790dd55c1.htm" />
     <HelpKINode Title="constructor" Url="html/75f83fea-61cf-5c30-ec3e-7d469da0b8ef.htm" />
@@ -499,8 +499,8 @@
   <HelpKINode Title="Event.DetailsLastUpdatedBy property" Url="html/af583866-9e76-649e-f063-0e07422745fc.htm" />
   <HelpKINode Title="Event.EndDate property" Url="html/5ec98845-45a1-3310-9222-0d36d8220b20.htm" />
   <HelpKINode Title="Event.Event constructor">
-    <HelpKINode Title="Event Constructor " Url="html/75f83fea-61cf-5c30-ec3e-7d469da0b8ef.htm" />
     <HelpKINode Title="Event Constructor " Url="html/5dbc2ea8-fb43-5971-0189-ce91bd9a2ed6.htm" />
+    <HelpKINode Title="Event Constructor " Url="html/75f83fea-61cf-5c30-ec3e-7d469da0b8ef.htm" />
   </HelpKINode>
   <HelpKINode Title="Event.GetSeverityLevel method" Url="html/752cda4d-1d1e-6cca-9f1f-300b0d839753.htm" />
   <HelpKINode Title="Event.GetSeverityLevelString method" Url="html/839964a0-e994-0018-1cc3-43fab3414cdf.htm" />
@@ -1283,6 +1283,7 @@
   <HelpKINode Title="SecureWrite method" Url="html/706003cb-10e3-16e8-00f0-b23cee1e9584.htm" />
   <HelpKINode Title="Security enumeration member" Url="html/da577c69-eb66-5290-b932-bf22468ceedb.htm" />
   <HelpKINode Title="Security property" Url="html/9e814d2d-fc8e-c81e-15fd-1b2e91e1e0be.htm" />
+  <HelpKINode Title="SecurityIdentifier property" Url="html/cb16b972-02b0-bbc7-6f13-5f6d95235d96.htm" />
   <HelpKINode Title="SecurityPrincipal class">
     <HelpKINode Title="SecurityPrincipal Class" Url="html/bc046e8a-79c7-da84-e513-3a4f9685ec5d.htm" />
     <HelpKINode Title="about SecurityPrincipal class" Url="html/bc046e8a-79c7-da84-e513-3a4f9685ec5d.htm" />
@@ -1634,6 +1635,7 @@
   <HelpKINode Title="User.PasswordLastSet property" Url="html/73bb4c33-cd6d-6240-b896-48322157e612.htm" />
   <HelpKINode Title="User.PhoneNumber property" Url="html/30b4f4c1-7361-680d-85cb-fa4b269b5434.htm" />
   <HelpKINode Title="User.RemoveUserAccountControlFlag method" Url="html/040e66a5-7687-3443-cc35-c26660138903.htm" />
+  <HelpKINode Title="User.SecurityIdentifier property" Url="html/cb16b972-02b0-bbc7-6f13-5f6d95235d96.htm" />
   <HelpKINode Title="User.SetPassword method" Url="html/c4d69ad6-0b57-d4ee-d7f7-9a3d60549ab2.htm" />
   <HelpKINode Title="User.SetUserAccountControlFlag method" Url="html/411c3baa-41ab-8b0b-b4ce-9e0c33983abb.htm" />
   <HelpKINode Title="User.StreetAddress property" Url="html/6742d9d5-eaac-e993-4b9a-7dcf4f714ea3.htm" />
