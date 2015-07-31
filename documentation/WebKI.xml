@@ -313,6 +313,10 @@
     <HelpKINode Title="SharePointList.Contains Method " Url="html/9388ca2f-36f4-0bfb-06d8-0a7c608c44fe.htm" />
   </HelpKINode>
   <HelpKINode Title="ContainsDocumentWithName method" Url="html/d4fc83d8-d0bd-5637-ecaa-fbf31f5e02fb.htm" />
+  <HelpKINode Title="Copy method">
+    <HelpKINode Title="Directory.Copy Method " Url="html/7a8d87e9-fc62-efb8-3579-e8ca57845ecd.htm" />
+    <HelpKINode Title="File.Copy Method " Url="html/48c329e2-53c9-5b16-982e-6f607175d33c.htm" />
+  </HelpKINode>
   <HelpKINode Title="CopyTo method">
     <HelpKINode Title="SharePointDocumentLibrary.CopyTo Method " Url="html/7f1066db-6de2-bb3d-b3fa-0722dcbbf491.htm" />
     <HelpKINode Title="SharePointList.CopyTo Method " Url="html/ce258fc8-44c8-2bf0-5f58-d19649268165.htm" />
@@ -415,16 +419,18 @@
   <HelpKINode Title="Directory.BlockInheritance method" Url="html/aa9e7ee3-0d3a-69a2-1687-0e42562708db.htm" />
   <HelpKINode Title="Directory.Clone method" Url="html/f60888db-f23c-60aa-dc23-110afabf6266.htm" />
   <HelpKINode Title="Directory.CommitChanges method" Url="html/51ab9dff-8107-a8ec-695e-0d7415725705.htm" />
+  <HelpKINode Title="Directory.Copy method" Url="html/7a8d87e9-fc62-efb8-3579-e8ca57845ecd.htm" />
   <HelpKINode Title="Directory.Create method" Url="html/95c18a1c-9496-97c7-6c9a-3c244fbc712f.htm" />
   <HelpKINode Title="Directory.Delete method" Url="html/beae82d9-51b3-431e-eeed-7d8df2351f5b.htm" />
   <HelpKINode Title="Directory.Exists method" Url="html/97fb8222-d925-cb67-23e8-a518d44cae66.htm" />
   <HelpKINode Title="Directory.GetListing method" Url="html/f104e173-7bb5-aa84-30e9-6eae9061fc74.htm" />
   <HelpKINode Title="Directory.GetSecurityObject method" Url="html/abef3cdd-99e8-33c3-2754-1e26568c4614.htm" />
+  <HelpKINode Title="Directory.GetSizeInBytes method" Url="html/455ba94e-f3ed-5f1a-9fcb-11873c8a2d09.htm" />
   <HelpKINode Title="Directory.GiveAccess method" Url="html/bd12d7c3-3858-0520-a1ed-ec090990a9fd.htm" />
   <HelpKINode Title="Directory.Move method" Url="html/bc1c9bcf-8b3e-f98e-56e4-adaa1619d0b2.htm" />
   <HelpKINode Title="Directory.RemoveAllAccessRules method" Url="html/e4ee400b-13d1-d648-a896-f40068009130.htm" />
   <HelpKINode Title="Directory.RemoveAllExplicitAccessRules method" Url="html/da0b8f21-6b3c-65b5-0603-726feea412e4.htm" />
-  <HelpKINode Title="Directory.SetOwner method" Url="html/e1b582c2-af41-5be6-8ff9-8a49e1c2bf49.htm" />
+  <HelpKINode Title="Directory.SetOwner method" Url="html/381ff05a-3239-cb02-c9b9-f9593597f963.htm" />
   <HelpKINode Title="Disable method" Url="html/eb1c1051-69a6-930d-63c3-d76adfe60633.htm" />
   <HelpKINode Title="DisplayName property">
     <HelpKINode Title="SharePointListItem.DisplayName Property " Url="html/7a55c7e5-6765-ef90-7b84-fc4efba7528c.htm" />
@@ -468,14 +474,14 @@
   </HelpKINode>
   <HelpKINode Title="Error enumeration member" Url="html/89ea8656-ed3b-e688-b58c-a5d8768d53aa.htm" />
   <HelpKINode Title="Event class">
-    <HelpKINode Title="Event Class" Url="html/452d9023-9cf1-83ec-fba6-422ce3272b84.htm" />
     <HelpKINode Title="Event Class" Url="html/77a6b53f-b71d-282e-6f14-019790dd55c1.htm" />
+    <HelpKINode Title="Event Class" Url="html/452d9023-9cf1-83ec-fba6-422ce3272b84.htm" />
     <HelpKINode Title="about Event class" Url="html/452d9023-9cf1-83ec-fba6-422ce3272b84.htm" />
     <HelpKINode Title="about Event class" Url="html/77a6b53f-b71d-282e-6f14-019790dd55c1.htm" />
     <HelpKINode Title="constructor" Url="html/75f83fea-61cf-5c30-ec3e-7d469da0b8ef.htm" />
     <HelpKINode Title="constructor" Url="html/5dbc2ea8-fb43-5971-0189-ce91bd9a2ed6.htm" />
-    <HelpKINode Title="methods" Url="html/9e82f873-bbbb-6da5-f2b5-167f23642574.htm" />
     <HelpKINode Title="methods" Url="html/86889e6a-70d2-36a9-ce8f-5ecdb46cc50e.htm" />
+    <HelpKINode Title="methods" Url="html/9e82f873-bbbb-6da5-f2b5-167f23642574.htm" />
     <HelpKINode Title="properties" Url="html/9fb47d81-1853-00e6-836d-dbe9e13c2725.htm" />
     <HelpKINode Title="properties" Url="html/061b449a-463e-68c0-506a-870e65bd64c2.htm" />
   </HelpKINode>
@@ -493,8 +499,8 @@
   <HelpKINode Title="Event.DetailsLastUpdatedBy property" Url="html/af583866-9e76-649e-f063-0e07422745fc.htm" />
   <HelpKINode Title="Event.EndDate property" Url="html/5ec98845-45a1-3310-9222-0d36d8220b20.htm" />
   <HelpKINode Title="Event.Event constructor">
-    <HelpKINode Title="Event Constructor " Url="html/5dbc2ea8-fb43-5971-0189-ce91bd9a2ed6.htm" />
     <HelpKINode Title="Event Constructor " Url="html/75f83fea-61cf-5c30-ec3e-7d469da0b8ef.htm" />
+    <HelpKINode Title="Event Constructor " Url="html/5dbc2ea8-fb43-5971-0189-ce91bd9a2ed6.htm" />
   </HelpKINode>
   <HelpKINode Title="Event.GetSeverityLevel method" Url="html/752cda4d-1d1e-6cca-9f1f-300b0d839753.htm" />
   <HelpKINode Title="Event.GetSeverityLevelString method" Url="html/839964a0-e994-0018-1cc3-43fab3414cdf.htm" />
@@ -554,6 +560,7 @@
     <HelpKINode Title="properties" Url="html/4d01d864-056d-7865-b3c6-0dab2d909744.htm" />
   </HelpKINode>
   <HelpKINode Title="File.Close method" Url="html/4d7a70ef-4114-65be-7e65-ae7d29ad9edf.htm" />
+  <HelpKINode Title="File.Copy method" Url="html/48c329e2-53c9-5b16-982e-6f607175d33c.htm" />
   <HelpKINode Title="File.Create method" Url="html/db389aad-4ae8-f6a2-a91e-5c7cc338a3c5.htm" />
   <HelpKINode Title="File.Delete method" Url="html/11780aa8-9e2a-84c9-5779-9e81fda7e6c9.htm" />
   <HelpKINode Title="File.Dispose method" Url="html/905e6f34-277b-21ad-260a-d10e7e0eff82.htm" />
@@ -561,6 +568,7 @@
   <HelpKINode Title="File.File constructor" Url="html/cd1e5d54-723d-6fe4-cb90-998bb87764aa.htm" />
   <HelpKINode Title="File.GetReader method" Url="html/d4bcf2d5-5437-1a79-5e46-76eb5e201746.htm" />
   <HelpKINode Title="File.GetSecurityObject method" Url="html/ac18cfe6-1a7e-9763-e688-b3e398f70b18.htm" />
+  <HelpKINode Title="File.GetSizeInBytes method" Url="html/b9786d2a-3430-eb2f-a73d-ecea339b1668.htm" />
   <HelpKINode Title="File.Move method" Url="html/6c82034e-b511-a7fc-6704-abda5592a28d.htm" />
   <HelpKINode Title="File.Open method" Url="html/0dac8c3a-e657-fbfa-e3ad-b5f41eb64634.htm" />
   <HelpKINode Title="File.Path property" Url="html/709d5fd0-94af-3f68-eeb5-8bc2d8939ab6.htm" />
@@ -769,6 +777,10 @@
   <HelpKINode Title="GetSeverityLevels method" Url="html/d2ac88c8-d9a6-e80e-d6ad-ae0dc06dca62.htm" />
   <HelpKINode Title="GetSeverityLevelString method" Url="html/839964a0-e994-0018-1cc3-43fab3414cdf.htm" />
   <HelpKINode Title="GetSiteDomainControllers method" Url="html/c521022f-4494-28b9-e9c9-b8ce74fc469a.htm" />
+  <HelpKINode Title="GetSizeInBytes method">
+    <HelpKINode Title="Directory.GetSizeInBytes Method " Url="html/455ba94e-f3ed-5f1a-9fcb-11873c8a2d09.htm" />
+    <HelpKINode Title="File.GetSizeInBytes Method " Url="html/b9786d2a-3430-eb2f-a73d-ecea339b1668.htm" />
+  </HelpKINode>
   <HelpKINode Title="GetSources method" Url="html/73bf2682-15c1-ba6a-6050-88bc85ffaebb.htm" />
   <HelpKINode Title="GetStringAttributeValue method">
     <HelpKINode Title="ActiveDirectory.GetStringAttributeValue Method " Url="html/5c3a3225-bf71-2322-7f5d-6ff8f33a7177.htm" />
@@ -1303,7 +1315,7 @@
   <HelpKINode Title="SecurityPrincipal.UserPrincipalName property" Url="html/4200c862-d1ca-4474-0462-2a48db1ecdbd.htm" />
   <HelpKINode Title="ServerTrustAccount enumeration member" Url="html/4f6579cc-33f6-77c0-e201-fb610ccaa040.htm" />
   <HelpKINode Title="SetAttribute method" Url="html/a7d6e813-db01-c1b2-9407-be46b5b23fbc.htm" />
-  <HelpKINode Title="SetOwner method" Url="html/e1b582c2-af41-5be6-8ff9-8a49e1c2bf49.htm" />
+  <HelpKINode Title="SetOwner method" Url="html/381ff05a-3239-cb02-c9b9-f9593597f963.htm" />
   <HelpKINode Title="SetPassword method" Url="html/c4d69ad6-0b57-d4ee-d7f7-9a3d60549ab2.htm" />
   <HelpKINode Title="SetPrimaryProxyAddress method" Url="html/935705f8-2aaf-d043-5bd0-dce0456ea01a.htm" />
   <HelpKINode Title="SetSearchBase method" Url="html/24c7d5c4-7631-7f92-26d2-b6ab97896193.htm" />

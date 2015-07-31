@@ -2,20 +2,24 @@
 <HelpTOC>
 
   <HelpTOCNode Title="Galactic API" Url="html/1f07f1ee-23f1-4552-8521-9b2b62f7f6f9.htm" />
-  <HelpTOCNode Id="758b7445-4630-4331-a98d-be4524f2db96" Title="Galactic.ActiveDirectory" Url="html/89fbad3d-c788-4174-9ac8-2c43a092e5f1.htm">
-    <HelpTOCNode Id="9cae8be3-3c5b-40c7-96e8-a49eb4be63bb" Title="ActiveDirectory Class" Url="html/015d80bd-04f8-7544-4fbb-23ecce472fc0.htm">
-      <HelpTOCNode Id="04783d94-9225-44c0-8722-5e5b16d87461" Title="ActiveDirectory Constructor " Url="html/ce6dad2e-01a7-d38d-f6fc-04d6b58ce00d.htm">
+  <HelpTOCNode Id="b0a646e5-59e9-4386-b0a3-fdfa23c0180e" Title="Galactic.ActiveDirectory" Url="html/89fbad3d-c788-4174-9ac8-2c43a092e5f1.htm">
+    <HelpTOCNode Id="d125c510-bc53-4c6e-9a73-a21805f87da8" Title="ActiveDirectory Class" Url="html/015d80bd-04f8-7544-4fbb-23ecce472fc0.htm">
+      <HelpTOCNode Id="db10622c-1d87-4e77-bad8-8fc25a2e5772" Title="ActiveDirectory Constructor " Url="html/ce6dad2e-01a7-d38d-f6fc-04d6b58ce00d.htm">
         <HelpTOCNode Title="ActiveDirectory Constructor (String, String)" Url="html/dd8b898b-0cba-d40c-e585-7fa749fed2c8.htm" />
         <HelpTOCNode Title="ActiveDirectory Constructor (String, String, SecureString, String)" Url="html/508a11b5-fa71-664c-10f0-15fab368078b.htm" />
         <HelpTOCNode Title="ActiveDirectory Constructor (String, String, String, SecureString, String)" Url="html/f2cbeee2-4a2a-72f7-f5fa-54c51ab1a5b4.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="c4b6bda4-af4e-4e40-8bcc-99a96811036c" Title="ActiveDirectory Fields" Url="html/9d0ce5d9-8dde-e06c-9c48-9d49c63568b9.htm">
-        <HelpTOCNode Title="DEFAULT_FIRST_SITE_NAME Field" Url="html/2e619bc0-0eba-c79f-2af5-3676ceb9d1c2.htm" />
-        <HelpTOCNode Title="GROUP_NAME_MAX_CHARS Field" Url="html/a0c834fe-2f42-c855-2e44-075b12b87783.htm" />
-        <HelpTOCNode Title="MAX_NUM_MULTIVALUE_ATTRIBUTES Field" Url="html/7ae7b7cf-4a7d-5b4c-18bc-d49f124cedf7.htm" />
-        <HelpTOCNode Title="PAGE_SIZE Field" Url="html/65e07e35-4697-ff07-9033-8ec516a3a504.htm" />
+      <HelpTOCNode Id="7ba650f5-78aa-44f1-9f5f-aea4ecbd484b" Title="ActiveDirectory Properties" Url="html/aec77601-fae4-8cdc-290d-04527f457d7c.htm">
+        <HelpTOCNode Title="AdministratorsGroupDN Property " Url="html/217c82a9-da23-06b4-e634-de974ae69ec6.htm" />
+        <HelpTOCNode Title="DistinguishedName Property " Url="html/910fb4ed-af07-6ad9-5d35-4fbbaa315ae8.htm" />
+        <HelpTOCNode Title="DomainAdminsGroupDN Property " Url="html/ec797228-0762-822b-e38a-d7186eb001cf.htm" />
+        <HelpTOCNode Title="DomainUsersGroupDN Property " Url="html/ae1ae79b-9c14-e270-cbe5-a710622682b4.htm" />
+        <HelpTOCNode Title="EnterpriseAdminsGroupDN Property " Url="html/5cffc07a-b074-4af8-07b9-9da106eb5613.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/4afe2ed7-39b0-2ca2-dd37-674f55407342.htm" />
+        <HelpTOCNode Title="NTName Property " Url="html/526f87ff-ff30-10bd-89f7-83005dd53031.htm" />
+        <HelpTOCNode Title="WellKnownSid_System Property " Url="html/c4553674-a195-d0b2-7d29-4a2b81bb11b3.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="dcc645bd-74d7-4d19-9682-dc82e6d90bfa" Title="ActiveDirectory Methods" Url="html/7b0874bb-6530-b450-70eb-77f7ae3901ab.htm">
+      <HelpTOCNode Id="c762f519-46ad-4369-8c85-0dfcc43fbd32" Title="ActiveDirectory Methods" Url="html/7b0874bb-6530-b450-70eb-77f7ae3901ab.htm">
         <HelpTOCNode Title="Add Method " Url="html/39cf790c-151d-7bd1-113a-9286cb961858.htm" />
         <HelpTOCNode Title="AddOrReplaceAttributeValue Method " Url="html/4542a32d-f219-1945-d52d-36853f912141.htm" />
         <HelpTOCNode Title="AppendDistinguishedName Method " Url="html/0d7692ed-3173-907b-16a8-62bc1b6f6c85.htm" />
@@ -52,45 +56,41 @@
         <HelpTOCNode Title="SetSearchBase Method " Url="html/24c7d5c4-7631-7f92-26d2-b6ab97896193.htm" />
         <HelpTOCNode Title="UserAccountControlContains Method " Url="html/20ef8478-b483-4284-7aaa-8eedb68c0cdc.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="c8efd354-1b3a-409e-b259-52bee5c313cd" Title="ActiveDirectory Properties" Url="html/aec77601-fae4-8cdc-290d-04527f457d7c.htm">
-        <HelpTOCNode Title="AdministratorsGroupDN Property " Url="html/217c82a9-da23-06b4-e634-de974ae69ec6.htm" />
-        <HelpTOCNode Title="DistinguishedName Property " Url="html/910fb4ed-af07-6ad9-5d35-4fbbaa315ae8.htm" />
-        <HelpTOCNode Title="DomainAdminsGroupDN Property " Url="html/ec797228-0762-822b-e38a-d7186eb001cf.htm" />
-        <HelpTOCNode Title="DomainUsersGroupDN Property " Url="html/ae1ae79b-9c14-e270-cbe5-a710622682b4.htm" />
-        <HelpTOCNode Title="EnterpriseAdminsGroupDN Property " Url="html/5cffc07a-b074-4af8-07b9-9da106eb5613.htm" />
-        <HelpTOCNode Title="Name Property " Url="html/4afe2ed7-39b0-2ca2-dd37-674f55407342.htm" />
-        <HelpTOCNode Title="NTName Property " Url="html/526f87ff-ff30-10bd-89f7-83005dd53031.htm" />
-        <HelpTOCNode Title="WellKnownSid_System Property " Url="html/c4553674-a195-d0b2-7d29-4a2b81bb11b3.htm" />
+      <HelpTOCNode Id="b3c1c570-5dd1-4dff-8b5d-e92003704e81" Title="ActiveDirectory Fields" Url="html/9d0ce5d9-8dde-e06c-9c48-9d49c63568b9.htm">
+        <HelpTOCNode Title="DEFAULT_FIRST_SITE_NAME Field" Url="html/2e619bc0-0eba-c79f-2af5-3676ceb9d1c2.htm" />
+        <HelpTOCNode Title="GROUP_NAME_MAX_CHARS Field" Url="html/a0c834fe-2f42-c855-2e44-075b12b87783.htm" />
+        <HelpTOCNode Title="MAX_NUM_MULTIVALUE_ATTRIBUTES Field" Url="html/7ae7b7cf-4a7d-5b4c-18bc-d49f124cedf7.htm" />
+        <HelpTOCNode Title="PAGE_SIZE Field" Url="html/65e07e35-4697-ff07-9033-8ec516a3a504.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
     <HelpTOCNode Title="ActiveDirectory.GroupType Enumeration" Url="html/da577c69-eb66-5290-b932-bf22468ceedb.htm" />
     <HelpTOCNode Title="ActiveDirectory.UserAccountControl Enumeration" Url="html/4f6579cc-33f6-77c0-e201-fb610ccaa040.htm" />
-    <HelpTOCNode Id="864fe8dc-b003-4e7f-9ba0-0134894bf939" Title="ActiveDirectoryObject Class" Url="html/80b4fc40-9bbb-2b33-be46-884c396bf562.htm">
-      <HelpTOCNode Id="e0f5d9c7-fa86-4e9b-9c25-1ae92e451d71" Title="ActiveDirectoryObject Constructor " Url="html/936e7514-daf5-8676-cfa1-fec0c24a3089.htm">
+    <HelpTOCNode Id="674d1a75-0f37-4747-9017-5ab7397bd9e1" Title="ActiveDirectoryObject Class" Url="html/80b4fc40-9bbb-2b33-be46-884c396bf562.htm">
+      <HelpTOCNode Id="820ef310-7bfd-4678-87cb-520555935f8e" Title="ActiveDirectoryObject Constructor " Url="html/936e7514-daf5-8676-cfa1-fec0c24a3089.htm">
         <HelpTOCNode Title="ActiveDirectoryObject Constructor (ActiveDirectory, SearchResultEntry)" Url="html/4d95cb1f-1df8-e6ca-10d2-3cf190267fbf.htm" />
         <HelpTOCNode Title="ActiveDirectoryObject Constructor (ActiveDirectory, Guid)" Url="html/062be51b-7131-4a9b-83db-65212a9f2d69.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="5be4b889-765e-4bb0-9625-725d7d04a20d" Title="ActiveDirectoryObject Fields" Url="html/1e4a4b0b-2956-f495-3881-b81ee98c2d9d.htm">
-        <HelpTOCNode Title="AD Field" Url="html/07afcd1f-bae3-2ad3-2d30-7f594ecf6ca7.htm" />
-        <HelpTOCNode Title="AdditionalAttributes Field" Url="html/daad6dfa-66b4-4354-58b2-509155771556.htm" />
-        <HelpTOCNode Title="AttributeNames Field" Url="html/5b640236-07e4-a7c7-1e91-3cacfaee1d7b.htm" />
-        <HelpTOCNode Title="Attributes Field" Url="html/fc420218-9abf-610d-b757-8cd02388ab58.htm" />
-        <HelpTOCNode Title="Entry Field" Url="html/4ab3d884-3ba0-8605-3c36-1ace095844f9.htm" />
-        <HelpTOCNode Title="JAN_01_1601 Field" Url="html/543eabef-26b9-55e3-b9ac-ee895d2e66ca.htm" />
+      <HelpTOCNode Id="31595b75-d22d-4cfb-a1cf-0684922acff2" Title="ActiveDirectoryObject Properties" Url="html/dc481f1e-1f9e-573b-3ef2-c08f9946ace3.htm">
+        <HelpTOCNode Title="CommonName Property " Url="html/1c697af5-5d1d-b33e-b1ba-ff5beed107b5.htm" />
+        <HelpTOCNode Title="CreateTimeStamp Property " Url="html/32802db4-dbfe-04b4-6608-18958942113d.htm" />
+        <HelpTOCNode Title="DistinguishedName Property " Url="html/89b3ae00-08eb-df06-47a9-5395abec07c0.htm" />
+        <HelpTOCNode Title="GUID Property " Url="html/5bef6e18-5a8c-0e64-893a-2dc10191184b.htm" />
+        <HelpTOCNode Title="OrganizationalUnit Property " Url="html/a4d48f4f-58da-62b7-bc75-7d8241d4daa7.htm" />
+        <HelpTOCNode Title="SchemaClasses Property " Url="html/c0d69c29-ab51-fd56-c09a-3fd7748d7600.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="ba3b3b65-c116-4fad-afe5-bc970b58e540" Title="ActiveDirectoryObject Methods" Url="html/7d9389fa-2399-9d53-5d31-3cd0451f0928.htm">
+      <HelpTOCNode Id="1e28af6f-8356-439c-a670-0d54beb9c169" Title="ActiveDirectoryObject Methods" Url="html/7d9389fa-2399-9d53-5d31-3cd0451f0928.htm">
         <HelpTOCNode Title="CompareTo Method " Url="html/ad4fba6f-aedb-e648-17f8-787e11a28792.htm" />
         <HelpTOCNode Title="DeleteAttribute Method " Url="html/19214ca4-749b-36db-990f-62f6067ce39c.htm" />
-        <HelpTOCNode Id="7f53ff50-1919-4f19-9f9d-be92839864b8" Title="Equals Method " Url="html/10116002-d966-faf4-5886-27ab9926f976.htm">
+        <HelpTOCNode Id="128c6b3d-3654-492a-a7d6-596ce7f31afb" Title="Equals Method " Url="html/10116002-d966-faf4-5886-27ab9926f976.htm">
           <HelpTOCNode Title="Equals Method (ActiveDirectoryObject, ActiveDirectoryObject)" Url="html/0acbc747-5a82-3559-bc71-9d12d3abdf57.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="GetByteAttributeValue Method " Url="html/f9416caf-d6ed-358a-88f9-6acae3cadaca.htm" />
         <HelpTOCNode Title="GetByteAttributeValues Method " Url="html/b3818c5e-09ec-1b50-f533-190b5bebf62c.htm" />
-        <HelpTOCNode Id="a91ceaea-5b42-46c3-8f21-72393500b3fa" Title="GetEntryFromAD Method " Url="html/4b0da32a-aecd-dcfb-15a9-8f158753b700.htm">
+        <HelpTOCNode Id="06ca28ac-2a6d-4360-8cb0-689874b31eb2" Title="GetEntryFromAD Method " Url="html/4b0da32a-aecd-dcfb-15a9-8f158753b700.htm">
           <HelpTOCNode Title="GetEntryFromAD Method (Guid)" Url="html/640c68b6-216b-28c5-aad8-8db0cdae39fd.htm" />
           <HelpTOCNode Title="GetEntryFromAD Method (Guid, List(String))" Url="html/4972d1d8-2ddd-41cf-597d-2c5af673a308.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="51709ad7-daab-4bdb-ac10-d539500fcad3" Title="GetHashCode Method " Url="html/a7a8a0ce-1c90-ee8f-5c21-9e11f140b9d7.htm">
+        <HelpTOCNode Id="ca96c577-ed6f-4799-a9d7-fd37ff0dc655" Title="GetHashCode Method " Url="html/a7a8a0ce-1c90-ee8f-5c21-9e11f140b9d7.htm">
           <HelpTOCNode Title="GetHashCode Method (ActiveDirectoryObject)" Url="html/f5bdb70f-aa74-3e0d-5913-a8f9e18593d8.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="GetIntervalAttributeValue Method " Url="html/bd68ed3e-0a4d-6cb0-df03-b8a397b45422.htm" />
@@ -101,74 +101,54 @@
         <HelpTOCNode Title="SetAttribute Method " Url="html/a7d6e813-db01-c1b2-9407-be46b5b23fbc.htm" />
         <HelpTOCNode Title="SetStringAttribute Method " Url="html/95e99bbd-e019-6158-2ecf-4a01ad2c3218.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="143d4786-5e78-4c87-bde3-9852b43eeee3" Title="ActiveDirectoryObject Properties" Url="html/dc481f1e-1f9e-573b-3ef2-c08f9946ace3.htm">
-        <HelpTOCNode Title="CommonName Property " Url="html/1c697af5-5d1d-b33e-b1ba-ff5beed107b5.htm" />
-        <HelpTOCNode Title="CreateTimeStamp Property " Url="html/32802db4-dbfe-04b4-6608-18958942113d.htm" />
-        <HelpTOCNode Title="DistinguishedName Property " Url="html/89b3ae00-08eb-df06-47a9-5395abec07c0.htm" />
-        <HelpTOCNode Title="GUID Property " Url="html/5bef6e18-5a8c-0e64-893a-2dc10191184b.htm" />
-        <HelpTOCNode Title="OrganizationalUnit Property " Url="html/a4d48f4f-58da-62b7-bc75-7d8241d4daa7.htm" />
-        <HelpTOCNode Title="SchemaClasses Property " Url="html/c0d69c29-ab51-fd56-c09a-3fd7748d7600.htm" />
+      <HelpTOCNode Id="c5f3e9fa-075d-4d72-b09f-3e94de6a2999" Title="ActiveDirectoryObject Fields" Url="html/1e4a4b0b-2956-f495-3881-b81ee98c2d9d.htm">
+        <HelpTOCNode Title="AD Field" Url="html/07afcd1f-bae3-2ad3-2d30-7f594ecf6ca7.htm" />
+        <HelpTOCNode Title="AdditionalAttributes Field" Url="html/daad6dfa-66b4-4354-58b2-509155771556.htm" />
+        <HelpTOCNode Title="AttributeNames Field" Url="html/5b640236-07e4-a7c7-1e91-3cacfaee1d7b.htm" />
+        <HelpTOCNode Title="Attributes Field" Url="html/fc420218-9abf-610d-b757-8cd02388ab58.htm" />
+        <HelpTOCNode Title="Entry Field" Url="html/4ab3d884-3ba0-8605-3c36-1ace095844f9.htm" />
+        <HelpTOCNode Title="JAN_01_1601 Field" Url="html/543eabef-26b9-55e3-b9ac-ee895d2e66ca.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="04ecb9f8-e865-4405-aa32-459db4470a27" Title="Group Class" Url="html/c5c11dd9-577d-0a3c-347b-b8579f439d4b.htm">
-      <HelpTOCNode Id="2d734667-19c0-475c-8575-3267449d25cb" Title="Group Constructor " Url="html/05309001-1a30-ca8a-c9db-56acac6134c7.htm">
+    <HelpTOCNode Id="c44d2eb0-2060-468b-b2f5-6d7915e94a9c" Title="Group Class" Url="html/c5c11dd9-577d-0a3c-347b-b8579f439d4b.htm">
+      <HelpTOCNode Id="5e098f7d-c6f8-4bf6-a6c8-0bb8d4d4043e" Title="Group Constructor " Url="html/05309001-1a30-ca8a-c9db-56acac6134c7.htm">
         <HelpTOCNode Title="Group Constructor (ActiveDirectory, SearchResultEntry)" Url="html/b7d6bca4-ede6-fe50-0181-e66f409e02ac.htm" />
         <HelpTOCNode Title="Group Constructor (ActiveDirectory, Guid)" Url="html/d6c2c63c-fd49-a14e-18e6-5b7b51c56b14.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="1bacb607-6957-4688-bd22-59212123a074" Title="Group Fields" Url="html/fdbf4046-0342-d62c-7149-23b35e643bf9.htm">
-        <HelpTOCNode Title="AttributeNames Field" Url="html/ecd80c34-32fa-1923-3d35-30c5f3a18ca4.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="fa580402-ca36-402f-b36e-42bc38605d21" Title="Group Methods" Url="html/0acc91e8-09d0-6a27-d1d2-22891225dc0b.htm">
-        <HelpTOCNode Title="AddMembers Method " Url="html/2628f480-60bf-bff8-7539-3b3d9487f2b2.htm" />
-        <HelpTOCNode Title="ClearMembership Method " Url="html/0ca1948e-3640-cf27-6e1b-db1b69558c90.htm" />
-        <HelpTOCNode Id="dbc348c1-05f4-4f4a-aa43-190b9cc5c0a9" Title="CompareTo Method " Url="html/a14d3a12-4ac0-d5ca-3193-67ff9dc7ec31.htm">
-          <HelpTOCNode Title="CompareTo Method (Group)" Url="html/6f89486d-0489-39af-2ba3-7c36580e2798.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Title="Create Method " Url="html/ca1a2723-dfd3-0f1e-ac9c-fe0d2e7239ef.htm" />
-        <HelpTOCNode Title="Delete Method " Url="html/0e99e2f3-e367-6d66-e244-4802475f4f4c.htm" />
-        <HelpTOCNode Id="c28861b9-87f2-4011-8874-39978d6535fc" Title="Equals Method " Url="html/6724e964-aff1-cc78-bad2-933e3f6f9ec3.htm">
-          <HelpTOCNode Title="Equals Method (Group, Group)" Url="html/e8788884-439d-3201-4210-fd6c8aefcabe.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Title="GetEnumerator Method " Url="html/bc384db1-3008-b0fc-65b0-1a1ccb92e0cb.htm" />
-        <HelpTOCNode Id="93f1a40e-bd07-4ee8-81b6-caf571cc8f01" Title="GetHashCode Method " Url="html/66d1d14d-b655-fb97-f5e2-adaa56ac01f1.htm">
-          <HelpTOCNode Title="GetHashCode Method (Group)" Url="html/edf46aa6-c81f-e735-ecb9-621ee4cdc4a8.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Title="RemoveMember Method " Url="html/a89d0fff-7280-e832-1cc5-25d40baf3fca.htm" />
-        <HelpTOCNode Title="RemoveMembers Method " Url="html/bb541cfc-c953-2aa6-fbd2-128db5545ddf.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="01a19848-bb3e-4a7e-bbdb-21ce92fb4be7" Title="Group Properties" Url="html/ca7b253f-a8e6-5851-54fa-5a84dc86310c.htm">
+      <HelpTOCNode Id="8ab2b315-3f28-43ff-82a5-0399166359db" Title="Group Properties" Url="html/ca7b253f-a8e6-5851-54fa-5a84dc86310c.htm">
         <HelpTOCNode Title="AllUserMembers Property " Url="html/70aab209-d25a-de66-5578-817393630dea.htm" />
         <HelpTOCNode Title="GroupMembers Property " Url="html/f5631cdd-5ccc-2b84-36eb-596b9a996a81.htm" />
         <HelpTOCNode Title="Members Property " Url="html/e99633b7-5e11-1869-dc3d-5dafaca92e27.htm" />
         <HelpTOCNode Title="UserMembers Property " Url="html/55935ea7-4f22-f303-e431-ef2fe892dbae.htm" />
       </HelpTOCNode>
+      <HelpTOCNode Id="e10d9114-0609-4ab0-83ab-27d134216d11" Title="Group Methods" Url="html/0acc91e8-09d0-6a27-d1d2-22891225dc0b.htm">
+        <HelpTOCNode Title="AddMembers Method " Url="html/2628f480-60bf-bff8-7539-3b3d9487f2b2.htm" />
+        <HelpTOCNode Title="ClearMembership Method " Url="html/0ca1948e-3640-cf27-6e1b-db1b69558c90.htm" />
+        <HelpTOCNode Id="97cac4d8-27a2-465d-94f9-150b66284297" Title="CompareTo Method " Url="html/a14d3a12-4ac0-d5ca-3193-67ff9dc7ec31.htm">
+          <HelpTOCNode Title="CompareTo Method (Group)" Url="html/6f89486d-0489-39af-2ba3-7c36580e2798.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Create Method " Url="html/ca1a2723-dfd3-0f1e-ac9c-fe0d2e7239ef.htm" />
+        <HelpTOCNode Title="Delete Method " Url="html/0e99e2f3-e367-6d66-e244-4802475f4f4c.htm" />
+        <HelpTOCNode Id="358903b7-bb44-4cdc-b7b0-cf2a895e26be" Title="Equals Method " Url="html/6724e964-aff1-cc78-bad2-933e3f6f9ec3.htm">
+          <HelpTOCNode Title="Equals Method (Group, Group)" Url="html/e8788884-439d-3201-4210-fd6c8aefcabe.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetEnumerator Method " Url="html/bc384db1-3008-b0fc-65b0-1a1ccb92e0cb.htm" />
+        <HelpTOCNode Id="77848928-2d94-4cee-aa77-5b56c620941e" Title="GetHashCode Method " Url="html/66d1d14d-b655-fb97-f5e2-adaa56ac01f1.htm">
+          <HelpTOCNode Title="GetHashCode Method (Group)" Url="html/edf46aa6-c81f-e735-ecb9-621ee4cdc4a8.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="RemoveMember Method " Url="html/a89d0fff-7280-e832-1cc5-25d40baf3fca.htm" />
+        <HelpTOCNode Title="RemoveMembers Method " Url="html/bb541cfc-c953-2aa6-fbd2-128db5545ddf.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7c77dd27-0e73-46ea-9918-140ced749f32" Title="Group Fields" Url="html/fdbf4046-0342-d62c-7149-23b35e643bf9.htm">
+        <HelpTOCNode Title="AttributeNames Field" Url="html/ecd80c34-32fa-1923-3d35-30c5f3a18ca4.htm" />
+      </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="c936f8a7-cd75-4a52-9f3d-c39990ab9fc9" Title="SecurityPrincipal Class" Url="html/bc046e8a-79c7-da84-e513-3a4f9685ec5d.htm">
-      <HelpTOCNode Id="55764c11-8e96-4b4b-81b2-2b2d8b5b5365" Title="SecurityPrincipal Constructor " Url="html/a03e799e-6f89-9b0a-9bea-4586fef889c8.htm">
+    <HelpTOCNode Id="e9fb1dc6-185a-483b-8fc8-b1b00e074d1b" Title="SecurityPrincipal Class" Url="html/bc046e8a-79c7-da84-e513-3a4f9685ec5d.htm">
+      <HelpTOCNode Id="799721ce-a10e-47fb-9ad3-592932ba552a" Title="SecurityPrincipal Constructor " Url="html/a03e799e-6f89-9b0a-9bea-4586fef889c8.htm">
         <HelpTOCNode Title="SecurityPrincipal Constructor (ActiveDirectory, SearchResultEntry)" Url="html/471e2f33-f445-171f-7132-5f337ec67189.htm" />
         <HelpTOCNode Title="SecurityPrincipal Constructor (ActiveDirectory, Guid)" Url="html/38278c5d-37ad-92e7-388d-cdf34ce2f37d.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="cf8d52e6-088c-4884-8c17-19e4074fa7c0" Title="SecurityPrincipal Fields" Url="html/1d541888-735e-52d4-512b-4a2ffa973c7e.htm">
-        <HelpTOCNode Title="AttributeNames Field" Url="html/4c287ccb-e0b8-f893-c4e4-bf10f3e4c9e5.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="462e95b6-e35d-4a30-90e8-9dba7e68bc45" Title="SecurityPrincipal Methods" Url="html/67d04ba2-d79d-47f0-4bd5-12fda75a7c60.htm">
-        <HelpTOCNode Title="AddProxyAddress Method " Url="html/4a4f3886-73e7-fc6c-f0ad-58d4a814435e.htm" />
-        <HelpTOCNode Title="AddToGroup Method " Url="html/3985b2d7-ca4a-27d3-7975-ac2351a49cf4.htm" />
-        <HelpTOCNode Id="db8df90d-739c-441d-8a1b-746d7b9a129f" Title="CompareTo Method " Url="html/7a461a41-d383-1790-4216-ab61e6ef0dc3.htm">
-          <HelpTOCNode Title="CompareTo Method (SecurityPrincipal)" Url="html/882a5c59-eeee-312f-f265-ab41ad646166.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Id="0defe0e7-d7e0-44ad-a4ff-f7fac70a8b18" Title="Equals Method " Url="html/ea67e68b-8385-16e0-0b03-e28495186f5b.htm">
-          <HelpTOCNode Title="Equals Method (SecurityPrincipal, SecurityPrincipal)" Url="html/fa7225fd-4444-a4e2-35f8-2d3a213fddad.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Id="2e7f7c2d-d36a-4a4e-9948-6e7c26394355" Title="GetHashCode Method " Url="html/afa80082-6c2d-46fc-79f0-e5cd637a97a3.htm">
-          <HelpTOCNode Title="GetHashCode Method (SecurityPrincipal)" Url="html/514d8f4f-39ca-2a68-f359-4bbf4896bf66.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Title="MemberOfGroup Method " Url="html/45660959-261d-411e-e76c-8b7314de8603.htm" />
-        <HelpTOCNode Title="MoveRename Method " Url="html/32757f83-40ad-97d7-43f4-51d8c1cec3a1.htm" />
-        <HelpTOCNode Title="RemoveProxyAddress Method " Url="html/9436907a-3beb-f578-5d3a-0db76f7738a7.htm" />
-        <HelpTOCNode Title="SetPrimaryProxyAddress Method " Url="html/935705f8-2aaf-d043-5bd0-dce0456ea01a.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="62a7a24c-5a8c-45a0-9a3d-597971730f99" Title="SecurityPrincipal Properties" Url="html/933f91fb-142d-4ba6-3a58-4150b4b61628.htm">
+      <HelpTOCNode Id="c4a178b9-29b5-4a2f-a47b-e638274a15d1" Title="SecurityPrincipal Properties" Url="html/933f91fb-142d-4ba6-3a58-4150b4b61628.htm">
         <HelpTOCNode Title="Description Property " Url="html/3eed0c1a-24f6-bf9e-ba68-db05bcb34c96.htm" />
         <HelpTOCNode Title="EMailAddress Property " Url="html/d852585e-127a-c161-7583-e1ad0a8223b5.htm" />
         <HelpTOCNode Title="EmailAddresses Property " Url="html/73ad6644-4a66-3a2b-9b4a-8a6af48dd66f.htm" />
@@ -181,35 +161,33 @@
         <HelpTOCNode Title="TargetAddress Property " Url="html/b2f67b60-e9fd-a372-f84f-d87c9afe385d.htm" />
         <HelpTOCNode Title="UserPrincipalName Property " Url="html/4200c862-d1ca-4474-0462-2a48db1ecdbd.htm" />
       </HelpTOCNode>
+      <HelpTOCNode Id="da5c3112-82e5-48f7-a9b8-57635e2dfae8" Title="SecurityPrincipal Methods" Url="html/67d04ba2-d79d-47f0-4bd5-12fda75a7c60.htm">
+        <HelpTOCNode Title="AddProxyAddress Method " Url="html/4a4f3886-73e7-fc6c-f0ad-58d4a814435e.htm" />
+        <HelpTOCNode Title="AddToGroup Method " Url="html/3985b2d7-ca4a-27d3-7975-ac2351a49cf4.htm" />
+        <HelpTOCNode Id="ee1e199f-a047-42b6-b43b-825624346a55" Title="CompareTo Method " Url="html/7a461a41-d383-1790-4216-ab61e6ef0dc3.htm">
+          <HelpTOCNode Title="CompareTo Method (SecurityPrincipal)" Url="html/882a5c59-eeee-312f-f265-ab41ad646166.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="eb2f91e3-53f1-4c6c-b4f8-5c582601dda7" Title="Equals Method " Url="html/ea67e68b-8385-16e0-0b03-e28495186f5b.htm">
+          <HelpTOCNode Title="Equals Method (SecurityPrincipal, SecurityPrincipal)" Url="html/fa7225fd-4444-a4e2-35f8-2d3a213fddad.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="03dece95-71bb-46d4-b1af-d9e6cd615950" Title="GetHashCode Method " Url="html/afa80082-6c2d-46fc-79f0-e5cd637a97a3.htm">
+          <HelpTOCNode Title="GetHashCode Method (SecurityPrincipal)" Url="html/514d8f4f-39ca-2a68-f359-4bbf4896bf66.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="MemberOfGroup Method " Url="html/45660959-261d-411e-e76c-8b7314de8603.htm" />
+        <HelpTOCNode Title="MoveRename Method " Url="html/32757f83-40ad-97d7-43f4-51d8c1cec3a1.htm" />
+        <HelpTOCNode Title="RemoveProxyAddress Method " Url="html/9436907a-3beb-f578-5d3a-0db76f7738a7.htm" />
+        <HelpTOCNode Title="SetPrimaryProxyAddress Method " Url="html/935705f8-2aaf-d043-5bd0-dce0456ea01a.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d3307461-736d-49bc-bf70-b0b8a25a0151" Title="SecurityPrincipal Fields" Url="html/1d541888-735e-52d4-512b-4a2ffa973c7e.htm">
+        <HelpTOCNode Title="AttributeNames Field" Url="html/4c287ccb-e0b8-f893-c4e4-bf10f3e4c9e5.htm" />
+      </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="5bc0bb9a-853a-4752-a40c-affd13d312e8" Title="User Class" Url="html/c8ca0251-c267-e635-eb68-550ae2447b00.htm">
-      <HelpTOCNode Id="3485af3a-6e86-43f6-8235-c5fd34b6c85f" Title="User Constructor " Url="html/f4ed1e1c-6094-bf40-d18e-8d921c7f30d2.htm">
+    <HelpTOCNode Id="5ab5a29c-9e12-4f4f-925c-855cbd263647" Title="User Class" Url="html/c8ca0251-c267-e635-eb68-550ae2447b00.htm">
+      <HelpTOCNode Id="90524f2c-8b46-43e2-8c8b-0687fbbf54f2" Title="User Constructor " Url="html/f4ed1e1c-6094-bf40-d18e-8d921c7f30d2.htm">
         <HelpTOCNode Title="User Constructor (ActiveDirectory, SearchResultEntry)" Url="html/a5594f25-904d-648c-021b-35a4ab88ce8c.htm" />
         <HelpTOCNode Title="User Constructor (ActiveDirectory, Guid)" Url="html/c33ee9d6-4e4b-d17f-e19d-dbf7c96bd4ff.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="5fd6b9b4-a6c8-49c4-9457-267d023ba6d2" Title="User Fields" Url="html/2170e78d-6b20-4201-7be5-445a02f91f50.htm">
-        <HelpTOCNode Title="AttributeNames Field" Url="html/f40aaef0-45b5-0ab9-3799-c96970cc9cdf.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="d0e995e2-ab16-4b17-943b-43a0c6ab0533" Title="User Methods" Url="html/03807f3e-36e1-3b6e-ce58-0aa36124ce58.htm">
-        <HelpTOCNode Id="b7223d24-6ad3-4391-b98e-e79c5f7cb092" Title="CompareTo Method " Url="html/5f61e85e-2606-2c88-b94b-663626bb4916.htm">
-          <HelpTOCNode Title="CompareTo Method (User)" Url="html/b0921b6b-6b2e-b1b6-95b0-68b577783d7a.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Title="Create Method " Url="html/d5a3d2ce-0755-d3ce-d16b-43ee0eaa3688.htm" />
-        <HelpTOCNode Title="Disable Method " Url="html/eb1c1051-69a6-930d-63c3-d76adfe60633.htm" />
-        <HelpTOCNode Title="Enable Method " Url="html/284780fc-3709-0a3b-d926-82c6d24c9926.htm" />
-        <HelpTOCNode Id="c85780c0-f0d8-4b58-adcc-d3a1cab5dc96" Title="Equals Method " Url="html/55dd3e81-968c-7200-c368-d7e4985bd5b3.htm">
-          <HelpTOCNode Title="Equals Method (User, User)" Url="html/f6e0bde6-0a2f-c994-ea22-82a5bc74cd33.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Title="GetAllUsers Method " Url="html/aca886f6-b3f0-48e7-9b90-633158b9122b.htm" />
-        <HelpTOCNode Id="3b68c44a-0463-4a2b-bbdd-ff3b87505e5d" Title="GetHashCode Method " Url="html/f7a33a10-9e72-acb2-9659-d6ebc26f5eb6.htm">
-          <HelpTOCNode Title="GetHashCode Method (User)" Url="html/1bde086f-dff8-afbe-2621-e4d392d4b812.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Title="RemoveUserAccountControlFlag Method " Url="html/040e66a5-7687-3443-cc35-c26660138903.htm" />
-        <HelpTOCNode Title="SetPassword Method " Url="html/c4d69ad6-0b57-d4ee-d7f7-9a3d60549ab2.htm" />
-        <HelpTOCNode Title="SetUserAccountControlFlag Method " Url="html/411c3baa-41ab-8b0b-b4ce-9e0c33983abb.htm" />
-        <HelpTOCNode Title="Unlock Method " Url="html/9123081d-3512-42f8-e947-b38ce692eaf5.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="12d66e9a-31d5-4ba8-984b-73878eb2de06" Title="User Properties" Url="html/adc36597-59cc-2480-19a7-02f5ad72bdb9.htm">
+      <HelpTOCNode Id="d4088eaa-5b7a-48fa-a14a-a526cc16ff4b" Title="User Properties" Url="html/adc36597-59cc-2480-19a7-02f5ad72bdb9.htm">
         <HelpTOCNode Title="BadPasswordCount Property " Url="html/d5ca3fd9-b2d3-d05d-e7dc-2cb0c0c866e8.htm" />
         <HelpTOCNode Title="BadPasswordTime Property " Url="html/6f0aacf6-f79f-83b4-5fbd-9ffe49f074f2.htm" />
         <HelpTOCNode Title="Department Property " Url="html/770e404d-bde8-7fd4-050f-bec7cb5843be.htm" />
@@ -236,32 +214,53 @@
         <HelpTOCNode Title="UserAccountControl Property " Url="html/a5665e79-0b92-26bc-c65f-f650498a9518.htm" />
         <HelpTOCNode Title="UserAccountControlComputed Property " Url="html/3f7b5c40-3b4d-488d-940f-f1388948e1cf.htm" />
       </HelpTOCNode>
+      <HelpTOCNode Id="4d708486-ce80-4e74-890b-0c6804b0328a" Title="User Methods" Url="html/03807f3e-36e1-3b6e-ce58-0aa36124ce58.htm">
+        <HelpTOCNode Id="9039b3b9-ba0b-412f-b730-0ec69db675cc" Title="CompareTo Method " Url="html/5f61e85e-2606-2c88-b94b-663626bb4916.htm">
+          <HelpTOCNode Title="CompareTo Method (User)" Url="html/b0921b6b-6b2e-b1b6-95b0-68b577783d7a.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Create Method " Url="html/d5a3d2ce-0755-d3ce-d16b-43ee0eaa3688.htm" />
+        <HelpTOCNode Title="Disable Method " Url="html/eb1c1051-69a6-930d-63c3-d76adfe60633.htm" />
+        <HelpTOCNode Title="Enable Method " Url="html/284780fc-3709-0a3b-d926-82c6d24c9926.htm" />
+        <HelpTOCNode Id="cc97bbdb-fe19-4c68-baf2-94741dcf3353" Title="Equals Method " Url="html/55dd3e81-968c-7200-c368-d7e4985bd5b3.htm">
+          <HelpTOCNode Title="Equals Method (User, User)" Url="html/f6e0bde6-0a2f-c994-ea22-82a5bc74cd33.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetAllUsers Method " Url="html/aca886f6-b3f0-48e7-9b90-633158b9122b.htm" />
+        <HelpTOCNode Id="fcbeb741-c4d4-4c8d-93b6-e6fb1b671f11" Title="GetHashCode Method " Url="html/f7a33a10-9e72-acb2-9659-d6ebc26f5eb6.htm">
+          <HelpTOCNode Title="GetHashCode Method (User)" Url="html/1bde086f-dff8-afbe-2621-e4d392d4b812.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="RemoveUserAccountControlFlag Method " Url="html/040e66a5-7687-3443-cc35-c26660138903.htm" />
+        <HelpTOCNode Title="SetPassword Method " Url="html/c4d69ad6-0b57-d4ee-d7f7-9a3d60549ab2.htm" />
+        <HelpTOCNode Title="SetUserAccountControlFlag Method " Url="html/411c3baa-41ab-8b0b-b4ce-9e0c33983abb.htm" />
+        <HelpTOCNode Title="Unlock Method " Url="html/9123081d-3512-42f8-e947-b38ce692eaf5.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6ac4f53b-4ff9-4f34-a4b4-4b09908a70c9" Title="User Fields" Url="html/2170e78d-6b20-4201-7be5-445a02f91f50.htm">
+        <HelpTOCNode Title="AttributeNames Field" Url="html/f40aaef0-45b5-0ab9-3799-c96970cc9cdf.htm" />
+      </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="1972d405-c1e0-405e-a932-6c06c754dde3" Title="Galactic.Calendar" Url="html/bb14b2e3-00e2-3ccd-bf61-21889406a350.htm">
-    <HelpTOCNode Id="352247e6-0f6e-488e-91ef-8b44eedb3adb" Title="Calendar Class" Url="html/87bac7f4-e255-6613-a4a6-e6ba34ca8347.htm">
+  <HelpTOCNode Id="114a5024-efef-4c1e-8254-e5261a219af8" Title="Galactic.Calendar" Url="html/bb14b2e3-00e2-3ccd-bf61-21889406a350.htm">
+    <HelpTOCNode Id="4359ded2-1043-4c02-ae3e-76ad44fa70d2" Title="Calendar Class" Url="html/87bac7f4-e255-6613-a4a6-e6ba34ca8347.htm">
       <HelpTOCNode Title="Calendar Constructor " Url="html/d45d3394-0ff8-db22-be77-5b4e54c162ad.htm" />
-      <HelpTOCNode Title="Calendar Methods" Url="html/21308ccc-97e7-f60d-c21a-b0c2f000fd3a.htm" />
-      <HelpTOCNode Id="91f6f3a6-7dbf-4fce-8b56-1906d3f53e0a" Title="Calendar Properties" Url="html/6b6a5d06-482b-460e-83c2-2be2fd8c5178.htm">
+      <HelpTOCNode Id="04dcf69b-7ab2-49f8-a0b1-b2436bb2a33b" Title="Calendar Properties" Url="html/6b6a5d06-482b-460e-83c2-2be2fd8c5178.htm">
         <HelpTOCNode Title="Description Property " Url="html/a4c9eec5-1053-d4c8-ac5c-08d22971a7e5.htm" />
         <HelpTOCNode Title="Events Property " Url="html/acf578a0-8f32-cef4-f594-9bd37a1e8c67.htm" />
         <HelpTOCNode Title="Name Property " Url="html/6f7775db-9aef-f2e2-c252-83a2c3f6ccee.htm" />
       </HelpTOCNode>
+      <HelpTOCNode Title="Calendar Methods" Url="html/21308ccc-97e7-f60d-c21a-b0c2f000fd3a.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="ae8ae5c1-5340-4e30-9e1b-575b44aade35" Title="CalendarUtility Class" Url="html/ce415031-697c-2065-77bb-99e895a9ce17.htm">
+    <HelpTOCNode Id="f9ec2280-5bbd-4fa1-9506-388c0193fa19" Title="CalendarUtility Class" Url="html/ce415031-697c-2065-77bb-99e895a9ce17.htm">
       <HelpTOCNode Title="CalendarUtility Constructor " Url="html/0d7118f5-9e69-2185-8540-a471aa95165f.htm" />
-      <HelpTOCNode Id="dbf83a98-68f2-4325-97fc-a35006664122" Title="CalendarUtility Methods" Url="html/edcb561d-87ed-020f-3881-ba687ada91b4.htm">
+      <HelpTOCNode Id="424d3f0f-fd19-4a2b-ba4b-6f706462242d" Title="CalendarUtility Properties" Url="html/99b79b45-9803-0e30-2acf-3f6cade79e97.htm">
+        <HelpTOCNode Title="CalendarNames Property " Url="html/dcd3d846-3663-b413-93af-f67167b40c7a.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f6191fd1-be86-4e37-bede-abd0cbab0cf8" Title="CalendarUtility Methods" Url="html/edcb561d-87ed-020f-3881-ba687ada91b4.htm">
         <HelpTOCNode Title="GetCalendar Method " Url="html/1066984b-47cd-7375-e8fb-0253c2016ecc.htm" />
         <HelpTOCNode Title="SaveCalendar Method " Url="html/e250d991-9cce-81ef-e986-61e98b008de6.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="731e950c-2730-47dd-8e32-aa547a71a1bd" Title="CalendarUtility Properties" Url="html/99b79b45-9803-0e30-2acf-3f6cade79e97.htm">
-        <HelpTOCNode Title="CalendarNames Property " Url="html/dcd3d846-3663-b413-93af-f67167b40c7a.htm" />
-      </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="66d27a6a-9a76-4676-9eec-040e526eaab6" Title="Event Class" Url="html/452d9023-9cf1-83ec-fba6-422ce3272b84.htm">
+    <HelpTOCNode Id="974cdf76-5519-42ab-b03b-ec0bcdf05073" Title="Event Class" Url="html/452d9023-9cf1-83ec-fba6-422ce3272b84.htm">
       <HelpTOCNode Title="Event Constructor " Url="html/75f83fea-61cf-5c30-ec3e-7d469da0b8ef.htm" />
-      <HelpTOCNode Title="Event Methods" Url="html/9e82f873-bbbb-6da5-f2b5-167f23642574.htm" />
-      <HelpTOCNode Id="51e23109-45cc-4ccd-8056-a0109916e371" Title="Event Properties" Url="html/061b449a-463e-68c0-506a-870e65bd64c2.htm">
+      <HelpTOCNode Id="96626970-9c6e-4441-a623-7527963680b5" Title="Event Properties" Url="html/061b449a-463e-68c0-506a-870e65bd64c2.htm">
         <HelpTOCNode Title="AllDayEvent Property " Url="html/40936079-48c4-f4c7-e76d-52958cfb1b8f.htm" />
         <HelpTOCNode Title="Canceled Property " Url="html/ee60b236-2a6d-c471-ad70-7c1c1e336547.htm" />
         <HelpTOCNode Title="ContactEmail Property " Url="html/a5012ee7-ad7b-61b6-15b0-29d0d0e4f97e.htm" />
@@ -282,51 +281,52 @@
         <HelpTOCNode Title="StartDate Property " Url="html/d793371b-a953-d2ec-1708-c33618f2e868.htm" />
         <HelpTOCNode Title="Title Property " Url="html/a9489c28-e8fe-a4aa-9dfa-61e375b9f4bd.htm" />
       </HelpTOCNode>
+      <HelpTOCNode Title="Event Methods" Url="html/9e82f873-bbbb-6da5-f2b5-167f23642574.htm" />
     </HelpTOCNode>
     <HelpTOCNode Title="Event.PriorityLevels Enumeration" Url="html/ad3f0234-69f8-ca44-9b32-f487c3a26598.htm" />
   </HelpTOCNode>
-  <HelpTOCNode Id="27073b3b-612c-4ec8-b884-d8e058d0c2a6" Title="Galactic.Calendar.iCalendar" Url="html/ce9c457f-7286-0909-eec3-6cc77c9c045b.htm">
-    <HelpTOCNode Id="2b573846-1e38-48b2-85a3-441506bae398" Title="iCalendarUtility Class" Url="html/3a06b652-ced3-2f34-b173-d3143d440297.htm">
-      <HelpTOCNode Id="e7695917-a674-48e0-8762-f110559446c8" Title="iCalendarUtility Constructor " Url="html/6719ff91-9782-df60-d1f9-093910458b6f.htm">
+  <HelpTOCNode Id="e0ecc548-8824-4fbc-b24b-122540f540af" Title="Galactic.Calendar.iCalendar" Url="html/ce9c457f-7286-0909-eec3-6cc77c9c045b.htm">
+    <HelpTOCNode Id="c52bbb3c-cda2-4cc1-9912-81b2cee50b24" Title="iCalendarUtility Class" Url="html/3a06b652-ced3-2f34-b173-d3143d440297.htm">
+      <HelpTOCNode Id="5e3f342f-a873-4e87-b457-5d38029ae6aa" Title="iCalendarUtility Constructor " Url="html/6719ff91-9782-df60-d1f9-093910458b6f.htm">
         <HelpTOCNode Title="iCalendarUtility Constructor " Url="html/29848e99-ba31-5be5-e9d2-278625766666.htm" />
         <HelpTOCNode Title="iCalendarUtility Constructor (String, String)" Url="html/240f3f8a-6d46-2d40-6b4e-cffa4e78e6aa.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="557d585e-80ff-4d1f-bbea-e1a5fbdd7353" Title="iCalendarUtility Methods" Url="html/df2f4594-fcfc-8fc4-bcc9-30691c1d5317.htm">
+      <HelpTOCNode Id="f4fbbd38-139d-4101-82a8-37884ee09904" Title="iCalendarUtility Properties" Url="html/d54d0e73-dcc3-ddcd-af34-16c512c8f7d3.htm">
+        <HelpTOCNode Title="CalendarNames Property " Url="html/98cb95f4-7c5c-d489-995d-c554f79de7fe.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="767e967f-b546-4462-b9c0-db82d76bb08d" Title="iCalendarUtility Methods" Url="html/df2f4594-fcfc-8fc4-bcc9-30691c1d5317.htm">
         <HelpTOCNode Title="GetCalendar Method " Url="html/e7fac52e-7fa1-08eb-42b8-5d6632cca6cf.htm" />
         <HelpTOCNode Title="GetCalendarText Method " Url="html/5680488c-46e8-536e-de71-41a57d2ebd01.htm" />
-        <HelpTOCNode Id="944717f5-ff84-4d98-8db2-b105916c36bd" Title="SaveCalendar Method " Url="html/ea703cec-e182-6e52-3e0c-a67bf33abc6d.htm">
+        <HelpTOCNode Id="47c45f0f-a5aa-4596-84e4-5f1b14056342" Title="SaveCalendar Method " Url="html/ea703cec-e182-6e52-3e0c-a67bf33abc6d.htm">
           <HelpTOCNode Title="SaveCalendar Method (Calendar)" Url="html/6403c727-2e04-b196-6200-da9a8ccf9019.htm" />
           <HelpTOCNode Title="SaveCalendar Method (Calendar, String)" Url="html/47452476-4143-004e-bfec-6b5dd4154880.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="7545e529-fe3e-419a-b469-6c3c34e7a1f3" Title="iCalendarUtility Properties" Url="html/d54d0e73-dcc3-ddcd-af34-16c512c8f7d3.htm">
-        <HelpTOCNode Title="CalendarNames Property " Url="html/98cb95f4-7c5c-d489-995d-c554f79de7fe.htm" />
-      </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="2ae57ed6-0ca8-46bc-9bc0-146c264c9ead" Title="Galactic.Configuration" Url="html/1ef22fe2-8fe9-6d8d-c6b2-66b2c9c0d9f8.htm">
-    <HelpTOCNode Id="3f8b57c5-1990-48df-a59a-657d0d9a6154" Title="ConfigurationItem Class" Url="html/3921449d-63e0-4aa7-f054-ad1bbf7a0939.htm">
+  <HelpTOCNode Id="2f9bb65f-d724-4645-8313-8c2c3ae6a691" Title="Galactic.Configuration" Url="html/1ef22fe2-8fe9-6d8d-c6b2-66b2c9c0d9f8.htm">
+    <HelpTOCNode Id="d4d08b2b-6f15-43d9-b12a-6b59b03a4421" Title="ConfigurationItem Class" Url="html/3921449d-63e0-4aa7-f054-ad1bbf7a0939.htm">
       <HelpTOCNode Title="ConfigurationItem Constructor " Url="html/7c03a31b-0d7e-4890-bc24-66e612394f34.htm" />
-      <HelpTOCNode Id="9b9a4a3c-74ab-4ab1-aa05-86994c72d33d" Title="ConfigurationItem Methods" Url="html/08efff9c-e1fa-fd38-fb72-ff79969bf75f.htm">
-        <HelpTOCNode Title="Delete Method " Url="html/a8b78343-92ce-806a-f51a-aa296ed9b1ed.htm" />
-        <HelpTOCNode Title="Get Method " Url="html/f677566a-44f1-e5ef-309e-4bdcdda414d2.htm" />
-        <HelpTOCNode Title="SecureGet Method " Url="html/b59b8774-4383-6bfe-5c17-a5029fc3b654.htm" />
-        <HelpTOCNode Title="SecureWrite Method " Url="html/706003cb-10e3-16e8-00f0-b23cee1e9584.htm" />
-        <HelpTOCNode Title="Write Method " Url="html/3c2abc9d-cb78-41d0-2eec-b33293df2722.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="e48337b6-58dc-452e-bc76-ccdfcfdea359" Title="ConfigurationItem Properties" Url="html/208ef46d-31fa-d977-2931-d2fedc2c64f6.htm">
+      <HelpTOCNode Id="97e2efca-e7ef-43a2-ada2-06e9cca98d8b" Title="ConfigurationItem Properties" Url="html/208ef46d-31fa-d977-2931-d2fedc2c64f6.htm">
         <HelpTOCNode Title="Encrypted Property " Url="html/3fa85a19-825c-3a9d-6928-62a7347e86b1.htm" />
         <HelpTOCNode Title="FilePath Property " Url="html/21c3c9d1-5a1f-bd6b-7371-adb35341dc28.htm" />
         <HelpTOCNode Title="FolderPath Property " Url="html/94f9dce3-9c66-718d-ff11-6234a63a77c1.htm" />
         <HelpTOCNode Title="Name Property " Url="html/d8541394-28c6-d934-8de8-c3b905241861.htm" />
         <HelpTOCNode Title="Value Property " Url="html/d8878995-924b-66e4-6a7c-e6fc0e463c69.htm" />
       </HelpTOCNode>
+      <HelpTOCNode Id="ecaad363-a527-42b1-9d0f-fb9c7c37d53f" Title="ConfigurationItem Methods" Url="html/08efff9c-e1fa-fd38-fb72-ff79969bf75f.htm">
+        <HelpTOCNode Title="Delete Method " Url="html/a8b78343-92ce-806a-f51a-aa296ed9b1ed.htm" />
+        <HelpTOCNode Title="Get Method " Url="html/f677566a-44f1-e5ef-309e-4bdcdda414d2.htm" />
+        <HelpTOCNode Title="SecureGet Method " Url="html/b59b8774-4383-6bfe-5c17-a5029fc3b654.htm" />
+        <HelpTOCNode Title="SecureWrite Method " Url="html/706003cb-10e3-16e8-00f0-b23cee1e9584.htm" />
+        <HelpTOCNode Title="Write Method " Url="html/3c2abc9d-cb78-41d0-2eec-b33293df2722.htm" />
+      </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="15bef961-20ce-455d-98e6-db1f4e0cb42e" Title="Galactic.Cryptography" Url="html/035e00e5-aa5a-77e6-4dff-55a1cc71782a.htm">
-    <HelpTOCNode Id="68e7aeac-ace2-4995-9308-f180223d88bb" Title="AES256 Class" Url="html/a9294e8e-3c42-803f-45e9-c1ecc211169b.htm">
+  <HelpTOCNode Id="5c51220d-9472-42eb-b0ea-1d0ace73ad33" Title="Galactic.Cryptography" Url="html/035e00e5-aa5a-77e6-4dff-55a1cc71782a.htm">
+    <HelpTOCNode Id="a95e8252-40bf-4b93-9d93-cfa257578b19" Title="AES256 Class" Url="html/a9294e8e-3c42-803f-45e9-c1ecc211169b.htm">
       <HelpTOCNode Title="AES256 Constructor " Url="html/fe686908-15a9-f4cc-e2de-1967406e35bd.htm" />
-      <HelpTOCNode Id="6b4d708b-d4d8-4197-bb05-26de48c80396" Title="AES256 Methods" Url="html/820a99ce-9f8f-a687-ca80-a85f3ac1c20a.htm">
+      <HelpTOCNode Id="204844ec-4ad4-4e38-9f25-f8a00c5e7d70" Title="AES256 Methods" Url="html/820a99ce-9f8f-a687-ca80-a85f3ac1c20a.htm">
         <HelpTOCNode Title="BytesToString Method " Url="html/f7892669-d501-13b6-5d89-7bff125d066d.htm" />
         <HelpTOCNode Title="CreateConsolidatedString Method " Url="html/1c6d6f8d-0e15-7c3c-bfd3-dcf46f677e9b.htm" />
         <HelpTOCNode Title="DecryptConsolidatedString Method " Url="html/235d81d6-95a0-f45c-5484-33d6a4f10433.htm" />
@@ -337,68 +337,68 @@
         <HelpTOCNode Title="StringToBytes Method " Url="html/4066a220-9ece-fae4-eeda-b91dc4623857.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="c518286b-52f4-4f36-a6a5-28c7f432db2a" Title="SaltedHash Class" Url="html/6818c0d2-a52d-c027-f7d7-618c09859f2c.htm">
+    <HelpTOCNode Id="55e8203c-b659-46e6-a14c-7d478eecac73" Title="SaltedHash Class" Url="html/6818c0d2-a52d-c027-f7d7-618c09859f2c.htm">
       <HelpTOCNode Title="SaltedHash Constructor " Url="html/5409748e-ac93-2400-1b0d-06ed5d08a871.htm" />
-      <HelpTOCNode Id="b7ccf6bc-ac6c-48f1-99af-95b7c7e362e6" Title="SaltedHash Methods" Url="html/8fa7847b-e810-ceb2-8946-ac84c22877e8.htm">
+      <HelpTOCNode Id="cd555736-6711-4bb7-8cd7-fc15d6aa0011" Title="SaltedHash Methods" Url="html/8fa7847b-e810-ceb2-8946-ac84c22877e8.htm">
         <HelpTOCNode Title="GenerateHash Method " Url="html/e98e0498-a592-6c2e-7041-b3598c1a4370.htm" />
         <HelpTOCNode Title="GenerateSalt Method " Url="html/a2e50e62-69be-a5f5-e44e-2ea491128d5a.htm" />
         <HelpTOCNode Title="VerifyHash Method " Url="html/d2eac650-3124-8dcf-9a99-cb11a85fee75.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="92308d8b-4064-4111-81c3-0f9c5738a752" Title="SHA256 Class" Url="html/735d5ff0-6344-eff7-46e3-5f80d2426b1e.htm">
+    <HelpTOCNode Id="c6b6c022-4975-4154-8ff3-68dc638b218b" Title="SHA256 Class" Url="html/735d5ff0-6344-eff7-46e3-5f80d2426b1e.htm">
       <HelpTOCNode Title="SHA256 Constructor " Url="html/e370580a-631e-3dbc-52b1-06acd92c9baa.htm" />
-      <HelpTOCNode Id="3329a289-5c8b-400e-9903-27ef12905fa1" Title="SHA256 Methods" Url="html/153a3be1-4120-fe7f-7d15-6aab0b79b375.htm">
+      <HelpTOCNode Id="3f649cf5-d986-45b8-bb3e-0c300c2dd307" Title="SHA256 Methods" Url="html/153a3be1-4120-fe7f-7d15-6aab0b79b375.htm">
         <HelpTOCNode Title="GetHash Method " Url="html/9dabea8f-0e51-0495-531c-5280fedd9111.htm" />
         <HelpTOCNode Title="VerifyHash Method " Url="html/784eb5af-00d0-aa47-905e-f9929cef1c99.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="caaa24ab-a332-4ac3-be95-b8c9520d3e3b" Title="Galactic.EventLog" Url="html/8d62e611-fb5b-2a92-13d3-7b0172765300.htm">
-    <HelpTOCNode Id="331f7657-734f-48c4-9a2a-ae2e9919b89c" Title="Event Class" Url="html/77a6b53f-b71d-282e-6f14-019790dd55c1.htm">
+  <HelpTOCNode Id="377e7f3f-50ee-40ae-9371-972ddf7b0251" Title="Galactic.EventLog" Url="html/8d62e611-fb5b-2a92-13d3-7b0172765300.htm">
+    <HelpTOCNode Id="5b2f90f5-3579-4b8c-9e23-c80c4d7c68da" Title="Event Class" Url="html/77a6b53f-b71d-282e-6f14-019790dd55c1.htm">
       <HelpTOCNode Title="Event Constructor " Url="html/5dbc2ea8-fb43-5971-0189-ce91bd9a2ed6.htm" />
-      <HelpTOCNode Id="138cf175-35bd-4b62-b702-58f75e64a581" Title="Event Methods" Url="html/86889e6a-70d2-36a9-ce8f-5ecdb46cc50e.htm">
-        <HelpTOCNode Id="400b267c-4f7f-4b85-9dd1-313e63f98c58" Title="CompareTo Method " Url="html/7d8a1ff7-f231-cbfb-ee18-c35631f4af31.htm">
-          <HelpTOCNode Title="CompareTo Method (DateTime)" Url="html/89c81325-0396-a250-4bc7-2a6dd2eda3d7.htm" />
-          <HelpTOCNode Title="CompareTo Method (Event)" Url="html/bd87ce5d-1c97-3085-c90f-af48536626fd.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Title="GetSeverityLevel Method " Url="html/752cda4d-1d1e-6cca-9f1f-300b0d839753.htm" />
-        <HelpTOCNode Title="GetSeverityLevelString Method " Url="html/839964a0-e994-0018-1cc3-43fab3414cdf.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="a7e4a2c7-5f00-46b1-8ff0-4679d902108f" Title="Event Properties" Url="html/9fb47d81-1853-00e6-836d-dbe9e13c2725.htm">
+      <HelpTOCNode Id="4e1605f9-9e42-47be-a346-b157b602ccd9" Title="Event Properties" Url="html/9fb47d81-1853-00e6-836d-dbe9e13c2725.htm">
         <HelpTOCNode Title="Category Property " Url="html/dc3942c7-14f3-1b40-0fc8-720ad3363388.htm" />
         <HelpTOCNode Title="Date Property " Url="html/065f004e-3720-c78c-31fe-94f1a77b60dd.htm" />
         <HelpTOCNode Title="Details Property " Url="html/e6a10908-5462-9f2e-fb55-c7953e744d10.htm" />
         <HelpTOCNode Title="Severity Property " Url="html/dd91f520-1228-aa66-69d1-39f6431daa65.htm" />
         <HelpTOCNode Title="Source Property " Url="html/0fae941c-cbb7-9739-51b4-6902f46407cd.htm" />
       </HelpTOCNode>
+      <HelpTOCNode Id="f17f62b0-68b9-47ce-b3f8-56f880d8642f" Title="Event Methods" Url="html/86889e6a-70d2-36a9-ce8f-5ecdb46cc50e.htm">
+        <HelpTOCNode Id="3597f1bb-0168-4bdf-91d6-d2bd5eb0b5bb" Title="CompareTo Method " Url="html/7d8a1ff7-f231-cbfb-ee18-c35631f4af31.htm">
+          <HelpTOCNode Title="CompareTo Method (DateTime)" Url="html/89c81325-0396-a250-4bc7-2a6dd2eda3d7.htm" />
+          <HelpTOCNode Title="CompareTo Method (Event)" Url="html/bd87ce5d-1c97-3085-c90f-af48536626fd.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetSeverityLevel Method " Url="html/752cda4d-1d1e-6cca-9f1f-300b0d839753.htm" />
+        <HelpTOCNode Title="GetSeverityLevelString Method " Url="html/839964a0-e994-0018-1cc3-43fab3414cdf.htm" />
+      </HelpTOCNode>
     </HelpTOCNode>
     <HelpTOCNode Title="Event.SeverityLevels Enumeration" Url="html/89ea8656-ed3b-e688-b58c-a5d8768d53aa.htm" />
-    <HelpTOCNode Id="de7aed91-ad9b-4f94-923e-859701f898c5" Title="EventLog Class" Url="html/560025d6-bebd-b62f-adb8-44890775dc4a.htm">
+    <HelpTOCNode Id="ed57a9cb-3f64-4bb6-92a8-0ebda76364be" Title="EventLog Class" Url="html/560025d6-bebd-b62f-adb8-44890775dc4a.htm">
       <HelpTOCNode Title="EventLog Constructor " Url="html/ee9777f6-c328-8583-85a4-9ab5e86577ef.htm" />
-      <HelpTOCNode Id="ee7307cf-ff6e-4967-b41e-bcc6898593a9" Title="EventLog Methods" Url="html/b029ccbd-713a-a651-4127-544c15677f42.htm">
+      <HelpTOCNode Id="d95d5dae-11aa-43b9-ae46-b6c05dcd8fa6" Title="EventLog Methods" Url="html/b029ccbd-713a-a651-4127-544c15677f42.htm">
         <HelpTOCNode Title="Find Method " Url="html/d41c90a2-683a-71b0-02e7-81d78b3992e8.htm" />
         <HelpTOCNode Title="Log Method " Url="html/5348bf6d-02d5-21df-caa4-cde0a9ece92b.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="d66dc5c3-33f8-40dc-982a-bae8377ada65" Title="IEventLog Interface" Url="html/3e513bfa-39b1-84ea-ba79-31c0df56c823.htm">
-      <HelpTOCNode Id="b9665280-9190-4f7c-8bb8-bbb6cfacf17f" Title="IEventLog Methods" Url="html/7157ffbb-9c79-0de5-1b1f-0fae1391b00f.htm">
+    <HelpTOCNode Id="c173b827-e3ac-4914-8a9e-1c82ffba4a68" Title="IEventLog Interface" Url="html/3e513bfa-39b1-84ea-ba79-31c0df56c823.htm">
+      <HelpTOCNode Id="0880a885-c155-4ae2-8ad4-ce0dd10dd1f4" Title="IEventLog Methods" Url="html/7157ffbb-9c79-0de5-1b1f-0fae1391b00f.htm">
         <HelpTOCNode Title="Find Method " Url="html/ac65ca2e-177c-da7d-514d-f344815356ac.htm" />
         <HelpTOCNode Title="Log Method " Url="html/4b710753-f789-bc12-2d9d-d803c1947278.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="b9a7f283-45ae-4123-b32f-44d7c7882cb6" Title="IExceptionLogger Interface" Url="html/b56afb0b-6f7a-692f-748f-08c77092c5c1.htm">
-      <HelpTOCNode Id="4c0c3df8-30a4-46f7-8183-3b02874fe373" Title="IExceptionLogger Methods" Url="html/abc9cf67-f01f-7454-257e-3647379269cc.htm">
-        <HelpTOCNode Title="LogException Method " Url="html/1b5f0fc7-46c6-e68d-cd09-aff456f5dd94.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="3a499b19-8d2f-49ba-8392-8e64b172f376" Title="IExceptionLogger Properties" Url="html/7e2138b8-03fb-2f9d-6012-1da071c59ec1.htm">
+    <HelpTOCNode Id="d2306c11-e23d-4a1e-badb-1d0c5f9b877a" Title="IExceptionLogger Interface" Url="html/b56afb0b-6f7a-692f-748f-08c77092c5c1.htm">
+      <HelpTOCNode Id="fc3bf9b9-115d-4d26-940b-0f8a4185436d" Title="IExceptionLogger Properties" Url="html/7e2138b8-03fb-2f9d-6012-1da071c59ec1.htm">
         <HelpTOCNode Title="Log Property " Url="html/3e0bcda4-659e-6875-506a-66fb60d882d2.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ffe0ae1c-3bd0-4ae7-ba72-7fa263201770" Title="IExceptionLogger Methods" Url="html/abc9cf67-f01f-7454-257e-3647379269cc.htm">
+        <HelpTOCNode Title="LogException Method " Url="html/1b5f0fc7-46c6-e68d-cd09-aff456f5dd94.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="53f50351-4ff1-471d-8d03-844f16a5cf1e" Title="Galactic.EventLog.Sql" Url="html/8e33591a-b904-1870-b4c9-0ef00b35be63.htm">
-    <HelpTOCNode Id="d0aa5bc8-d73c-46db-86e9-4d0f2604d885" Title="SqlEventLog Class" Url="html/d6f1c660-33d6-23f1-61bc-c1e273ec967d.htm">
+  <HelpTOCNode Id="6796c3d2-b894-4336-af74-dda95f61f656" Title="Galactic.EventLog.Sql" Url="html/8e33591a-b904-1870-b4c9-0ef00b35be63.htm">
+    <HelpTOCNode Id="050c0b84-c37c-4bcd-a4be-871425af0a1d" Title="SqlEventLog Class" Url="html/d6f1c660-33d6-23f1-61bc-c1e273ec967d.htm">
       <HelpTOCNode Title="SqlEventLog Constructor " Url="html/c2bd4368-d78c-a130-6d05-7b22aa6573a1.htm" />
-      <HelpTOCNode Id="e7371d34-75cf-4f86-8a51-896cb7238bb1" Title="SqlEventLog Methods" Url="html/e0430e7d-5b45-5b89-c6b0-1fb23ac2fc46.htm">
+      <HelpTOCNode Id="2fe68681-8bf7-4dae-ab57-e37c337abf11" Title="SqlEventLog Methods" Url="html/e0430e7d-5b45-5b89-c6b0-1fb23ac2fc46.htm">
         <HelpTOCNode Title="AddCategory Method " Url="html/ae774573-3e62-ca39-294f-a3da931f4ac2.htm" />
         <HelpTOCNode Title="AddEvent Method " Url="html/8fb9e648-7658-3565-4d05-0498538d9b8d.htm" />
         <HelpTOCNode Title="AddSeverityLevel Method " Url="html/46b2b1cb-3d67-abb0-24e4-c89f12c5a341.htm" />
@@ -419,105 +419,115 @@
         <HelpTOCNode Title="UpdateSource Method " Url="html/62ba8d02-3877-9e59-2078-58747fc77147.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="b7e8f90c-186b-498f-9b64-b979d684afc8" Title="SqlEventLogEvent Class" Url="html/c149a39b-244b-4892-41e7-6241878fde30.htm">
+    <HelpTOCNode Id="b2cbf24e-1cf6-40ad-ae75-adda6b494286" Title="SqlEventLogEvent Class" Url="html/c149a39b-244b-4892-41e7-6241878fde30.htm">
       <HelpTOCNode Title="SqlEventLogEvent Constructor " Url="html/9d9fe21e-302f-bfe6-8a98-5118ae966521.htm" />
-      <HelpTOCNode Title="SqlEventLogEvent Methods" Url="html/7d03d0dd-f911-b8bc-9b1a-1384d9807927.htm" />
-      <HelpTOCNode Id="9c187aa8-9115-4efe-8d46-c1d949d41518" Title="SqlEventLogEvent Properties" Url="html/a8de620d-d180-238b-e2e6-9fe070e399a6.htm">
+      <HelpTOCNode Id="c4e54f7e-fd68-4f05-8ece-4ed149d1ba5c" Title="SqlEventLogEvent Properties" Url="html/a8de620d-d180-238b-e2e6-9fe070e399a6.htm">
         <HelpTOCNode Title="Category Property " Url="html/9b7e481b-7300-1613-e391-0ea86853c06a.htm" />
         <HelpTOCNode Title="Date Property " Url="html/1e5ff449-fac7-2e00-f6df-d1e9d1ba7874.htm" />
         <HelpTOCNode Title="Details Property " Url="html/52401752-e2db-bc23-2888-cefc875ea27f.htm" />
         <HelpTOCNode Title="SeverityLevel Property " Url="html/e63657b9-b0b8-b417-ba8a-8c597a11b3d1.htm" />
         <HelpTOCNode Title="Source Property " Url="html/e5d43eee-7d94-7578-d22e-96f0123da940.htm" />
       </HelpTOCNode>
+      <HelpTOCNode Title="SqlEventLogEvent Methods" Url="html/7d03d0dd-f911-b8bc-9b1a-1384d9807927.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="c8952f29-eda0-4389-9850-f754ac4f0f59" Title="SqlEventLogNamedItem Class" Url="html/971725ec-6e79-45d4-3e15-b66e10b5550f.htm">
+    <HelpTOCNode Id="5e9c6f3e-0f99-4eb0-a7a0-9acc05d3b458" Title="SqlEventLogNamedItem Class" Url="html/971725ec-6e79-45d4-3e15-b66e10b5550f.htm">
       <HelpTOCNode Title="SqlEventLogNamedItem Constructor " Url="html/443b3b01-3341-b196-248a-6a3e4a906547.htm" />
-      <HelpTOCNode Id="97d7fe3f-82e9-4684-a950-9dfb813ff5fb" Title="SqlEventLogNamedItem Fields" Url="html/b72f1b05-f8c3-2697-2739-0874773c77f9.htm">
+      <HelpTOCNode Title="SqlEventLogNamedItem Methods" Url="html/df7b8127-c880-136c-ffb9-ab6123bb4ff3.htm" />
+      <HelpTOCNode Id="7d32860f-6da1-43b7-bf79-663de23e2ee7" Title="SqlEventLogNamedItem Fields" Url="html/b72f1b05-f8c3-2697-2739-0874773c77f9.htm">
         <HelpTOCNode Title="Id Field" Url="html/7725938e-4885-d5b8-ebd9-db3721418684.htm" />
         <HelpTOCNode Title="Name Field" Url="html/c2ce1866-01a0-ae29-2be8-cb1b0a4bb161.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Title="SqlEventLogNamedItem Methods" Url="html/df7b8127-c880-136c-ffb9-ab6123bb4ff3.htm" />
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="01d7697a-b4a2-46e8-a1e3-76215fbb4d5c" Title="Galactic.FileSystem" Url="html/53e9c1b0-619f-031d-74f8-09399c299a75.htm">
-    <HelpTOCNode Id="cc4c1644-2fa3-4371-94e5-0ff588abf65c" Title="Directory Class" Url="html/a384d5e5-bb55-d4fb-d430-1aa0c2506f08.htm">
-      <HelpTOCNode Id="94e6a262-b9bf-4f7b-8431-60c0db16ac15" Title="Directory Methods" Url="html/31381ae1-e95c-b29b-c45e-c68c84a4d81d.htm">
+  <HelpTOCNode Id="325b6d81-966e-422d-821a-b659a29aae05" Title="Galactic.FileSystem" Url="html/53e9c1b0-619f-031d-74f8-09399c299a75.htm">
+    <HelpTOCNode Id="4f0b0b95-ce05-4404-b8cc-6eeff29f2136" Title="Directory Class" Url="html/a384d5e5-bb55-d4fb-d430-1aa0c2506f08.htm">
+      <HelpTOCNode Id="1668fa3d-0b53-4fee-a8a0-c2094ae890d9" Title="Directory Methods" Url="html/31381ae1-e95c-b29b-c45e-c68c84a4d81d.htm">
         <HelpTOCNode Title="AddAccessRule Method " Url="html/14cd07ab-a8e8-04b0-3f82-ebfbd44b3df2.htm" />
         <HelpTOCNode Title="BlockInheritance Method " Url="html/aa9e7ee3-0d3a-69a2-1687-0e42562708db.htm" />
         <HelpTOCNode Title="Clone Method " Url="html/f60888db-f23c-60aa-dc23-110afabf6266.htm" />
         <HelpTOCNode Title="CommitChanges Method " Url="html/51ab9dff-8107-a8ec-695e-0d7415725705.htm" />
+        <HelpTOCNode Title="Copy Method " Url="html/7a8d87e9-fc62-efb8-3579-e8ca57845ecd.htm" />
         <HelpTOCNode Title="Create Method " Url="html/95c18a1c-9496-97c7-6c9a-3c244fbc712f.htm" />
         <HelpTOCNode Title="Delete Method " Url="html/beae82d9-51b3-431e-eeed-7d8df2351f5b.htm" />
         <HelpTOCNode Title="Exists Method " Url="html/97fb8222-d925-cb67-23e8-a518d44cae66.htm" />
         <HelpTOCNode Title="GetListing Method " Url="html/f104e173-7bb5-aa84-30e9-6eae9061fc74.htm" />
         <HelpTOCNode Title="GetSecurityObject Method " Url="html/abef3cdd-99e8-33c3-2754-1e26568c4614.htm" />
-        <HelpTOCNode Id="6746cb01-18c4-4057-b214-d8c9624a0158" Title="GiveAccess Method " Url="html/bd12d7c3-3858-0520-a1ed-ec090990a9fd.htm">
+        <HelpTOCNode Title="GetSizeInBytes Method " Url="html/455ba94e-f3ed-5f1a-9fcb-11873c8a2d09.htm" />
+        <HelpTOCNode Id="46b89d5d-574e-4202-a0a7-b10ffc2431eb" Title="GiveAccess Method " Url="html/bd12d7c3-3858-0520-a1ed-ec090990a9fd.htm">
+          <HelpTOCNode Title="GiveAccess Method (Directory.AccessRights, Byte[], String, DirectorySecurity, Boolean)" Url="html/c7a75b0c-908b-a88e-692b-2347a7fc04c4.htm" />
           <HelpTOCNode Title="GiveAccess Method (Directory.AccessRights, DirectoryEntry, String, DirectorySecurity, Boolean)" Url="html/e7501531-9a1b-ad58-4e48-ad94ac5dad9f.htm" />
+          <HelpTOCNode Title="GiveAccess Method (Byte[], String, DirectorySecurity, FileSystemRights, Boolean, Boolean, Boolean)" Url="html/62ecc80c-e777-af8a-dce1-5c2b6b4ea985.htm" />
           <HelpTOCNode Title="GiveAccess Method (DirectoryEntry, String, DirectorySecurity, FileSystemRights, Boolean, Boolean, Boolean)" Url="html/f3c8f99d-2ba0-d45b-9d34-cdff5c94cbec.htm" />
+          <HelpTOCNode Title="GiveAccess Method (Directory.AccessRights, Byte[], String, DirectorySecurity, Boolean, Boolean, Boolean)" Url="html/a97f3e50-7d21-9ce7-384d-f952df69e178.htm" />
           <HelpTOCNode Title="GiveAccess Method (Directory.AccessRights, DirectoryEntry, String, DirectorySecurity, Boolean, Boolean, Boolean)" Url="html/e3744594-de35-9b50-3266-a57ff072061d.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="Move Method " Url="html/bc1c9bcf-8b3e-f98e-56e4-adaa1619d0b2.htm" />
         <HelpTOCNode Title="RemoveAllAccessRules Method " Url="html/e4ee400b-13d1-d648-a896-f40068009130.htm" />
         <HelpTOCNode Title="RemoveAllExplicitAccessRules Method " Url="html/da0b8f21-6b3c-65b5-0603-726feea412e4.htm" />
-        <HelpTOCNode Title="SetOwner Method " Url="html/e1b582c2-af41-5be6-8ff9-8a49e1c2bf49.htm" />
+        <HelpTOCNode Id="9bdc548c-a626-4bc8-a200-f572ac89c170" Title="SetOwner Method " Url="html/381ff05a-3239-cb02-c9b9-f9593597f963.htm">
+          <HelpTOCNode Title="SetOwner Method (String, DirectorySecurity, Byte[], Boolean)" Url="html/933b17db-d056-eb32-6606-b7b84b08a6b7.htm" />
+          <HelpTOCNode Title="SetOwner Method (String, DirectorySecurity, DirectoryEntry, Boolean)" Url="html/e1b582c2-af41-5be6-8ff9-8a49e1c2bf49.htm" />
+        </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
     <HelpTOCNode Title="Directory.AccessRights Enumeration" Url="html/c7a50b7e-c9bd-6dd4-2c7c-d5fea1feaf81.htm" />
-    <HelpTOCNode Id="4aee8527-58cf-459a-a611-a80e4d00081e" Title="File Class" Url="html/2b79bd28-e7ca-f5cf-3a78-ca6b008df09a.htm">
+    <HelpTOCNode Id="868dcfd9-4571-4ca3-b986-0af995511cd5" Title="File Class" Url="html/2b79bd28-e7ca-f5cf-3a78-ca6b008df09a.htm">
       <HelpTOCNode Title="File Constructor " Url="html/cd1e5d54-723d-6fe4-cb90-998bb87764aa.htm" />
-      <HelpTOCNode Id="559a41f1-3f09-4697-80c9-39bdd2f492c6" Title="File Methods" Url="html/251b15ac-7f60-369a-d06e-f7b525d0b46e.htm">
+      <HelpTOCNode Id="0d0430dc-d57f-4226-a6a8-32dbf7ba5175" Title="File Properties" Url="html/4d01d864-056d-7865-b3c6-0dab2d909744.htm">
+        <HelpTOCNode Title="Path Property " Url="html/709d5fd0-94af-3f68-eeb5-8bc2d8939ab6.htm" />
+        <HelpTOCNode Title="ReadOnly Property " Url="html/c0c55972-b0b9-5f02-3cda-31eb111bc8d8.htm" />
+        <HelpTOCNode Title="Security Property " Url="html/9e814d2d-fc8e-c81e-15fd-1b2e91e1e0be.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ecb0af7a-041c-4b49-8774-0e5b650aba1f" Title="File Methods" Url="html/251b15ac-7f60-369a-d06e-f7b525d0b46e.htm">
         <HelpTOCNode Title="Close Method " Url="html/4d7a70ef-4114-65be-7e65-ae7d29ad9edf.htm" />
+        <HelpTOCNode Title="Copy Method " Url="html/48c329e2-53c9-5b16-982e-6f607175d33c.htm" />
         <HelpTOCNode Title="Create Method " Url="html/db389aad-4ae8-f6a2-a91e-5c7cc338a3c5.htm" />
-        <HelpTOCNode Id="5a0cb50d-3917-4c63-bd35-3fc693f342c1" Title="Delete Method " Url="html/11780aa8-9e2a-84c9-5779-9e81fda7e6c9.htm">
+        <HelpTOCNode Id="04aa657e-22e1-4f1c-81d1-86d0c405616e" Title="Delete Method " Url="html/11780aa8-9e2a-84c9-5779-9e81fda7e6c9.htm">
           <HelpTOCNode Title="Delete Method " Url="html/16b9a3a5-ba60-76df-1f6c-28b18ff71741.htm" />
           <HelpTOCNode Title="Delete Method (String)" Url="html/abe0a8ac-989b-06db-2d35-d3025310c666.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="Dispose Method " Url="html/905e6f34-277b-21ad-260a-d10e7e0eff82.htm" />
-        <HelpTOCNode Id="9763d303-3887-48bd-9e28-6d276365426c" Title="Exists Method " Url="html/8c64866d-7504-18ff-b74d-7ddfa28ac1db.htm">
+        <HelpTOCNode Id="32715bb8-ef7c-46c4-a5fc-8cfc2f124730" Title="Exists Method " Url="html/8c64866d-7504-18ff-b74d-7ddfa28ac1db.htm">
           <HelpTOCNode Title="Exists Method " Url="html/dc35e3b5-c44e-5295-6b88-0849f1f57f5d.htm" />
           <HelpTOCNode Title="Exists Method (String)" Url="html/6f9b5182-4e13-cb3f-e6a5-2a2b13be2c9b.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="GetReader Method " Url="html/d4bcf2d5-5437-1a79-5e46-76eb5e201746.htm" />
         <HelpTOCNode Title="GetSecurityObject Method " Url="html/ac18cfe6-1a7e-9763-e688-b3e398f70b18.htm" />
-        <HelpTOCNode Id="61285d13-798d-4f41-8ab9-524845ab66ed" Title="Move Method " Url="html/6c82034e-b511-a7fc-6704-abda5592a28d.htm">
+        <HelpTOCNode Title="GetSizeInBytes Method " Url="html/b9786d2a-3430-eb2f-a73d-ecea339b1668.htm" />
+        <HelpTOCNode Id="93d59474-1b43-49aa-9f4f-f83b743f38c8" Title="Move Method " Url="html/6c82034e-b511-a7fc-6704-abda5592a28d.htm">
           <HelpTOCNode Title="Move Method (String)" Url="html/02a5b9af-6630-820a-2a13-05a2430768b4.htm" />
           <HelpTOCNode Title="Move Method (String, String)" Url="html/343d0bd0-4e44-6273-1432-a8bccf68ceb1.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="Open Method " Url="html/0dac8c3a-e657-fbfa-e3ad-b5f41eb64634.htm" />
-        <HelpTOCNode Id="6b8da7a0-12cd-412d-bf8a-c3dec4b05284" Title="ReadAllAsText Method " Url="html/70afc264-98e4-7b45-ddb5-88fe20f0cc98.htm">
+        <HelpTOCNode Id="94efa7eb-55d4-4d8f-a0df-ac0f84c314ce" Title="ReadAllAsText Method " Url="html/70afc264-98e4-7b45-ddb5-88fe20f0cc98.htm">
           <HelpTOCNode Title="ReadAllAsText Method " Url="html/2e058b89-aea5-f6d9-a300-fae57ddf1b3b.htm" />
           <HelpTOCNode Title="ReadAllAsText Method (FileStream)" Url="html/1585ebd7-6711-caa7-c627-80511e68ff1a.htm" />
           <HelpTOCNode Title="ReadAllAsText Method (String)" Url="html/3dbc97e1-bf16-7cbf-4055-a98958273822.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="993db785-d072-4ce9-ba04-cbdeac6c9f5c" Title="ReadLine Method " Url="html/e8ed652c-e169-fab6-84b6-feb37c528591.htm">
+        <HelpTOCNode Id="d90d59bd-2870-438a-8370-c6b421b24c85" Title="ReadLine Method " Url="html/e8ed652c-e169-fab6-84b6-feb37c528591.htm">
           <HelpTOCNode Title="ReadLine Method " Url="html/bb6069b7-8366-3ce4-e456-1a59670f0829.htm" />
           <HelpTOCNode Title="ReadLine Method (FileStream, StreamReader)" Url="html/01a48ba6-afeb-f8a5-508d-18235490ed3e.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="730e5c39-b04f-474f-8777-2d5b447b23a0" Title="RemoveAllExplicitAccessRules Method " Url="html/90734d09-05cc-2666-456f-da2bc311a54b.htm">
+        <HelpTOCNode Id="94829d51-69e7-47f4-b28e-001cb12a8120" Title="RemoveAllExplicitAccessRules Method " Url="html/90734d09-05cc-2666-456f-da2bc311a54b.htm">
           <HelpTOCNode Title="RemoveAllExplicitAccessRules Method (Boolean)" Url="html/df18a02a-5d1f-25be-1081-9fcf1c55b098.htm" />
           <HelpTOCNode Title="RemoveAllExplicitAccessRules Method (String, FileSecurity, Boolean)" Url="html/44d3aa4c-4a40-16f5-4dbc-e3f5c25c93ce.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="900b92df-ae5f-4b68-9a99-b3d04b8a37b4" Title="WriteLine Method " Url="html/1c328188-d44b-f50a-b938-d1c80a33f09e.htm">
+        <HelpTOCNode Id="0e1fdf35-349f-4084-a704-2469a96b2d46" Title="WriteLine Method " Url="html/1c328188-d44b-f50a-b938-d1c80a33f09e.htm">
           <HelpTOCNode Title="WriteLine Method (String)" Url="html/c90034bf-bac1-aed8-e696-cec9e60ecfaf.htm" />
           <HelpTOCNode Title="WriteLine Method (FileStream, String)" Url="html/d6113826-b0f1-0678-89ae-ef7223ee1f28.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="fb9657df-1a85-42ef-89d0-ee9b6e0b8532" Title="File Properties" Url="html/4d01d864-056d-7865-b3c6-0dab2d909744.htm">
-        <HelpTOCNode Title="Path Property " Url="html/709d5fd0-94af-3f68-eeb5-8bc2d8939ab6.htm" />
-        <HelpTOCNode Title="ReadOnly Property " Url="html/c0c55972-b0b9-5f02-3cda-31eb111bc8d8.htm" />
-        <HelpTOCNode Title="Security Property " Url="html/9e814d2d-fc8e-c81e-15fd-1b2e91e1e0be.htm" />
-      </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="b9171fe4-fa82-4251-b3ee-e61f9fc52488" Title="Galactic.LDAP" Url="html/7131f9e1-1b92-f3d5-a10b-bba4b802cb17.htm">
-    <HelpTOCNode Id="72f759f5-b479-45d0-8009-c85f43af8701" Title="LDAP Class" Url="html/cc473970-85d7-921c-935a-cf0beb281348.htm">
+  <HelpTOCNode Id="0204cbfa-ac34-4958-9897-1ffdbeaf4613" Title="Galactic.LDAP" Url="html/7131f9e1-1b92-f3d5-a10b-bba4b802cb17.htm">
+    <HelpTOCNode Id="acb5cd5e-990c-4406-a2ff-fa7b1e307e8f" Title="LDAP Class" Url="html/cc473970-85d7-921c-935a-cf0beb281348.htm">
       <HelpTOCNode Title="LDAP Constructor " Url="html/73fc9e0c-5e0a-17dd-ca1e-25fd4a0e4e31.htm" />
-      <HelpTOCNode Id="4d55f122-5583-4bbf-bd13-b3837e1a26fd" Title="LDAP Fields" Url="html/b35320a8-5945-03a3-8d8c-d3fbde718599.htm">
-        <HelpTOCNode Title="DEFAULT_QUERY_PAGE_SIZE Field" Url="html/23f03567-7678-d5ff-a3f3-6025cf9c769a.htm" />
-        <HelpTOCNode Title="LDAP_PORT Field" Url="html/dfa3a5ae-3e63-47ea-a313-2d01f985b134.htm" />
-        <HelpTOCNode Title="LDAP_SSL_PORT Field" Url="html/80597249-bb6b-9fba-375e-79fd0361f994.htm" />
+      <HelpTOCNode Id="316b374d-587e-4d28-bb01-92adb540acb8" Title="LDAP Properties" Url="html/79dec51a-0ba5-35f5-3d85-956eee7bf1a1.htm">
+        <HelpTOCNode Title="AlternateServers Property " Url="html/bb66b9eb-23b7-f397-f3c8-7ae951cfdfcb.htm" />
+        <HelpTOCNode Title="NamingContexts Property " Url="html/1eb97ebe-0254-f738-1be8-7d080e081f3e.htm" />
+        <HelpTOCNode Title="RootDSE Property " Url="html/a6a556d5-f549-b333-5b48-0e97c166af96.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="cf4ace1a-ba5c-4f55-b398-0c6e38aaa0fc" Title="LDAP Methods" Url="html/5de9d329-f8ef-113f-73c4-148bd6a325fc.htm">
+      <HelpTOCNode Id="fedb5315-d8e4-4338-a72f-7a52602a6fa2" Title="LDAP Methods" Url="html/5de9d329-f8ef-113f-73c4-148bd6a325fc.htm">
         <HelpTOCNode Title="Add Method " Url="html/2ab6e226-568a-4f0f-0455-0256dfd85b55.htm" />
         <HelpTOCNode Title="AddOrReplaceAttribute Method " Url="html/31797066-58c9-7326-edf3-f1095e9f5b54.htm" />
         <HelpTOCNode Title="Delete Method " Url="html/cca9f324-94da-c6b0-92b7-8d9a0be5549f.htm" />
@@ -532,17 +542,17 @@
         <HelpTOCNode Title="Search Method " Url="html/7b1a3c9f-3658-f460-0dce-30c39597c9c9.htm" />
         <HelpTOCNode Title="SetSearchBaseAndScope Method " Url="html/d0866af1-4194-7d36-dc42-4c1fccac1174.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="a37cd8ca-775a-43cc-96a6-0e640c8fe981" Title="LDAP Properties" Url="html/79dec51a-0ba5-35f5-3d85-956eee7bf1a1.htm">
-        <HelpTOCNode Title="AlternateServers Property " Url="html/bb66b9eb-23b7-f397-f3c8-7ae951cfdfcb.htm" />
-        <HelpTOCNode Title="NamingContexts Property " Url="html/1eb97ebe-0254-f738-1be8-7d080e081f3e.htm" />
-        <HelpTOCNode Title="RootDSE Property " Url="html/a6a556d5-f549-b333-5b48-0e97c166af96.htm" />
+      <HelpTOCNode Id="08e59b6f-ed7e-4d27-b3b2-c98b015a284a" Title="LDAP Fields" Url="html/b35320a8-5945-03a3-8d8c-d3fbde718599.htm">
+        <HelpTOCNode Title="DEFAULT_QUERY_PAGE_SIZE Field" Url="html/23f03567-7678-d5ff-a3f3-6025cf9c769a.htm" />
+        <HelpTOCNode Title="LDAP_PORT Field" Url="html/dfa3a5ae-3e63-47ea-a313-2d01f985b134.htm" />
+        <HelpTOCNode Title="LDAP_SSL_PORT Field" Url="html/80597249-bb6b-9fba-375e-79fd0361f994.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="f71f0817-64b6-4905-9f5f-915d70faf685" Title="Galactic.NoSql" Url="html/41fc5ea8-15e5-0aca-8695-224598ca668c.htm">
-    <HelpTOCNode Id="c420be9c-6ea4-4ee6-839e-48d50b2eeea9" Title="NoSqlUtility Class" Url="html/84e563ba-4da2-a9d2-daef-3483518a2d94.htm">
+  <HelpTOCNode Id="a2316fdc-af94-4ee7-afe5-23f937699ccb" Title="Galactic.NoSql" Url="html/41fc5ea8-15e5-0aca-8695-224598ca668c.htm">
+    <HelpTOCNode Id="e5f650aa-8104-4193-9221-beaf91a80924" Title="NoSqlUtility Class" Url="html/84e563ba-4da2-a9d2-daef-3483518a2d94.htm">
       <HelpTOCNode Title="NoSqlUtility Constructor " Url="html/1f1e5c4d-3152-92c9-832f-d3dc209c1bd2.htm" />
-      <HelpTOCNode Id="211bc58a-ee2b-4051-afb2-fd1a760202f5" Title="NoSqlUtility Methods" Url="html/aefaad34-f600-bdc9-3f9a-7eaf8faa6cd5.htm">
+      <HelpTOCNode Id="bc0b0127-010d-469f-986c-caa4f6f5b76f" Title="NoSqlUtility Methods" Url="html/aefaad34-f600-bdc9-3f9a-7eaf8faa6cd5.htm">
         <HelpTOCNode Title="AddOrReplace Method " Url="html/1dd36633-6659-8326-e30d-3804c694b3f7.htm" />
         <HelpTOCNode Title="Delete Method " Url="html/ae8f7a7b-aef8-875e-7f3c-b6321682b8dd.htm" />
         <HelpTOCNode Title="Get Method " Url="html/79d1b6ab-675a-16ba-1fda-ab82fa52178b.htm" />
@@ -551,13 +561,13 @@
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="d8829e6e-8777-4b58-920d-f747feb76614" Title="Galactic.NoSql.Couchbase" Url="html/7b1d6dc3-f145-aeab-9aae-66ae9a9c41b0.htm">
-    <HelpTOCNode Id="22801bd1-d036-493e-aec7-013ba799709b" Title="CouchbaseUtility Class" Url="html/f1d9e30c-c8a6-422c-8dfb-c74012d32dee.htm">
-      <HelpTOCNode Id="2d08590b-efdb-4f97-b950-8f24acce6343" Title="CouchbaseUtility Constructor " Url="html/77350869-def7-0381-ad4e-68c8741234ce.htm">
+  <HelpTOCNode Id="f85713a1-d711-4368-bb59-d7a75b3d55c9" Title="Galactic.NoSql.Couchbase" Url="html/7b1d6dc3-f145-aeab-9aae-66ae9a9c41b0.htm">
+    <HelpTOCNode Id="bd24f926-8fbe-4c0c-86a3-39ac83e8b2df" Title="CouchbaseUtility Class" Url="html/f1d9e30c-c8a6-422c-8dfb-c74012d32dee.htm">
+      <HelpTOCNode Id="a454186e-ce9f-434a-a172-db834274c323" Title="CouchbaseUtility Constructor " Url="html/77350869-def7-0381-ad4e-68c8741234ce.htm">
         <HelpTOCNode Title="CouchbaseUtility Constructor (CouchbaseClientConfiguration)" Url="html/c6ffe00d-17fe-bf18-27f4-8c107b58f2e7.htm" />
         <HelpTOCNode Title="CouchbaseUtility Constructor (String, String)" Url="html/60a1ea90-3405-d969-ead2-cb60d7e684cf.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="1634ccec-5b28-4d6c-b06f-ee09980f962d" Title="CouchbaseUtility Methods" Url="html/aa17ce86-f179-cacf-7df9-5522368ee687.htm">
+      <HelpTOCNode Id="86b0a935-1726-42a0-9a5f-990c939abe2b" Title="CouchbaseUtility Methods" Url="html/aa17ce86-f179-cacf-7df9-5522368ee687.htm">
         <HelpTOCNode Title="AddOrReplace Method " Url="html/7d39676a-fb95-5640-a1dc-72d266fca615.htm" />
         <HelpTOCNode Title="Delete Method " Url="html/4d7f5219-db7b-00d6-f577-150a67f8b906.htm" />
         <HelpTOCNode Title="Dispose Method " Url="html/f2949ff0-eb21-56d2-1bb9-b42b5d9e4d8d.htm" />
@@ -567,48 +577,53 @@
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="5c1d9ea5-96cb-4d92-9ba7-9999e6083153" Title="Galactic.NoSql.MongoDB" Url="html/100fd955-4890-9d25-5357-d984b87bca45.htm">
-    <HelpTOCNode Id="990ea9d8-79db-4819-89f4-01ab5ea38b5f" Title="MongoDBUtility Class" Url="html/4a4c7add-e305-5bc0-50a1-dab1b266f1c4.htm">
+  <HelpTOCNode Id="76fc348a-3cda-455c-830f-d996e36f4d27" Title="Galactic.NoSql.MongoDB" Url="html/100fd955-4890-9d25-5357-d984b87bca45.htm">
+    <HelpTOCNode Id="f4b63ac9-65c0-458f-8332-db19e829c0de" Title="MongoDBUtility Class" Url="html/4a4c7add-e305-5bc0-50a1-dab1b266f1c4.htm">
       <HelpTOCNode Title="MongoDBUtility Constructor " Url="html/a725caf3-5b19-1179-217c-af5e722cb3b1.htm" />
-      <HelpTOCNode Id="c872428d-3719-462c-8ded-50c3b423b5a0" Title="MongoDBUtility Fields" Url="html/91abac04-f774-c111-e2f5-52906a98a3e2.htm">
-        <HelpTOCNode Title="DEFAULT_COLLECTION Field" Url="html/caeeb4ba-9514-9c2f-5487-cc47ae9eaf5d.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="89c99369-4609-43a9-80ca-4fb140845afd" Title="MongoDBUtility Methods" Url="html/acf95863-543c-a7fa-8ebc-d53c526ffb15.htm">
-        <HelpTOCNode Id="82d9b7f5-c35a-4a8f-a770-0e010d904df3" Title="AddOrReplace Method " Url="html/b30b151e-1510-9049-4da4-29790d527afc.htm">
+      <HelpTOCNode Id="2f01cb74-629b-4243-b1a9-6f55250a3fe1" Title="MongoDBUtility Methods" Url="html/acf95863-543c-a7fa-8ebc-d53c526ffb15.htm">
+        <HelpTOCNode Id="72d68a15-bc01-4a04-aa77-a5885141feef" Title="AddOrReplace Method " Url="html/b30b151e-1510-9049-4da4-29790d527afc.htm">
           <HelpTOCNode Title="AddOrReplace Method (String, ExpandoObject)" Url="html/fcec45d5-e771-93f9-75c2-0dee925c7167.htm" />
           <HelpTOCNode Title="AddOrReplace Method (String, String, ExpandoObject)" Url="html/17d73304-929a-d56b-29cf-f7ea0d8f6ce4.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="14f5c085-24e4-4a5e-9076-f6135f159a72" Title="Delete Method " Url="html/c3e1f1f6-05b8-f84b-cf55-8c07b5a21c08.htm">
+        <HelpTOCNode Id="6ad87c6d-b5d4-4b4a-a32b-839da7e57f7a" Title="Delete Method " Url="html/c3e1f1f6-05b8-f84b-cf55-8c07b5a21c08.htm">
           <HelpTOCNode Title="Delete Method (String)" Url="html/23e6fba6-3a66-2e03-5097-6fd0d881bc93.htm" />
           <HelpTOCNode Title="Delete Method (String, String)" Url="html/2638f21c-7065-efc9-46fd-284a939e1267.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="5f1dfe95-5868-4e2f-b27d-bd83244d438a" Title="Get Method " Url="html/4546c302-20ef-a4b8-0995-d58c6e67f49a.htm">
+        <HelpTOCNode Id="d85ac93a-093f-4bd2-852d-2874497ee482" Title="Get Method " Url="html/4546c302-20ef-a4b8-0995-d58c6e67f49a.htm">
           <HelpTOCNode Title="Get Method (String)" Url="html/330a44a2-251e-9a68-2b31-0b38197d649b.htm" />
           <HelpTOCNode Title="Get Method (String, String)" Url="html/5bcc8c7c-2f5c-281b-6e41-eee8bc9840c3.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="b67d8916-9fcf-42d6-af17-b64bbcbe2fe4" Title="GetByQuery Method " Url="html/1d271a4c-7422-9981-49e9-d886f98ad872.htm">
+        <HelpTOCNode Id="d7c2bde5-ab2d-49f3-87ce-33e4828962cf" Title="GetByQuery Method " Url="html/1d271a4c-7422-9981-49e9-d886f98ad872.htm">
           <HelpTOCNode Title="GetByQuery Method (Object)" Url="html/4df1418b-014f-ac3a-2575-8b7c63293cf3.htm" />
           <HelpTOCNode Title="GetByQuery Method (Object, String)" Url="html/e423c5e5-b770-085c-0687-cfad10483efe.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="isCollectionNameValid Method " Url="html/398926fc-d00c-2de8-deda-8ec8ca373c35.htm" />
         <HelpTOCNode Title="LogException Method " Url="html/8f2d807e-837c-fa9f-352d-04dedf8f8b5f.htm" />
       </HelpTOCNode>
+      <HelpTOCNode Id="7b0eacb9-e078-42c9-a66b-02d36e125f6d" Title="MongoDBUtility Fields" Url="html/91abac04-f774-c111-e2f5-52906a98a3e2.htm">
+        <HelpTOCNode Title="DEFAULT_COLLECTION Field" Url="html/caeeb4ba-9514-9c2f-5487-cc47ae9eaf5d.htm" />
+      </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="ea502f32-57fa-4ef5-aba7-20b0987a518f" Title="Galactic.PowerShell" Url="html/64eb844c-f285-e7a8-d71a-0572ffb12504.htm">
-    <HelpTOCNode Id="b8e0c558-89cf-4ed8-b61c-e56644c96d85" Title="IPowerShellScript Interface" Url="html/f0769e0d-eb3e-8a3f-f590-dcd58d9c0b9a.htm">
-      <HelpTOCNode Id="1523b318-dcc2-428e-8af8-ba5b47ddfbad" Title="IPowerShellScript Methods" Url="html/0c498bbd-bc33-fa3c-99df-e334e07d85b5.htm">
+  <HelpTOCNode Id="976ea716-07d5-4809-8d39-db6004ee93f4" Title="Galactic.PowerShell" Url="html/64eb844c-f285-e7a8-d71a-0572ffb12504.htm">
+    <HelpTOCNode Id="79600cf1-da22-4f95-b87f-9d543b2877a9" Title="IPowerShellScript Interface" Url="html/f0769e0d-eb3e-8a3f-f590-dcd58d9c0b9a.htm">
+      <HelpTOCNode Id="96ad7e5d-6dad-413c-9ba3-8e3397022b2a" Title="IPowerShellScript Properties" Url="html/6a2dbee4-32d0-7b5e-376e-8e5e89fbf4cf.htm">
+        <HelpTOCNode Title="Results Property " Url="html/8da8554e-c570-ac41-a8f9-394003f4b6ca.htm" />
+        <HelpTOCNode Title="RunspacePool Property " Url="html/358297a7-7a86-89a9-e185-84bee8d1441a.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="af038b1c-f9e2-4872-a0e6-b17cab957f64" Title="IPowerShellScript Methods" Url="html/0c498bbd-bc33-fa3c-99df-e334e07d85b5.htm">
         <HelpTOCNode Title="RunAsynchronously Method " Url="html/c0f3497f-b23b-b20a-9054-9fbf04228888.htm" />
         <HelpTOCNode Title="RunSynchronously Method " Url="html/a392816e-9cb2-22fb-f16a-b06f5a3bf879.htm" />
         <HelpTOCNode Title="VerifyResultProperty Method " Url="html/758c7f66-ba38-5cb9-87d6-e3ecad16fab3.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="5a55af7b-1702-4bd4-a19b-9cee828eeec8" Title="IPowerShellScript Properties" Url="html/6a2dbee4-32d0-7b5e-376e-8e5e89fbf4cf.htm">
-        <HelpTOCNode Title="Results Property " Url="html/8da8554e-c570-ac41-a8f9-394003f4b6ca.htm" />
-        <HelpTOCNode Title="RunspacePool Property " Url="html/358297a7-7a86-89a9-e185-84bee8d1441a.htm" />
-      </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="acddc5ca-7335-4b83-ab10-5d61f57f9a68" Title="PowerShell Class" Url="html/ccc3316c-d165-d516-d960-788807ee3af4.htm">
-      <HelpTOCNode Id="32088e8e-6413-454f-a644-a40c30acf4f0" Title="PowerShell Fields" Url="html/fd5ba487-1dd9-9a79-80b3-0d88f09ffd25.htm">
+    <HelpTOCNode Id="89914bb4-7a1a-48b8-9e31-b57cad0f26c2" Title="PowerShell Class" Url="html/ccc3316c-d165-d516-d960-788807ee3af4.htm">
+      <HelpTOCNode Id="c81d947e-f38a-4773-971e-92345a9889a5" Title="PowerShell Methods" Url="html/5fbcd0a2-9bbb-793d-6ee2-cf8b14b0ceba.htm">
+        <HelpTOCNode Title="CreateRunspaceConnectionInfo Method " Url="html/c113e62a-6f19-6ccc-43a4-e8ef02af78fc.htm" />
+        <HelpTOCNode Title="RunAsynchronously Method " Url="html/08851af4-45cc-4318-526e-d3d3819de4f3.htm" />
+        <HelpTOCNode Title="RunSynchronously Method " Url="html/86e06dc8-f640-c94a-39e9-5bd609fc8651.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="0bec4eef-6940-4cb6-b29f-103a593bcb4b" Title="PowerShell Fields" Url="html/fd5ba487-1dd9-9a79-80b3-0d88f09ffd25.htm">
         <HelpTOCNode Title="DEFAULT_APP_NAME Field" Url="html/e6b3a2b0-2b3f-055a-21b7-b9f7384fcee6.htm" />
         <HelpTOCNode Title="DEFAULT_MAX_RUNSPACES_IN_POOL Field" Url="html/7ab0984a-3f7f-ae07-4e8b-2fc18938210c.htm" />
         <HelpTOCNode Title="DEFAULT_MIN_RUNSPACES_IN_POOL Field" Url="html/a00454df-448b-0c32-bbe8-76533ace0907.htm" />
@@ -618,16 +633,16 @@
         <HelpTOCNode Title="DEFAULT_PORT_NUMBER_SSL Field" Url="html/e3f368f5-9313-3381-c98b-6109616c019e.htm" />
         <HelpTOCNode Title="DEFAULT_SHELL_URI Field" Url="html/a39d2b36-d9c3-5f51-0924-3ea96d6107b5.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="65426743-a751-4f9f-b119-a8da8f427042" Title="PowerShell Methods" Url="html/5fbcd0a2-9bbb-793d-6ee2-cf8b14b0ceba.htm">
-        <HelpTOCNode Title="CreateRunspaceConnectionInfo Method " Url="html/c113e62a-6f19-6ccc-43a4-e8ef02af78fc.htm" />
-        <HelpTOCNode Title="RunAsynchronously Method " Url="html/08851af4-45cc-4318-526e-d3d3819de4f3.htm" />
-        <HelpTOCNode Title="RunSynchronously Method " Url="html/86e06dc8-f640-c94a-39e9-5bd609fc8651.htm" />
-      </HelpTOCNode>
     </HelpTOCNode>
     <HelpTOCNode Title="PowerShell.ProcessResults Delegate" Url="html/9f09766f-51a1-fa88-88f5-c9c6807aa535.htm" />
-    <HelpTOCNode Id="03dc60c0-1b47-4ffc-b446-3b5c08139956" Title="PowerShellScript Class" Url="html/3e21e8bf-7894-5981-e2d2-1831150ce972.htm">
+    <HelpTOCNode Id="64d74be3-203c-4a6c-9514-cc83d6afdb1e" Title="PowerShellScript Class" Url="html/3e21e8bf-7894-5981-e2d2-1831150ce972.htm">
       <HelpTOCNode Title="PowerShellScript Constructor " Url="html/19316b79-baab-db84-e7b0-929988fa064b.htm" />
-      <HelpTOCNode Id="22dbe951-28b8-498a-8f4a-e66112052e0f" Title="PowerShellScript Methods" Url="html/8d0cdeec-317b-b949-c70c-ccca039636d5.htm">
+      <HelpTOCNode Id="e78543d7-dece-47d0-9bc7-127841e910a0" Title="PowerShellScript Properties" Url="html/55a3d9cc-b929-db69-2d56-2768db2384c6.htm">
+        <HelpTOCNode Title="Log Property " Url="html/b8d858f1-a6d2-78be-ff9f-8d3f00c13244.htm" />
+        <HelpTOCNode Title="Results Property " Url="html/d840b219-83e0-5689-4a8b-b0df7acbbf74.htm" />
+        <HelpTOCNode Title="RunspacePool Property " Url="html/0bd35ec5-151b-90eb-b0cc-a4d9cae0f9f0.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d12712f9-2885-431f-a3b5-81798d53a6e1" Title="PowerShellScript Methods" Url="html/8d0cdeec-317b-b949-c70c-ccca039636d5.htm">
         <HelpTOCNode Title="Dispose Method " Url="html/eb324c7b-877d-0940-309f-a187c688cbbe.htm" />
         <HelpTOCNode Title="InitializeRunspacePool Method " Url="html/dcfb1aaf-99f0-ea92-b1bb-92835c5465c0.htm" />
         <HelpTOCNode Title="LogException Method " Url="html/1481f483-400e-cfa2-9ea0-d81686c242b9.htm" />
@@ -635,17 +650,12 @@
         <HelpTOCNode Title="RunSynchronously Method " Url="html/79ecf558-f6f6-efc7-4123-4d23669785db.htm" />
         <HelpTOCNode Title="VerifyResultProperty Method " Url="html/e5afc060-ec3c-622a-bf40-ead31b8365e8.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="5e294ea8-1f6c-4c5f-9c62-7e2fca3fb7ae" Title="PowerShellScript Properties" Url="html/55a3d9cc-b929-db69-2d56-2768db2384c6.htm">
-        <HelpTOCNode Title="Log Property " Url="html/b8d858f1-a6d2-78be-ff9f-8d3f00c13244.htm" />
-        <HelpTOCNode Title="Results Property " Url="html/d840b219-83e0-5689-4a8b-b0df7acbbf74.htm" />
-        <HelpTOCNode Title="RunspacePool Property " Url="html/0bd35ec5-151b-90eb-b0cc-a4d9cae0f9f0.htm" />
-      </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="156d7742-9d09-4a8e-9f62-622f6f4cb467" Title="Galactic.SharePoint" Url="html/02d0ace0-6abf-27b4-a2f7-233f74206203.htm">
-    <HelpTOCNode Id="3a8286fd-a5b5-4500-a60c-cd3ca93ea02d" Title="SharePointClient Class" Url="html/be07b832-0dbd-fe71-551f-6a01555da939.htm">
+  <HelpTOCNode Id="65ea3b18-bb5a-4ee2-aa8b-61fe4d9d8b22" Title="Galactic.SharePoint" Url="html/02d0ace0-6abf-27b4-a2f7-233f74206203.htm">
+    <HelpTOCNode Id="b5eac9a2-9d6c-4d76-a558-8e008ff42124" Title="SharePointClient Class" Url="html/be07b832-0dbd-fe71-551f-6a01555da939.htm">
       <HelpTOCNode Title="SharePointClient Constructor " Url="html/0a642fe6-7000-0a55-d7bb-80649f7507f4.htm" />
-      <HelpTOCNode Id="4afe7811-2c1c-44fd-9b39-522d3cccbfe3" Title="SharePointClient Methods" Url="html/c56a9676-7b37-2fd4-af0c-2134f7b0beba.htm">
+      <HelpTOCNode Id="db261e1c-052c-4dd3-b674-acf52cb50aa6" Title="SharePointClient Methods" Url="html/c56a9676-7b37-2fd4-af0c-2134f7b0beba.htm">
         <HelpTOCNode Title="Dispose Method " Url="html/7e11937f-29cd-64fa-32b3-3438b98353dd.htm" />
         <HelpTOCNode Title="GetDocumentLibraryByTitle Method " Url="html/1f238d97-99cf-efcd-4637-d3fb990968bc.htm" />
         <HelpTOCNode Title="GetFileByUrl Method " Url="html/f1e34674-95d4-de11-659d-f93aeb6ae1b2.htm" />
@@ -654,11 +664,9 @@
         <HelpTOCNode Title="Load Method " Url="html/b97a3315-5f9f-dc66-f9e6-648bf64677bd.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="df044264-751f-4813-a7dd-1a7905cc1de3" Title="SharePointDocument Class" Url="html/a74d9330-0286-982d-eac4-726240f1afa4.htm">
+    <HelpTOCNode Id="d5e2a83a-a80e-4136-9c46-72b56abf92dd" Title="SharePointDocument Class" Url="html/a74d9330-0286-982d-eac4-726240f1afa4.htm">
       <HelpTOCNode Title="SharePointDocument Constructor " Url="html/f830c4ce-c0f6-cc5b-af1c-43f8a5c9087d.htm" />
-      <HelpTOCNode Title="SharePointDocument Fields" Url="html/84f63176-1f04-bf01-55ee-e10d2881ec8f.htm" />
-      <HelpTOCNode Title="SharePointDocument Methods" Url="html/470a6237-ad3c-86c9-e716-11f4d8239dbe.htm" />
-      <HelpTOCNode Id="242fa187-69b3-44b1-a6fa-92f468f4f9b0" Title="SharePointDocument Properties" Url="html/b6b48225-279b-0fc5-428a-368c58094f53.htm">
+      <HelpTOCNode Id="77d68ea1-a772-4f5e-b948-0811d271c923" Title="SharePointDocument Properties" Url="html/b6b48225-279b-0fc5-428a-368c58094f53.htm">
         <HelpTOCNode Title="CreationTime Property " Url="html/b4d04a49-a9c7-f0a2-f654-7be17dce92ec.htm" />
         <HelpTOCNode Title="FileExtension Property " Url="html/de35fb67-7e51-fcdd-f066-dff39c959ed3.htm" />
         <HelpTOCNode Title="FileSize Property " Url="html/ae3ac078-e575-f9f6-3737-37b7f2f6138e.htm" />
@@ -666,48 +674,53 @@
         <HelpTOCNode Title="LastModifiedTime Property " Url="html/6a0e6472-fd55-33bb-eeb0-fc35d24da71f.htm" />
         <HelpTOCNode Title="Name Property " Url="html/56cf4148-4571-f0cc-d1bb-207f5176cf63.htm" />
       </HelpTOCNode>
+      <HelpTOCNode Title="SharePointDocument Methods" Url="html/470a6237-ad3c-86c9-e716-11f4d8239dbe.htm" />
+      <HelpTOCNode Title="SharePointDocument Fields" Url="html/84f63176-1f04-bf01-55ee-e10d2881ec8f.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="fe270bb2-e106-4f7d-949a-83da8a235aa5" Title="SharePointDocumentLibrary Class" Url="html/2c2a644d-54d7-0adc-6a4a-19bbc68b0ad8.htm">
+    <HelpTOCNode Id="3fd07349-ec95-4998-88aa-b8b33ab82773" Title="SharePointDocumentLibrary Class" Url="html/2c2a644d-54d7-0adc-6a4a-19bbc68b0ad8.htm">
       <HelpTOCNode Title="SharePointDocumentLibrary Constructor " Url="html/9ee85de1-8191-39ba-93fa-32d23217ed78.htm" />
-      <HelpTOCNode Title="SharePointDocumentLibrary Fields" Url="html/2a196625-e423-1367-063b-18ba34813021.htm" />
-      <HelpTOCNode Id="705eadca-e0f2-41d0-b2c3-4336fe791106" Title="SharePointDocumentLibrary Methods" Url="html/4cd66191-8359-69a1-47a1-d2c6c3eb8dfa.htm">
-        <HelpTOCNode Id="efe3b642-9b71-4ba4-8405-1bec6e811045" Title="Add Method " Url="html/3c98dc52-7a7d-175c-0989-81a4f037d04c.htm">
-          <HelpTOCNode Title="Add Method (SharePointDocument)" Url="html/d9437c1e-f8ba-865d-a491-30656a6fec10.htm" />
-          <HelpTOCNode Title="Add Method (SharePointListItem)" Url="html/7c33cd9d-ee4f-dc87-0346-c17473cbb22e.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Id="e361a1ae-ea84-49d4-813a-23ab33504ced" Title="Contains Method " Url="html/de696acc-58af-c6d3-feed-477f5a7004fd.htm">
-          <HelpTOCNode Title="Contains Method (SharePointDocument)" Url="html/a4144715-b966-bb59-b216-82ae7ffffefe.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Title="ContainsDocumentWithName Method " Url="html/d4fc83d8-d0bd-5637-ecaa-fbf31f5e02fb.htm" />
-        <HelpTOCNode Id="95208e8f-eae5-40db-85c3-778b3e85254e" Title="CopyTo Method " Url="html/7f1066db-6de2-bb3d-b3fa-0722dcbbf491.htm">
-          <HelpTOCNode Title="CopyTo Method (SharePointDocument[], Int32)" Url="html/f30b22b9-6811-5f11-5f14-4af31833bcab.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Title="GetEnumerator Method " Url="html/0ba42827-a3f9-db8c-34d3-943b48632b03.htm" />
-        <HelpTOCNode Id="577220ce-725d-414f-b31e-a31c81b15f04" Title="Remove Method " Url="html/18a1fc36-b82d-970f-828b-570cc744aebe.htm">
-          <HelpTOCNode Title="Remove Method (SharePointDocument)" Url="html/42e8ad22-c6fc-3390-71cd-3f10ee09bacd.htm" />
-        </HelpTOCNode>
-      </HelpTOCNode>
-      <HelpTOCNode Id="2ab1dc40-8415-4bf1-9c7b-9a6d2b0e18db" Title="SharePointDocumentLibrary Properties" Url="html/99a7e7c4-563a-fad4-7bc4-194ea58708cf.htm">
+      <HelpTOCNode Id="02a2b4d9-3c6d-4071-8081-030e889c75bd" Title="SharePointDocumentLibrary Properties" Url="html/99a7e7c4-563a-fad4-7bc4-194ea58708cf.htm">
         <HelpTOCNode Title="Documents Property " Url="html/2194ace0-79ff-a3b9-a7bf-34c3a46dff3f.htm" />
         <HelpTOCNode Title="Folder Property " Url="html/6df8e593-ea63-2f05-9dc8-55375bf72bcb.htm" />
       </HelpTOCNode>
-    </HelpTOCNode>
-    <HelpTOCNode Id="e31fe25f-23cc-4448-bceb-aae5effc3a13" Title="SharePointFolder Class" Url="html/db28cb5d-1929-8a01-0355-523982db1021.htm">
-      <HelpTOCNode Title="SharePointFolder Constructor " Url="html/5762112c-0c2f-03c7-96f4-ce15fa8a7f73.htm" />
-      <HelpTOCNode Id="8a2fa8ee-2b57-47bf-a21c-0184b0202fdb" Title="SharePointFolder Methods" Url="html/3c749a84-4393-9f84-9d49-8141655202b3.htm">
-        <HelpTOCNode Title="UploadFile Method " Url="html/1a1ae358-a1ba-50f5-0eda-cbfa77344f5d.htm" />
+      <HelpTOCNode Id="3eb09686-8eb4-4073-b76b-0d86a6553acd" Title="SharePointDocumentLibrary Methods" Url="html/4cd66191-8359-69a1-47a1-d2c6c3eb8dfa.htm">
+        <HelpTOCNode Id="5756af2b-df1b-4092-abfd-d6bc2d75b091" Title="Add Method " Url="html/3c98dc52-7a7d-175c-0989-81a4f037d04c.htm">
+          <HelpTOCNode Title="Add Method (SharePointDocument)" Url="html/d9437c1e-f8ba-865d-a491-30656a6fec10.htm" />
+          <HelpTOCNode Title="Add Method (SharePointListItem)" Url="html/7c33cd9d-ee4f-dc87-0346-c17473cbb22e.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="d48520b2-2400-4c64-b8b2-db2332082998" Title="Contains Method " Url="html/de696acc-58af-c6d3-feed-477f5a7004fd.htm">
+          <HelpTOCNode Title="Contains Method (SharePointDocument)" Url="html/a4144715-b966-bb59-b216-82ae7ffffefe.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ContainsDocumentWithName Method " Url="html/d4fc83d8-d0bd-5637-ecaa-fbf31f5e02fb.htm" />
+        <HelpTOCNode Id="8dc8c25a-10ca-4433-9f0c-b51badcd53c8" Title="CopyTo Method " Url="html/7f1066db-6de2-bb3d-b3fa-0722dcbbf491.htm">
+          <HelpTOCNode Title="CopyTo Method (SharePointDocument[], Int32)" Url="html/f30b22b9-6811-5f11-5f14-4af31833bcab.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetEnumerator Method " Url="html/0ba42827-a3f9-db8c-34d3-943b48632b03.htm" />
+        <HelpTOCNode Id="c5b25468-3357-44f2-a243-55e92512a562" Title="Remove Method " Url="html/18a1fc36-b82d-970f-828b-570cc744aebe.htm">
+          <HelpTOCNode Title="Remove Method (SharePointDocument)" Url="html/42e8ad22-c6fc-3390-71cd-3f10ee09bacd.htm" />
+        </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="a442a0ed-4454-4815-b827-2c0aa446132a" Title="SharePointFolder Properties" Url="html/aacb35b2-8fc6-6f36-51e7-601baae3e5a6.htm">
+      <HelpTOCNode Title="SharePointDocumentLibrary Fields" Url="html/2a196625-e423-1367-063b-18ba34813021.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="88b56147-f366-4c98-af27-89623c97fa5b" Title="SharePointFolder Class" Url="html/db28cb5d-1929-8a01-0355-523982db1021.htm">
+      <HelpTOCNode Title="SharePointFolder Constructor " Url="html/5762112c-0c2f-03c7-96f4-ce15fa8a7f73.htm" />
+      <HelpTOCNode Id="1c23a311-67a2-4a6a-a6a5-4c90babb3532" Title="SharePointFolder Properties" Url="html/aacb35b2-8fc6-6f36-51e7-601baae3e5a6.htm">
         <HelpTOCNode Title="Url Property " Url="html/66e5e70a-109d-f8ab-cbf4-0a15de87043d.htm" />
       </HelpTOCNode>
-    </HelpTOCNode>
-    <HelpTOCNode Id="526843eb-39dd-48d9-885f-6a37e1d71840" Title="SharePointList Class" Url="html/b8c8686c-797b-1608-ee4a-3eac02ca3257.htm">
-      <HelpTOCNode Title="SharePointList Constructor " Url="html/9a66cfe2-70a5-9ca5-9a03-db16cb401628.htm" />
-      <HelpTOCNode Id="d2770c13-246e-428c-a3da-d92958af4840" Title="SharePointList Fields" Url="html/e6c0032b-04a4-9604-24b1-50dfc9cdc4e1.htm">
-        <HelpTOCNode Title="List Field" Url="html/55aac9eb-debb-5301-5124-94c3f8017e28.htm" />
-        <HelpTOCNode Title="ListItemCollection Field" Url="html/b9e89e56-b876-02f6-dcb5-2112dd76c6c8.htm" />
+      <HelpTOCNode Id="9cbe4706-fe73-4539-b0fd-0ef4990a5c00" Title="SharePointFolder Methods" Url="html/3c749a84-4393-9f84-9d49-8141655202b3.htm">
+        <HelpTOCNode Title="UploadFile Method " Url="html/1a1ae358-a1ba-50f5-0eda-cbfa77344f5d.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="7364e6d6-f780-47b6-8345-3f437afcc9fb" Title="SharePointList Methods" Url="html/fd1efb27-83fb-78ea-8e92-76d586d6efe3.htm">
+    </HelpTOCNode>
+    <HelpTOCNode Id="62351ea9-7d9b-44a7-af28-66ed211d3203" Title="SharePointList Class" Url="html/b8c8686c-797b-1608-ee4a-3eac02ca3257.htm">
+      <HelpTOCNode Title="SharePointList Constructor " Url="html/9a66cfe2-70a5-9ca5-9a03-db16cb401628.htm" />
+      <HelpTOCNode Id="95b89995-977a-4e61-a823-b63033dab2de" Title="SharePointList Properties" Url="html/b720758b-5007-047e-e995-63fb6b46373d.htm">
+        <HelpTOCNode Title="Count Property " Url="html/a5d56bfa-3f06-360b-9c44-b2fc93824d1e.htm" />
+        <HelpTOCNode Title="IsReadOnly Property " Url="html/99e9a1a0-9dee-7734-f773-5327d4413688.htm" />
+        <HelpTOCNode Title="Items Property " Url="html/814fed7a-3d6a-8215-b435-2a89d06a283a.htm" />
+        <HelpTOCNode Title="LastItemDeleted Property " Url="html/71fb15d6-489e-7aa9-6e3b-718d9f8f33bf.htm" />
+        <HelpTOCNode Title="LastItemModified Property " Url="html/5d4f387f-1259-27d2-0f5a-b42e56648285.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="bb47c0ac-87af-4346-931c-a28571a43ed5" Title="SharePointList Methods" Url="html/fd1efb27-83fb-78ea-8e92-76d586d6efe3.htm">
         <HelpTOCNode Title="Add Method " Url="html/3cdfdd09-ff15-bba0-6eff-01a396e31b55.htm" />
         <HelpTOCNode Title="Clear Method " Url="html/436e1331-6c36-4d04-548c-ed798a947953.htm" />
         <HelpTOCNode Title="Contains Method " Url="html/9388ca2f-36f4-0bfb-06d8-0a7c608c44fe.htm" />
@@ -715,42 +728,44 @@
         <HelpTOCNode Title="GetEnumerator Method " Url="html/99efe6b6-121f-7f14-c3fa-0c13df38919b.htm" />
         <HelpTOCNode Title="Remove Method " Url="html/195898a9-628e-fd83-a449-a1e883728498.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="74d3c096-f867-4d7a-b037-da23ebd08bb6" Title="SharePointList Properties" Url="html/b720758b-5007-047e-e995-63fb6b46373d.htm">
-        <HelpTOCNode Title="Count Property " Url="html/a5d56bfa-3f06-360b-9c44-b2fc93824d1e.htm" />
-        <HelpTOCNode Title="IsReadOnly Property " Url="html/99e9a1a0-9dee-7734-f773-5327d4413688.htm" />
-        <HelpTOCNode Title="Items Property " Url="html/814fed7a-3d6a-8215-b435-2a89d06a283a.htm" />
-        <HelpTOCNode Title="LastItemDeleted Property " Url="html/71fb15d6-489e-7aa9-6e3b-718d9f8f33bf.htm" />
-        <HelpTOCNode Title="LastItemModified Property " Url="html/5d4f387f-1259-27d2-0f5a-b42e56648285.htm" />
+      <HelpTOCNode Id="e114f11c-bc45-4545-bc99-08520184d33e" Title="SharePointList Fields" Url="html/e6c0032b-04a4-9604-24b1-50dfc9cdc4e1.htm">
+        <HelpTOCNode Title="List Field" Url="html/55aac9eb-debb-5301-5124-94c3f8017e28.htm" />
+        <HelpTOCNode Title="ListItemCollection Field" Url="html/b9e89e56-b876-02f6-dcb5-2112dd76c6c8.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="9d520da1-0497-463c-a74d-b552ad6062ab" Title="SharePointListItem Class" Url="html/6e1c64ac-3f50-3e0c-ada5-a65ce7b0ef57.htm">
+    <HelpTOCNode Id="5f5dbbb7-bdbf-4cbc-a192-cf11a66700d8" Title="SharePointListItem Class" Url="html/6e1c64ac-3f50-3e0c-ada5-a65ce7b0ef57.htm">
       <HelpTOCNode Title="SharePointListItem Constructor " Url="html/548d6873-9ee3-3333-3d2e-9cdb11f83243.htm" />
-      <HelpTOCNode Id="2a074b10-e174-4306-8e78-1c2c7359769f" Title="SharePointListItem Fields" Url="html/a5b26d80-dd32-fde3-5d33-0352e90054c2.htm">
-        <HelpTOCNode Title="listItem Field" Url="html/a7504a54-2c04-510a-5bc2-b75b92b9f80c.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="47b6547b-8fab-46bb-b142-54b8ca57bdc9" Title="SharePointListItem Methods" Url="html/c56a41c7-4a02-f6b2-87b8-033ec5fa299d.htm">
-        <HelpTOCNode Title="Delete Method " Url="html/03ef5157-3e80-e64e-bb99-987bd98d2480.htm" />
-        <HelpTOCNode Title="GetLookupFieldValue Method " Url="html/d2c152d6-9304-5944-fa26-a3fc0a263835.htm" />
-        <HelpTOCNode Title="ToSharePointDocument Method " Url="html/b7b01e8d-6321-4399-33de-25a1767f1d0c.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="3c294767-0341-4605-b003-1ac171b405f3" Title="SharePointListItem Properties" Url="html/e3f7387b-9fcf-c1a0-dae1-18f06c3dfde9.htm">
+      <HelpTOCNode Id="3a46f20e-78a1-43b9-b515-c4dc4797fe6a" Title="SharePointListItem Properties" Url="html/e3f7387b-9fcf-c1a0-dae1-18f06c3dfde9.htm">
         <HelpTOCNode Title="DisplayName Property " Url="html/7a55c7e5-6765-ef90-7b84-fc4efba7528c.htm" />
         <HelpTOCNode Title="Fields Property " Url="html/9144053b-ae1f-8aea-dada-4293ec27e66b.htm" />
         <HelpTOCNode Title="Id Property " Url="html/14d05103-a654-7328-7d75-6691fbada232.htm" />
         <HelpTOCNode Title="ListItem Property " Url="html/a794689d-b6f0-1901-16e5-d630cedb7f1f.htm" />
       </HelpTOCNode>
-    </HelpTOCNode>
-    <HelpTOCNode Id="10792384-bbeb-488e-ac8c-171ca87166e4" Title="SharePointUser Class" Url="html/021abeb0-397a-d0da-bb05-35291ffb8ecd.htm">
-      <HelpTOCNode Title="SharePointUser Constructor " Url="html/d1e91245-28ec-5785-0a56-7278f913e95b.htm" />
-      <HelpTOCNode Title="SharePointUser Methods" Url="html/550d9ad6-f164-9864-e2f8-117fe13e9e0d.htm" />
-      <HelpTOCNode Id="10baba7b-5aa2-47dd-99cb-ab8f553e2ad8" Title="SharePointUser Properties" Url="html/9130a4a5-9c64-d72b-9da5-d8d49e09983e.htm">
-        <HelpTOCNode Title="UserName Property " Url="html/7ca03a05-90a3-4766-ccb2-7cca442e7b23.htm" />
+      <HelpTOCNode Id="72fe7bbc-56da-41dd-b567-74476b2ada4d" Title="SharePointListItem Methods" Url="html/c56a41c7-4a02-f6b2-87b8-033ec5fa299d.htm">
+        <HelpTOCNode Title="Delete Method " Url="html/03ef5157-3e80-e64e-bb99-987bd98d2480.htm" />
+        <HelpTOCNode Title="GetLookupFieldValue Method " Url="html/d2c152d6-9304-5944-fa26-a3fc0a263835.htm" />
+        <HelpTOCNode Title="ToSharePointDocument Method " Url="html/b7b01e8d-6321-4399-33de-25a1767f1d0c.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d2794810-7737-47ca-bcf5-bcd9bc050cb4" Title="SharePointListItem Fields" Url="html/a5b26d80-dd32-fde3-5d33-0352e90054c2.htm">
+        <HelpTOCNode Title="listItem Field" Url="html/a7504a54-2c04-510a-5bc2-b75b92b9f80c.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
+    <HelpTOCNode Id="ee5b652a-2336-4ec3-aae8-07115c7f8a0c" Title="SharePointUser Class" Url="html/021abeb0-397a-d0da-bb05-35291ffb8ecd.htm">
+      <HelpTOCNode Title="SharePointUser Constructor " Url="html/d1e91245-28ec-5785-0a56-7278f913e95b.htm" />
+      <HelpTOCNode Id="3035cb62-610c-4523-9af5-c9eacfa612a3" Title="SharePointUser Properties" Url="html/9130a4a5-9c64-d72b-9da5-d8d49e09983e.htm">
+        <HelpTOCNode Title="UserName Property " Url="html/7ca03a05-90a3-4766-ccb2-7cca442e7b23.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="SharePointUser Methods" Url="html/550d9ad6-f164-9864-e2f8-117fe13e9e0d.htm" />
+    </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="7d3cc462-ff20-409d-8f39-57b131155c71" Title="Galactic.Sql" Url="html/450d4db6-f56b-1eaa-c3b8-a05a4440c230.htm">
-    <HelpTOCNode Id="9d155eb6-a3fe-4182-aada-fae3319e1616" Title="IStoredProcedure Interface" Url="html/b64be2a3-f19c-ea7d-4619-028ea1ffa133.htm">
-      <HelpTOCNode Id="9b8b2c5b-39fe-49f8-b605-cfec5de1d5b5" Title="IStoredProcedure Methods" Url="html/ce18e7d4-56a1-2bfc-88d5-02230b5823ef.htm">
+  <HelpTOCNode Id="e331e821-79a0-4fc0-af91-3d3f522d13f3" Title="Galactic.Sql" Url="html/450d4db6-f56b-1eaa-c3b8-a05a4440c230.htm">
+    <HelpTOCNode Id="dc413e95-f211-4f06-b39f-cf6fbaf0aa7c" Title="IStoredProcedure Interface" Url="html/b64be2a3-f19c-ea7d-4619-028ea1ffa133.htm">
+      <HelpTOCNode Id="a5460e20-6a4e-4013-b079-69f86247d1d3" Title="IStoredProcedure Properties" Url="html/8a245e43-3eaa-cfa8-17b1-6600b1663b98.htm">
+        <HelpTOCNode Title="Command Property " Url="html/20a646be-40a3-0132-b32a-abf74823aab4.htm" />
+        <HelpTOCNode Title="Connection Property " Url="html/1b4a9e44-48c3-ad18-2c13-146be41cb34d.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/7e9b3e71-1378-5103-395f-eb77e720a180.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="4e36cf8e-6b83-4926-9270-14da16c241e5" Title="IStoredProcedure Methods" Url="html/ce18e7d4-56a1-2bfc-88d5-02230b5823ef.htm">
         <HelpTOCNode Title="AddBooleanParameter Method " Url="html/21b99452-cbb6-0d99-d529-ace87e156050.htm" />
         <HelpTOCNode Title="AddDateTimeParameter Method " Url="html/6bc16603-fb91-7ec6-85ce-14c2ab37225d.htm" />
         <HelpTOCNode Title="AddInt32Parameter Method " Url="html/5c166ad3-dae6-12ac-357d-e2d4afad2506.htm" />
@@ -764,35 +779,35 @@
         <HelpTOCNode Title="GetParameter Method " Url="html/21389cc8-86ca-036b-e70f-fd0b0c84b0a6.htm" />
         <HelpTOCNode Title="GetParamName Method " Url="html/3b1d7056-3280-92b9-d437-8cc6a4d35546.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="ec6cb2c2-c988-41f1-9e0c-13d5af3312f1" Title="IStoredProcedure Properties" Url="html/8a245e43-3eaa-cfa8-17b1-6600b1663b98.htm">
-        <HelpTOCNode Title="Command Property " Url="html/20a646be-40a3-0132-b32a-abf74823aab4.htm" />
-        <HelpTOCNode Title="Connection Property " Url="html/1b4a9e44-48c3-ad18-2c13-146be41cb34d.htm" />
-        <HelpTOCNode Title="Name Property " Url="html/7e9b3e71-1378-5103-395f-eb77e720a180.htm" />
-      </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="e1acfcb2-9b9f-46db-8759-4a74da6dbf7b" Title="SqlRow Class" Url="html/b88825ae-1f06-648b-513b-cd3cf5cb6a15.htm">
+    <HelpTOCNode Id="e8f25b09-920d-47ad-acae-5c763cfbd1a1" Title="SqlRow Class" Url="html/b88825ae-1f06-648b-513b-cd3cf5cb6a15.htm">
       <HelpTOCNode Title="SqlRow Constructor " Url="html/5a3dd8e1-da3e-e97d-ec2b-8e3678184b23.htm" />
-      <HelpTOCNode Id="02171c8f-2cf7-459d-abf3-eb100b6f0838" Title="SqlRow Methods" Url="html/d0de9dfb-c7e6-1c58-bd67-7103ad3adbfb.htm">
-        <HelpTOCNode Title="Add Method " Url="html/538de5e5-0176-fa69-1391-d67c50907f74.htm" />
-        <HelpTOCNode Id="d9cbce89-c2ca-4d87-a802-f8d6e0d3fec0" Title="GetValue Method " Url="html/4e0c20d1-1f1b-fc2c-a1a1-be99fc7dc1b8.htm">
-          <HelpTOCNode Title="GetValue Method (Int32)" Url="html/57ba81a3-009c-a046-6014-704716f95f02.htm" />
-          <HelpTOCNode Title="GetValue Method (String)" Url="html/553a075e-f681-16a6-b4b0-708814f718e3.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Id="a94b3751-138f-4cb5-ba49-8a128216f004" Title="SetValue Method " Url="html/50ad11ae-d07e-35cc-46a6-91c78c9492c9.htm">
-          <HelpTOCNode Title="SetValue Method (Int32, Object)" Url="html/a6a05a88-cdb6-03f7-254f-13669808e67c.htm" />
-          <HelpTOCNode Title="SetValue Method (String, Object)" Url="html/f07eb9b4-7c03-6757-7ec9-78aec45adaa7.htm" />
-        </HelpTOCNode>
-      </HelpTOCNode>
-      <HelpTOCNode Id="e6134173-7c13-4edb-8095-3be6b48e4859" Title="SqlRow Properties" Url="html/dd563ffd-0734-9f10-bb0e-619de6c81143.htm">
-        <HelpTOCNode Id="3be205be-1fe4-4c2e-8c7f-7dfb9452a0df" Title="Item Property " Url="html/c7d0f126-fbc9-e00e-6081-ef211f7ae2f8.htm">
+      <HelpTOCNode Id="856b6770-72be-476e-8234-618a95aff122" Title="SqlRow Properties" Url="html/dd563ffd-0734-9f10-bb0e-619de6c81143.htm">
+        <HelpTOCNode Id="59efb116-0d2b-452e-9f39-a11c5654d125" Title="Item Property " Url="html/c7d0f126-fbc9-e00e-6081-ef211f7ae2f8.htm">
           <HelpTOCNode Title="Item Property (Int32)" Url="html/cf02f5f0-fe4b-8d33-71c3-6f6fca75ace9.htm" />
           <HelpTOCNode Title="Item Property (String)" Url="html/be922f19-f179-e833-f2a9-61366ff819d0.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
+      <HelpTOCNode Id="92e03539-f734-4cb5-9afd-c99bc1a07d06" Title="SqlRow Methods" Url="html/d0de9dfb-c7e6-1c58-bd67-7103ad3adbfb.htm">
+        <HelpTOCNode Title="Add Method " Url="html/538de5e5-0176-fa69-1391-d67c50907f74.htm" />
+        <HelpTOCNode Id="20d6e3b1-3b20-4eda-82bd-de763ff09b4c" Title="GetValue Method " Url="html/4e0c20d1-1f1b-fc2c-a1a1-be99fc7dc1b8.htm">
+          <HelpTOCNode Title="GetValue Method (Int32)" Url="html/57ba81a3-009c-a046-6014-704716f95f02.htm" />
+          <HelpTOCNode Title="GetValue Method (String)" Url="html/553a075e-f681-16a6-b4b0-708814f718e3.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="4a3a4fc5-fdec-4376-82e6-f5d9e926e7f0" Title="SetValue Method " Url="html/50ad11ae-d07e-35cc-46a6-91c78c9492c9.htm">
+          <HelpTOCNode Title="SetValue Method (Int32, Object)" Url="html/a6a05a88-cdb6-03f7-254f-13669808e67c.htm" />
+          <HelpTOCNode Title="SetValue Method (String, Object)" Url="html/f07eb9b4-7c03-6757-7ec9-78aec45adaa7.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="6abb0fad-2ff6-4dee-b56c-4167542e1f0a" Title="SqlUtility Class" Url="html/2e31d202-70f6-eef2-8d5c-32de048f2f1c.htm">
+    <HelpTOCNode Id="2c845647-71ac-4639-b6d4-ca761b903def" Title="SqlUtility Class" Url="html/2e31d202-70f6-eef2-8d5c-32de048f2f1c.htm">
       <HelpTOCNode Title="SqlUtility Constructor " Url="html/1405885a-f5d1-537a-d3ea-961d2af7b9a9.htm" />
-      <HelpTOCNode Id="485f1ec4-819a-4e29-9d3a-f9e2db8047b0" Title="SqlUtility Methods" Url="html/19c865d0-86b6-f9b1-aaff-6ef58fdb23be.htm">
+      <HelpTOCNode Id="ee5eb3af-92f8-4417-bb33-9f5eb8eef345" Title="SqlUtility Properties" Url="html/125ded44-77d4-715e-e8cb-efeb1719a3db.htm">
+        <HelpTOCNode Title="MAX_NCHAR_LENGTH Property " Url="html/db9b11ce-f3c4-01f9-0a7e-18988203a52d.htm" />
+        <HelpTOCNode Title="MAX_NVARCHAR_LENGTH Property " Url="html/2d1353d2-9d7d-62a1-0d2b-1856eb16a6be.htm" />
+        <HelpTOCNode Title="MAX_VARCHAR_LENGTH Property " Url="html/919ab4ff-b7d1-4b96-717e-0b1028e64d0c.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="350f88c4-2e6b-4c1d-8cc2-c83327069fcf" Title="SqlUtility Methods" Url="html/19c865d0-86b6-f9b1-aaff-6ef58fdb23be.htm">
         <HelpTOCNode Title="ExecuteNonQuery Method " Url="html/b4656ac4-65c6-7545-e891-10852586ec2b.htm" />
         <HelpTOCNode Title="ExecuteNonQuerySQLFile Method " Url="html/a1191dd1-183c-6c8b-171f-6d610b5e25ce.htm" />
         <HelpTOCNode Title="ExecuteQuery Method " Url="html/54848c46-6d70-b914-5628-2ef7175923f2.htm" />
@@ -800,18 +815,16 @@
         <HelpTOCNode Title="LogException Method " Url="html/04300e89-1b92-8b70-866b-2450db185759.htm" />
         <HelpTOCNode Title="RunScript Method " Url="html/13881a39-076e-8b37-2912-3eb138d518e1.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="321dbd99-2468-4d76-9035-41d6de7eb5c7" Title="SqlUtility Properties" Url="html/125ded44-77d4-715e-e8cb-efeb1719a3db.htm">
-        <HelpTOCNode Title="MAX_NCHAR_LENGTH Property " Url="html/db9b11ce-f3c4-01f9-0a7e-18988203a52d.htm" />
-        <HelpTOCNode Title="MAX_NVARCHAR_LENGTH Property " Url="html/2d1353d2-9d7d-62a1-0d2b-1856eb16a6be.htm" />
-        <HelpTOCNode Title="MAX_VARCHAR_LENGTH Property " Url="html/919ab4ff-b7d1-4b96-717e-0b1028e64d0c.htm" />
-      </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="a5f86edd-566b-4c21-af0c-b8d48777437a" Title="StoredProcedure Class" Url="html/e65d6103-4c52-0000-8850-694a49c43768.htm">
+    <HelpTOCNode Id="b450a0d3-ab30-4cae-869f-93586b2649d8" Title="StoredProcedure Class" Url="html/e65d6103-4c52-0000-8850-694a49c43768.htm">
       <HelpTOCNode Title="StoredProcedure Constructor " Url="html/8dab7b87-a520-4b3e-1db9-b2e4d465dfd0.htm" />
-      <HelpTOCNode Id="23c89e03-5815-4f57-83ff-ded0008410a5" Title="StoredProcedure Fields" Url="html/3ab14edc-58c7-b6a9-7b77-459b2e421333.htm">
-        <HelpTOCNode Title="log Field" Url="html/8a8e7eee-59d5-76c7-10d3-0833359247f1.htm" />
+      <HelpTOCNode Id="cafe0d89-9d90-4824-9b0b-69414d99b3ec" Title="StoredProcedure Properties" Url="html/f55d5744-8bc7-b160-c542-91f2f6d5d64b.htm">
+        <HelpTOCNode Title="Command Property " Url="html/5f72d6ed-700c-ef60-dea4-947f857493e4.htm" />
+        <HelpTOCNode Title="Connection Property " Url="html/a454d920-b71d-d826-3fde-f3f7498f426f.htm" />
+        <HelpTOCNode Title="Log Property " Url="html/31ce2a99-8b9b-e365-fc13-396ada4cd93e.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/20fb0cff-88ac-47d8-3f4e-e374b9132226.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="3745696a-32b3-4bb2-a5ef-0e4b353ea99b" Title="StoredProcedure Methods" Url="html/aae63880-8986-84f8-5868-3c362c9a8979.htm">
+      <HelpTOCNode Id="a7c3f750-00a9-40ac-86d4-deb12d0a159c" Title="StoredProcedure Methods" Url="html/aae63880-8986-84f8-5868-3c362c9a8979.htm">
         <HelpTOCNode Title="AddBooleanParameter Method " Url="html/b17aa0c8-adc8-1fe5-2e88-8b7a4c7ac70b.htm" />
         <HelpTOCNode Title="AddDateTimeParameter Method " Url="html/99dc89fa-a51a-59a6-1994-c24664025eb6.htm" />
         <HelpTOCNode Title="AddInt32Parameter Method " Url="html/42b4ab6f-037f-5158-9502-f1de3efc5857.htm" />
@@ -826,36 +839,33 @@
         <HelpTOCNode Title="GetParamName Method " Url="html/cba0cfff-8e65-6491-11ff-9efc9db94f95.htm" />
         <HelpTOCNode Title="LogException Method " Url="html/2a9e6f97-5272-ea64-a1f4-541b56415e89.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="6125632a-fd32-4659-b418-b073d05b96d5" Title="StoredProcedure Properties" Url="html/f55d5744-8bc7-b160-c542-91f2f6d5d64b.htm">
-        <HelpTOCNode Title="Command Property " Url="html/5f72d6ed-700c-ef60-dea4-947f857493e4.htm" />
-        <HelpTOCNode Title="Connection Property " Url="html/a454d920-b71d-d826-3fde-f3f7498f426f.htm" />
-        <HelpTOCNode Title="Log Property " Url="html/31ce2a99-8b9b-e365-fc13-396ada4cd93e.htm" />
-        <HelpTOCNode Title="Name Property " Url="html/20fb0cff-88ac-47d8-3f4e-e374b9132226.htm" />
+      <HelpTOCNode Id="f973762b-d833-4d16-aef8-305e3cdb0003" Title="StoredProcedure Fields" Url="html/3ab14edc-58c7-b6a9-7b77-459b2e421333.htm">
+        <HelpTOCNode Title="log Field" Url="html/8a8e7eee-59d5-76c7-10d3-0833359247f1.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
     <HelpTOCNode Title="StoredProcedure.ParameterType Enumeration" Url="html/fa44d15a-b8fb-901e-a9ea-82ed311f9af9.htm" />
   </HelpTOCNode>
-  <HelpTOCNode Id="fd94f9e5-e8bc-4614-864e-76290047fb4f" Title="Galactic.Sql.MSSql" Url="html/df528de8-12e8-21cd-2cc9-d31c025898cd.htm">
-    <HelpTOCNode Id="d8c451a0-e66c-4513-b1f6-ede68c96b73f" Title="MSSqlUtility Class" Url="html/38c70700-5124-5c0c-de74-9af8843dec48.htm">
+  <HelpTOCNode Id="dab442f5-bb90-4f5d-8c98-10fe49c40cdb" Title="Galactic.Sql.MSSql" Url="html/df528de8-12e8-21cd-2cc9-d31c025898cd.htm">
+    <HelpTOCNode Id="405045eb-b9eb-4b5c-8964-494c65051de4" Title="MSSqlUtility Class" Url="html/38c70700-5124-5c0c-de74-9af8843dec48.htm">
       <HelpTOCNode Title="MSSqlUtility Constructor " Url="html/cf21b5fe-fcbc-5863-641b-d3082dbbdd2b.htm" />
-      <HelpTOCNode Id="03052e97-d88b-4546-bce8-2a3af0e72932" Title="MSSqlUtility Methods" Url="html/53a337cd-6280-bfdf-8131-2fb0cbbc8f67.htm">
-        <HelpTOCNode Title="BuildConnectionString Method " Url="html/d7df5d3f-3807-6411-b060-012175483133.htm" />
-        <HelpTOCNode Title="ExecuteNonQuery Method " Url="html/96b3303e-9365-e82e-a1e8-0197f90c3f48.htm" />
-        <HelpTOCNode Title="ExecuteQuery Method " Url="html/ee67de23-1888-2c31-9f36-250d694324c6.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="4ed08776-6ff4-4d8a-9596-100d3c1081bf" Title="MSSqlUtility Properties" Url="html/04c0d168-0ba7-7a3b-c7d0-5b5303121448.htm">
+      <HelpTOCNode Id="dd54f4e6-3d31-44c2-86e0-5f66cabadad8" Title="MSSqlUtility Properties" Url="html/04c0d168-0ba7-7a3b-c7d0-5b5303121448.htm">
         <HelpTOCNode Title="MAX_NCHAR_LENGTH Property " Url="html/a6ebc340-45c1-ff73-ceeb-15c7b9489e71.htm" />
         <HelpTOCNode Title="MAX_NVARCHAR_LENGTH Property " Url="html/3efdb318-562c-662e-c484-340efb8dfb01.htm" />
         <HelpTOCNode Title="MAX_VARCHAR_LENGTH Property " Url="html/7ba24c30-70ca-15bf-7e4d-db5958d313af.htm" />
       </HelpTOCNode>
-    </HelpTOCNode>
-    <HelpTOCNode Id="9532ac39-a973-424e-a92a-3fa215166cce" Title="MSStoredProcedure Class" Url="html/be5311dd-7766-8fa7-c15c-78cd0801746f.htm">
-      <HelpTOCNode Title="MSStoredProcedure Constructor " Url="html/ea6156d0-0f47-8054-e0b9-01d0954431a2.htm" />
-      <HelpTOCNode Id="d684778c-0530-4d99-9de6-3113d24cf77a" Title="MSStoredProcedure Fields" Url="html/27f30b6b-7e3b-3120-b7d9-fce7b2aebfc8.htm">
-        <HelpTOCNode Title="MAX_NVARCHAR_SIZE Field" Url="html/8e7c7356-67ef-ea72-5829-535bb2408515.htm" />
-        <HelpTOCNode Title="MAX_VARCHAR_SIZE Field" Url="html/5c5ca0f0-ba30-36cd-93db-13ace8935565.htm" />
+      <HelpTOCNode Id="374dc388-595c-41f1-a543-c6a61c8b3127" Title="MSSqlUtility Methods" Url="html/53a337cd-6280-bfdf-8131-2fb0cbbc8f67.htm">
+        <HelpTOCNode Title="BuildConnectionString Method " Url="html/d7df5d3f-3807-6411-b060-012175483133.htm" />
+        <HelpTOCNode Title="ExecuteNonQuery Method " Url="html/96b3303e-9365-e82e-a1e8-0197f90c3f48.htm" />
+        <HelpTOCNode Title="ExecuteQuery Method " Url="html/ee67de23-1888-2c31-9f36-250d694324c6.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="f5b573f1-e0c9-45e5-b42a-f1153171603a" Title="MSStoredProcedure Methods" Url="html/49170f3c-25ac-fe87-8ca3-31c8e83647ca.htm">
+    </HelpTOCNode>
+    <HelpTOCNode Id="ba0a7081-2c39-4e56-83e5-dbc666788591" Title="MSStoredProcedure Class" Url="html/be5311dd-7766-8fa7-c15c-78cd0801746f.htm">
+      <HelpTOCNode Title="MSStoredProcedure Constructor " Url="html/ea6156d0-0f47-8054-e0b9-01d0954431a2.htm" />
+      <HelpTOCNode Id="6873958b-0ec6-4810-aa62-f61632ad0051" Title="MSStoredProcedure Properties" Url="html/b5d89674-cd8b-bfb0-ba48-66c694cd42be.htm">
+        <HelpTOCNode Title="Command Property " Url="html/2b276054-f2a2-fca3-09c2-d477e076dcf2.htm" />
+        <HelpTOCNode Title="Connection Property " Url="html/ffbfffb0-2805-213c-7fdd-a722e9bd2d92.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="5f4bd08d-1799-49f1-9bbb-d0c90cc1848c" Title="MSStoredProcedure Methods" Url="html/49170f3c-25ac-fe87-8ca3-31c8e83647ca.htm">
         <HelpTOCNode Title="AddBooleanParameter Method " Url="html/17a799a8-b160-0bee-b9f4-b91a26ff7339.htm" />
         <HelpTOCNode Title="AddDateTimeParameter Method " Url="html/0d29bd7e-9b95-b0c5-5bc9-f7c932220b15.htm" />
         <HelpTOCNode Title="AddInt32Parameter Method " Url="html/5f8a5786-b07d-11a8-d826-4372d43c6135.htm" />
@@ -866,20 +876,20 @@
         <HelpTOCNode Title="GetParameter Method " Url="html/244ae29c-dd9c-e651-9b61-31ec0b01ccc1.htm" />
         <HelpTOCNode Title="GetParamName Method " Url="html/666d9dcd-951e-ab08-ee6e-ec07ceb9f6a4.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="bda4ffed-3546-4b8a-bb6b-2126ed7d9bfd" Title="MSStoredProcedure Properties" Url="html/b5d89674-cd8b-bfb0-ba48-66c694cd42be.htm">
-        <HelpTOCNode Title="Command Property " Url="html/2b276054-f2a2-fca3-09c2-d477e076dcf2.htm" />
-        <HelpTOCNode Title="Connection Property " Url="html/ffbfffb0-2805-213c-7fdd-a722e9bd2d92.htm" />
+      <HelpTOCNode Id="7a24d209-a7ea-4ecd-b152-21a3350c3281" Title="MSStoredProcedure Fields" Url="html/27f30b6b-7e3b-3120-b7d9-fce7b2aebfc8.htm">
+        <HelpTOCNode Title="MAX_NVARCHAR_SIZE Field" Url="html/8e7c7356-67ef-ea72-5829-535bb2408515.htm" />
+        <HelpTOCNode Title="MAX_VARCHAR_SIZE Field" Url="html/5c5ca0f0-ba30-36cd-93db-13ace8935565.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="235843dd-a4cc-4999-aa27-362849e53d6f" Title="Galactic.Sql.Oracle" Url="html/36d4891c-1882-d620-198b-43b49604522a.htm">
-    <HelpTOCNode Id="fda627a5-c63e-43ea-b0b9-36f93c0c99c8" Title="OracleStoredProcedure Class" Url="html/ed4c96a4-be9c-1942-3825-8340e264a0a4.htm">
+  <HelpTOCNode Id="782dd980-595d-48a4-9f49-dc5874ef051d" Title="Galactic.Sql.Oracle" Url="html/36d4891c-1882-d620-198b-43b49604522a.htm">
+    <HelpTOCNode Id="2e62ef54-d568-4524-885b-80dae1c5c49f" Title="OracleStoredProcedure Class" Url="html/ed4c96a4-be9c-1942-3825-8340e264a0a4.htm">
       <HelpTOCNode Title="OracleStoredProcedure Constructor " Url="html/1aad8782-a8a7-a5d1-0629-59acccf6ede5.htm" />
-      <HelpTOCNode Id="3322f0e7-d02a-4833-a9a2-850df199cf1b" Title="OracleStoredProcedure Fields" Url="html/8abda408-643d-6f25-a85d-9f8dc380e968.htm">
-        <HelpTOCNode Title="MAX_NVARCHAR_SIZE Field" Url="html/a9c1a173-00d8-c430-7565-5c72e534011b.htm" />
-        <HelpTOCNode Title="MAX_VARCHAR_SIZE Field" Url="html/ef3c4ba9-69de-b574-e7ca-5b2dfce9c8c5.htm" />
+      <HelpTOCNode Id="f28918da-a2e1-4f76-9d65-0187c02c984a" Title="OracleStoredProcedure Properties" Url="html/92eae892-418a-392b-a22f-d4d9e6d67378.htm">
+        <HelpTOCNode Title="Command Property " Url="html/600389fb-e7ff-8101-f6be-1d82db749fc7.htm" />
+        <HelpTOCNode Title="Connection Property " Url="html/fff8e294-5922-36a4-8b6f-7eb6f01f3625.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="4e531e63-775c-4d6f-b90f-9a31e58b825f" Title="OracleStoredProcedure Methods" Url="html/b7a5f86b-3bd8-b84a-b2c2-63035ddfed5b.htm">
+      <HelpTOCNode Id="ba652dff-6cda-4c42-abaf-12f966f2baf1" Title="OracleStoredProcedure Methods" Url="html/b7a5f86b-3bd8-b84a-b2c2-63035ddfed5b.htm">
         <HelpTOCNode Title="AddBooleanParameter Method " Url="html/07ddd596-5ea3-e512-38f7-cc768f4f4f65.htm" />
         <HelpTOCNode Title="AddDateTimeParameter Method " Url="html/d72c3149-48aa-aa70-96ca-5ef47c4e3c1b.htm" />
         <HelpTOCNode Title="AddInt32Parameter Method " Url="html/31fa6bac-8816-95da-8657-9f86bbff1446.htm" />
@@ -890,49 +900,54 @@
         <HelpTOCNode Title="GetParameter Method " Url="html/71b6cfe1-18ed-4bb8-e904-bfd84fcfebeb.htm" />
         <HelpTOCNode Title="GetParamName Method " Url="html/886a0e75-1b86-61f3-845a-12441819f2e1.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="6190b507-16ea-4473-85f7-f4df23e5fa3b" Title="OracleStoredProcedure Properties" Url="html/92eae892-418a-392b-a22f-d4d9e6d67378.htm">
-        <HelpTOCNode Title="Command Property " Url="html/600389fb-e7ff-8101-f6be-1d82db749fc7.htm" />
-        <HelpTOCNode Title="Connection Property " Url="html/fff8e294-5922-36a4-8b6f-7eb6f01f3625.htm" />
+      <HelpTOCNode Id="254f0adc-4e3e-48e9-a9f6-dea01fa7e247" Title="OracleStoredProcedure Fields" Url="html/8abda408-643d-6f25-a85d-9f8dc380e968.htm">
+        <HelpTOCNode Title="MAX_NVARCHAR_SIZE Field" Url="html/a9c1a173-00d8-c430-7565-5c72e534011b.htm" />
+        <HelpTOCNode Title="MAX_VARCHAR_SIZE Field" Url="html/ef3c4ba9-69de-b574-e7ca-5b2dfce9c8c5.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="9a312a18-15de-4eb3-8bf1-998de3a84139" Title="OracleUtility Class" Url="html/e677368a-a7e1-4d70-b352-c99eef6e43bf.htm">
+    <HelpTOCNode Id="14f35770-1e6e-4c1f-a01c-b95eb62af3d8" Title="OracleUtility Class" Url="html/e677368a-a7e1-4d70-b352-c99eef6e43bf.htm">
       <HelpTOCNode Title="OracleUtility Constructor " Url="html/dde58cc8-e54e-d37f-2494-e1e787523cbb.htm" />
-      <HelpTOCNode Id="2b23052f-5971-4ca0-b50f-01def0e69467" Title="OracleUtility Fields" Url="html/e2437199-b12d-b32c-664c-b91d2cd30fdf.htm">
-        <HelpTOCNode Title="DefaultPortNumber Field" Url="html/8724eff7-7703-07ba-41fb-5dc70a2e7f68.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="db4b13fb-ed4d-4581-bf0e-b34c9324bf3a" Title="OracleUtility Methods" Url="html/374093c0-dd3a-2481-59f8-5433b9c38ead.htm">
-        <HelpTOCNode Id="29911fe4-82a0-4d9e-b097-60115c41c05a" Title="BuildConnectionString Method " Url="html/63537946-3728-e803-bc4a-6327516e50db.htm">
-          <HelpTOCNode Title="BuildConnectionString Method (String, String, String, Boolean, Boolean, String)" Url="html/80159ba9-e003-4a4c-f49d-a0267802e4b6.htm" />
-          <HelpTOCNode Title="BuildConnectionString Method (String, Int32, String, String, String, Boolean, Boolean, String)" Url="html/29e9806d-7167-45fa-1103-862f5551bb78.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Title="ExecuteNonQuery Method " Url="html/c80620e1-2201-9f41-a125-14301c12b69a.htm" />
-        <HelpTOCNode Id="c98feafc-aae5-4a67-8249-67db67d93f98" Title="ExecuteQuery Method " Url="html/2e65afc5-8279-e4f5-dc1c-053421496f0f.htm">
-          <HelpTOCNode Title="ExecuteQuery Method (String, String, EventLog)" Url="html/eebf46d0-7b11-6314-a0bc-6b8a8a9a5b4f.htm" />
-          <HelpTOCNode Title="ExecuteQuery Method (String, String, EventLog, Exception)" Url="html/df0ec61b-67c9-7dac-8955-8e5b59c29af2.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Id="572dc7d0-4543-4717-95b4-3a1a737043a4" Title="LogException Method " Url="html/890fd795-2a4d-e815-fc4e-65d0cd4bf8ec.htm">
-          <HelpTOCNode Title="LogException Method (OracleException, EventLog)" Url="html/f93d71ef-669b-71c6-b6ef-16ac02c1584b.htm" />
-        </HelpTOCNode>
-      </HelpTOCNode>
-      <HelpTOCNode Id="c7d13c7d-48e7-425f-bd3f-ef0c1e996a14" Title="OracleUtility Properties" Url="html/8227d96f-45f2-502c-83ad-d59b9551252b.htm">
+      <HelpTOCNode Id="a7da442a-3581-4e19-889e-aafd2e0b1560" Title="OracleUtility Properties" Url="html/8227d96f-45f2-502c-83ad-d59b9551252b.htm">
         <HelpTOCNode Title="MAX_NCHAR_LENGTH Property " Url="html/40bc9e19-de7a-0731-8bfb-968679f8a1de.htm" />
         <HelpTOCNode Title="MAX_NVARCHAR_LENGTH Property " Url="html/24da9c5d-a241-ece5-df5d-33ad1302cbd2.htm" />
         <HelpTOCNode Title="MAX_VARCHAR_LENGTH Property " Url="html/115ae788-3b14-4322-fcea-09e296d0dff2.htm" />
       </HelpTOCNode>
+      <HelpTOCNode Id="52c41335-b708-4976-acc3-53bdc12816b6" Title="OracleUtility Methods" Url="html/374093c0-dd3a-2481-59f8-5433b9c38ead.htm">
+        <HelpTOCNode Id="74822874-49e7-4880-8f67-e213edde49e7" Title="BuildConnectionString Method " Url="html/63537946-3728-e803-bc4a-6327516e50db.htm">
+          <HelpTOCNode Title="BuildConnectionString Method (String, String, String, Boolean, Boolean, String)" Url="html/80159ba9-e003-4a4c-f49d-a0267802e4b6.htm" />
+          <HelpTOCNode Title="BuildConnectionString Method (String, Int32, String, String, String, Boolean, Boolean, String)" Url="html/29e9806d-7167-45fa-1103-862f5551bb78.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ExecuteNonQuery Method " Url="html/c80620e1-2201-9f41-a125-14301c12b69a.htm" />
+        <HelpTOCNode Id="38b0d0d1-291c-4aff-ae66-c3b818e91b30" Title="ExecuteQuery Method " Url="html/2e65afc5-8279-e4f5-dc1c-053421496f0f.htm">
+          <HelpTOCNode Title="ExecuteQuery Method (String, String, EventLog)" Url="html/eebf46d0-7b11-6314-a0bc-6b8a8a9a5b4f.htm" />
+          <HelpTOCNode Title="ExecuteQuery Method (String, String, EventLog, Exception)" Url="html/df0ec61b-67c9-7dac-8955-8e5b59c29af2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="91f9f4a1-177e-4baf-808f-59b4ce0c91ea" Title="LogException Method " Url="html/890fd795-2a4d-e815-fc4e-65d0cd4bf8ec.htm">
+          <HelpTOCNode Title="LogException Method (OracleException, EventLog)" Url="html/f93d71ef-669b-71c6-b6ef-16ac02c1584b.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="1e74fe9f-3404-419e-a7c9-9296f5bf4e5c" Title="OracleUtility Fields" Url="html/e2437199-b12d-b32c-664c-b91d2cd30fdf.htm">
+        <HelpTOCNode Title="DefaultPortNumber Field" Url="html/8724eff7-7703-07ba-41fb-5dc70a2e7f68.htm" />
+      </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="a5403041-b2f8-48d3-97df-1bd3ac1d27ea" Title="OracleUtility.DBAPrivilege Structure" Url="html/01effee2-db57-a9ed-abe8-1e3704614b54.htm">
-      <HelpTOCNode Id="66ef06f8-f612-437d-a34c-b3e1d2e4fecd" Title="DBAPrivilege Fields" Url="html/b186ef1a-e825-106d-02e9-c69ffadb84a7.htm">
+    <HelpTOCNode Id="40fec347-cf99-4227-892c-115ebea87fa5" Title="OracleUtility.DBAPrivilege Structure" Url="html/01effee2-db57-a9ed-abe8-1e3704614b54.htm">
+      <HelpTOCNode Title="DBAPrivilege Methods" Url="html/b4df640c-a630-9de8-61ca-281d0bc69ff0.htm" />
+      <HelpTOCNode Id="ee9f16a0-87f9-4d0a-ac17-ceb1993af8a1" Title="DBAPrivilege Fields" Url="html/b186ef1a-e825-106d-02e9-c69ffadb84a7.htm">
         <HelpTOCNode Title="NONE Field" Url="html/9ba90091-b061-1d8b-c27d-28be2c22cdd1.htm" />
         <HelpTOCNode Title="SYSDBA Field" Url="html/af89b447-5d45-3921-c5ac-cc13d3b2118c.htm" />
         <HelpTOCNode Title="SYSOPER Field" Url="html/4eecd0ef-9680-041a-55c5-adc5f1099be8.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Title="DBAPrivilege Methods" Url="html/b4df640c-a630-9de8-61ca-281d0bc69ff0.htm" />
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="93f47def-cb2a-438b-8bb8-c910a8d1b2ff" Title="Galactic.Web.Security.ActiveDirectory" Url="html/7e4e07b7-625b-eea3-490e-83f7e8fb44f2.htm">
-    <HelpTOCNode Id="ad13a3f7-3567-42fa-8f78-ef4f8a5372dd" Title="ActiveDirectoryRoleProvider Class" Url="html/e9c84e0e-6645-1f4d-f95e-732ea112724c.htm">
+  <HelpTOCNode Id="05ee36d3-9d24-4110-a3da-08fa7fc041f8" Title="Galactic.Web.Security.ActiveDirectory" Url="html/7e4e07b7-625b-eea3-490e-83f7e8fb44f2.htm">
+    <HelpTOCNode Id="26d87a56-38ad-46a5-a7ab-fbe8ee76c753" Title="ActiveDirectoryRoleProvider Class" Url="html/e9c84e0e-6645-1f4d-f95e-732ea112724c.htm">
       <HelpTOCNode Title="ActiveDirectoryRoleProvider Constructor " Url="html/4162be74-d9ec-0f6a-6cea-6339b09c2fcb.htm" />
-      <HelpTOCNode Id="538a3a64-e3f7-43ed-ad54-4918aef88f0c" Title="ActiveDirectoryRoleProvider Methods" Url="html/9b3e9861-931e-f3c1-b13e-52785bd1fc5a.htm">
+      <HelpTOCNode Id="d5c0ba0b-1edf-4be2-9f29-1adf04cccdf5" Title="ActiveDirectoryRoleProvider Properties" Url="html/2faf1233-d2ff-8451-9dbf-a06468fac05a.htm">
+        <HelpTOCNode Title="ApplicationName Property " Url="html/788aa9b7-0241-5ef5-389d-10f5360b5f7b.htm" />
+        <HelpTOCNode Title="MaxRoleNameLength Property " Url="html/631a4291-73d4-56f5-f982-5e9ff63fee92.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/2d36864f-df11-a797-3fd2-e0b502a60567.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="bdd1eb8a-b71e-4c1f-8e24-f3d7a64fd4b4" Title="ActiveDirectoryRoleProvider Methods" Url="html/9b3e9861-931e-f3c1-b13e-52785bd1fc5a.htm">
         <HelpTOCNode Title="AddUsersToRoles Method " Url="html/a0a4cc3c-2102-2ee2-512d-fe118bd5b682.htm" />
         <HelpTOCNode Title="CreateRole Method " Url="html/e8790d8e-cf90-b355-d32e-42897b120c96.htm" />
         <HelpTOCNode Title="DeleteRole Method " Url="html/1297590c-5647-3c15-ddb6-21550aead629.htm" />
@@ -947,17 +962,17 @@
         <HelpTOCNode Title="RemoveUsersFromRoles Method " Url="html/644451b4-14fb-da50-7feb-e3a5d4562770.htm" />
         <HelpTOCNode Title="RoleExists Method " Url="html/3d6591de-7193-da3e-1c49-3e61336df723.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="00513252-78ee-4b7d-a4de-20bf0c19ccac" Title="ActiveDirectoryRoleProvider Properties" Url="html/2faf1233-d2ff-8451-9dbf-a06468fac05a.htm">
-        <HelpTOCNode Title="ApplicationName Property " Url="html/788aa9b7-0241-5ef5-389d-10f5360b5f7b.htm" />
-        <HelpTOCNode Title="MaxRoleNameLength Property " Url="html/631a4291-73d4-56f5-f982-5e9ff63fee92.htm" />
-        <HelpTOCNode Title="Name Property " Url="html/2d36864f-df11-a797-3fd2-e0b502a60567.htm" />
-      </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="108fea8e-c7ed-4e8e-a2cf-4c087024487c" Title="Galactic.Web.Security.SimpleMapping" Url="html/344fc405-b01f-d02b-177e-2361ced8985d.htm">
-    <HelpTOCNode Id="ca598b52-cfae-4617-b287-f03fd4128aae" Title="SimpleMappingRoleProvider Class" Url="html/a7f5a1d2-98a4-3ce2-0bc2-8815081e2dd7.htm">
+  <HelpTOCNode Id="e32afef1-26c9-489c-9249-d7ace812f40e" Title="Galactic.Web.Security.SimpleMapping" Url="html/344fc405-b01f-d02b-177e-2361ced8985d.htm">
+    <HelpTOCNode Id="9d94fc72-814a-466a-9367-835557db7b63" Title="SimpleMappingRoleProvider Class" Url="html/a7f5a1d2-98a4-3ce2-0bc2-8815081e2dd7.htm">
       <HelpTOCNode Title="SimpleMappingRoleProvider Constructor " Url="html/3d6a37c2-1f8b-a429-3f9b-fbe6ee346092.htm" />
-      <HelpTOCNode Id="a14d82a5-32a9-41d1-a0bb-49913b433222" Title="SimpleMappingRoleProvider Methods" Url="html/1683a477-9ae9-42ec-5803-95243aadcda6.htm">
+      <HelpTOCNode Id="d65643d7-6085-4a30-9078-a1e6bb832704" Title="SimpleMappingRoleProvider Properties" Url="html/81dfd6f9-b19f-92f8-08e9-f8a1dcc0e8ba.htm">
+        <HelpTOCNode Title="ApplicationName Property " Url="html/c793fe87-5048-15e0-3e2d-9bb4202b7e76.htm" />
+        <HelpTOCNode Title="MaxRoleNameLength Property " Url="html/3c87738f-1f2c-d395-b08f-052a11790dca.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/fe8888b1-9704-b088-227f-2182633b1030.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="8394a6ed-72fd-4740-8d18-8782761bc5e0" Title="SimpleMappingRoleProvider Methods" Url="html/1683a477-9ae9-42ec-5803-95243aadcda6.htm">
         <HelpTOCNode Title="AddUsersToRoles Method " Url="html/260d8a80-1f8a-b6d3-9b0b-aa4f82cb3706.htm" />
         <HelpTOCNode Title="CreateRole Method " Url="html/b8a70e02-7f49-093d-28f0-9b4ac2f7fa7b.htm" />
         <HelpTOCNode Title="DeleteRole Method " Url="html/b69f9200-8b42-07c3-ec87-7487a7cc8c2b.htm" />
@@ -970,11 +985,6 @@
         <HelpTOCNode Title="RemoveUser Method " Url="html/31fce38a-2035-d5d9-f2ad-7ed40760f0f6.htm" />
         <HelpTOCNode Title="RemoveUsersFromRoles Method " Url="html/533b0acf-abb3-c7a1-9b35-0c478f3fe82d.htm" />
         <HelpTOCNode Title="RoleExists Method " Url="html/b9c9271e-dccd-f3da-c67b-1b7a4fcc6be9.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="3551fb75-fd2b-4533-be13-fa81b0920073" Title="SimpleMappingRoleProvider Properties" Url="html/81dfd6f9-b19f-92f8-08e9-f8a1dcc0e8ba.htm">
-        <HelpTOCNode Title="ApplicationName Property " Url="html/c793fe87-5048-15e0-3e2d-9bb4202b7e76.htm" />
-        <HelpTOCNode Title="MaxRoleNameLength Property " Url="html/3c87738f-1f2c-d395-b08f-052a11790dca.htm" />
-        <HelpTOCNode Title="Name Property " Url="html/fe8888b1-9704-b088-227f-2182633b1030.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
