@@ -56,6 +56,7 @@
   <HelpKINode Title="ActiveDirectory.NTName property" Url="html/526f87ff-ff30-10bd-89f7-83005dd53031.htm" />
   <HelpKINode Title="ActiveDirectory.PAGE_SIZE field" Url="html/65e07e35-4697-ff07-9033-8ec516a3a504.htm" />
   <HelpKINode Title="ActiveDirectory.SetSearchBase method" Url="html/24c7d5c4-7631-7f92-26d2-b6ab97896193.htm" />
+  <HelpKINode Title="ActiveDirectory.ToInterval method" Url="html/bb31340b-96e6-868f-051f-169ac54987b0.htm" />
   <HelpKINode Title="ActiveDirectory.UserAccountControl enumeration" Url="html/4f6579cc-33f6-77c0-e201-fb610ccaa040.htm" />
   <HelpKINode Title="ActiveDirectory.UserAccountControlContains method" Url="html/20ef8478-b483-4284-7aaa-8eedb68c0cdc.htm" />
   <HelpKINode Title="ActiveDirectory.WellKnownSid_System property" Url="html/c4553674-a195-d0b2-7d29-4a2b81bb11b3.htm" />
@@ -481,14 +482,14 @@
   <HelpKINode Title="Event class">
     <HelpKINode Title="Event Class" Url="html/452d9023-9cf1-83ec-fba6-422ce3272b84.htm" />
     <HelpKINode Title="Event Class" Url="html/77a6b53f-b71d-282e-6f14-019790dd55c1.htm" />
-    <HelpKINode Title="about Event class" Url="html/452d9023-9cf1-83ec-fba6-422ce3272b84.htm" />
     <HelpKINode Title="about Event class" Url="html/77a6b53f-b71d-282e-6f14-019790dd55c1.htm" />
-    <HelpKINode Title="constructor" Url="html/5dbc2ea8-fb43-5971-0189-ce91bd9a2ed6.htm" />
+    <HelpKINode Title="about Event class" Url="html/452d9023-9cf1-83ec-fba6-422ce3272b84.htm" />
     <HelpKINode Title="constructor" Url="html/75f83fea-61cf-5c30-ec3e-7d469da0b8ef.htm" />
+    <HelpKINode Title="constructor" Url="html/5dbc2ea8-fb43-5971-0189-ce91bd9a2ed6.htm" />
     <HelpKINode Title="methods" Url="html/86889e6a-70d2-36a9-ce8f-5ecdb46cc50e.htm" />
     <HelpKINode Title="methods" Url="html/9e82f873-bbbb-6da5-f2b5-167f23642574.htm" />
-    <HelpKINode Title="properties" Url="html/061b449a-463e-68c0-506a-870e65bd64c2.htm" />
     <HelpKINode Title="properties" Url="html/9fb47d81-1853-00e6-836d-dbe9e13c2725.htm" />
+    <HelpKINode Title="properties" Url="html/061b449a-463e-68c0-506a-870e65bd64c2.htm" />
   </HelpKINode>
   <HelpKINode Title="Event.AllDayEvent property" Url="html/40936079-48c4-f4c7-e76d-52958cfb1b8f.htm" />
   <HelpKINode Title="Event.Canceled property" Url="html/ee60b236-2a6d-c471-ad70-7c1c1e336547.htm" />
@@ -504,8 +505,8 @@
   <HelpKINode Title="Event.DetailsLastUpdatedBy property" Url="html/af583866-9e76-649e-f063-0e07422745fc.htm" />
   <HelpKINode Title="Event.EndDate property" Url="html/5ec98845-45a1-3310-9222-0d36d8220b20.htm" />
   <HelpKINode Title="Event.Event constructor">
-    <HelpKINode Title="Event Constructor " Url="html/75f83fea-61cf-5c30-ec3e-7d469da0b8ef.htm" />
     <HelpKINode Title="Event Constructor " Url="html/5dbc2ea8-fb43-5971-0189-ce91bd9a2ed6.htm" />
+    <HelpKINode Title="Event Constructor " Url="html/75f83fea-61cf-5c30-ec3e-7d469da0b8ef.htm" />
   </HelpKINode>
   <HelpKINode Title="Event.GetSeverityLevel method" Url="html/752cda4d-1d1e-6cca-9f1f-300b0d839753.htm" />
   <HelpKINode Title="Event.GetSeverityLevelString method" Url="html/839964a0-e994-0018-1cc3-43fab3414cdf.htm" />
@@ -1238,6 +1239,7 @@
     <HelpKINode Title="Directory.RemoveAllExplicitAccessRules Method " Url="html/da0b8f21-6b3c-65b5-0603-726feea412e4.htm" />
     <HelpKINode Title="File.RemoveAllExplicitAccessRules Method " Url="html/90734d09-05cc-2666-456f-da2bc311a54b.htm" />
   </HelpKINode>
+  <HelpKINode Title="RemoveFromGroup method" Url="html/910df038-9b99-741f-8a1d-7af7ca169657.htm" />
   <HelpKINode Title="RemoveMember method">
     <HelpKINode Title="ActiveDirectoryRoleProvider.RemoveMember Method " Url="html/0a4f9616-4b12-2ab4-11f8-b169cd3032b5.htm" />
     <HelpKINode Title="Group.RemoveMember Method " Url="html/a89d0fff-7280-e832-1cc5-25d40baf3fca.htm" />
@@ -1325,6 +1327,7 @@
   <HelpKINode Title="SecurityPrincipal.MemberOfGroup method" Url="html/45660959-261d-411e-e76c-8b7314de8603.htm" />
   <HelpKINode Title="SecurityPrincipal.MoveRename method" Url="html/32757f83-40ad-97d7-43f4-51d8c1cec3a1.htm" />
   <HelpKINode Title="SecurityPrincipal.PrimaryEmailAddress property" Url="html/1449ee19-3e1a-f38b-e97c-ed8c1c8a957d.htm" />
+  <HelpKINode Title="SecurityPrincipal.RemoveFromGroup method" Url="html/910df038-9b99-741f-8a1d-7af7ca169657.htm" />
   <HelpKINode Title="SecurityPrincipal.RemoveProxyAddress method" Url="html/9436907a-3beb-f578-5d3a-0db76f7738a7.htm" />
   <HelpKINode Title="SecurityPrincipal.SAMAccountName property" Url="html/e343c214-8f44-a047-4f15-0339f737911f.htm" />
   <HelpKINode Title="SecurityPrincipal.SecurityPrincipal constructor" Url="html/a03e799e-6f89-9b0a-9bea-4586fef889c8.htm" />
@@ -1623,6 +1626,7 @@
     <HelpKINode Title="Event.Title Property " Url="html/a9489c28-e8fe-a4aa-9dfa-61e375b9f4bd.htm" />
     <HelpKINode Title="User.Title Property " Url="html/88807e16-ffe2-8ac2-ebb4-37acb9d4be92.htm" />
   </HelpKINode>
+  <HelpKINode Title="ToInterval method" Url="html/bb31340b-96e6-868f-051f-169ac54987b0.htm" />
   <HelpKINode Title="ToSharePointDocument method" Url="html/b7b01e8d-6321-4399-33de-25a1767f1d0c.htm" />
   <HelpKINode Title="TraverseFolderExecuteFile enumeration member" Url="html/c7a50b7e-c9bd-6dd4-2c7c-d5fea1feaf81.htm" />
   <HelpKINode Title="TrustedForDelgation enumeration member" Url="html/4f6579cc-33f6-77c0-e201-fb610ccaa040.htm" />
