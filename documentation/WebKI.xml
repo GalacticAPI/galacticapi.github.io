@@ -292,6 +292,7 @@
     <HelpKINode Title="properties" Url="html/208ef46d-31fa-d977-2931-d2fedc2c64f6.htm" />
   </HelpKINode>
   <HelpKINode Title="ConfigurationItem.ConfigurationItem constructor" Url="html/7c03a31b-0d7e-4890-bc24-66e612394f34.htm" />
+  <HelpKINode Title="ConfigurationItem.Create method" Url="html/829e68e7-3e7d-8605-9cf7-ca7888228cc4.htm" />
   <HelpKINode Title="ConfigurationItem.Delete method" Url="html/a8b78343-92ce-806a-f51a-aa296ed9b1ed.htm" />
   <HelpKINode Title="ConfigurationItem.Encrypted property" Url="html/3fa85a19-825c-3a9d-6928-62a7347e86b1.htm" />
   <HelpKINode Title="ConfigurationItem.FilePath property" Url="html/21c3c9d1-5a1f-bd6b-7371-adb35341dc28.htm" />
@@ -339,6 +340,7 @@
   <HelpKINode Title="CouchbaseUtility.LogException method" Url="html/abd43711-2dee-6da4-585d-393c5b460fd7.htm" />
   <HelpKINode Title="Count property" Url="html/a5d56bfa-3f06-360b-9c44-b2fc93824d1e.htm" />
   <HelpKINode Title="Create method">
+    <HelpKINode Title="ConfigurationItem.Create Method " Url="html/829e68e7-3e7d-8605-9cf7-ca7888228cc4.htm" />
     <HelpKINode Title="Directory.Create Method " Url="html/95c18a1c-9496-97c7-6c9a-3c244fbc712f.htm" />
     <HelpKINode Title="File.Create Method " Url="html/db389aad-4ae8-f6a2-a91e-5c7cc338a3c5.htm" />
     <HelpKINode Title="Group.Create Method " Url="html/ca1a2723-dfd3-0f1e-ac9c-fe0d2e7239ef.htm" />
@@ -486,10 +488,10 @@
     <HelpKINode Title="about Event class" Url="html/452d9023-9cf1-83ec-fba6-422ce3272b84.htm" />
     <HelpKINode Title="constructor" Url="html/75f83fea-61cf-5c30-ec3e-7d469da0b8ef.htm" />
     <HelpKINode Title="constructor" Url="html/5dbc2ea8-fb43-5971-0189-ce91bd9a2ed6.htm" />
-    <HelpKINode Title="methods" Url="html/86889e6a-70d2-36a9-ce8f-5ecdb46cc50e.htm" />
     <HelpKINode Title="methods" Url="html/9e82f873-bbbb-6da5-f2b5-167f23642574.htm" />
-    <HelpKINode Title="properties" Url="html/9fb47d81-1853-00e6-836d-dbe9e13c2725.htm" />
+    <HelpKINode Title="methods" Url="html/86889e6a-70d2-36a9-ce8f-5ecdb46cc50e.htm" />
     <HelpKINode Title="properties" Url="html/061b449a-463e-68c0-506a-870e65bd64c2.htm" />
+    <HelpKINode Title="properties" Url="html/9fb47d81-1853-00e6-836d-dbe9e13c2725.htm" />
   </HelpKINode>
   <HelpKINode Title="Event.AllDayEvent property" Url="html/40936079-48c4-f4c7-e76d-52958cfb1b8f.htm" />
   <HelpKINode Title="Event.Canceled property" Url="html/ee60b236-2a6d-c471-ad70-7c1c1e336547.htm" />
@@ -762,6 +764,7 @@
   <HelpKINode Title="GetListing method" Url="html/f104e173-7bb5-aa84-30e9-6eae9061fc74.htm" />
   <HelpKINode Title="GetLookupFieldValue method" Url="html/d2c152d6-9304-5944-fa26-a3fc0a263835.htm" />
   <HelpKINode Title="GetMembers method" Url="html/d2f645d1-e19b-edf1-e98e-1819bf2bf761.htm" />
+  <HelpKINode Title="GetModifiedUsers method" Url="html/3d50b8cb-3995-3537-81c3-72288def26aa.htm" />
   <HelpKINode Title="GetParameter method">
     <HelpKINode Title="IStoredProcedure.GetParameter Method " Url="html/21389cc8-86ca-036b-e70f-fd0b0c84b0a6.htm" />
     <HelpKINode Title="MSStoredProcedure.GetParameter Method " Url="html/244ae29c-dd9c-e651-9b61-31ec0b01ccc1.htm" />
@@ -1669,6 +1672,7 @@
   <HelpKINode Title="User.FTPRoot property" Url="html/2a4c40f3-c3c7-9a5a-9dcd-ff50d082e808.htm" />
   <HelpKINode Title="User.GetAllUsers method" Url="html/aca886f6-b3f0-48e7-9b90-633158b9122b.htm" />
   <HelpKINode Title="User.GetHashCode method" Url="html/f7a33a10-9e72-acb2-9659-d6ebc26f5eb6.htm" />
+  <HelpKINode Title="User.GetModifiedUsers method" Url="html/3d50b8cb-3995-3537-81c3-72288def26aa.htm" />
   <HelpKINode Title="User.HomeDirectory property" Url="html/d240ce66-7386-5ab2-e3aa-94525149e4b9.htm" />
   <HelpKINode Title="User.HomeDrive property" Url="html/136ab11c-beda-beb0-ffd7-2f47c9b24d6f.htm" />
   <HelpKINode Title="User.HomePage property" Url="html/1014ac09-a71f-044d-0879-f732ffaba47b.htm" />
